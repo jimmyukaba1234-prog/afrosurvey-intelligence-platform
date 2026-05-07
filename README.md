@@ -1,1 +1,0 @@
-# afrosurvey-intelligence-platform

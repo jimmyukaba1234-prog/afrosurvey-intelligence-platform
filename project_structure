@@ -1,0 +1,25 @@
+afrosurvey-platform/
+│
+├── airflow/
+│   ├── dags/
+│   │   └── ingestion_dag.py
+│
+├── spark_jobs/
+│   ├── bronze_to_silver.py
+│   ├── silver_to_gold.py
+│
+├── data_contracts/
+│   └── schema_definitions.yaml
+│
+├── logs/
+│
+├── docker/
+│   └── docker-compose.yml
+│
+├── app/
+│   └── streamlit_dashboard.py
+│
+├── sql/
+│   └── analytics_queries.sql
+│
+└── README.md

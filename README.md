@@ -406,6 +406,75 @@ Can a unified reliability score be computed using completeness, validity, duplic
 
 ---
 
+## 12. Low-Quality Submission Root Cause Analysis
+
+### Business Question
+What factors contribute most to incomplete or low-quality survey submissions?
+
+### Why It Matters
+- Enables diagnostic analytics
+- Identifies operational bottlenecks
+- Improves survey methodology and collection strategies
+
+### Potential Factors
+- country or region
+- survey length
+- field agent performance
+- internet connectivity
+- device type
+- response time
+
+---
+
+## 13. Automated Fraud & Anomaly Detection
+
+### Business Question
+Can suspicious or fraudulent survey responses be automatically detected?
+
+### Why It Matters
+- Strengthens data governance and trust
+- Detects duplicate or bot-generated responses
+- Prevents misleading analytics
+- Improves reliability of insights
+
+### Example Indicators
+- duplicate submissions
+- impossible timestamps
+- contradictory answers
+- abnormal response patterns
+
+---
+
+## 14. Cross-Country Standardization Impact
+
+### Business Question
+How much does schema standardization improve cross-country analytical consistency?
+
+### Why It Matters
+- Validates transformation logic
+- Demonstrates the value of the Medallion Architecture
+- Enables reliable regional comparisons
+- Supports scalable analytics across countries
+
+---
+
+## 15. Country-Level Data Reliability Benchmarking
+
+### Business Question
+Which countries consistently produce the most reliable survey datasets?
+
+### Why It Matters
+- Combines quality, completeness, freshness, and consistency metrics
+- Enables benchmarking across countries
+- Supports operational decision-making
+
+### Reliability Metrics
+- validation pass rate
+- duplicate rate
+- missing value percentage
+- schema conformity
+- processing latency
+
 # Expected Business Impact
 
 The AfroSurvey Data Platform aims to:

@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 1. Create or update .gitignore with proper ignores
+echo "
+
+
+# Ignore logs and temporary files
+logs/
+airflow/logs/
+__pycache__/
+*.pyc
+.DS_Store
+

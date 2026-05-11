@@ -1,37 +1,13 @@
+# afrosurvey-intelligence-platform
 
-- fact_survey_responses
-response_id
-country
-submission_time
-completion_status   -- completed / partial
-age
-gender
-region
-source             -- api / csv / field_agent
-agent_id
-is_duplicate       -- true/false
-is_valid           -- passed validation
-missing_fields_count
+## Overview
 
+The AfroSurvey Data Platform is a modern data engineering system designed to process multi-country survey data across Africa. The platform automates the ingestion, cleaning, validation, transformation, and delivery of survey data so that analysts and stakeholders can access reliable insights faster.
 
-- dim_country
-country_code
-country_name
-region_group
+The platform follows a **Medallion Architecture** approach using a **Data Lake** design pattern:
 
-- dim_agent
-agent_id
-agent_name
-source_type
-country
+- **Bronze Layer** → Raw Data
+- **Silver Layer** → Cleaned & Standardized Data
+- **Gold Layer** → Analytics-Ready Data
 
-- pipeline_metrics (ENGINEERING TABLE)
-run_id
-stage              -- ingestion / cleaning / gold
-country
-rows_in
-rows_out
-duplicates_removed
-processing_time_sec
-status
-created_at
+The system combines scalable storage, distributed data processing, orchestration, operational monitoring, and analytics delivery into a unified data platform.

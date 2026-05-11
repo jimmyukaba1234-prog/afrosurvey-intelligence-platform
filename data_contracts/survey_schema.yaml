@@ -1,0 +1,325 @@
+# =============================================
+# data_contracts/survey_schema.yaml
+# =============================================
+# AfroSurvey Intelligence Platform - Canonical Data Contract
+# Version-controlled schema for all survey response data
+# Enforced across bronze → silver → gold layers
+
+dataset: survey_responses
+version: "1.0.0"
+description: >
+  Standardized, governed schema for multi-country African survey responses.
+  This is the single source of truth for all ingestion, cleaning, and analytics pipelines.
+
+primary_key:
+  - response_id
+
+partition_columns:
+  - country
+  - submission_date   # Enables efficient querying and cost optimization
+
+cluster_columns:
+  - respondent_id
+  - survey_id
+
+fields:
+
+  # === Core Identifiers ===
+  response_id:
+    type: string
+    required: true
+    description: "Unique identifier for each survey response (UUID or source-specific)"
+
+  respondent_id:
+    type: string
+    required: true
+    description: "Unique identifier for the respondent (anonymized)"
+
+  survey_id:
+    type: string
+    required: true
+    description: "Identifier for the specific survey campaign/project"
+
+  # === Demographics & Context ===
+  country:
+    type: string
+    required: true
+    allowed_values:
+      - Nigeria
+      - Ghana
+      - Kenya
+      - South Africa
+      - Uganda
+      - Tanzania
+      # Add more countries here as needed
+    description: "ISO country name (standardized)"
+
+  region:
+    type: string
+    required: false
+    description: "Administrative region / state / province"
+
+  gender:
+    type: string
+    required: true
+    allowed_values:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+
+  age:
+    type: integer
+    required: true
+    constraints:
+      min: 15
+      max: 120
+    description: "Respondent age in years"
+
+  education_level:
+    type: string
+    required: false
+
+  employment_status:
+    type: string
+    required: false
+
+  # === Survey Metadata ===
+  completion_status:
+    type: string
+    required: true
+    allowed_values:
+      - completed
+      - partial
+      - abandoned
+      - screened_out
+
+  submission_date:
+    type: date
+    required: true
+    description: "Date the respondent submitted the survey (used for partitioning)"
+
+  submission_timestamp:
+    type: timestamp
+    required: true
+    description: "Exact timestamp when the survey was submitted"
+
+  ingestion_timestamp:
+    type: timestamp
+    required: true
+    description: "Timestamp when the record was ingested into the platform"
+
+  # === Source & Processing Metadata ===
+  source_system:
+    type: string
+    required: true
+    allowed_values:
+      - afrobarometer
+      - field_tool
+      - api
+      - synthetic
+      - internal_postgres
+
+  field_agent_id:
+    type: string
+    required: false
+
+  processing_batch_id:
+    type: string
+    required: true
+    description: "Batch ID for traceability and reprocessing"
+
+  record_hash:
+    type: string
+    required: true
+    description: "MD5/SHA hash of the raw record for deduplication"
+
+  duplicate_flag:
+    type: boolean
+    required: true
+    default: false
+
+  validation_status:
+    type: string
+    required: true
+    allowed_values:
+      - passed
+      - failed
+      - warning
+
+  # === Flexible Survey Responses (Most Important for Real Surveys) ===
+  responses:
+    type: json
+    required: true
+    description: >
+      JSON object containing all actual survey question answers.
+      Example: {"q1_democracy": 4, "q2_economy": "Very Bad", ...}
+
+  # === Governance & Audit Fields ===
+  created_at:
+    type: timestamp
+    required: true
+    description: "When this record was created in the platform"
+
+  updated_at:
+    type: timestamp
+    required: true
+    description: "Last time this record was updated"
+
+  processed_by:
+    type: string
+    required: true
+    description: "DAG/task that processed this record"
+
+  schema_version:
+    type: string
+    required: true
+    default: "1.0.0"
+
+
+
+
+# SOURCE MAPPINGS - How raw data from each source maps to our canonical schema
+# This section is the transformation bridge between messy raw data and standardized schema.
+# It enables automated cleaning, standardization, and business question readiness.
+
+source_mappings:
+
+  # ── 1. Afrobarometer (Primary real-world source )
+  afrobarometer:
+    source_type: "sav/csv"
+    description: "Main public survey dataset covering 39 African countries"
+    mappings:
+      # Core identifiers
+      respid: response_id
+      respno: respondent_id
+      
+      # Demographics & Context
+      country: country                    
+      region: region
+      gender: gender                     
+      age: age
+      educ: education_level
+      employ: employment_status
+      
+      # Survey metadata
+      date: submission_date               
+      
+      # Source tracking
+      source_system: "afrobarometer"
+      
+      # Flexible responses (this is the most important part for real surveys)
+      q1: responses.q1_democracy
+      q2: responses.q2_economy
+      q3: responses.q3_trust_govt
+      q4: responses.q4_corruption
+      q5: responses.q5_election_fairness
+      q6: responses.q6_media_freedom
+      # Add more question mappings as we explore the full codebook
+      # All other questions will be dynamically mapped into responses JSON
+
+  # ── 2. Synthetic Field Tool (Faker-generated mobile collection)
+  synthetic_field_tool:
+    source_type: "json/faker"
+    description: "Simulated real-time data from mobile field agents (ODK/KoboToolbox style)"
+    mappings:
+      respondent_id: respondent_id
+      country: country
+      gender: gender
+      age: age
+      region: region
+      education: education_level
+      employment: employment_status
+      completion_status: completion_status
+      timestamp: submission_timestamp
+      agent_id: field_agent_id
+      source_system: "field_tool"
+    
+
+  # ── 3. Mock API (Simulated survey platform)
+  mock_api:
+    source_type: "api/json"
+    description: "Data coming from external survey platforms via REST API"
+    mappings:
+      id: response_id
+      user_id: respondent_id
+      country_name: country
+      sex: gender
+      age_value: age
+      region_name: region
+      submitted_at: submission_timestamp
+      status: completion_status
+      source_system: "api"
+    
+  # ── 4. Internal System (PostgreSQL source)
+  internal_postgres:
+    source_type: "postgresql"
+    description: "Data coming from internal operational systems"
+    mappings:
+      id: response_id
+      respondent_id: respondent_id
+      country_code: country               
+      gender_code: gender                 
+      education: education_level
+      employment: employment_status
+      submitted_date: submission_date
+      submitted_ts: submission_timestamp
+      status: completion_status
+      source_system: "internal_postgres"
+
+# =============================================
+# GLOBAL TRANSFORMATIONS & MAPPINGS
+# =============================================
+global_transformations:
+  gender:
+    "1": "Male"
+    "2": "Female"
+    "3": "Non-binary"
+    "4": "Prefer not to say"
+  
+  country_code_to_name:
+    "AO": "Angola"
+    "BJ": "Benin"
+    "BW": "Botswana"
+    "BF": "Burkina Faso"
+    "CV": "Cabo Verde"
+    "CM": "Cameroon"
+    "CG": "Congo-Brazzaville"
+    "CI": "Côte d'Ivoire"
+    "SZ": "Eswatini"
+    "ET": "Ethiopia"
+    "GA": "Gabon"
+    "GM": "Gambia"
+    "GH": "Ghana"
+    "GN": "Guinea"
+    "KE": "Kenya"
+    "LS": "Lesotho"
+    "LR": "Liberia"
+    "MG": "Madagascar"
+    "MW": "Malawi"
+    "ML": "Mali"
+    "MR": "Mauritania"
+    "MU": "Mauritius"
+    "MA": "Morocco"
+    "MZ": "Mozambique"
+    "NA": "Namibia"
+    "NE": "Niger"
+    "NG": "Nigeria"
+    "ST": "São Tomé and Príncipe"
+    "SN": "Senegal"
+    "SC": "Seychelles"
+    "SL": "Sierra Leone"
+    "ZA": "South Africa"
+    "SD": "Sudan"
+    "TZ": "Tanzania"
+    "TG": "Togo"
+    "TN": "Tunisia"
+    "UG": "Uganda"
+    "ZM": "Zambia"
+    "ZW": "Zimbabwe"
+
+  default_values:
+    duplicate_flag: false
+    validation_status: "passed"
+    ingestion_timestamp: "current_timestamp"

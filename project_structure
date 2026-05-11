@@ -1,25 +1,63 @@
-afrosurvey-platform/
+afrosurvey-intelligence-platform/
+│
+├── README.md
+├── .env
+├── .gitignore
+├── requirements.txt
+├── docker-compose.yml
 │
 ├── airflow/
 │   ├── dags/
-│   │   └── ingestion_dag.py
+│   │   ├── test_pipeline_dag.py
+│   │   └── survey_pipeline_dag.py
+│   ├── plugins/
+│   └── logs/
+│
+├── config/
+│   └── config.yaml
+│
+├── utils/
+│   ├── config.py
+│   └── logger.py
+│
+├── ingestion/
+│   ├── api_ingestion.py
+│   ├── csv_ingestion.py
+│   ├── db_ingestion.py
+│   └── ingestion_utils.py
 │
 ├── spark_jobs/
 │   ├── bronze_to_silver.py
 │   ├── silver_to_gold.py
+│   └── transformations/
+│       ├── cleaning.py
+│       ├── validation.py
+│       └── deduplication.py
+│
+├── data/
+│   ├── raw/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
 │
 ├── data_contracts/
-│   └── schema_definitions.yaml
+│   └── survey_schema.yaml
 │
-├── logs/
+├── metadata/
+│   ├── create_tables.sql
+│   └── metrics_queries.sql
 │
-├── docker/
-│   └── docker-compose.yml
+├── analytics/
+│   ├── queries.sql
+│   └── kpi_definitions.md
 │
 ├── app/
 │   └── streamlit_dashboard.py
 │
-├── sql/
-│   └── analytics_queries.sql
+├── logs/
+│   └── pipeline_logs.json
 │
-└── README.md
+└── tests/
+    ├── test_cleaning.py
+    ├── test_validation.py
+    └── test_ingestion.py

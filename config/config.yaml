@@ -1,0 +1,184 @@
+# =============================================
+# AfroSurvey Intelligence Platform - config.yaml
+# Production-style configuration for a multi-country survey Data Lakehouse
+# Inspired by real Data Engineer role requirements (FieldWorkz)
+
+project:
+  name: "AfroSurvey Intelligence Platform"
+  version: "0.1.0"
+  description: "End-to-end Data Lakehouse for multi-country African survey data"
+  owner: "data_engineering_team"
+  collaborator: "Data Analyst Partner"
+  start_date: "2026-05-08"
+
+environment: "development"          # Options: development | staging | production
+
+
+# Countries & Data Scope
+countries:
+  - Algeria
+  - Benin
+  - Botswana
+  - Burkina Faso
+  - Cabo Verde
+  - Cameroon
+  - Congo-Brazzaville
+  - Côte d'Ivoire
+  - Eswatini
+  - Ethiopia
+  - Gabon
+  - Gambia
+  - Ghana
+  - Guinea
+  - Kenya
+  - Lesotho
+  - Liberia
+  - Madagascar
+  - Malawi
+  - Mali
+  - Mauritania
+  - Mauritius
+  - Morocco
+  - Mozambique
+  - Namibia
+  - Niger
+  - Nigeria
+  - São Tomé and Príncipe
+  - Senegal
+  - Seychelles
+  - Sierra Leone
+  - South Africa
+  - Sudan
+  - Tanzania
+  - Togo
+  - Tunisia
+  - Uganda
+  - Zambia
+  - Zimbabwe
+
+# Storage & Paths (Medallion Architecture)
+storage:
+  type: "minio"                     # minio | s3 | local (for future flexibility)
+  minio:
+    endpoint: "http://localhost:9000"
+    secure: false
+  buckets:
+    bronze: "afrosurvey-bronze"
+    silver: "afrosurvey-silver"
+    gold: "afrosurvey-gold"
+  local_paths:
+    bronze: "./bronze"
+    silver: "./silver"
+    gold: "./gold"
+
+
+# Database (PostgreSQL - Metadata & State Management)
+database:
+  type: "postgresql"
+  host: "localhost"
+  port: 5432
+  database: "airflow"             
+  schema: "public"
+
+
+# Apache Airflow Configuration
+airflow:
+  dags_folder: "./airflow/dags"
+  logs_folder: "./airflow/logs"
+  default_args:
+    owner: "data_engineer"
+    retries: 3
+    retry_delay_minutes: 5
+    email_on_failure: false
+  schedule:
+    ingestion: "0 */6 * * *"          # Every 6 hours (simulated near real-time)
+    cleaning: "0 */8 * * *"
+    full_pipeline: "@daily"
+  catchup: false
+
+# PySpark Processing Configuration
+spark:
+  app_name: "AfroSurvey_Pipeline"
+  master: "local[*]"                # Change to spark://... in production
+  driver_memory: "4g"
+  executor_memory: "4g"
+  executor_cores: 4
+  configs:
+    spark.sql.adaptive.enabled: true
+    spark.sql.shuffle.partitions: 200
+    spark.hadoop.fs.s3a.impl: "org.apache.hadoop.fs.s3a.S3AFileSystem"
+
+
+# Pipeline & Data Processing Settings
+pipeline:
+  batch_size: 100000                # Rows per batch for large datasets
+  incremental_load: true
+  idempotent: true
+  data_contracts_enabled: true
+
+
+# Data Quality & Validation
+data_quality:
+  enabled: true
+  validation_threshold: 0.95        
+  checks:
+    - schema_validation
+    - null_threshold
+    - duplicate_detection
+    - country_code_standardization
+    - age_range_validation
+  alert_on_failure: true
+
+
+# Logging & Monitoring
+logging:
+  level: "INFO"                     
+  format: "json"                    
+  file: "./logs/afrosurvey.log"
+  console: true
+
+
+# Data Sources Configuration
+sources:
+  afrobarometer:
+    enabled: true
+    source_type: "csv"
+    path: "./data/raw/afrobarometer_round9_merged.sav"
+  synthetic_field_tool:
+    enabled: true
+    source_type: "faker"
+    frequency: "every_15_minutes"
+  mock_api:
+    enabled: true
+    source_type: "api"
+    endpoint: "http://localhost:5000/surveys"   # Future mock API
+  internal_system:
+    enabled: true
+    source_type: "postgresql"
+
+# Analytics & Dashboard
+analytics:
+  streamlit:
+    port: 8501
+    auto_refresh: true
+  kpis:
+    - response_rate_by_country
+    - data_freshness_minutes
+    - duplicates_removed
+    - cleaning_reduction_percentage
+
+
+# Machine Learning Readiness (Future/Active)
+ml:
+  enabled: true
+  features_folder: "./gold/features"
+  models_folder: "./models"
+  target_variables:
+    - satisfaction_score
+    - participation_trend
+
+
+# Future Extension (Kafka for real-time)
+kafka:
+  enabled: false                   
+  

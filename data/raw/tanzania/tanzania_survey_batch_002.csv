@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+20ab8bb1-e302-46b7-ac73-0ce7d7e835c6,7ec5747b-2916-406f-8b99-121d46c50a9b,survey_123,Tanzania,Vazquezside,Male,57.0,Secondary,Employed,completed,2026-05-14T10:40:46,field_tool,5,Very Good,1,High,1
+e5f63b64-4fe7-4644-8784-3e89e5221137,124d456f-0e85-4962-86ef-1b22e011df11,survey_311,Tanzania,Christineberg,Female,25.0,Secondary,Employed,completed,2026-05-14T10:39:47,field_tool,4,Bad,4,High,2
+0ecd324d-b955-4ce3-b9f5-2a5ae787805d,a0b41eaf-5754-43f3-ae7a-5c7625ba8d11,survey_255,Tanzania,South Allisonmouth,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:43:13,field_tool,3,Very Good,3,High,2
+a8d03a3c-001b-4799-ab4d-68f96c2048c6,cbdb0c12-cb58-411b-9ab6-3bd65b5ec11c,survey_962,Tanzania,Chrisfurt,Female,30.0,Primary,Unemployed,completed,2026-05-14T10:45:32,field_tool,5,Good,3,Low,2
+04c02bab-7816-49dd-82db-dcf2a939b651,a964a3e6-40a5-41e0-88a1-e100320fd40d,survey_189,Tanzania,West Mark,Male,69.0,Secondary,Unemployed,completed,2026-05-14T10:41:24,field_tool,2,Good,1,High,2
+0ea9b331-a72f-4ce2-9d7a-470ec2a60dba,486b4396-e2cb-4eec-adfa-297b951ff4f3,survey_465,Tanzania,South Karenmouth,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:41:17,field_tool,5,Bad,3,High,5
+d4197c7d-469a-4158-8e86-6af36b87e015,355184a1-7eb9-47bf-8753-71ace86fb9f2,survey_949,Tanzania,North Sarahview,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:43:01,field_tool,5,Bad,1,Low,4
+1f41f471-89e1-4164-9ecc-ca58b26101c9,249ba4d7-1123-408f-a98b-b2a98d688b75,survey_668,Tanzania,Danaborough,Female,37.0,Primary,Employed,completed,2026-05-14T10:45:24,field_tool,5,Neutral,5,Low,2
+64f645e2-716f-44fc-a8a6-a56f1e43debb,969d436f-04b0-45fd-a63a-4554beaa92f8,survey_502,Tanzania,North Jacqueline,Male,28.0,Primary,Employed,completed,2026-05-14T10:45:21,field_tool,2,Very Good,3,Medium,3
+8fc39da5-5052-4b66-ab1b-e037a7bb7edd,b73a8ea9-8a30-432d-b773-b95d77503ccd,survey_585,Tanzania,East Donnaberg,female,37.0,Primary,Self-employed,completed,2026-05-14T10:43:59,field_tool,3,Very Good,3,Low,3
+ba800000-87ab-4b96-8f17-b532aaacd173,20093ca3-90a4-4bc6-a626-06ec8264b4f1,survey_246,Tanzania,New Ethan,Male,28.0,Tertiary,Unemployed,completed,2026-05-14T10:45:26,field_tool,1,Neutral,3,High,2
+ce040eb2-aab1-45c3-aa99-9c43627f6d43,3fad3a60-0a93-4db4-b0d5-14bf094dc4f4,survey_306,Tanzania,New Christopherburgh,Male,49.0,Primary,Employed,completed,2026-05-14T10:43:22,field_tool,5,Neutral,4,Low,4
+312a065c-0d99-4c7e-a762-62c28039e78e,5d5ce062-e506-4508-a66a-ba58fc099199,survey_812,Tanzania,Davidport,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:43:00,field_tool,2,Very Good,1,Low,3
+bdfd2d63-1914-4f9b-b9a9-a8f29105f59f,f673bdaf-e30a-4016-94ad-888c7ee205c9,survey_834,Tanzania,Garciaview,Male,72.0,Primary,Employed,completed,2026-05-14T10:43:50,field_tool,3,Neutral,3,Low,1
+45b9b57c-c71b-4689-8fb8-c579f52e0a59,56f4e313-9e30-48d6-8bf3-9fc825ed3e6d,survey_167,Tanzania,New Joel,Female,36.0,Primary,Self-employed,completed,2026-05-14T10:45:14,field_tool,3,Neutral,1,High,3
+95aa2bff-6f35-44ed-a6cd-22e8badb34b1,2c5ea912-4180-4304-b089-8499d0a8b259,survey_718,Tanzania,Villanuevaport,Male,65.0,Tertiary,Self-employed,completed,2026-05-14T10:40:13,field_tool,5,Very Good,5,Low,5
+3a0a46f7-bb7a-483d-be92-b854cf161532,c6eb8844-8575-4821-80c9-f6d309d6402e,survey_387,Tanzania,Cohenland,Female,43.0,Tertiary,Employed,completed,2026-05-14T10:43:33,field_tool,3,Very Good,5,High,4
+d6e53436-e18c-485e-80e6-01bd8dafc6b9,00e46408-ebe2-4368-af78-8c404cea83e3,survey_105,Tanzania,Diazmouth,Male,27.0,Tertiary,Self-employed,completed,2026-05-14T10:42:57,field_tool,4,Good,5,High,4
+dd6a6386-6a58-4d3a-8be9-a38c6d8dbbaa,e7e71496-3fb2-4eb4-82b8-ec19b8303a1c,survey_182,Tanzania,Gonzalezhaven,Male,40.0,Secondary,Employed,completed,2026-05-14T10:45:27,field_tool,1,Bad,2,Low,1
+e5f4117f-26a1-4d82-be3d-0b161174d3e5,317171aa-df29-40a4-b97a-590202c9427a,survey_459,Tanzania,North Robertland,Female,73.0,Secondary,Self-employed,completed,2026-05-14T10:41:37,field_tool,4,Good,1,Medium,2
+92fb9478-09b5-46e2-a20c-9e162012863e,a0146cdf-f264-4e7e-b117-2f0cb2588160,survey_840,Tanzania,New Cathychester,female,53.0,Primary,Self-employed,completed,2026-05-14T10:43:05,field_tool,1,Good,4,Medium,5
+f60a434e-28aa-4d26-983f-00aaa6b262f2,97693e17-e96c-4543-aa14-fc4329f0684b,survey_528,Tanzania,South Jesseport,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:43:51,field_tool,2,Good,4,Medium,4
+a0d93930-faaf-4489-aca2-4031d7fc640a,a9f1c264-1e5a-484e-817b-df8fb3663f69,survey_229,Tanzania,South Jesus,Female,53.0,Secondary,Employed,completed,2026-05-14T10:42:44,field_tool,2,Good,5,Low,4
+0d66552c-8c39-4150-a35a-d0023fdddab4,df45b6a0-aab1-489e-beb1-f91e281986b1,survey_358,Tanzania,Caseyview,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:41:19,field_tool,1,Bad,1,Low,1
+494e590f-7212-4d92-b46b-04bf6f0333fc,c6a19501-4632-4f7e-af6f-6b2fcc7ed896,survey_269,Tanzania,New Brian,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:43:30,field_tool,3,Bad,2,Low,2
+e0b857c4-843c-42cb-98be-b7511c23d36f,21271ece-3984-4071-ae21-de1810e59c5d,survey_561,Tanzania,Morganbury,Male,32.0,Tertiary,Employed,completed,2026-05-14T10:41:42,field_tool,4,Neutral,3,High,2
+a8fe9d99-a26d-4246-93dc-be9c8a4f813a,ad950eef-35cc-4a14-bc0d-f8ac56eb1ee2,survey_115,Tanzania,Davenportton,Male,,Tertiary,Self-employed,completed,2026-05-14T10:42:56,field_tool,5,Very Good,3,Medium,4
+dadfb089-f704-4ed2-bd78-e8227ef696d5,00bbe594-ded6-407d-9e89-c58bc2ca1c11,survey_414,Tanzania,Susanview,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:40:09,field_tool,1,Neutral,3,Medium,2
+7d32e933-b23b-44ea-b369-d12f9cd52788,4e1dd0e3-4ec0-4907-8531-08ca61048b32,survey_534,Tanzania,West Christopher,Male,33.0,Secondary,Self-employed,completed,2026-05-14T10:44:30,field_tool,1,Very Good,1,Medium,5
+b9d9a0da-2100-4bdd-9b01-b6cc586a4603,3e70892a-8dda-4399-afed-8e616a99a343,survey_351,Tanzania,Andreastad,Female,54.0,Primary,Self-employed,completed,2026-05-14T10:40:36,field_tool,2,Bad,4,High,2
+ca5468f5-9a8c-438b-9fa4-8320e8af16d9,9cd548cf-9ab6-4863-a43e-10a8285c13ee,survey_721,Tanzania,South Michaelton,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:40:30,field_tool,2,Neutral,3,Medium,5
+044f8e7a-a93d-446e-9469-0dbb1b08805a,9b18a017-a319-49cd-9320-6f8a55a1cfba,survey_199,Tanzania,Angelaburgh,Female,54.0,Primary,Self-employed,completed,2026-05-14T10:45:06,field_tool,4,Bad,1,High,2
+b066b14c-8b01-4670-b95f-c97cd9ba0684,6f7e9c9a-6f37-4c9e-8618-2c978d6f1d0e,survey_830,Tanzania,New Matthewfurt,Male,42.0,Primary,Employed,completed,2026-05-14T10:41:13,field_tool,2,Very Good,4,Low,4
+b1e95cea-0ba1-4a92-b460-a1c9f6acdf8a,8420f41f-eea2-41c9-91af-33265a0cef0c,survey_718,Tanzania,Lake Keith,Female,34.0,Secondary,Employed,completed,2026-05-14T10:44:37,field_tool,3,Good,2,Low,2
+4a6bfea8-17e4-4743-b51f-83a84d55136b,5d614877-ad18-4414-9e17-57fec4d45cbd,survey_135,Tanzania,Barneschester,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:41:35,field_tool,3,Good,4,Medium,2
+bc147b18-9a8f-4bba-a21f-1b3b19024db6,3b482467-4812-4b09-ac59-ef077b15219d,survey_116,Tanzania,Lake Manuelhaven,Female,33.0,Primary,Unemployed,completed,2026-05-14T10:40:02,field_tool,1,Good,3,Low,5
+e8798818-6f91-400f-acae-f149c25508f6,72672b77-3115-4761-a7dc-71a6a4e94aa6,survey_748,Tanzania,Grahamtown,Male,,Secondary,Unemployed,completed,2026-05-14T10:43:52,field_tool,2,Neutral,4,Medium,1
+45b6d9f9-4705-4f77-bb79-157e7e28dbc2,4e038cfd-ad92-4956-bbd7-35d182f0c483,survey_858,Tanzania,West Angela,Female,38.0,Primary,Unemployed,completed,2026-05-14T10:44:12,field_tool,5,Very Good,2,High,1
+aa4be522-f768-495e-8e59-5964e3fba4eb,fd71adb8-ff27-4545-b5ba-e312bf4ea064,survey_772,Tanzania,Juliehaven,Female,68.0,Primary,Self-employed,completed,2026-05-14T10:41:35,field_tool,5,Bad,2,High,3
+dc6e5d09-d1a0-4b8a-bcbb-de9f739ee9d7,1b1813b9-7142-4d82-b92c-294100331667,survey_467,Tanzania,West Kristin,Female,20.0,Tertiary,Self-employed,completed,2026-05-14T10:44:31,field_tool,4,Bad,3,Low,3
+9ad3d534-0f1e-4dd9-91ea-77dd180bb1f7,b144354e-494b-4667-be14-5d3bc198a01c,survey_688,Tanzania,Maryport,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:41:47,field_tool,4,Neutral,2,Low,4
+73e6ea25-136a-4139-b412-7952cf16b0b7,ec38a706-c65e-4838-92b4-becafc1b1468,survey_758,Tanzania,South Kayla,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:42:07,field_tool,1,Very Good,2,Medium,1
+17dcea62-7920-44c4-9512-8c561afd1a5d,f622af73-edea-4ab9-af8f-97cefd496954,survey_840,Tanzania,East Elizabethside,Female,51.0,Secondary,Employed,completed,2026-05-14T10:40:52,field_tool,3,Very Good,3,Low,4
+6dda95b6-8b18-4cd1-aa04-28d2adef4974,a058e6c0-dd7e-4163-9484-f880831bbc4e,survey_352,Tanzania,New Gailport,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:41:46,field_tool,3,Good,5,Low,1
+205ec43e-e7ab-44e7-9785-1bb50ecea27d,3e3448d6-89d3-4405-93f3-cf00dc74a207,survey_259,Tanzania,Lake Gail,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:40:31,field_tool,4,Bad,4,Low,3
+34ff936c-0405-4a87-b01d-dd78c9f6ea54,30de1bb2-b410-4833-aefa-3e5cc512aec3,survey_610,Tanzania,North Sandra,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:45:18,field_tool,4,Good,5,Medium,4
+1f9ab4fa-f235-4aa0-9f5a-56d98febfb8f,ed808fdb-f1e9-4232-936e-362117c484f0,survey_185,Tanzania,Port Andrewmouth,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:42:50,field_tool,2,Bad,5,Medium,5
+fe576c34-2761-47b2-8f38-d1955cb0c5e5,7b55180e-eaf8-4288-b1bd-67152fc6aa86,survey_223,Tanzania,Hooperhaven,Female,36.0,Secondary,Unemployed,completed,2026-05-14T10:44:21,field_tool,2,Bad,2,Medium,4
+e5ec4b06-2ab8-4bcf-9844-60fa75f73490,81698cd4-7ab7-49fe-b804-a887484806b8,survey_819,Tanzania,Lake Meghanmouth,Male,71.0,Secondary,Employed,completed,2026-05-14T10:44:14,field_tool,5,Neutral,5,High,2
+4a5f91fb-b098-45b8-a466-adfe492a91fb,8e1d71bc-6623-465c-a173-0b33973985f1,survey_986,Tanzania,Catherineberg,Male,69.0,Tertiary,Employed,completed,2026-05-14T10:40:32,field_tool,2,Good,1,Low,2
+3169098c-ea5d-40b1-85fe-fec90ab5b237,a001d982-fee2-49f9-b2dd-62ab7c0f803f,survey_642,Tanzania,South Jasmine,Male,55.0,Tertiary,Self-employed,completed,2026-05-14T10:40:03,field_tool,3,Good,3,Medium,5
+90cc67e4-3ab5-49ab-a105-bb6ab26228d7,35fb7d40-1940-49b2-a832-c0d683076310,survey_301,Tanzania,Chelseaburgh,Female,32.0,Tertiary,Employed,completed,2026-05-14T10:44:34,field_tool,1,Bad,5,Medium,3
+ae6edd5e-e94c-4393-b686-c0486b25bec2,be1d2ad6-bba8-48e6-963a-4577cdbd7953,survey_690,Tanzania,Lake Katie,Female,57.0,Tertiary,Employed,completed,2026-05-14T10:40:47,field_tool,2,Neutral,2,Medium,1
+fff96c12-47c2-4877-853b-81670eef26f1,db2b0f9f-75ad-4301-822d-e1a9d94d6a78,survey_511,Tanzania,Rickymouth,Male,52.0,Primary,Self-employed,completed,2026-05-14T10:42:59,field_tool,2,Very Good,4,High,2
+0341c113-b568-4048-88d0-c0778f48e14a,7132d8fb-efb4-4fcd-9a03-3058b53ecd26,survey_121,Tanzania,New Yvonneborough,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:41:11,field_tool,4,Good,5,Low,4
+c3b2ab72-fe0d-4355-ba31-5ab606f5940c,8ec82039-8c20-4731-b58e-9ae67ed9616a,survey_602,Tanzania,Lake Thomas,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:44:33,field_tool,3,Good,4,High,3
+755d6321-376b-4340-bf35-862f0edd85a6,ce30c11c-bc69-4a93-a9f4-88c478a7ddfd,survey_118,Tanzania,Christophershire,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:45:18,field_tool,5,Bad,3,High,4
+f8fcfc8c-f2ce-4050-86ef-f32f7df1c4ea,d3759b94-3ac9-46b7-b060-868da9c2e627,survey_878,Tanzania,Lake Maryfort,Female,59.0,Secondary,Unemployed,completed,2026-05-14T10:43:58,field_tool,1,Very Good,2,Low,1
+ed2f0963-54ca-4b0a-9e61-ae17cb06d649,5377f90a-71ef-470a-a040-688c01e73b60,survey_688,Tanzania,Rodriguezshire,Male,27.0,Secondary,Self-employed,completed,2026-05-14T10:45:31,field_tool,3,Good,5,High,4
+f5f9718d-5958-44c4-8da3-5264ac576607,828bb3e9-acca-45e7-88b0-69250953024f,survey_590,Tanzania,Amystad,Female,18.0,Tertiary,Unemployed,completed,2026-05-14T10:45:24,field_tool,5,Neutral,1,Low,2
+07ee85eb-a99d-4b0c-afa6-f1bb2257c9e1,285c7cca-11e5-4444-9d11-46ee2233eb5a,survey_578,Tanzania,Joshuastad,Male,31.0,Primary,Employed,completed,2026-05-14T10:42:01,field_tool,1,Very Good,3,Medium,2
+673cd3e1-140d-4e5d-9a07-397f374500ff,28f65071-6fc4-49a4-8f2f-56a7069ac23a,survey_828,Tanzania,Lake Vanessafort,Female,30.0,Secondary,Unemployed,completed,2026-05-14T10:42:07,field_tool,5,Neutral,2,High,3
+64021eaf-97ab-4d2b-98ce-c225d4f579e0,f5e5426d-8651-46e9-88aa-0ba5c26d48cf,survey_232,Tanzania,New Andrewfurt,Female,37.0,Primary,Employed,completed,2026-05-14T10:39:59,field_tool,1,Good,4,Medium,3
+1280f41d-b633-4c72-9e3f-953a4cf88a93,c5b970b4-658f-4518-a40a-a1157d8d1f77,survey_762,Tanzania,Lake Keithstad,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:43:19,field_tool,3,Bad,1,Low,5
+7133b373-b0db-4c11-81a7-c67e8840d408,6311a36b-1cb4-4be4-8ff9-66705b3594da,survey_574,Tanzania,New Rebecca,Female,60.0,Primary,Self-employed,completed,2026-05-14T10:45:27,field_tool,1,Good,1,High,5
+908dda76-ad97-4938-8710-0a18e8a2cbba,78cba8d3-bc55-4ba0-98c8-f7e4b81e494d,survey_596,Tanzania,North Cheryl,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:43:15,field_tool,3,Bad,4,Low,5
+5c13949a-392d-4287-a8e1-49c3393f192d,e36eeb89-c8cf-4943-a44b-b25ec2e0b136,survey_433,Tanzania,Stevetown,Male,59.0,Tertiary,Unemployed,completed,2026-05-14T10:44:27,field_tool,4,Neutral,5,Low,2
+c010d18c-39ec-4b46-9275-b4ab9f6f5238,faf98769-af11-46c2-857c-41461a5e230b,survey_216,Tanzania,Benjaminberg,Female,55.0,Primary,Self-employed,completed,2026-05-14T10:45:26,field_tool,3,Good,4,Low,2
+94d55e82-54b1-457a-a7ff-19b155dc2fc5,b69346e1-7248-4846-b973-6b8b37c9181d,survey_551,Tanzania,New Michael,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:41:10,field_tool,2,Very Good,3,Low,4
+5775e197-d0a7-4a0b-b493-14fe3ddab9b9,cdf5e7e2-60a7-4f61-9dea-98abc80d0b97,survey_509,Tanzania,Lake Michael,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:41:26,field_tool,1,Neutral,4,Low,1
+bf1651e8-ca9a-4cff-bf70-2bffb30f82d8,d6bae8ac-6f31-406d-9839-270f292df850,survey_288,Tanzania,Amyshire,Male,31.0,Primary,Unemployed,completed,2026-05-14T10:44:40,field_tool,4,Bad,5,High,3
+d074738a-d336-4e5d-af34-8193c9c90c29,ad4e2754-c6cd-431f-89ab-9df6369a68c5,survey_534,Tanzania,South Sheriton,Male,73.0,Secondary,Employed,completed,2026-05-14T10:44:48,field_tool,4,Neutral,4,Low,5
+f11c0aef-b7d2-4725-a972-53cc1a960f7a,9fca81df-b567-4534-932d-71dd0105bf6b,survey_960,Tanzania,East Mariachester,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:44:22,field_tool,3,Neutral,1,High,3
+1758fb2e-b289-483c-8cc7-1f2038e4172a,0d255380-02d5-43de-9f63-d543ad7ba76a,survey_698,Tanzania,South Cindy,Male,69.0,Primary,Self-employed,completed,2026-05-14T10:40:31,field_tool,1,Very Good,2,High,3
+1aa15b44-39c9-4244-bc21-013b56bd7623,d169ea9e-4638-4106-9720-f97a5d327f6c,survey_960,Tanzania,Port Roy,Female,50.0,Secondary,Unemployed,completed,2026-05-14T10:41:05,field_tool,2,Bad,3,Low,4
+2188c1f5-393d-4697-8a27-f9f8407e2cdd,a072fa99-6549-4745-bdbc-9a506f7a6ad3,survey_264,Tanzania,West Christopherland,Male,63.0,Primary,Unemployed,completed,2026-05-14T10:44:44,field_tool,1,Bad,3,Medium,3
+3aef76ab-14be-4bc0-82e2-1b6279501739,aa31eaa3-16d4-4476-bf0a-bcea3e3d8f61,survey_898,Tanzania,West Jesseview,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:43:39,field_tool,4,Bad,4,Low,5
+284b83f5-c211-48ff-adc6-17b855d1d3e2,9eb43948-53e4-4eb9-a3c6-88fd4693189b,survey_438,Tanzania,Port Jasonchester,female,70.0,Secondary,Employed,completed,2026-05-14T10:41:24,field_tool,3,Very Good,5,High,4
+2b51a019-06dd-4376-a62a-1b1be28a6bb0,2d992ce7-17a0-408e-9985-bbff8220dcf0,survey_980,Tanzania,Nixonview,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:44:45,field_tool,2,Bad,2,Low,3
+b7479269-1523-40b5-98c4-9d08f774f969,27c40e05-958b-4478-8007-c071892bfbce,survey_738,Tanzania,Andreahaven,Male,38.0,Primary,Unemployed,completed,2026-05-14T10:42:37,field_tool,2,Bad,4,Low,5
+9e9ec64b-0ed1-4b03-9825-794e4598ed74,d0de074d-d5f5-4d2e-a13f-fdb8ecb00308,survey_827,Tanzania,Michaelport,Male,75.0,Secondary,Self-employed,completed,2026-05-14T10:44:38,field_tool,2,Bad,3,Low,5
+f23215b1-59a7-455f-b4b0-4f08a2700db8,446d942a-9fe0-4235-8ee9-a77a97006f0f,survey_554,Tanzania,Mosesbury,Male,51.0,Tertiary,Unemployed,completed,2026-05-14T10:44:26,field_tool,5,Neutral,3,High,5
+b475bdf2-8f9f-4f95-9d57-f6978afcd412,a9927f45-0f65-40b5-80f2-be10cab534ca,survey_175,Tanzania,West Kevin,Female,,Primary,Self-employed,completed,2026-05-14T10:42:03,field_tool,4,Neutral,2,Medium,2
+92f00b8c-1f68-4c5b-b074-b1f9403b16eb,9f0fca55-6ad3-4758-8a7f-9d1f04c846d0,survey_443,Tanzania,New Timothymouth,Female,29.0,Secondary,Employed,completed,2026-05-14T10:42:43,field_tool,5,Good,2,High,1
+3d62cb61-03b9-4b4d-b8d3-1c73615b7aa7,e757005f-aa90-4f1a-8c60-fd055dfe6f4f,survey_624,Tanzania,Nicholasfort,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:43:48,field_tool,5,Neutral,3,High,1
+3f38e3dd-371b-4323-bba3-62f295338786,07ee61b0-236a-4f41-80c6-27809b105357,survey_465,Tanzania,Ashleytown,Female,70.0,Primary,Unemployed,completed,2026-05-14T10:44:44,field_tool,1,Neutral,2,Low,1
+c1da5c4d-93c1-4855-8009-deddf3238f0b,9e6ea475-d258-49cc-befe-3892028883b6,survey_984,Tanzania,Autumnport,Female,38.0,Primary,Self-employed,completed,2026-05-14T10:41:53,field_tool,2,Good,3,Medium,1
+8b15c947-9ea6-46d7-85ce-4cac9844aaa0,c88f76cc-ed2c-43de-91ee-693a4e38bf42,survey_920,Tanzania,West Ryanstad,Male,37.0,Tertiary,Employed,completed,2026-05-14T10:45:33,field_tool,3,Very Good,1,Medium,5
+622d80f3-b839-48cf-9e43-bbe9e4b5f2d3,9da3589f-11db-4351-842a-fdc75904cde8,survey_303,Tanzania,Kempville,Female,39.0,Primary,Self-employed,completed,2026-05-14T10:43:56,field_tool,2,Neutral,5,Medium,4
+5d897a92-d5ed-4fd7-bbb1-b45cfdf94518,c3c934d9-e519-4556-89c5-274e1801c340,survey_443,Tanzania,East Teresa,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:40:48,field_tool,3,Neutral,2,Low,1
+4c2260fa-de58-41ef-b669-154409972bfd,0a1e882a-0529-482f-ab75-e55f3185f332,survey_390,Tanzania,Patelville,Female,38.0,Secondary,Unemployed,completed,2026-05-14T10:42:51,field_tool,5,Good,4,High,1
+c41f7bc9-ed9f-4b64-a7c2-8ea4db861f80,71cfa276-7cc4-4059-a3b9-8a0ab312178a,survey_349,Tanzania,Chanburgh,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:40:49,field_tool,3,Bad,2,Low,4
+8103350e-47fd-4cc2-8dd6-9cee36781bd3,e237c96b-b9f7-49f8-a4af-a97b610aa0e3,survey_534,Tanzania,Joshuaberg,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:43:53,field_tool,1,Good,5,Medium,1
+500c8f6d-d1ed-4a76-b0e7-e80df8385d9a,3a0b388b-216e-4bb0-ab76-24ad78ae3aaa,survey_804,Tanzania,Williamton,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:45:44,field_tool,5,Good,5,Low,4
+0a186f07-133e-4663-9c9a-795b5317fa01,27c82744-aa38-4640-a1dd-4bb224526b2f,survey_940,Tanzania,New Charlesside,Male,63.0,Tertiary,Self-employed,completed,2026-05-14T10:44:48,field_tool,4,Good,1,Low,5
+f31b23ad-6097-49d7-be47-8c1967401ad3,4cbd6c02-f532-42f9-b3ed-0738281fd4eb,survey_343,Tanzania,Lake Thomasside,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:43:21,field_tool,4,Neutral,3,High,5
+e76cea9a-1dbd-4bd5-95e4-f15da90aa7ca,363fb862-ac4e-4f89-93a8-debff73e896c,survey_319,Tanzania,Maychester,Female,35.0,Primary,Self-employed,completed,2026-05-14T10:42:23,field_tool,4,Very Good,5,Medium,2
+ad271556-af00-4bb8-9621-906afabff7d8,cf0bd416-aa42-4a23-88f6-0e66502705fd,survey_884,Tanzania,Savannahview,Female,33.0,Tertiary,Unemployed,completed,2026-05-14T10:45:03,field_tool,5,Neutral,2,Medium,1
+d8c89493-1697-4e3a-894a-42845cc4cc0f,6d65693e-be7f-4efd-bbe0-c0f2c9ec1b67,survey_581,Tanzania,Rodriguezfurt,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:39:54,field_tool,1,Bad,4,Medium,3
+8bc054ae-a2b7-426e-8153-23fec78d0306,67c6b444-0540-46f5-9fb5-640387c02a63,survey_678,Tanzania,Thomasberg,Female,26.0,Secondary,Unemployed,completed,2026-05-14T10:42:19,field_tool,4,Good,3,Low,2
+bbfc35c4-bee0-4a2a-8f86-bb515a0e0cbe,208d534f-2488-4cf2-a81a-e898a913ae92,survey_105,Tanzania,Port Jefferyville,Male,29.0,Tertiary,Unemployed,completed,2026-05-14T10:45:43,field_tool,5,Bad,1,High,2
+d57534c8-2670-4cb4-9be9-597ddd4c2acc,073c1b35-5502-429f-916c-eaeafcd5aeb0,survey_635,Tanzania,East Jaimetown,Female,39.0,Secondary,Employed,completed,2026-05-14T10:43:36,field_tool,2,Good,5,Low,2
+e3020083-c12f-437d-bd15-65c1d30a7f5b,5a9e57e3-bd9b-41bc-84a9-d4fef0b366c7,survey_231,Tanzania,Port Jonathanville,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:43:16,field_tool,5,Good,2,Low,4
+e3d27ef3-baed-484c-b427-66d8b2d34c81,6de23676-25ed-440b-8a38-03d38c008810,survey_498,Tanzania,West Aaronmouth,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:42:48,field_tool,2,Very Good,3,High,5
+e8d36c2c-33f3-4bb8-b299-594a39826f21,69137d61-d9be-4916-bce5-33ef3c12ff06,survey_176,Tanzania,Ashleyfurt,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:42:20,field_tool,2,Good,4,Low,5
+139091df-9eeb-4018-9b6a-ef3cf09ff2a1,2a160d2d-29a6-4091-be29-45afb171bc28,survey_634,Tanzania,Lauraton,Female,26.0,Primary,Self-employed,completed,2026-05-14T10:40:20,field_tool,4,Very Good,5,Low,5
+17bce62a-182e-4afe-b5f7-9e8a96f570ed,9436ce27-d2be-4c36-b467-f95ae6c6e8c4,survey_314,Tanzania,South Jeffrey,MALE,55.0,Primary,Employed,completed,2026-05-14T10:42:18,field_tool,2,Neutral,2,High,1
+dfe73a77-2b8a-4f70-bb71-464a64af03fa,0f547226-4bd1-47ca-8aff-aabd7704e8c5,survey_334,Tanzania,South Johnberg,Male,47.0,Tertiary,Employed,completed,2026-05-14T10:45:24,field_tool,3,Good,3,Low,5
+efbdad86-f254-4995-b358-00139093be64,881f54bc-3dd6-47d4-aac9-efce820b29e0,survey_616,Tanzania,Port Nancy,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:43:26,field_tool,3,Very Good,1,High,3
+2cbc7d94-ec64-48ff-a50a-0ca6dfa28f09,6739332f-470a-48dc-98b8-c1dec5aaec7d,survey_961,Tanzania,North Lindsay,Male,74.0,Secondary,Employed,completed,2026-05-14T10:41:19,field_tool,4,Neutral,3,Medium,3
+88b96c0e-4e1c-4b2f-a44a-4937ca428f17,a16f6874-9582-4376-8919-4a789e819327,survey_418,Tanzania,Lorimouth,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:40:12,field_tool,2,Very Good,1,Medium,3
+bb9b649c-891e-405a-9fef-6561c89095ce,ff161bdc-edff-42a6-bfa4-f1c2799ed9b7,survey_145,Tanzania,Doristown,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:40:53,field_tool,2,Neutral,5,High,2
+ebc88626-957c-48c8-abff-f0677a01ab2a,67b41ea4-9ef1-4031-a632-fcc3bc93cc0c,survey_836,Tanzania,Catherinefort,Male,65.0,Tertiary,Employed,completed,2026-05-14T10:43:20,field_tool,5,Good,3,Low,3
+62341656-5204-4a0e-b4d2-0651197d0c97,fe6fe7bf-20a2-48da-82a8-b72a14ab6851,survey_163,Tanzania,West Jasontown,Female,36.0,Secondary,Self-employed,completed,2026-05-14T10:41:06,field_tool,1,Good,3,High,1
+6a986037-38b8-4648-8dad-1f900d968ee7,dbc254c1-bc79-4189-80cd-165ae71168e6,survey_344,Tanzania,Lake Brandon,Female,56.0,Secondary,Unemployed,completed,2026-05-14T10:45:06,field_tool,4,Very Good,1,High,3
+4264d9e4-d228-4601-8835-20a34cfa48c3,69911b5f-84d7-4496-a271-27dc62ff66b4,survey_477,Tanzania,Lake Pamela,Female,45.0,Primary,Employed,completed,2026-05-14T10:44:04,field_tool,3,Bad,4,High,2
+d3ee954b-0ecb-4193-b38f-2f2da40ae77b,7230bc5a-21ef-42cc-9b89-76aae1bd2401,survey_495,Tanzania,Cooperport,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:41:35,field_tool,4,Good,2,High,5
+1b750363-0198-4380-871c-6de8cc85e928,85457120-a064-4e1c-ad17-149e06814417,survey_730,Tanzania,Port Joseph,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:42:05,field_tool,1,Good,1,High,5
+9469c8f6-04b3-49d4-88b8-fa8f341b0391,c1af747d-fed4-4978-89ce-72b2e9ba3f8c,survey_903,Tanzania,East Ronaldshire,Female,63.0,Primary,Employed,completed,2026-05-14T10:44:04,field_tool,5,Good,2,Medium,2
+42e55141-549f-404f-9922-7e79179e64a1,07522136-973e-4ea3-b369-fd73ed4c3f36,survey_855,Tanzania,Michaelport,Male,75.0,Tertiary,Unemployed,completed,2026-05-14T10:43:23,field_tool,3,Very Good,2,High,1
+06456722-7445-4bdd-8a45-e209089dccb7,7eb084b6-30ac-4cfa-90c8-6a074a97563b,survey_134,Tanzania,New Jaclyn,Male,41.0,Secondary,Unemployed,completed,2026-05-14T10:45:40,field_tool,4,Good,5,Medium,4
+6785a2a3-94d3-4713-9e73-06e143f868fb,7d519ded-67a4-4480-96bf-33d3e77485bf,survey_811,Tanzania,Troyport,Female,42.0,Primary,Employed,completed,2026-05-14T10:41:08,field_tool,5,Good,4,High,2
+d93a1bd9-69a3-45cc-bfeb-173d560fbf34,5e94962f-8a83-40f0-a1cd-77017f21e80e,survey_892,Tanzania,Theresaport,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:42:59,field_tool,5,Neutral,4,Medium,1
+a50504ae-d805-4709-9d3a-852cfb43159c,aa571a1d-2768-4d53-98cc-d504b609f76e,survey_242,Tanzania,Mirandafurt,Male,18.0,Tertiary,Self-employed,completed,2026-05-14T10:42:46,field_tool,3,Bad,3,Low,5
+dc7e0ddb-d2c0-47c0-ace5-de8e3e7797be,cc77a272-81ab-4bcc-81d8-14b480f5db8d,survey_421,Tanzania,Payneville,Male,55.0,Secondary,Employed,completed,2026-05-14T10:43:05,field_tool,2,Very Good,1,Medium,2
+19399a9b-ad08-4a1e-a28b-79376b16e867,3088906d-1c2d-40f8-b670-8d25a02ec7e5,survey_944,Tanzania,Sarahburgh,Male,52.0,Secondary,Employed,completed,2026-05-14T10:45:30,field_tool,3,Neutral,5,Low,4
+97308b52-8727-4924-b569-715295718f1a,260c1a47-4ede-4a85-9482-946d629d8ca5,survey_332,Tanzania,Christinamouth,Female,75.0,Secondary,Unemployed,completed,2026-05-14T10:45:23,field_tool,5,Very Good,2,Low,1
+57e3f8e3-fd44-4f79-9b00-8ba0f8e1bbac,321b5b58-3352-4cec-8a25-13c5e839baee,survey_579,Tanzania,Greenside,Female,49.0,Primary,Unemployed,completed,2026-05-14T10:45:44,field_tool,4,Very Good,4,High,3
+be689b10-e76e-46b2-8970-bbaaf8611a7b,b50b4883-b42b-44f0-89aa-7b7207731cc6,survey_567,Tanzania,Alexandertown,Female,24.0,Primary,Self-employed,completed,2026-05-14T10:45:39,field_tool,2,Bad,5,Medium,1
+c891cd0f-6106-4ec8-a8cc-6510b51eaf84,12ab88b5-9cea-4e50-a775-8da109230001,survey_860,Tanzania,Kayleebury,Male,21.0,Tertiary,Employed,completed,2026-05-14T10:42:15,field_tool,3,Very Good,5,Low,3
+adee8bb3-1b39-4d69-bf0f-f0b12c92f91f,fbc39a07-ce34-4f03-96d1-207fd1570d77,survey_710,Tanzania,South Ashleyburgh,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:44:36,field_tool,4,Very Good,3,Medium,1
+4fe8d3b8-840d-4309-96ae-a4586a8eb63d,71b22f24-7c27-4ffd-88db-3597692c25e3,survey_822,Tanzania,New Bryan,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:13,field_tool,4,Neutral,1,Low,4
+1b9a7773-c023-4b4f-af74-199461e15bd9,318e344a-424a-4305-8b7b-87cbf43c163a,survey_325,Tanzania,Solomonfurt,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:41:01,field_tool,1,Very Good,4,High,2
+69e34a04-956a-4407-aa42-80b73501f6bf,d0c9ba54-2524-4657-b77f-da4b762e38d0,survey_431,Tanzania,Robertstown,Male,58.0,Primary,Unemployed,completed,2026-05-14T10:45:09,field_tool,1,Neutral,3,High,2
+c452ef07-6ef9-496f-ae8b-8df2c87032f5,d39396eb-366c-4892-9406-c82dc6a92230,survey_723,Tanzania,East Joe,Male,58.0,Secondary,Employed,completed,2026-05-14T10:45:01,field_tool,3,Good,3,Medium,5
+c76aaaab-53e9-44cb-855d-e8e6696fda78,6c12c9ad-e0a6-4c4d-a433-6908c012c8af,survey_475,Tanzania,Port Jefferyburgh,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:41:56,field_tool,3,Bad,1,Low,1
+58a1b224-a266-452a-8ee5-d04a55306c31,f5214e9c-1bdc-4718-96fb-3c3dcc208d2a,survey_156,Tanzania,East Kelly,Female,27.0,Secondary,Unemployed,completed,2026-05-14T10:40:57,field_tool,1,Very Good,1,High,5
+abb1a89e-2d92-4a11-862a-6a6ef1faa251,61f5234a-565b-4481-a387-e598a2e653fa,survey_992,Tanzania,New Kirk,Female,58.0,Primary,Unemployed,completed,2026-05-14T10:44:16,field_tool,2,Bad,5,Medium,3
+51011a59-9452-4145-9c8c-ce0e4bae1149,abe99a8a-6db7-4927-b48d-76488e71cc13,survey_826,Tanzania,Tonyport,Female,57.0,Tertiary,Employed,completed,2026-05-14T10:43:21,field_tool,3,Good,3,High,1
+03267910-b3c8-4a19-9923-b7b71fff4f27,c85de06a-f2fc-4fec-98ab-daf757ca2524,survey_906,Tanzania,Ashleyborough,Male,63.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,2,Good,1,Medium,5
+87e0b725-0314-45dc-b821-b903f2581bb4,e2e62c9c-cb3e-4361-af87-99130c72e8fd,survey_476,Tanzania,Annside,Male,48.0,Tertiary,Employed,completed,2026-05-14T10:43:29,field_tool,2,Very Good,2,Medium,4
+c4fa2d3a-7c0f-41f7-bdd4-97f08874661e,e2d4daf4-db2f-428c-9ec1-5006cf7dcd6e,survey_492,Tanzania,New Darin,Male,44.0,Tertiary,Unemployed,completed,2026-05-14T10:40:36,field_tool,3,Very Good,4,Medium,4
+cf74400a-a8ea-461b-895a-f2a82c53f1e7,ea262f46-4754-4613-8ad0-74a4878f1514,survey_971,Tanzania,East Jeremy,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:42:31,field_tool,5,Very Good,4,High,4
+000a3fb7-8b9b-4b3c-a436-c1e919c764e8,bbbe28c1-eaf4-400f-9182-d30fe9915e17,survey_231,Tanzania,New Danielstad,Female,48.0,Secondary,Self-employed,completed,2026-05-14T10:41:52,field_tool,4,Good,5,High,2
+2aa96fb5-d5c5-44c7-9cfc-5e65b6ca4252,359a0a54-1e1e-43eb-be69-c094405d6003,survey_146,Tanzania,Lake Daltonmouth,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:41:12,field_tool,5,Good,3,Medium,3
+acb0b073-7c71-45ae-b1f4-df1ca0cf1792,7790327f-ea2f-4470-8bac-503b54a8b9f2,survey_188,Tanzania,Lake Ashley,Female,70.0,Secondary,Employed,completed,2026-05-14T10:40:22,field_tool,5,Very Good,4,High,5
+e431871d-8726-499c-a748-f7f98ef0c531,3027c600-cb2a-4514-85f6-5a39b593b201,survey_199,Tanzania,Morrisville,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:42:41,field_tool,3,Good,4,Low,3
+e61f91e4-c5ba-4d6a-b48e-ee61ebbe427f,352a5d3e-2569-4792-ac27-d0d4ba64a462,survey_799,Tanzania,Williamsfort,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:45:27,field_tool,2,Good,1,Low,2
+37fe0a9e-72a4-489c-89b5-71a1793ec0ec,34386cdd-36d8-46ed-81b3-cac3c81604b1,survey_369,Tanzania,Carrollburgh,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:45:30,field_tool,1,Good,4,High,5
+85aa8d17-f2a3-4531-96cb-4e780ac29574,e2198eac-b03e-4470-8409-1c1cc47bf248,survey_534,Tanzania,Shaneberg,Female,29.0,Primary,Employed,completed,2026-05-14T10:44:21,field_tool,3,Good,2,Low,2
+2bc63c57-0693-4552-9ff6-c08446fa9b6e,61e3d7bf-aad7-41b1-8068-d778e09f397f,survey_532,Tanzania,Karinaville,Male,22.0,Tertiary,Employed,completed,2026-05-14T10:45:17,field_tool,5,Good,2,Low,4
+26d1cfdc-d769-42cd-9d98-abbeff0ef4ae,0aef6aea-57b3-47cf-8b2c-a49c8489b062,survey_575,Tanzania,Johnview,Male,40.0,Tertiary,Self-employed,completed,2026-05-14T10:42:52,field_tool,5,Neutral,5,Medium,3
+f4408d7e-db4a-41bf-8020-2da75f537d51,5d2e7359-5cab-4ee8-ab99-370af76ae0ce,survey_699,Tanzania,South Gregory,Male,54.0,Tertiary,Employed,completed,2026-05-14T10:45:45,field_tool,5,Neutral,1,Medium,2
+54dc8624-d708-44b2-b663-4f0959c0dc26,0759ddd9-8fc6-4e2d-aac1-6bb2d6ea281b,survey_605,Tanzania,South Michael,Female,50.0,Primary,Unemployed,completed,2026-05-14T10:40:27,field_tool,2,Neutral,3,High,1
+5073f67a-87e4-4d64-80bc-f74e6940b8a1,0293af09-db55-4631-98c0-14f3425521ef,survey_786,Tanzania,Jessicafort,Female,71.0,Secondary,Self-employed,completed,2026-05-14T10:41:08,field_tool,3,Good,4,Low,1
+46446c27-6578-443e-8369-2267d7b4df2c,95060d31-2c4f-43d7-846f-0dde5d969dae,survey_854,Tanzania,Port Stevenview,Female,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:46,field_tool,2,Good,4,Low,5
+a610caec-f339-4903-bc39-ca0f4c8b37fd,e38c22bb-ba1b-42e1-bc83-8edb39130a9f,survey_104,Tanzania,Port Phillip,Male,74.0,Tertiary,Employed,completed,2026-05-14T10:45:15,field_tool,3,Bad,3,Low,3
+359a8b73-45e6-4a77-ba71-f2ea22574c85,31825639-f6b2-4966-ac16-3cfb61f01f0b,survey_652,Tanzania,New Jamesberg,Male,38.0,Primary,Employed,completed,2026-05-14T10:39:45,field_tool,5,Bad,5,Medium,4
+713b13a3-1b34-4de2-8a5e-e8c99d640f72,b8d21f9f-bae7-4596-94a8-23d41102f671,survey_457,Tanzania,Lake Heidiland,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:40:54,field_tool,4,Bad,1,High,5
+e5deeca9-56ad-4a89-99eb-e76fb45e31ac,05b966b9-56e7-495c-9748-3d4ab0154e22,survey_140,Tanzania,Pittsside,Female,26.0,Tertiary,Self-employed,completed,2026-05-14T10:42:10,field_tool,5,Bad,5,Medium,4
+2e1c2f71-e58d-4e52-92cc-71eb59ef818a,e46107ba-8f9d-46e4-9347-c033be68776e,survey_135,Tanzania,Lake Latoya,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:45:16,field_tool,3,Good,3,Low,5
+abf12c23-0d04-42b7-8dfb-8f13f9aae7bc,198a523a-f5aa-4ecd-aa0d-8959ca960001,survey_882,Tanzania,Bonniestad,Female,57.0,Primary,Unemployed,completed,2026-05-14T10:40:45,field_tool,2,Very Good,5,Medium,4
+a7ef1076-3a6d-4e63-a9fe-3cb13a7f4c23,fdc1f7a1-97d3-4c81-affe-9be7d2ebaa01,survey_198,Tanzania,Michelleburgh,Female,70.0,Primary,Self-employed,completed,2026-05-14T10:41:04,field_tool,1,Good,5,High,3
+22286aaf-3073-4c03-82d4-31208723921f,930934c6-c649-4037-aa9d-34ea682b1633,survey_874,Tanzania,New Mariafurt,Female,53.0,Primary,Self-employed,completed,2026-05-14T10:41:11,field_tool,3,Neutral,4,Medium,3
+b0dce099-ab80-433c-80af-f0e17227e62d,0288e150-41c6-454a-a9ee-152dde3678e3,survey_851,Tanzania,Destinyberg,Female,48.0,Secondary,Employed,completed,2026-05-14T10:44:08,field_tool,3,Neutral,1,Low,2
+912f52e2-56c3-426a-a816-1f4a02a5a223,5020e9e1-547f-466b-a8d9-7ceb2b53fe91,survey_643,Tanzania,Port Dianeshire,Female,40.0,Tertiary,Self-employed,completed,2026-05-14T10:41:46,field_tool,2,Very Good,3,Medium,3

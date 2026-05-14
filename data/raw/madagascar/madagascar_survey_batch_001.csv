@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+6c072b83-1b01-433b-8abb-848b2e773bd8,07591b86-9dc8-4156-846c-ae0cdf0926f9,survey_999,Madagascar,Wesleymouth,Female,,Secondary,Employed,completed,2026-05-14T10:41:35,field_tool,4,Good,4,Medium,2
+9630eb16-66e4-4153-82ca-836b91e5f0d6,7cdec1cb-9b7b-4def-b888-a5385840eb72,survey_477,Madagascar,Joshuaport,Female,36.0,Primary,Employed,completed,2026-05-14T10:42:25,field_tool,5,Neutral,3,Low,1
+a7464037-609a-482a-a068-04687e698324,d74392a7-61b7-4c92-bdcc-48a53c1f267f,survey_439,Madagascar,Christinefurt,Male,55.0,Primary,Unemployed,completed,2026-05-14T10:40:32,field_tool,2,Bad,4,Medium,2
+74ea497b-c4c5-4346-8f1b-3de8b3b4845c,7fdd30c9-7cc1-427a-8fbe-5fa3b73facf5,survey_897,Madagascar,Bryantberg,Female,42.0,Secondary,Employed,completed,2026-05-14T10:41:03,field_tool,1,Bad,1,High,5
+590a7f98-baee-4fae-a2dc-d31b13ada010,4eb6b678-6de5-4bfa-b298-22742431d996,survey_269,Madagascar,Crossland,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:42:26,field_tool,4,Neutral,1,High,5
+06aff251-4f81-47a3-8c50-efaf301a09ac,f3264eba-3ca8-46df-bdf1-053def2fbbb3,survey_446,Madagascar,North Dylantown,MALE,72.0,Primary,Unemployed,completed,2026-05-14T10:40:50,field_tool,4,Good,1,Low,4
+14764c91-73f8-4fc9-839d-5dde8b8c5bcc,bdfd9767-5d02-4966-8671-3eeb75d09c8c,survey_395,Madagascar,Port Melaniechester,Female,36.0,Primary,Unemployed,completed,2026-05-14T10:44:54,field_tool,3,Very Good,4,Medium,5
+662a3be3-9149-438b-ac8d-68342087ca5c,b1600dd3-e492-4e6f-8394-7d86786a2e77,survey_159,Madagascar,Bensonbury,Female,73.0,Primary,Employed,completed,2026-05-14T10:44:16,field_tool,2,Good,5,High,5
+04e1e6d8-912d-472b-bc17-bb1d63f9fa21,51b5f30b-e5a9-49cb-89e8-4f36b11f07a5,survey_814,Madagascar,West Michaelside,Male,19.0,Tertiary,Self-employed,completed,2026-05-14T10:42:54,field_tool,4,Neutral,3,Medium,1
+8fb4b3f6-b279-405b-8656-04be01c2c9da,0280426b-ad70-4caf-9826-7562a62a5af0,survey_670,Madagascar,South Zacharyland,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:41:00,field_tool,2,Very Good,3,Low,3
+363b55ab-ee0b-4f14-bb59-6b6876cefd9a,09986008-e2c3-4f89-b4e2-1ffbc2fd0899,survey_516,Madagascar,Petersontown,Female,42.0,Tertiary,Unemployed,completed,2026-05-14T10:40:08,field_tool,2,Very Good,4,High,3
+29fd060b-ba96-43a8-9a2a-226ac331f6af,dbd1e92c-9ca3-4e67-a70d-0f860679e27f,survey_336,Madagascar,West Michaelstad,Female,52.0,Secondary,Self-employed,completed,2026-05-14T10:44:32,field_tool,1,Neutral,5,Medium,2
+d3ca1aac-aa47-4406-8a53-6ae082194f9b,e4c97e73-95de-42c8-9ddb-1ee838133fab,survey_632,Madagascar,Port Douglas,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:41:53,field_tool,2,Bad,3,Medium,5
+f62d03ae-6de2-4715-bcd8-a5f0bd0ca66d,f1a08745-5b1d-43a4-919e-19c341923afe,survey_720,Madagascar,Morganborough,Female,62.0,Secondary,Unemployed,completed,2026-05-14T10:41:13,field_tool,4,Neutral,2,Medium,4
+9814b4ed-ba85-4cfa-b608-c6fbf2cff8ca,be39a68d-4dbf-419a-988d-fc7f208e278c,survey_896,Madagascar,Joshualand,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:41:18,field_tool,5,Neutral,3,Low,2
+23543c2b-ec67-43f3-a5fd-f4f765d7fa64,92622802-c60b-4ba0-8d3b-fc989f34eac7,survey_912,Madagascar,Dianamouth,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:43:06,field_tool,5,Bad,2,Medium,2
+a714ce2a-7700-4833-956c-70b95418624e,35676efb-32f6-4406-9985-b9889062e170,survey_939,Madagascar,East Andreamouth,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:43:23,field_tool,1,Neutral,3,Medium,5
+a5cf87cd-d7cb-47a0-bd61-81186c994673,e9838bdc-9656-4e2f-93bf-f3039573d9c3,survey_280,Madagascar,South Alexanderchester,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:44:47,field_tool,3,Very Good,3,Medium,1
+fbe8bf5b-8fc2-4c7b-b4f7-b97aefc062c2,0355363a-10ae-4021-b558-531a5e8c9510,survey_109,Madagascar,Shortborough,Female,51.0,Secondary,Unemployed,completed,2026-05-14T10:43:11,field_tool,2,Good,2,Medium,4
+0fe1e7eb-72ab-44a0-a8b5-7bf04247a2e2,c907a578-a69a-4d2c-9caa-40e1e74880f2,survey_333,Madagascar,Port Donaldfort,Female,28.0,Tertiary,Unemployed,completed,2026-05-14T10:42:10,field_tool,5,Bad,3,High,2
+690d71d2-a7c0-4d8c-b107-25e62ed50fc0,80a334f3-ce92-422a-b476-71cf0a8157fa,survey_401,Madagascar,North Shawnborough,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:39:53,field_tool,5,Neutral,4,Low,2
+3250b2ef-8a48-4139-90db-1d5c849d8548,cb7927fb-93f1-4f83-a031-8357afd4798b,survey_450,Madagascar,Port Alyssa,Female,54.0,Tertiary,Self-employed,completed,2026-05-14T10:40:16,field_tool,2,Good,2,High,3
+95b38f5a-ab56-4e77-8edb-95badb2843e5,8b93e3cb-21e0-4116-9060-558946804b6a,survey_441,Madagascar,Smallhaven,Female,61.0,Secondary,Unemployed,completed,2026-05-14T10:44:39,field_tool,4,Very Good,1,High,3
+17fccf52-e116-447e-8d73-bf9f9a542b24,e38835cb-9494-4cc8-81f9-555f9a3d3e97,survey_879,Madagascar,Taylorshire,Female,22.0,Secondary,Employed,completed,2026-05-14T10:41:41,field_tool,2,Bad,3,Low,3
+3e4b6304-0f9e-44ae-b17e-b031a91a0c88,2fe55cec-a449-439f-87e3-62e901e7ec52,survey_207,Madagascar,Brianberg,Male,75.0,Secondary,Self-employed,completed,2026-05-14T10:40:19,field_tool,5,Very Good,5,Medium,3
+dec56c6f-0a84-42a4-a499-29d7d2975e96,5206f3a8-0c1e-4274-9bf2-cf5780a11ded,survey_474,Madagascar,Linside,Male,70.0,Secondary,Self-employed,completed,2026-05-14T10:41:18,field_tool,2,Very Good,1,Medium,3
+7a7712d8-c840-4e82-93ee-3b9f27c49f95,18900054-922a-4f02-9b59-8bf1be79e014,survey_571,Madagascar,Lake Ricky,Female,54.0,Secondary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Neutral,2,Low,5
+628b23ea-6c70-4c5d-a398-51d7a58b8c0d,5a983c2b-8bda-4855-bac4-4112b3a23a40,survey_866,Madagascar,Nguyenside,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:40:15,field_tool,1,Bad,4,High,4
+0ea0cc71-2848-4758-82f7-44d996b781d4,45b81441-4596-4eee-b928-9cda8c4513c4,survey_618,Madagascar,New Morganside,Female,66.0,Tertiary,Employed,completed,2026-05-14T10:43:20,field_tool,5,Good,2,Medium,5
+288d91e3-8e7f-4435-8b1e-3db0241085e3,7584ac16-4ecf-4f90-bd74-60125a6be50e,survey_400,Madagascar,New Kellifort,Female,32.0,Primary,Self-employed,completed,2026-05-14T10:45:09,field_tool,1,Bad,2,High,2
+cd58e679-3a5d-4820-8271-3e2bff23d897,aff50f41-0d2b-4bd6-b12e-2094d82e0601,survey_585,Madagascar,Jonmouth,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:42:17,field_tool,3,Very Good,4,High,2
+1b4a6878-8d3f-45f5-b35e-57888a233f4c,5614a2d3-0974-43e2-b8d0-1531878c9231,survey_412,Madagascar,Jamesbury,Male,39.0,Primary,Employed,completed,2026-05-14T10:39:55,field_tool,5,Neutral,3,Low,4
+bdcd1c2f-6f0c-4b82-9002-5f8bc7b03a00,ba0ce49f-ed35-42be-892e-b317db9f6278,survey_386,Madagascar,Port Nathantown,Female,70.0,Primary,Employed,completed,2026-05-14T10:44:40,field_tool,4,Bad,4,Low,2
+4cbb959d-be2d-4293-817e-036774387fbe,45afe5b5-4f09-4ebe-bfd0-3eb3a612df32,survey_444,Madagascar,Savagestad,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:39:46,field_tool,5,Good,3,High,2
+abc3c101-a209-4fda-be72-71c6e21bfc84,d70dbe88-2376-4897-98ee-7c3edbeb7b46,survey_904,Madagascar,West Brian,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:43:03,field_tool,3,Neutral,3,Medium,5
+5ab5e2fe-1ae1-4335-a85a-54a8c8300c3b,604b44b4-dc18-4679-9ffe-580ca0dd3770,survey_933,Madagascar,Huffstad,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:39:55,field_tool,4,Good,1,High,3
+70b678d6-717e-417f-8fb1-026c7b06975d,05547631-9e19-4a38-9951-fab9fc08ed1b,survey_923,Madagascar,Dawnmouth,Female,52.0,Primary,Self-employed,completed,2026-05-14T10:43:20,field_tool,1,Bad,1,High,5
+a538df51-918b-477d-b5fd-11d3bcc65800,e42cfb19-89af-4150-bc15-4f6c546fadc0,survey_993,Madagascar,Port Linda,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:44:34,field_tool,5,Good,1,High,1
+e1d91f59-bc4b-432b-8551-bcc5136f3e21,95694427-3fa7-4532-b7a5-5627b3156457,survey_770,Madagascar,New Kyleview,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:41:36,field_tool,1,Neutral,5,High,5
+5794febc-5bfd-4de3-b229-8731a5ff4f76,9123abaa-e057-48d9-a6e7-281c762ff30f,survey_208,Madagascar,Lake Jamesberg,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:40:23,field_tool,1,Bad,2,Medium,2
+60cba904-d596-4bd5-8ae5-d7952aabdd8a,c6aac509-c458-4e09-8a6d-fdd1b1a3d474,survey_256,Madagascar,Mortontown,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:44:44,field_tool,1,Neutral,2,Low,5
+830fbc7b-c741-428c-bdd1-bc91c5b4e313,74a02c1f-2359-42b8-86e3-592e1fef945f,survey_182,Madagascar,Knoxview,Female,25.0,Tertiary,Unemployed,completed,2026-05-14T10:43:55,field_tool,4,Bad,4,Low,4
+a2dcef06-f99e-4076-9bce-c92e57f20eb9,c4f0333a-c3a3-4738-a8c6-badd123d329f,survey_738,Madagascar,Jacobbury,Male,73.0,Tertiary,Self-employed,completed,2026-05-14T10:41:07,field_tool,1,Good,2,High,1
+f532256e-2b21-481a-9496-12314c2391c5,d03b7607-1303-477e-99c8-2de414a61d46,survey_893,Madagascar,East Samuelchester,Male,48.0,Tertiary,Unemployed,completed,2026-05-14T10:45:25,field_tool,3,Neutral,1,High,4
+f9534a26-6380-4efb-9228-6d023c44fd30,7334602a-7c26-4f12-bc0b-ba0c22376ea7,survey_613,Madagascar,Lake Sarah,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:40:36,field_tool,1,Very Good,5,Medium,1
+1a86843b-6650-4103-b7d0-c364fb1d77a6,db34476b-f2c8-4266-b81d-fd22c864d140,survey_523,Madagascar,North Cheryl,Female,42.0,Secondary,Self-employed,completed,2026-05-14T10:44:16,field_tool,1,Neutral,5,High,2
+c4a3f344-7318-4e15-a2ee-6b982fd43519,435f5f98-ff27-45ed-9905-68703e4d4835,survey_922,Madagascar,Tiffanybury,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:43:52,field_tool,5,Bad,4,Medium,4
+3e4de129-d22f-4371-a231-36ffbed2b063,cb99e4ec-c4ac-41f5-abde-e85c88b4f4c6,survey_962,Madagascar,East Kyleborough,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:41:21,field_tool,4,Neutral,3,Medium,3
+50e23212-5ec2-4263-94e3-ac6e3e3c827f,83d54d0f-2e40-4a61-a1ce-7b6dbce0e405,survey_189,Madagascar,Bakerberg,Female,74.0,Tertiary,Employed,completed,2026-05-14T10:42:47,field_tool,5,Bad,3,High,5
+3361a060-570b-41de-bf64-135c3374da2b,f6e38919-6745-482d-91e4-53fa6ab66c79,survey_350,Madagascar,Gutierrezside,Female,53.0,Secondary,Self-employed,completed,2026-05-14T10:39:58,field_tool,4,Neutral,4,Medium,3
+d31e7723-3066-4024-a0de-da8244f6d280,556ae7e8-f55c-4fcc-a88c-ba61bf7794e1,survey_106,Madagascar,North Brandonstad,Female,23.0,Primary,Employed,completed,2026-05-14T10:44:25,field_tool,3,Good,5,Low,5
+af6766df-ffce-431b-8de3-7f6bafae8815,ebb5f565-5984-45ea-a858-135193658944,survey_781,Madagascar,New Darrell,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:43:41,field_tool,2,Bad,4,Low,4
+428c0dc8-7b02-408b-a2dc-5940a13d6aa8,e47ad260-dd7b-4534-9f5a-04d9d5094d65,survey_963,Madagascar,North Melissaview,Female,39.0,Secondary,Employed,completed,2026-05-14T10:41:34,field_tool,3,Very Good,5,Low,1
+d56cac5c-55dd-48da-83ae-d0411c00a3dd,b032e7a7-fccb-4080-8b22-b6abaf41c896,survey_256,Madagascar,Shawnville,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:44:27,field_tool,3,Bad,5,High,1
+e8e0a3a9-08d1-43d9-8d10-69111862ffbd,7b1b5179-f61c-49ea-8ca0-75f1a2bd982b,survey_647,Madagascar,Oliverview,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:44:58,field_tool,4,Good,3,Low,5
+ba557c34-fa07-43cf-8488-103e3ba2ac61,1b4be7d4-eb74-48d0-b957-573ced28714b,survey_601,Madagascar,Nicholehaven,Female,52.0,Tertiary,Employed,completed,2026-05-14T10:40:39,field_tool,5,Very Good,5,Low,5
+bd78772c-1d03-4bc7-8322-2acef6722cc9,d7c957f4-c1f8-45f0-ab71-d86758f93c7d,survey_547,Madagascar,West Josephchester,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:40:28,field_tool,5,Good,5,Medium,1
+eaf4c60f-780a-4656-8deb-96ee4ce44827,980ad348-a866-4a2e-98bc-3897e37b9de3,survey_462,Madagascar,Johnnymouth,Female,19.0,Tertiary,Employed,completed,2026-05-14T10:40:28,field_tool,3,Very Good,5,Low,1
+151e226a-2da7-44ca-8615-d1615e925509,d5e770c7-de20-49a7-80f4-60500918bac7,survey_448,Madagascar,Sellerschester,Male,25.0,Primary,Self-employed,completed,2026-05-14T10:40:53,field_tool,1,Bad,3,Low,5
+223be7a5-0282-409e-9d7d-61986532a511,6d9e3fc4-6411-4680-a542-1627e92398e9,survey_704,Madagascar,Kellymouth,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:45:22,field_tool,1,Good,1,Low,1
+5f1156e4-46c8-4e9b-99fd-8c2f7cbd92ad,dfafa7a7-c6fb-42cd-bc25-49265520be1f,survey_782,Madagascar,Robinsonfort,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:43:18,field_tool,2,Very Good,2,Medium,5
+e6d137e3-87d8-454f-a221-3488c993d626,9ee77ae2-9abf-4395-9c4e-c9a16efdc298,survey_117,Madagascar,Christineton,Female,20.0,Tertiary,Self-employed,completed,2026-05-14T10:41:07,field_tool,2,Neutral,4,High,2
+d3c17a47-8efe-4db0-a6c2-52e7acbc4e5e,481527d4-4689-43bb-ba87-b4bca9a72234,survey_620,Madagascar,East Patricia,Female,70.0,Primary,Self-employed,completed,2026-05-14T10:44:28,field_tool,4,Neutral,2,Low,5
+e5c7777a-14b4-41c6-b8d1-ecd8753b7002,2e565f1a-6d89-4394-95b1-fe461a2f2c52,survey_437,Madagascar,South Roy,Female,61.0,Secondary,Unemployed,completed,2026-05-14T10:41:58,field_tool,3,Good,5,Medium,2
+fbbebd5b-e2dd-4bf3-98fa-c9b9d3de7710,9d28c3c2-4f4a-447b-98a5-229582a7c0e9,survey_896,Madagascar,New Deborahville,Male,60.0,Secondary,Self-employed,completed,2026-05-14T10:42:20,field_tool,3,Bad,1,High,3
+119aed8d-37c9-4fa0-833a-c4900cccabc6,8c757197-2900-4b65-a2f1-6201628a972e,survey_786,Madagascar,South Jeffery,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:42:32,field_tool,1,Very Good,3,Low,1
+05284e3e-9c92-415a-aede-d7acc6f35133,a8c1c694-0f4f-4ce6-b0c3-067389995e38,survey_777,Madagascar,Karenborough,Male,73.0,Primary,Self-employed,completed,2026-05-14T10:40:25,field_tool,5,Neutral,1,Low,4
+6d5a828d-a442-48d3-91ce-467739623ea0,a1444998-1502-4053-9c5b-405ba883c5a1,survey_774,Madagascar,North Erica,Male,32.0,Tertiary,Self-employed,completed,2026-05-14T10:41:21,field_tool,5,Very Good,5,Low,2
+7030087a-6d91-449b-b4e3-c044fbfa7a67,d0b2eca0-1d1a-4ed1-ae54-45d3587334f2,survey_938,Madagascar,South Peggyburgh,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:43:49,field_tool,1,Good,2,Low,1
+55fd61d9-7d79-4e0c-bb8d-d02b2dd27019,300a76e6-798d-43e9-8a1e-9b6481babd14,survey_473,Madagascar,Kristophershire,Male,73.0,Secondary,Self-employed,completed,2026-05-14T10:41:19,field_tool,3,Good,5,Medium,3
+18468d4c-94a2-43bc-bee4-94aa4e2573b2,2cfb6830-bf86-4778-abba-41457213ccdf,survey_323,Madagascar,Port Christine,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:40:37,field_tool,1,Good,5,Medium,3
+fcc3346c-3763-459a-9e18-5e68e548dd8f,137e1ba5-6158-464e-837e-dab47b8ac25b,survey_257,Madagascar,Grantburgh,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:42:38,field_tool,2,Good,5,High,1
+ac83aa6f-2a4c-4c90-b27c-605f0ee57a5f,aa91593c-5753-49e7-8bd9-5b6585b19f1b,survey_343,Madagascar,Dorisville,Male,31.0,Primary,Self-employed,completed,2026-05-14T10:41:31,field_tool,1,Neutral,5,Low,4
+18aea6f8-4f31-42fa-83c6-ed3b21add4e8,50682850-c053-4db5-b485-bc0fa2747909,survey_225,Madagascar,Torreshaven,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:43:30,field_tool,2,Very Good,1,Medium,5
+27e419d3-5f51-4289-986c-a8129c8807a8,07117694-461c-4cbb-b26d-9e104eb4b555,survey_663,Madagascar,Leefort,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:40:58,field_tool,2,Good,4,Medium,2
+6c794003-48bb-4d7c-9c0c-9869c95958ab,1ab6f1e7-6b7c-4609-a0e2-cffc931ff2c8,survey_559,Madagascar,Reedmouth,Male,25.0,Tertiary,Self-employed,completed,2026-05-14T10:43:25,field_tool,4,Bad,1,Medium,2
+0fca4676-6c2e-462b-add9-ec5e0eaa0314,cf5cfa46-925d-4178-96fb-32ee7c2fd567,survey_390,Madagascar,South Davidbury,Female,71.0,Tertiary,Employed,completed,2026-05-14T10:42:09,field_tool,2,Bad,5,High,4
+1627aceb-ef14-42a6-a40b-25a658c1b266,1fd39664-542c-4bb8-a63a-a49e4335f7ab,survey_328,Madagascar,New Benjaminmouth,Female,67.0,Primary,Unemployed,completed,2026-05-14T10:41:54,field_tool,5,Very Good,1,Medium,4
+e216ae32-42f4-41fe-a33b-b3a1c024839f,95c46328-13f3-470d-902f-b86255702a6c,survey_355,Madagascar,West Dan,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:40:47,field_tool,5,Neutral,1,High,1
+d77d12ce-d33d-48d7-8466-1dfa77e0dfd1,3ca511a2-6e96-4efc-b54b-eea0838d1c22,survey_493,Madagascar,Amytown,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:40:15,field_tool,1,Neutral,3,Low,4
+e32fa6a8-a604-4507-aa7a-fc62ff476ca5,c5f75564-d84b-4f9d-ad09-5461f67a1b39,survey_216,Madagascar,Lake Shannonfurt,Female,69.0,Tertiary,Unemployed,completed,2026-05-14T10:41:49,field_tool,5,Neutral,1,Low,2
+32006496-ce4e-4797-b63c-4769bb5142b1,4de5b54f-1e07-4f5a-a8fd-c6739b59c5b6,survey_577,Madagascar,Markbury,Male,20.0,Secondary,Unemployed,completed,2026-05-14T10:43:53,field_tool,2,Good,1,Low,4
+d852a849-3fab-4603-ab15-0108e62b2caf,d7d893a8-597b-4de5-b5da-3c0fb068893c,survey_392,Madagascar,North Cole,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:42:45,field_tool,2,Very Good,4,Low,3
+af34796b-cd49-492c-858d-8973f7902863,46adc489-187b-4b2d-9cef-08ae619459bc,survey_673,Madagascar,Everettville,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:42:55,field_tool,3,Neutral,2,High,3
+3bc22a56-7fde-4446-bef4-1caa7c00c657,fe6526a2-4c7d-4b30-b1f2-22f1af54687b,survey_780,Madagascar,West Nicolebury,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:41:17,field_tool,5,Very Good,4,Low,4
+7c1574fd-11a6-44fa-918c-5c2a9cea71d6,f8c4cbe4-e544-44ff-acea-e5d379a4c317,survey_264,Madagascar,Adrianland,Male,29.0,Secondary,Unemployed,completed,2026-05-14T10:41:24,field_tool,3,Bad,2,Low,2
+a7a4d79d-cc67-41a4-8cad-9990c7018b64,7dcc39f3-a119-47cd-925b-161344629d12,survey_375,Madagascar,North Christinefort,Female,63.0,Primary,Employed,completed,2026-05-14T10:40:37,field_tool,3,Bad,5,Medium,5
+37b76f66-c930-4cf7-9156-afb0721a1e6d,a47149ae-7b5f-4478-9fd4-a95392e78e69,survey_255,Madagascar,Lake Susanstad,Female,55.0,Tertiary,Self-employed,completed,2026-05-14T10:40:33,field_tool,4,Very Good,4,Low,1
+f0f17856-7597-4ad5-be24-30e53e9b28f7,194056e1-5bc2-457d-9537-47dd4fc6e149,survey_699,Madagascar,Brandistad,Female,23.0,Secondary,Self-employed,completed,2026-05-14T10:42:28,field_tool,1,Bad,3,Low,5
+e4603912-574e-4d8e-873c-0592f7168e49,8aea1e3c-307e-4c89-8659-75b8883f55e3,survey_646,Madagascar,Mathewsfurt,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:44:22,field_tool,2,Good,2,Medium,3
+2186a5e8-b4c0-4ce8-8bae-4e6fc1fa8257,778d42dd-df3f-4d00-b4a8-3eb60949cf68,survey_440,Madagascar,New Phillip,Male,22.0,Tertiary,Self-employed,completed,2026-05-14T10:40:20,field_tool,2,Bad,5,High,4
+bccfa1f8-b9db-4d7c-b825-77a582dbae90,0cb37c2f-8478-4172-9e73-0f9cd84b9ee2,survey_388,Madagascar,Johnhaven,Female,27.0,Secondary,Employed,completed,2026-05-14T10:44:06,field_tool,1,Very Good,3,Low,5
+0527d84d-3b80-44e6-80cd-d5460b868c6b,d3e92b75-61f3-455d-918e-aee6e28938f4,survey_518,Madagascar,Alyssamouth,Male,46.0,Secondary,Unemployed,completed,2026-05-14T10:41:07,field_tool,1,Bad,4,High,1
+7038ed8d-ed3c-4e7e-80cc-05c2912173d8,e2a7eead-a6f2-43a9-b204-3a24faa21a36,survey_450,Madagascar,Port Brooketon,Male,63.0,Tertiary,Self-employed,completed,2026-05-14T10:43:34,field_tool,3,Very Good,2,Low,5
+41872478-4fee-4fd1-b906-d348ee1ee7d2,4fcd8f99-c9a2-4f76-8479-f3f9ed94cce0,survey_205,Madagascar,Hillmouth,Male,59.0,Primary,Employed,completed,2026-05-14T10:39:42,field_tool,3,Very Good,5,Medium,3
+f70a6189-1248-4572-8d7e-10b3655c787e,01c13e54-a9ba-40a9-859b-09183c7137ee,survey_153,Madagascar,Powersview,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:42:44,field_tool,5,Very Good,3,High,5
+28f199cc-c566-401c-87cb-8986482fd8da,ac9015a6-1fd7-4041-b945-f8edb694b94b,survey_692,Madagascar,New Christopherhaven,Female,24.0,Primary,Employed,completed,2026-05-14T10:43:46,field_tool,4,Very Good,4,Medium,5
+ffa62268-4d33-4beb-9cde-4daa97e83bb9,074d7f27-0d81-4368-b604-4a6a3b13ded2,survey_906,Madagascar,South Danielle,Female,48.0,Primary,Employed,completed,2026-05-14T10:42:54,field_tool,1,Very Good,1,Low,4
+6afd8a84-ed28-4574-86d4-0172a08f3c7b,238275ca-fea3-4e55-b6e9-47c53d398631,survey_413,Madagascar,Whiteborough,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:43:55,field_tool,1,Very Good,1,High,1
+531f74e0-0146-4061-a00c-de7cf12af5f7,9cf4ac32-6d3d-42bf-952d-884c38d3dd5e,survey_328,Madagascar,Brianborough,Male,63.0,Primary,Self-employed,completed,2026-05-14T10:40:55,field_tool,1,Bad,3,Low,3
+bdded554-f317-420b-8d25-859138f693be,e3feb783-62c6-4589-a624-1241eab364a7,survey_164,Madagascar,West Brendaview,Male,20.0,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,5,Very Good,3,High,2
+b4e12506-c95d-48d7-b0d1-75f256cd511a,53ce993e-35f9-442d-9b4c-a3493bdbe287,survey_944,Madagascar,East Robert,Female,55.0,Primary,Unemployed,completed,2026-05-14T10:45:17,field_tool,2,Good,1,Medium,2
+2b9c91bd-771c-4712-ae0f-bc57f4a52ef8,96f6ecd7-429a-463b-9db5-98c1e92f31bd,survey_563,Madagascar,North Tammy,MALE,,Secondary,Unemployed,completed,2026-05-14T10:42:37,field_tool,5,Bad,1,Low,2
+d395658c-0d9e-4c94-9441-cb3cc37cee8c,f546aabc-f61d-49e3-b58f-4c9cdc7894ba,survey_744,Madagascar,Onealport,Female,46.0,Tertiary,Unemployed,completed,2026-05-14T10:42:50,field_tool,2,Neutral,3,High,5
+131fbe7f-2c73-40bd-b16d-7fe3416b9113,a89966aa-ad52-4e85-b1da-666c18b77c57,survey_171,Madagascar,Lisashire,Female,64.0,Secondary,Unemployed,completed,2026-05-14T10:43:23,field_tool,2,Bad,3,High,1
+750a0597-37aa-4038-9e4c-15b8d5589ac0,0f2a1e81-6bba-4d3e-a523-17134bc53a3d,survey_978,Madagascar,Hollowaytown,Male,19.0,Tertiary,Self-employed,completed,2026-05-14T10:44:53,field_tool,5,Very Good,5,Low,5
+d3a460c5-6637-47d2-9aac-7f18fac5715b,75592722-b4e2-4b5a-9f45-66688fc94be7,survey_624,Madagascar,South Jonathan,Female,54.0,Secondary,Unemployed,completed,2026-05-14T10:39:46,field_tool,4,Bad,3,High,2
+3ef42341-310d-476e-9741-98d72f4d1142,42243756-16f7-461e-9073-0fccb35e4126,survey_986,Madagascar,North Sabrina,FEMALE,34.0,Primary,Employed,completed,2026-05-14T10:42:59,field_tool,3,Neutral,2,Medium,5
+c4c8ffcb-ab4a-4fb1-9108-1f4aae2fbde9,11a0e905-ca87-45b5-9754-26a54a7c60bb,survey_738,Madagascar,Lake Jamesstad,Female,52.0,Secondary,Employed,completed,2026-05-14T10:43:15,field_tool,2,Bad,1,Medium,5
+86c41b5d-c07b-4cf4-8ba8-f13daf6d7184,f934c22c-0ca4-4c57-b799-76074f7b0138,survey_990,Madagascar,Lake Michael,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:42:08,field_tool,2,Good,1,High,4
+a17f2eb7-2806-4ffa-86f0-ca38e3b1223f,6d929098-2c5f-4061-9390-54e3e29dc029,survey_588,Madagascar,North Robertside,Male,33.0,Primary,Employed,completed,2026-05-14T10:45:11,field_tool,4,Bad,1,High,2
+72f7a7ee-9de2-49c4-918a-e37a943eecdd,2ad13118-2ee3-48de-a8ac-d847933eae5f,survey_712,Madagascar,New Jordan,Female,74.0,Secondary,Unemployed,completed,2026-05-14T10:42:45,field_tool,4,Neutral,5,Medium,2
+57be8cca-213d-4fcb-bd42-defdcaa1f1bf,e9c80a34-9bf5-4fb0-b666-581fd9d6fd2f,survey_863,Madagascar,New Debbie,Male,22.0,Tertiary,Employed,completed,2026-05-14T10:42:24,field_tool,1,Good,1,Medium,4
+28c8b5d2-5e73-4f41-9689-ac220e9d3678,5e063d28-4cf4-4935-92b8-529cec7dcbe8,survey_939,Madagascar,East Mark,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:45:09,field_tool,2,Very Good,1,High,1
+c8467568-83e8-45fc-9a82-89cae28ac34a,7c73a4a3-de00-421f-875a-e1bd7b8ad72c,survey_934,Madagascar,Gregoryview,Male,21.0,Tertiary,Employed,completed,2026-05-14T10:44:59,field_tool,4,Good,2,Medium,2
+ecc8d58e-c76c-4dbd-83e3-917787f57f0e,65ed1a5a-5af9-4580-b55b-08c471f8a1ce,survey_476,Madagascar,Leroyburgh,Male,72.0,Primary,Employed,completed,2026-05-14T10:44:04,field_tool,4,Good,2,High,2
+a2a22789-a00b-4ae1-a2c7-67c0e20ae7d1,8359b61a-cf6e-470d-86e6-1736d893870b,survey_368,Madagascar,Wandaborough,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:44:15,field_tool,2,Bad,5,Medium,4
+6e94716c-6cae-43d5-b1b4-758f9551150e,686847bf-7d8e-404a-ad9b-c06c3029c495,survey_753,Madagascar,Reedmouth,Female,56.0,Secondary,Unemployed,completed,2026-05-14T10:40:10,field_tool,2,Very Good,3,Low,5
+8b6239c7-07d2-4adf-9fcb-8fcd7aa2b520,00d52f8c-bc35-45d9-948d-83ea35ce13ad,survey_531,Madagascar,East Davidland,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:41:46,field_tool,5,Good,4,Low,5
+c26f7146-4c8c-42ff-8eae-31ce3383b047,eecb5ee9-c29a-47c4-a4dd-c4b63978cc92,survey_318,Madagascar,Kellyborough,Female,35.0,Secondary,Employed,completed,2026-05-14T10:45:09,field_tool,3,Good,3,High,2
+c185bb68-ae6a-4959-8d4c-6448e91d4848,43002211-c900-4d26-ae27-0c4ac6eb726e,survey_362,Madagascar,North Kevin,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:44:02,field_tool,4,Very Good,1,High,2
+35fbee41-60f1-4b83-bb55-e569515b8123,55f6b5b8-caf2-4275-9314-266336e84b8b,survey_999,Madagascar,Ericamouth,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:43:33,field_tool,5,Good,3,Medium,4
+72df42ef-e6f9-4e8e-88c3-3a2763c82498,86c0aeb8-81a8-4509-905b-9e0e49dda9a7,survey_564,Madagascar,New Roger,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:44:07,field_tool,5,Bad,1,High,1
+863167c8-4fe0-45ce-8952-99a734e29027,b1713826-8fda-4f62-b340-1a91f878339c,survey_129,Madagascar,West Edward,Male,54.0,Secondary,Employed,completed,2026-05-14T10:42:07,field_tool,5,Good,5,Low,2
+bb7df64a-7cde-421a-9ba6-666b4ae5529e,db6c17f0-9f8d-4722-8931-e9c63712c5e4,survey_800,Madagascar,West Hannah,MALE,24.0,Primary,Self-employed,completed,2026-05-14T10:42:34,field_tool,4,Very Good,5,Low,1
+9e7a3b4a-02d6-47f7-98bd-b10a0e8b56b7,5a1ad46b-1066-4b2b-b6e7-acc22c41d15b,survey_580,Madagascar,South Jamesport,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:42:55,field_tool,2,Very Good,2,Low,5
+2b262952-8e28-43cf-ac2f-ac12e7c07bb0,0570c553-d98e-4c5c-b210-24866b83998f,survey_138,Madagascar,Bentonshire,Male,54.0,Secondary,Employed,completed,2026-05-14T10:45:08,field_tool,2,Very Good,1,Medium,1
+9d5c8683-c3b1-460e-aeeb-af9ce938cb07,bc2030f5-b67f-4b29-8f27-0e2790a8b693,survey_782,Madagascar,Lake Jonathan,Male,46.0,Primary,Self-employed,completed,2026-05-14T10:40:33,field_tool,1,Very Good,5,Low,2
+0963ecad-7210-40de-af6e-534adcaad27a,c78e7048-79cf-4184-9ba1-d255f66578db,survey_878,Madagascar,Robertville,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:39:49,field_tool,1,Bad,5,High,2
+c8b71aa7-26da-4aa5-970c-f203ec443cf3,e8f60dec-aa1a-4b1a-8be2-77e08ba8b1e5,survey_309,Madagascar,North Laurentown,Female,23.0,Tertiary,Self-employed,completed,2026-05-14T10:41:04,field_tool,5,Neutral,1,Low,2
+539796cb-3c0c-4a38-97cf-f2e143417c8a,b73ad3be-1a43-47a9-a3e1-2ed62df468db,survey_392,Madagascar,East Brandi,Male,30.0,Secondary,Employed,completed,2026-05-14T10:42:47,field_tool,2,Very Good,3,High,3
+d73b1cc0-862b-4b39-80bb-d1431755416a,dc33c99b-18b6-4fb4-adca-32841b4ac270,survey_940,Madagascar,Carlsonbury,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:40:50,field_tool,2,Good,5,High,3
+9c07da51-7ac5-4166-add5-34c2f72daf48,5ae7261c-8e34-442c-a73e-204b30e75445,survey_884,Madagascar,Coreyberg,Female,33.0,Primary,Employed,completed,2026-05-14T10:41:05,field_tool,4,Very Good,1,Medium,4
+52d01d57-4774-4963-8e7a-82bf96ae0388,a0bea6cb-3b0d-456c-919f-6e6f68c6d89f,survey_798,Madagascar,South Julia,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:40:46,field_tool,5,Good,4,High,3
+167bb285-886e-44bd-9c91-79a8c23c8b90,51c610a6-439a-400f-8b83-4dad1d216d22,survey_419,Madagascar,South Daniel,Male,37.0,Primary,Self-employed,completed,2026-05-14T10:45:11,field_tool,3,Very Good,4,Low,1
+09689c3d-8df9-4bd3-8dbe-c287daca8b1b,1fe82970-5264-479d-8444-9da1094e271a,survey_607,Madagascar,Freemanmouth,Male,46.0,Tertiary,Self-employed,completed,2026-05-14T10:43:53,field_tool,5,Very Good,5,Medium,4
+4dac1a30-861c-4337-b150-c2da6941cbfa,0840ef45-cf4f-4375-8002-b6c88cea388e,survey_734,Madagascar,Lake Davidstad,Male,25.0,Primary,Employed,completed,2026-05-14T10:44:51,field_tool,3,Neutral,5,Low,4
+f4076be1-cdbd-4f31-bfba-af6ff118171f,6c372f64-2db9-4923-b543-09e119b50cbf,survey_769,Madagascar,Jacobburgh,Female,59.0,Secondary,Unemployed,completed,2026-05-14T10:45:32,field_tool,2,Bad,4,High,5
+fec3acc2-0df2-4739-a4cb-ec364df65a30,5af6fafe-5673-405b-b0af-3df864aba80a,survey_958,Madagascar,Robertton,Female,66.0,Secondary,Self-employed,completed,2026-05-14T10:41:27,field_tool,2,Bad,5,High,5
+37397ce7-ec11-4698-8027-b8f4cf219344,d28bffff-630b-42e9-b79e-b4c331379480,survey_329,Madagascar,North Austin,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:42:35,field_tool,4,Bad,4,Low,2
+0531fcce-15b8-4231-a7af-60a26004c6d8,747a5e1a-914c-4828-9536-9abd71c64623,survey_997,Madagascar,East James,Female,43.0,Primary,Employed,completed,2026-05-14T10:44:21,field_tool,2,Neutral,3,Medium,3
+1818001c-9086-4a0b-bd6a-7bbc797c1512,573a5f79-4b14-43ac-9aa0-3ab719a67e4b,survey_733,Madagascar,Devinside,Female,59.0,Secondary,Self-employed,completed,2026-05-14T10:43:41,field_tool,2,Neutral,4,Medium,5
+30677cdb-8ce8-49ec-a527-990806b006af,29615636-c737-44fa-a38b-12846fe1da1a,survey_502,Madagascar,Smithburgh,Male,42.0,Primary,Employed,completed,2026-05-14T10:41:31,field_tool,1,Neutral,3,High,3
+f552abcc-3690-46a0-ab8f-7eb11f5a26ad,059b51a2-48c0-4edf-adf3-e9c2546953f0,survey_806,Madagascar,North Cindy,Female,55.0,Tertiary,Unemployed,completed,2026-05-14T10:44:56,field_tool,5,Good,4,High,4
+1fdd0622-223f-4971-9cc2-03d989f64da5,9b6694a3-8242-4221-aeff-cf5f88b9176f,survey_393,Madagascar,New Jennifertown,Female,42.0,Tertiary,Unemployed,completed,2026-05-14T10:43:47,field_tool,4,Good,5,High,1
+4627c3a7-1e7c-4aff-908e-1204792842d6,7ed56097-6fc6-44c2-8f88-e7c5b22411f8,survey_780,Madagascar,Hudsonshire,Male,38.0,Secondary,Self-employed,completed,2026-05-14T10:41:32,field_tool,3,Bad,2,High,3
+98facc81-8802-4b79-8b81-8bbf124497be,1bb54ea8-f361-425d-864c-d667aafa4c62,survey_889,Madagascar,Lake Ashleyside,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:45:30,field_tool,1,Good,5,Medium,3
+9a239bdf-36b6-4219-bf9e-33cbd54920f4,1e223b2c-6386-4954-85da-fbdc75caa0aa,survey_565,Madagascar,East Sylvia,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:40:23,field_tool,2,Bad,4,High,3
+402dee97-4d5b-4f17-95ad-3c9d8aabc92d,023f5d87-a982-4e2d-b228-c2c1993f7bd5,survey_181,Madagascar,East Keithstad,Female,26.0,Secondary,Self-employed,completed,2026-05-14T10:42:33,field_tool,4,Very Good,5,Low,1
+a9a95cad-3334-4bcc-810d-40205cd7f68b,e9ade501-d91c-4445-be93-9dd51cf2b75b,survey_873,Madagascar,Aprilfurt,Female,64.0,Primary,Employed,completed,2026-05-14T10:41:32,field_tool,3,Bad,2,Medium,4
+6035adb5-e251-4f90-b4f6-0ceae7ecfe46,73fd3dab-ebdc-463f-ac09-3ee8e60dca71,survey_786,Madagascar,West James,Female,45.0,Primary,Self-employed,completed,2026-05-14T10:41:05,field_tool,2,Bad,4,Medium,1
+9d953f00-b8c4-4d74-bb72-99740f8a81eb,216cbab7-08c5-4c94-b938-30d4e129ffab,survey_284,Madagascar,Ortizchester,Female,26.0,Secondary,Self-employed,completed,2026-05-14T10:43:57,field_tool,1,Bad,3,High,4
+a0ba6550-2480-4595-a497-5825fae917ec,ef6a822a-e337-42e9-8f2d-72e06ec94743,survey_354,Madagascar,Lisaview,Male,55.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,4,Bad,3,Low,2
+106a456d-23c8-4308-97b1-f7f9ff67e230,295c6336-629d-40d9-96c1-bfde11d1242c,survey_478,Madagascar,North Jenniferfurt,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:42:42,field_tool,1,Bad,1,Low,1
+fb8b947d-7a67-4cd5-828e-090674114276,15901156-c128-48bf-992a-b965dcfcc7d0,survey_228,Madagascar,Jaclynview,Female,48.0,Tertiary,Employed,completed,2026-05-14T10:43:37,field_tool,1,Very Good,4,Medium,2
+16ca1541-74fd-4a37-96cc-f8074c0f09f1,ef540fd0-9d17-497d-897c-d8e534ed402f,survey_370,Madagascar,Grossport,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:41:23,field_tool,3,Bad,4,Low,1
+a71fe3c1-f55a-4eb1-a365-bd8b5e806ddd,5a89e4b7-5704-4d39-84a9-21a31403116e,survey_462,Madagascar,Simpsonton,Male,60.0,Tertiary,Self-employed,completed,2026-05-14T10:41:25,field_tool,5,Very Good,1,High,2
+93259509-edf3-4561-bb2e-67a2bd72672f,a941d94a-ff8f-4468-8e16-a39cae29c7f9,survey_356,Madagascar,South Mark,Male,50.0,Primary,Self-employed,completed,2026-05-14T10:43:13,field_tool,5,Bad,1,Medium,4
+dda9a22d-15f9-40f7-b8cf-64ea4b31e62c,a12fef91-ebb0-4699-8ea6-46490a9f2fe2,survey_246,Madagascar,Amymouth,Female,72.0,Tertiary,Self-employed,completed,2026-05-14T10:44:52,field_tool,3,Neutral,1,Medium,1
+85652641-0805-439b-afe2-e7cb4dafe3b1,de1e4909-54ec-4dd3-bd18-a5433065b97d,survey_582,Madagascar,Jamesburgh,Female,31.0,Primary,Self-employed,completed,2026-05-14T10:41:17,field_tool,1,Bad,5,Medium,3
+e609696f-5e7c-4dba-9210-ef842f865c8e,46cb307c-913f-48fd-8301-ab72198e3a3a,survey_154,Madagascar,Garyville,Female,54.0,Secondary,Employed,completed,2026-05-14T10:41:07,field_tool,3,Very Good,3,High,5
+27488ebc-57e7-4898-8843-2ffa0e980968,f71b9634-deac-44ca-b50b-2226587a536e,survey_833,Madagascar,Williamsberg,Female,27.0,Tertiary,Unemployed,completed,2026-05-14T10:45:10,field_tool,4,Neutral,5,High,4
+d61127e8-5911-4941-aa1d-84f9349f006a,c1b02414-0140-4b62-82e2-6ee8f80c098d,survey_355,Madagascar,New Bradleyview,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:40:05,field_tool,2,Very Good,1,Medium,2
+b2fab015-5da5-409b-8aa5-f41aaf48d782,de67901e-df6f-4a8c-9301-d615a73d641e,survey_528,Madagascar,West Davidport,Female,68.0,Secondary,Unemployed,completed,2026-05-14T10:40:34,field_tool,5,Good,5,Low,1
+8194f5cd-32cb-4f7c-b418-4bc82fa44a97,c99d6625-5bb7-4a76-808b-bbfa4ab41453,survey_705,Madagascar,New Michaelland,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:45:41,field_tool,4,Good,4,Low,2
+3ba3affa-9262-4e62-9204-91d5bab48a73,7aacc888-4428-436f-acac-0f363dfca351,survey_477,Madagascar,Jenniferfurt,Female,63.0,Primary,Self-employed,completed,2026-05-14T10:41:33,field_tool,1,Very Good,4,Medium,1

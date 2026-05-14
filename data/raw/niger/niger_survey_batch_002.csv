@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+62b24f70-d39b-4c40-80a6-c22317136759,989242b7-f849-41a7-834c-cca6f7569453,survey_322,Niger,Randallfort,Male,33.0,Primary,Unemployed,completed,2026-05-14T10:42:19,field_tool,5,Very Good,2,Medium,2
+216bf49e-afea-47fa-88be-777e9ca0af0e,5793e816-5350-40fa-b747-779562e82253,survey_211,Niger,West Shannonland,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:44:34,field_tool,4,Very Good,5,Medium,2
+8d0d4b42-255f-4de3-a2b5-d75a1d247378,20bfff5a-4127-4c12-bb6f-4fd0444a1b52,survey_321,Niger,Joshuaberg,Male,58.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,2,Neutral,5,Medium,3
+368f35e1-f402-41b2-8eee-e2782d7cc01a,f249b259-0241-4762-aa5c-663f51a3b799,survey_849,Niger,Judyland,Male,62.0,Secondary,Self-employed,completed,2026-05-14T10:40:23,field_tool,2,Good,1,Medium,3
+3b4ca67b-86c7-46e5-94b3-0118d9449c86,92341486-cb1e-4531-8e6b-8c6b5c409787,survey_755,Niger,Shannonstad,Female,67.0,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,2,Neutral,3,High,5
+213e970a-b837-4bae-b83f-748d5f262aeb,eacb5e08-6c4f-4103-8bd1-38d5afc8a5f5,survey_260,Niger,Jasonburgh,Female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:42:37,field_tool,2,Good,1,Medium,1
+986dcf82-f59c-4a2d-a2e9-a081a0d9c19d,fb9fba98-2718-41f7-a77f-df8d4ce04907,survey_658,Niger,Port Walter,Female,23.0,Primary,Unemployed,completed,2026-05-14T10:39:54,field_tool,2,Bad,1,Medium,4
+e255c927-c71a-44f4-a290-7030ea6d2a00,27304be5-b4b6-4b3b-ba6b-7a56a77b094a,survey_593,Niger,Smithshire,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:43:48,field_tool,5,Good,1,Medium,2
+6a8d29ae-e3a0-4ea2-866f-79dc603b5301,bf0995a9-b396-4d76-bd8c-60d9a5b2e4f0,survey_399,Niger,Kimtown,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:42:28,field_tool,1,Very Good,1,High,3
+e8721d3b-336d-42d3-bf41-cf69a495acfb,b11033c7-6c91-4e6f-9814-fd8774c109b5,survey_955,Niger,Caldwellborough,female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,3,Bad,3,Medium,1
+839fa6fa-18db-4173-9df7-2b7a7a80a69b,092fd83b-29bd-4d23-9838-a141c2342bf2,survey_752,Niger,New Andreamouth,FEMALE,75.0,Primary,Self-employed,completed,2026-05-14T10:43:05,field_tool,3,Good,2,Medium,1
+63a1364f-e7f1-40fe-b0db-1ca43e0cfc72,0d434750-15cb-4de0-9702-3aabdd4e7ba6,survey_424,Niger,Huffborough,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:40:02,field_tool,5,Neutral,3,Medium,5
+5aaa2741-328d-429d-bf63-0273a3cd7c68,e52cc096-84a8-4f37-92c6-733c29dd2dfb,survey_399,Niger,Colemanstad,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:41:47,field_tool,5,Very Good,2,Medium,3
+0b75648a-eb48-49c6-9466-609eb62f7c2a,a8aff9ec-b3ef-49af-bdf1-58015d5d0dee,survey_711,Niger,New Marilynshire,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:44:24,field_tool,3,Good,3,Low,2
+f94d3cdb-6e50-421d-9cc9-63eae101e6a1,e8601ed6-d8ce-4235-91bf-a7e15aae6047,survey_207,Niger,Harveyville,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:45:19,field_tool,4,Neutral,2,High,5
+4ee2d71c-598d-4998-914e-37e9afacf24e,43ffe6e1-149a-429e-a882-3b7b716e6e22,survey_945,Niger,Hawkinsburgh,Female,43.0,Secondary,Employed,completed,2026-05-14T10:45:08,field_tool,4,Bad,5,High,3
+5f163273-f4c9-4490-a1e3-2f79fe1559a0,ca813b8d-b521-434f-8e7a-a9fa3c43f4a7,survey_648,Niger,Michaelstad,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:40:35,field_tool,5,Bad,3,Medium,3
+c61ef7d3-2e7d-4efa-9bd6-290be33db182,e084195c-ab48-4a2f-86e8-b3b107773bbc,survey_747,Niger,West Richard,FEMALE,26.0,Primary,Self-employed,completed,2026-05-14T10:43:27,field_tool,1,Very Good,2,Low,4
+7aa62899-8d08-491c-aae9-f552a0c98737,d0381780-8199-4aee-8c82-68613c6de7c4,survey_797,Niger,West Amytown,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:44:13,field_tool,3,Bad,2,Low,5
+df1cc96b-7164-45d6-89ea-1b6944d8545f,7c051e18-bb16-4524-ac2f-6ed917890c9a,survey_798,Niger,Port Travis,Female,66.0,Secondary,Unemployed,completed,2026-05-14T10:42:05,field_tool,4,Bad,3,Medium,2
+e00fc3e4-1048-4bd3-ab45-5a0df8a4ddca,1480b27a-0a80-47d0-839b-4d8a6e39efc2,survey_139,Niger,North Michaelchester,Female,38.0,Primary,Self-employed,completed,2026-05-14T10:41:43,field_tool,3,Neutral,5,Medium,5
+8111d78f-ac3d-47e4-aff4-13a3ab45399d,f972a1e7-1ed7-4e6f-a1b4-98d7f0c0e07e,survey_772,Niger,North Jessicahaven,Female,54.0,Primary,Employed,completed,2026-05-14T10:41:59,field_tool,2,Very Good,2,Low,1
+7f31606a-7fe8-4ed7-9380-c6b07a7c4e78,74d20c54-574d-4b56-9ec9-3ee98b6f0495,survey_358,Niger,Port Carrie,Male,50.0,Primary,Employed,completed,2026-05-14T10:41:37,field_tool,5,Good,4,Low,5
+f747ae90-3711-4fd0-998f-964aac0552e5,19f0bb35-8489-4a2e-9555-b104d55cad38,survey_356,Niger,West Andrew,Male,69.0,Tertiary,Self-employed,completed,2026-05-14T10:42:09,field_tool,5,Very Good,4,High,2
+1eef06c0-7f28-47dd-b309-553e14ec5578,95240ab3-62da-4559-a7e8-089c7db90373,survey_617,Niger,Hillview,Male,58.0,Secondary,Self-employed,completed,2026-05-14T10:43:23,field_tool,5,Neutral,4,Medium,5
+fcea9dd8-3bc5-4684-8cc5-e6f954b4be1a,9d6c451a-54ed-4d3c-940d-37a71649b12c,survey_994,Niger,North Danielmouth,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:41:09,field_tool,3,Very Good,3,Medium,4
+ccef9051-7010-4c7b-a1c3-40599562ee88,716b7101-ede3-4af3-92f3-b9b3eb59fcc0,survey_270,Niger,South Elizabethtown,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:42:03,field_tool,2,Bad,3,High,3
+9e3d00ca-c47f-4af2-b80d-b6d84855e86c,193576a1-ebda-414b-ac6f-267a30089312,survey_522,Niger,East Williammouth,Male,59.0,Primary,Self-employed,completed,2026-05-14T10:42:28,field_tool,1,Good,4,Medium,4
+2b84138a-9dfc-4671-9517-c911ad4f047b,30e640e6-9067-4809-a855-dc9b01d03824,survey_968,Niger,Lake Aaronchester,Male,53.0,Secondary,Self-employed,completed,2026-05-14T10:40:36,field_tool,2,Good,2,Low,2
+45727096-02b9-44e5-80a8-ccc04431122b,57410856-39c6-4f3b-bb5b-f1aefd8058a2,survey_748,Niger,Elizabethfort,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:40:45,field_tool,2,Good,2,High,4
+9c17241c-212c-40ae-813f-64b0f6f5a13f,7112728a-7a2d-4f28-ba77-898be1934b27,survey_905,Niger,Port Daniel,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:42:58,field_tool,5,Good,3,Medium,5
+331f8532-efef-4a9a-8366-7241684f8277,e48c5c85-0f1f-48b4-89f8-3339fa35db5e,survey_444,Niger,Port Paulburgh,Male,31.0,Secondary,Employed,completed,2026-05-14T10:42:27,field_tool,4,Bad,2,High,1
+3123c2e1-3da8-4816-a61e-6dd2ff30a485,f5868ed7-3224-48f3-9798-d0c490539e55,survey_273,Niger,Michaelmouth,Female,49.0,Primary,Employed,completed,2026-05-14T10:44:56,field_tool,1,Bad,5,Low,4
+dc486126-4115-47fc-9ba5-e67c7d6878dc,88bacc54-23a4-4c1d-b91e-54c5c0571bda,survey_169,Niger,New Maryborough,Male,38.0,Secondary,Unemployed,completed,2026-05-14T10:43:56,field_tool,5,Very Good,4,Low,1
+2721876f-8946-4588-a722-f7cd6759d6cb,590d2cba-9352-48bf-921f-611c27a4118b,survey_183,Niger,Rodriguezside,FEMALE,72.0,Secondary,Self-employed,completed,2026-05-14T10:44:49,field_tool,4,Very Good,4,Low,3
+4f95eefd-0513-4ba1-a69f-19a85938860b,337477f0-8fe5-4882-93c5-7f3ef1b4b094,survey_864,Niger,Santiagotown,Female,60.0,Primary,Self-employed,completed,2026-05-14T10:40:37,field_tool,5,Neutral,1,High,1
+a9b725d3-8768-444f-ba78-418e2d143871,1ffca390-ed26-4b03-8dbd-7ba84e4d354a,survey_656,Niger,East Tylerbury,Female,63.0,Tertiary,Employed,completed,2026-05-14T10:43:06,field_tool,2,Very Good,1,Medium,4
+fc8d1018-4b6d-427f-af3a-758dcbd86e94,67c333c6-b728-496d-86d9-8a23dfa8b4bf,survey_234,Niger,Vanessafort,Male,39.0,Primary,Employed,completed,2026-05-14T10:43:06,field_tool,5,Neutral,5,High,3
+ecaf4d54-f00e-4bfd-a4a3-c7ddf1c2064e,c86a9de3-a120-49dc-bdd8-d53a114f7a6f,survey_267,Niger,West Tiffanyfort,MALE,48.0,Tertiary,Unemployed,completed,2026-05-14T10:41:11,field_tool,5,Very Good,5,Medium,4
+634e0240-a227-4de6-8bcf-86456aa70e91,7fbaac8f-e52c-4365-aee7-1f3c3085f763,survey_220,Niger,Lanceborough,Female,23.0,Primary,Employed,completed,2026-05-14T10:42:29,field_tool,4,Good,2,Low,4
+494a5516-f6b2-4fb4-8b6e-80016d439953,8e3507a8-7b70-4993-b8e2-ced84e4e0ebe,survey_204,Niger,North Luischester,Female,38.0,Tertiary,Employed,completed,2026-05-14T10:45:19,field_tool,1,Good,5,High,4
+4321edb4-2d5b-4199-a653-40f75ae65ad4,888ffd21-4bf9-4a59-bd7d-38e402ce85f6,survey_180,Niger,Knightborough,Female,65.0,Tertiary,Employed,completed,2026-05-14T10:42:35,field_tool,4,Neutral,4,Low,2
+e8d22f50-f192-4058-8a0d-4e81a80a58bd,301288d3-85a2-4167-a950-4c9a83a298d2,survey_814,Niger,Ballview,Male,47.0,Secondary,Employed,completed,2026-05-14T10:43:32,field_tool,2,Neutral,5,Low,4
+b6db849b-f5d8-441d-b4b8-9b7920ca4220,f0f284f9-fd60-4e5a-9cb5-20be995e874f,survey_573,Niger,Yodermouth,Male,62.0,Secondary,Employed,completed,2026-05-14T10:44:35,field_tool,1,Neutral,4,Medium,3
+8d7c1b3d-733a-4171-9491-74f99e6f9c94,4d2411b1-4888-426a-94b1-4fc5a46a4eab,survey_937,Niger,Michaelbury,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:41:14,field_tool,4,Very Good,1,Low,5
+6cc592ce-b5db-40c7-a537-8e420e7d8c26,262b6fb6-1f9c-40a5-b229-5b3bb5eac61c,survey_563,Niger,Cynthiashire,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:40:40,field_tool,1,Very Good,4,High,5
+363cd62d-cc03-4c02-97d3-81c323d93168,28bff850-d2b7-4773-815d-fcdec3445159,survey_624,Niger,Bakermouth,Female,29.0,Tertiary,Employed,completed,2026-05-14T10:44:01,field_tool,4,Good,5,Low,3
+f70b876b-7199-438e-a54c-3c2913cb3727,c90c1de2-5c20-4d89-9a54-e3939075a918,survey_395,Niger,Floresmouth,Male,24.0,Primary,Self-employed,completed,2026-05-14T10:45:30,field_tool,3,Neutral,2,Low,5
+d1a56b37-a20a-4526-964f-80c83cd9a610,7b7d57a6-cdde-4ec8-a68f-14708ac46af2,survey_251,Niger,South Jacqueline,Female,75.0,Secondary,Employed,completed,2026-05-14T10:39:54,field_tool,5,Very Good,1,Low,4
+81d0bd28-b14b-49c5-8a75-3d72cda95a37,81f15e92-6fa4-4207-9d49-88ea4214dd36,survey_464,Niger,New Heather,Male,52.0,Primary,Self-employed,completed,2026-05-14T10:41:08,field_tool,1,Bad,1,Medium,1
+9c2aee4f-c9f3-42dc-975a-572075580ceb,dfcc93c7-8619-4ac5-9e80-11544420ba87,survey_991,Niger,Sarahport,Female,32.0,Primary,Self-employed,completed,2026-05-14T10:44:11,field_tool,3,Bad,2,Medium,3
+0d5a2763-a26c-4296-8dc8-8b202cc6f176,02ed1977-0f16-4b31-9dd1-2afe964024e5,survey_808,Niger,Smithfort,Male,56.0,Secondary,Employed,completed,2026-05-14T10:39:49,field_tool,3,Neutral,2,High,5
+44f5aa65-d667-4333-9abe-9e9fce4f5ab9,7e8cdc06-b516-49d7-8681-d973db3f4b09,survey_674,Niger,Krauseview,FEMALE,19.0,Tertiary,Self-employed,completed,2026-05-14T10:39:58,field_tool,2,Very Good,5,Medium,1
+c9171594-d5e5-4a12-87ca-6c0216d67488,8f3f2858-20a0-4b23-bfb9-a43382209e1e,survey_474,Niger,Port Jason,Male,32.0,Primary,Employed,completed,2026-05-14T10:40:09,field_tool,4,Very Good,5,High,4
+fe6645e0-c56c-4738-9466-795c9b71439d,2ec59bf4-93f7-4f7d-ac7b-613407ea96d6,survey_299,Niger,Robinsonhaven,Female,74.0,Tertiary,Unemployed,completed,2026-05-14T10:42:27,field_tool,4,Bad,2,High,3
+9f82a318-6298-40c7-8573-898c7029312f,99dfceb1-e496-4f41-8ee5-f73e27375831,survey_722,Niger,Port Logan,Male,22.0,Tertiary,Employed,completed,2026-05-14T10:39:55,field_tool,4,Neutral,1,Low,4
+384f40b3-bc30-4207-b0d5-83518f152679,f3778343-b693-45e4-a469-040cd36e7e6e,survey_626,Niger,Byrdburgh,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:40:17,field_tool,2,Neutral,4,Medium,2
+096f96aa-5dc4-4297-b41b-ae22d0fbced6,7d4e6c7d-5a40-4f24-aaf8-e6e78aa06210,survey_896,Niger,Port Michaelfort,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:41:41,field_tool,4,Bad,1,Medium,2
+59678282-1fa2-4b89-b397-af70b732f955,7aefa958-f41c-4be4-9f7c-8e65b9304ccd,survey_263,Niger,Johnfurt,Male,48.0,Primary,Unemployed,completed,2026-05-14T10:41:39,field_tool,5,Neutral,1,High,2
+8de9fa06-223f-40bc-9433-1e54956b1d38,c5365216-89fd-4fb2-b1dd-a2729bde0388,survey_802,Niger,Rioston,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:41:35,field_tool,3,Neutral,1,Low,3
+d81deadb-91b2-4a29-8c97-da7214eaf6ea,db270a60-d000-4543-9dd0-0f876483a0a5,survey_988,Niger,Johnchester,Male,31.0,Primary,Unemployed,completed,2026-05-14T10:44:17,field_tool,5,Neutral,2,High,2
+f8ba4ea7-b860-49e0-ade3-1b9d1635ae3b,95bee1d7-cdc2-4ba8-a8eb-e4802a74ae57,survey_495,Niger,East Robert,Male,50.0,Tertiary,Self-employed,completed,2026-05-14T10:40:20,field_tool,2,Neutral,4,Low,1
+16448a1b-225f-4028-a5ed-e84ebdcc71ff,1ba2e6ed-70fa-4d81-9601-533296197b57,survey_874,Niger,Kelleyborough,Female,45.0,Primary,Self-employed,completed,2026-05-14T10:39:48,field_tool,3,Very Good,5,Low,4
+ca2865b4-c825-456c-a1e7-72a57ec66446,0736d293-31b3-4a34-b133-ed550d1c8dfd,survey_760,Niger,Nicholasview,Female,22.0,Tertiary,Employed,completed,2026-05-14T10:40:24,field_tool,5,Bad,3,Low,2
+9d886658-8d99-4252-affc-6076c17c5188,677d50df-9830-4218-8da1-582552553cd2,survey_744,Niger,Singletonhaven,FEMALE,24.0,Secondary,Self-employed,completed,2026-05-14T10:40:59,field_tool,5,Neutral,3,Medium,4
+fb4e342e-e6d1-42ed-bba9-adf9cd93c006,7412e3a7-8bd3-495a-91a8-a9bda815941b,survey_178,Niger,Rebeccaside,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,5,Bad,5,High,4
+e6d8d8d4-c016-40d7-bb88-3511315a41e9,31207846-aeea-4d7c-af08-5b77ea56c430,survey_628,Niger,New Oliviabury,Male,71.0,Secondary,Employed,completed,2026-05-14T10:45:26,field_tool,2,Good,3,Low,5
+8d5d410c-d50f-4a7a-a6e4-f6c21d068780,bfe4bbe3-bee4-4562-84a6-74719e5613a1,survey_381,Niger,Port Christopher,Female,75.0,Secondary,Unemployed,completed,2026-05-14T10:43:54,field_tool,5,Good,5,High,3
+fba0a1a0-ac9d-4d5b-bb75-3f1b2abe70fb,eca65892-a318-4f5c-9034-65033d572a9e,survey_577,Niger,North Amanda,Male,56.0,Tertiary,Employed,completed,2026-05-14T10:41:30,field_tool,2,Bad,5,High,2
+fc4faf16-ac01-48ce-b59b-8f40507b0a6f,1988eb02-eada-4151-a913-bfedb3b40855,survey_669,Niger,Parkberg,Male,44.0,Secondary,Employed,completed,2026-05-14T10:44:00,field_tool,4,Neutral,1,Medium,5
+51d86169-032c-4ce9-962a-1e88293a16b5,78f4820d-49fb-45ee-96f0-e2127818f68d,survey_182,Niger,North Teresa,MALE,46.0,Primary,Self-employed,completed,2026-05-14T10:39:50,field_tool,1,Very Good,3,Low,3
+91dacd40-cddc-4085-b97f-f2563cf1c018,20f7e3c2-d313-46b6-8151-fa4597ebda88,survey_344,Niger,Port Kellyville,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:43:11,field_tool,1,Very Good,2,Medium,4
+d629b5c2-3365-46ec-8dde-3d4c6d30dfb3,3ff67eb1-3067-4423-9045-f24c186a39e2,survey_508,Niger,Hintonside,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:44:24,field_tool,5,Good,4,Low,5
+e40ecd5e-c961-44e4-a688-cf82ccd84016,d3e03e2b-bc81-45d9-90a5-1d27afbfa65e,survey_513,Niger,Timothyton,FEMALE,62.0,Secondary,Self-employed,completed,2026-05-14T10:40:35,field_tool,5,Good,3,Medium,2
+4fd3a418-6ec9-4281-9b3d-fa1a263adf3a,e1ca280a-bfc6-43aa-8b2c-d5035f616d2e,survey_214,Niger,Kennedyshire,Male,60.0,Tertiary,Unemployed,completed,2026-05-14T10:43:15,field_tool,5,Neutral,4,High,3
+b3b2591e-029e-4f38-b145-ff69186d2033,6ecf29e2-a4e6-4d86-a8d6-1f28592dccd6,survey_962,Niger,Port Jane,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:41:07,field_tool,1,Neutral,4,Medium,3
+d7626a2b-afcb-4e08-a62b-c7ab9a365a24,e64a6283-680d-4e1a-95ea-3ef9abb5779e,survey_225,Niger,Mendezton,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:41:27,field_tool,4,Very Good,4,Medium,5
+985fd35d-7d2d-4590-8f6d-0317b43a88d1,71749364-acec-4066-a47b-392c237fe3fe,survey_648,Niger,New Julie,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:44:32,field_tool,1,Neutral,3,Medium,2
+5f8ff4d3-0aa8-453f-b7b9-c48b31595c3b,62625012-6f3c-4ce8-a806-ee9bc22c6ecd,survey_254,Niger,New Andrew,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:40:17,field_tool,4,Very Good,1,Low,4
+54a82198-6552-4a55-8ef9-e65cdeffb643,4822cee1-eff9-4687-b4e0-ebef340eabe4,survey_994,Niger,Port Erikborough,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:44:43,field_tool,2,Neutral,5,High,1
+016d1947-1360-42a8-a341-73af2e9f636e,a81fc504-124b-483c-aef9-06d4ecaf7098,survey_212,Niger,Cooperfurt,Female,31.0,Tertiary,Employed,completed,2026-05-14T10:43:51,field_tool,3,Very Good,1,Medium,4
+6091d9df-bce0-4e49-9619-798f0f7cae6b,56c1ccf3-f78b-4360-8078-6bfc36a1833d,survey_159,Niger,Lake Amandaberg,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:45:38,field_tool,1,Good,4,Low,2
+4781ea5b-2cef-4553-baa1-eda089b46dbf,b7338cff-d7a2-4da9-8289-ec3fdd7bc3a2,survey_970,Niger,Troybury,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:39:54,field_tool,2,Neutral,2,Low,1
+4c0261f3-c4c1-4c15-bc36-89d44a1a87a0,4363e8f0-216f-4133-97c2-76c7185af6ed,survey_117,Niger,Port Seanhaven,Female,35.0,Primary,Unemployed,completed,2026-05-14T10:44:14,field_tool,4,Bad,4,High,2
+14aac200-383c-4f1e-86f0-ccbb9bd79cb0,de5f9c7a-1956-4f51-873f-a4742d37e216,survey_312,Niger,Lake Madeline,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:42:43,field_tool,1,Very Good,2,High,2
+7d26b601-f58c-4a4c-bcbb-7929ec3cee6d,07f40d53-25a8-4721-b7a0-7cb96b524469,survey_437,Niger,Sheltonland,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:45:13,field_tool,1,Good,1,Medium,5
+7d56f708-05ee-499e-8ef5-c505fda286c3,454627c1-1bff-4682-84b9-b3d3969b974c,survey_211,Niger,Walkerview,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:40:54,field_tool,3,Bad,2,High,1
+9ca810ab-e6e8-4e6e-9b9c-6442c73f563a,e0fd0b54-ef44-45e7-ac4a-3dc877bb6fb1,survey_956,Niger,North Zachary,Male,19.0,Tertiary,Unemployed,completed,2026-05-14T10:42:51,field_tool,2,Bad,1,High,5
+b23ff0a3-1b05-42bc-a695-634ecf35a5ff,9d6cc794-02a1-4fb9-afb1-bf6e89a5cf1b,survey_509,Niger,Lake Danielland,Female,32.0,Secondary,Self-employed,completed,2026-05-14T10:43:40,field_tool,5,Good,4,High,3
+d859780a-ee2d-431f-abca-493c6d0759f7,8a3e6454-a98b-4a03-8890-b77bd746ed6e,survey_469,Niger,Andersontown,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:43:11,field_tool,3,Neutral,3,High,4
+f518d292-5d0f-4da3-aee0-8418f44ffe57,7b08cee6-6b76-410e-b227-13638951216d,survey_425,Niger,South Wendy,Male,39.0,Secondary,Unemployed,completed,2026-05-14T10:41:45,field_tool,3,Bad,2,Medium,1
+2d769363-1eed-4f6d-8b16-2d407b6b159d,440c709f-98af-4e10-88c2-d417a076cd2e,survey_525,Niger,Port Nathanbury,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:42:46,field_tool,5,Neutral,1,Low,1
+2b809b53-1ebc-4f68-b37c-f49a9f608847,f4ad0ee5-c414-4f8f-854d-48fb96adae22,survey_261,Niger,Lake Tara,Female,36.0,Tertiary,Unemployed,completed,2026-05-14T10:40:14,field_tool,2,Bad,3,High,2
+fef867f9-2d88-4748-8493-9eee0786b24b,d97f1d6b-fd21-4546-a297-0bd1dfa60b03,survey_880,Niger,North Victoriafurt,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:42:51,field_tool,3,Very Good,3,Medium,5
+d7d9e864-cb4a-40b4-a59f-3c13cf7e6252,11e830ba-5ce1-4b63-9b02-f4bce3100a2e,survey_597,Niger,Bakermouth,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:41:04,field_tool,2,Very Good,1,High,1
+05fbbe16-d12b-4868-bd79-da3c3a6f29e5,358acb86-480e-4313-abbb-03a43e29d3e5,survey_452,Niger,Longchester,Male,52.0,Secondary,Self-employed,completed,2026-05-14T10:42:07,field_tool,4,Neutral,4,Medium,3
+a83b5d0d-ef0c-4876-8c04-d69511aad27f,a839433c-8697-4f13-9f29-b187702dcff8,survey_439,Niger,Cynthiamouth,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:45:16,field_tool,4,Good,4,High,3
+925c0941-68bf-433b-ac76-0360915eec47,5bb0717c-3d86-4bd9-b7a3-53ff01fda627,survey_602,Niger,West Patrickton,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:45:42,field_tool,4,Bad,3,High,1
+3e7c3611-4d69-409d-97d8-1e298fb94bec,521c9699-1a2d-47e8-95dd-461dff1d29ce,survey_793,Niger,South Laura,Male,51.0,Primary,Self-employed,completed,2026-05-14T10:43:10,field_tool,2,Good,4,High,2
+12a3c3c6-7662-4aeb-bb8a-18118360b023,cce7de26-9fd6-4fc7-89a6-4a81596d19b1,survey_405,Niger,Johnsonton,Female,45.0,Secondary,Employed,completed,2026-05-14T10:43:35,field_tool,5,Bad,3,Medium,1
+2d2f9282-0cce-4398-9227-0031608aad92,e071c144-5c9a-4fda-95a5-1662d3553244,survey_967,Niger,Rickyborough,Female,56.0,Tertiary,Unemployed,completed,2026-05-14T10:45:39,field_tool,2,Neutral,2,Low,5
+f812405a-756f-46da-9469-8ce566a673f0,e67de150-6a15-4944-a418-7ed09f4356ba,survey_244,Niger,East Lisa,Male,40.0,Secondary,Unemployed,completed,2026-05-14T10:41:11,field_tool,3,Neutral,2,Low,2
+1e9f0d91-1154-41a7-98f2-c232dcb0172d,1f6cf1c6-f685-4e51-9ff5-4cce969017ac,survey_642,Niger,Vanessamouth,Male,42.0,Tertiary,Employed,completed,2026-05-14T10:45:37,field_tool,2,Neutral,1,High,3
+0cda21c5-6f1a-4f4a-a8f6-47bd647a1af6,3c538c8f-606b-400b-a689-73d27c2991c4,survey_754,Niger,Jefferybury,Male,21.0,Secondary,Self-employed,completed,2026-05-14T10:44:49,field_tool,5,Neutral,5,High,3
+d089fe9d-b003-45de-9b7c-ba866c876b50,11c2e148-7f6c-4d53-85fc-a9d894ea89d2,survey_530,Niger,East Robert,Male,69.0,Secondary,Employed,completed,2026-05-14T10:40:02,field_tool,5,Neutral,1,Low,3
+7730fa51-2105-41fd-8707-4afe37db1e21,393f5179-9b61-4210-9e1e-dc146fae96be,survey_592,Niger,Espinozamouth,Female,63.0,Tertiary,Self-employed,completed,2026-05-14T10:45:13,field_tool,3,Bad,2,High,1
+cc8fb00f-9619-4a36-9e11-0ae3bdcc9d3c,1e898c3a-657f-4294-8fca-0f6dfe9a82aa,survey_804,Niger,Kaneton,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:45:11,field_tool,1,Good,1,High,5
+5d71e03e-6cd8-45d2-b6a1-7c3772e1a3b7,cd7d2f94-7738-4737-8c86-118e1499cffe,survey_664,Niger,South Nicoleshire,Female,48.0,Primary,Employed,completed,2026-05-14T10:44:34,field_tool,4,Good,2,High,2
+facc7471-5da2-406b-adfd-41b80709dcb5,a65d737f-4458-4db3-b35a-fa81f660fae7,survey_139,Niger,North Markmouth,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:42:58,field_tool,1,Very Good,1,High,4
+06b6c209-bdaf-451a-b49d-9611f5cba18c,2a2621c1-ad50-463f-83b9-2ddf7cc8d65e,survey_152,Niger,Davidmouth,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:42:03,field_tool,5,Good,1,Medium,3
+d8f4c068-db3c-4489-acf7-32028195c1c0,a3dfcd73-efb8-4ea2-88e7-b68f21b82c79,survey_694,Niger,Richhaven,Female,53.0,Tertiary,Employed,completed,2026-05-14T10:42:14,field_tool,5,Neutral,2,Medium,3
+6a92e242-e785-4f59-b041-9f8af4d2dd7a,1e565b5d-7658-4a75-a236-822e2da5a8fa,survey_422,Niger,Huynhland,Female,53.0,Primary,Unemployed,completed,2026-05-14T10:41:21,field_tool,4,Good,3,Low,2
+266daa99-68f0-4631-b7fb-ac4a53a11037,e1762b11-57c0-4aa0-9817-99e2706bb7d5,survey_743,Niger,Cainside,Female,47.0,Secondary,Unemployed,completed,2026-05-14T10:43:17,field_tool,4,Bad,4,Low,5
+bf68dcca-c084-4939-b296-0df2cd61b18f,c330545e-bf0b-4e83-b0f8-4f44d3301bd1,survey_644,Niger,West Mariachester,female,49.0,Tertiary,Employed,completed,2026-05-14T10:42:04,field_tool,2,Bad,3,High,3
+37aa82a0-9bd5-4257-8551-11d628303650,e3758ae4-9308-4539-8846-55fbeea53ef2,survey_146,Niger,Port Nicholas,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:39,field_tool,5,Very Good,3,Medium,2
+c887a0b5-59b3-44ab-b91b-053cb650c0f4,99110ab2-ebf8-4c62-a582-fbe95096649b,survey_932,Niger,New Williamfort,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:45:36,field_tool,1,Good,2,Low,1
+93d95373-3144-4d2a-b87d-bf55a62ce0d4,0f3fb1bc-0357-485e-b77e-0dcff84f68b5,survey_343,Niger,West Daniel,Male,18.0,Primary,Unemployed,completed,2026-05-14T10:44:13,field_tool,5,Very Good,3,Medium,1
+a6b5cf82-a9ae-42c7-811a-59cc21456ff6,8ed43877-2bcd-4a75-ade2-a9768e4b1e92,survey_488,Niger,Port Rachelton,Female,26.0,Secondary,Self-employed,completed,2026-05-14T10:41:08,field_tool,1,Neutral,5,High,2
+5d22daef-bd17-4d56-823f-d149b277b6fd,3ff66b2e-e972-446d-9368-9a95c07712f2,survey_645,Niger,West Kelly,Male,26.0,Tertiary,Unemployed,completed,2026-05-14T10:40:41,field_tool,4,Good,5,Medium,5
+d5d2d177-6d40-479f-a4dd-3bb5a00d4530,2cb23cf3-2bf5-4868-804b-379df57b875b,survey_105,Niger,North Jeffreyberg,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:40:19,field_tool,3,Neutral,5,Medium,5
+ee35b798-567c-486d-beb7-03afd7422eb7,e1aacd62-a1d6-4d30-865c-4dcd69463e8d,survey_443,Niger,East Samantha,Female,35.0,Secondary,Employed,completed,2026-05-14T10:44:56,field_tool,5,Good,2,High,1
+80ecbe85-bfc1-42d4-af24-0cc752d0057a,00728f82-7566-4d45-b060-5c0deedbadbe,survey_761,Niger,Mcintoshchester,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:41:48,field_tool,5,Good,5,Medium,5
+acc63cdf-0b33-4280-9427-1695ea067e4d,321f22ad-9095-412f-a605-269b3daf44dc,survey_931,Niger,Lake Rachel,Female,34.0,Primary,Employed,completed,2026-05-14T10:39:49,field_tool,1,Bad,5,Low,5
+2c37c3f5-7c14-4373-ad11-e2222b628327,2b934d19-3429-4d82-8f67-2e0c272329c2,survey_521,Niger,Frankberg,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:42:00,field_tool,4,Bad,1,High,4
+79105079-fe41-495a-bbbb-fa11c97617ac,d6df4fe8-63a2-493c-8a72-fb3202244b96,survey_893,Niger,East Joseph,Female,69.0,Primary,Employed,completed,2026-05-14T10:43:50,field_tool,2,Neutral,4,Medium,1
+cd4d0eb6-26b7-4121-b1a6-d2efc8e8142a,872a2158-be0c-491d-8da7-c989f584e869,survey_938,Niger,Williamsfurt,Female,30.0,Primary,Employed,completed,2026-05-14T10:42:00,field_tool,4,Bad,3,Medium,2
+1ce13318-4ed3-4cb2-a2b4-1216c9885120,af35a4db-978f-43a6-9ad5-49f6ccd3799a,survey_616,Niger,West Shawn,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:43:25,field_tool,1,Neutral,4,Medium,5
+956f2d5a-284d-4418-86c0-d3520f148e61,dd296a34-a2d9-4c57-8673-4a079bf00dec,survey_350,Niger,New Alexis,Male,43.0,Primary,Self-employed,completed,2026-05-14T10:41:12,field_tool,4,Good,2,High,3
+63262691-6cbf-4c4d-b1b1-77c54106a88c,b5128ea1-95fb-4be5-a6ac-5d4c76aeb32e,survey_345,Niger,Port Kristinaview,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:42:24,field_tool,5,Neutral,2,High,2
+7768f89f-e096-4957-9e66-e0554728497c,8ed86730-f84e-4e3f-ac23-6c370bfefa35,survey_889,Niger,North Mary,Female,28.0,Secondary,Unemployed,completed,2026-05-14T10:41:09,field_tool,5,Good,2,High,5
+e55833f7-dbaa-40d5-9da9-f09a2817ff37,6ec0bb35-c424-463c-b6d0-dee8c61495ad,survey_197,Niger,South Andrea,Male,72.0,Tertiary,Employed,completed,2026-05-14T10:45:31,field_tool,4,Neutral,2,High,5
+c8697a4e-4641-42c0-a1a6-9cb3f3992651,dd7c4ab2-2945-480c-bdb6-a5299e50dce7,survey_699,Niger,Jasonhaven,Female,57.0,Secondary,Self-employed,completed,2026-05-14T10:41:19,field_tool,1,Neutral,1,High,2
+4ecbc326-9e14-4b60-9987-240150b27cf0,4a21e8ed-7d60-4ab1-a6a4-c10fb2b8f4d7,survey_148,Niger,Jeremiahview,Male,63.0,Tertiary,Self-employed,completed,2026-05-14T10:40:09,field_tool,5,Very Good,5,Medium,5
+a3b0cbfc-78e3-476a-bdd6-37f89f46833c,62753bba-2fb9-414d-bf36-3604133a5cf5,survey_718,Niger,Karenton,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:44:17,field_tool,1,Neutral,3,Medium,2
+0f2c42c6-4cdc-4833-93f4-e28fb38ad70b,32c25187-4ae1-4c94-aa9a-479d581be30b,survey_784,Niger,Lake Albert,Male,28.0,Secondary,Self-employed,completed,2026-05-14T10:42:32,field_tool,5,Bad,1,Medium,1
+fa53fd53-7146-4d4d-b183-ebd790585a99,f5d7d05e-f6dd-4252-9f6b-cfaef4dccdd7,survey_629,Niger,North Dustin,Male,66.0,Primary,Unemployed,completed,2026-05-14T10:41:57,field_tool,4,Bad,5,Medium,1
+e1b2145d-d75d-40ca-8485-1c2dd69caf37,c49ecc69-c2c5-4bd2-bd24-43a284ba3779,survey_885,Niger,South Charlotte,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:43:02,field_tool,2,Good,1,Medium,1
+618f7d71-220f-4675-8bde-a0097cf8cb0e,f8a903ca-50fb-48ec-b091-e948a162120d,survey_969,Niger,Matthewbury,Male,42.0,Tertiary,Self-employed,completed,2026-05-14T10:41:57,field_tool,5,Very Good,2,High,4
+4031a94f-b947-4feb-97eb-0fa93dd71147,542fe6fd-bdf7-4d2a-8efc-5d3babe41d9a,survey_300,Niger,Davidberg,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:41:42,field_tool,3,Neutral,3,High,4
+b5d03e54-9429-406f-a3aa-a7035f012fdf,ea0c5334-efca-4999-a192-f1966f9f4a03,survey_360,Niger,South Isaacstad,Female,53.0,Tertiary,Self-employed,completed,2026-05-14T10:41:16,field_tool,3,Bad,4,High,1
+ec50eb9a-5856-40d1-8a26-db3fff257065,a94f26a6-f0e7-4110-8838-f963392c949b,survey_268,Niger,New Elizabethborough,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:45:33,field_tool,4,Good,5,High,5
+3f984b5a-60ad-4429-a304-1fc4a80ae14d,b454cd84-f93c-4ab0-b13f-20adbf6d96c7,survey_885,Niger,Christinamouth,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:40:57,field_tool,2,Bad,2,Low,4
+edec8921-84b9-4914-906a-4574b8530b68,5b0aa8d8-4075-4be9-83d9-d889c5bad8d3,survey_606,Niger,West Dustin,Female,58.0,Primary,Self-employed,completed,2026-05-14T10:40:13,field_tool,1,Bad,5,Medium,5
+489be411-d238-47f0-8280-4efdcae7d7ef,aec03c17-69df-41a3-aa96-2ee45aa8186e,survey_264,Niger,Harrishaven,Female,45.0,Primary,Self-employed,completed,2026-05-14T10:44:55,field_tool,5,Good,4,Medium,3
+e43e9be9-040d-4af9-985d-68bea85a290a,7398ba25-a51d-4f5a-8328-2caff258013e,survey_394,Niger,Ramseybury,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:40:44,field_tool,2,Good,5,High,3
+f923a72e-4cc9-4f0d-ae80-d7ffd6c14e85,c52fb978-8c5b-4847-b16e-76bda1e0d876,survey_740,Niger,Milesbury,Male,37.0,Primary,Employed,completed,2026-05-14T10:45:20,field_tool,2,Neutral,5,Medium,5
+939cd4a9-a287-4392-9e6e-2ebf1491613c,9c16088b-d033-490e-a9fe-8e07ca82ce12,survey_444,Niger,Kellyton,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:39:55,field_tool,4,Very Good,4,Medium,4
+80edeaa7-0c5a-49d5-9267-7e0ca78564b9,2bd2e9e6-e69e-4c01-bbcf-5e94cfc5ad9d,survey_790,Niger,North Jasmine,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:43:25,field_tool,1,Very Good,3,High,4
+c1e8b51b-f9c9-4cbe-93d6-1dfea7e5e694,fc918a5f-8f1e-4866-b4b0-077bc51e23b6,survey_172,Niger,Richardsville,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:41:03,field_tool,3,Good,2,High,5
+f0b35cfd-9539-4ca7-93b5-7412a0d325e7,dec5b037-f4ca-4cf3-bcec-a94a7a2ef3cd,survey_159,Niger,Port Leetown,Female,53.0,Secondary,Employed,completed,2026-05-14T10:41:04,field_tool,1,Good,2,Medium,5
+a4d8d027-d6be-455a-b2a9-ca63f738dda7,05483597-a202-4911-b0ca-983c7ba0fdad,survey_120,Niger,New Melissa,Male,27.0,Secondary,Self-employed,completed,2026-05-14T10:40:13,field_tool,5,Very Good,3,Medium,1
+1d1e5ca6-a5eb-4e07-b68a-b12a51e9f8b5,09a9b234-ab94-4656-822b-69500de755b1,survey_511,Niger,New Alexander,Male,37.0,Secondary,Unemployed,completed,2026-05-14T10:40:28,field_tool,1,Very Good,4,Medium,3
+d4b21f4b-2bf0-4abd-bf2d-44d069b5105e,0c8966ef-8f23-4e74-8fa2-45dd1c0054f5,survey_459,Niger,New Stephanieside,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:41:09,field_tool,4,Very Good,4,High,4
+d4a3c59f-b047-4032-bebe-445005f309d0,ebbf8941-f571-4881-85dc-b1d61cc379c2,survey_851,Niger,East Melissaside,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:44:14,field_tool,5,Bad,3,High,1
+81289643-a8f5-46c3-950f-8f3c435c3098,55915a3b-1ae6-4fde-82fe-14467b26ae95,survey_215,Niger,West Danielhaven,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:44:40,field_tool,1,Very Good,4,High,3
+fde492a0-22d8-4e67-b6b0-0f04dc1da786,5df367bd-6cea-49c7-a91a-29c6d7b5e4ae,survey_794,Niger,Theresaland,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:43:04,field_tool,3,Very Good,2,Medium,5
+ee222497-59d0-4a1e-b449-27756c41dae9,dd830ad5-4807-4e13-bc71-dd892d1a6739,survey_504,Niger,New Michael,Male,34.0,Primary,Employed,completed,2026-05-14T10:45:29,field_tool,1,Neutral,4,High,4
+540a0b98-d4ae-40a4-b690-2a040f60be14,ea91f2ad-5e48-4c83-9dd8-2c73e5919e95,survey_326,Niger,New Timothy,Male,51.0,Tertiary,Self-employed,completed,2026-05-14T10:44:35,field_tool,4,Good,1,Medium,1
+a65a6938-8ac6-4c3a-a6e7-fb4861b34809,16d98342-94c5-4eac-b37a-50e57a6e194c,survey_273,Niger,Elizabethburgh,Female,29.0,Secondary,Unemployed,completed,2026-05-14T10:41:12,field_tool,1,Bad,3,Medium,3
+ecf4623f-4429-4a12-a519-5dc15b6f2f3e,dc209f47-be8e-496f-b5b8-8728eb8de395,survey_709,Niger,West Anaborough,Female,,Primary,Unemployed,completed,2026-05-14T10:40:53,field_tool,2,Very Good,4,High,4
+89fd0ac4-628c-4eef-a3e2-e0e2ddfdf4a6,7831d846-3a0e-45d4-8529-b98db56c7706,survey_949,Niger,Lake Nicholashaven,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:43:49,field_tool,2,Good,4,Low,3
+5bc943f3-6026-4d00-9ba5-65f3bd32423e,ca5701db-4125-44ac-8fe1-8ed75451480e,survey_952,Niger,Lewisview,Male,18.0,Primary,Employed,completed,2026-05-14T10:41:00,field_tool,1,Neutral,4,High,3
+35414667-ef3d-4f24-8af4-97a15a5d38c2,e821f142-ec64-42f0-8a90-637cff61a0cb,survey_556,Niger,Sullivanport,Male,63.0,Tertiary,Unemployed,completed,2026-05-14T10:43:51,field_tool,2,Bad,4,Low,1
+c3eae3f7-c49f-491b-a078-96e707f3d7af,82bb4ee7-419e-481e-995a-2af42e6e7c83,survey_741,Niger,Erictown,Male,65.0,Tertiary,Self-employed,completed,2026-05-14T10:44:57,field_tool,2,Very Good,3,Medium,4
+eecf5680-6e3e-4168-ae4e-3f3a00f4b780,bef2a213-1b44-4d38-83b9-73bd05e04157,survey_363,Niger,Jeffreyville,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:40:03,field_tool,3,Neutral,2,Medium,4
+cb6c0ca8-7d8c-4cce-b1ae-968c047631ca,a40f097a-6f13-4d34-914d-830af692e2d4,survey_596,Niger,New Scotttown,Female,45.0,Primary,Employed,completed,2026-05-14T10:43:23,field_tool,4,Very Good,2,High,1

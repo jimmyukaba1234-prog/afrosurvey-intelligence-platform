@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+6572a3a4-8450-4f82-a329-c4e6c2342c98,c27e0373-5886-492a-b01b-86a5dda4b594,survey_470,Mozambique,Port Christine,Male,41.0,Secondary,Employed,completed,2026-05-14T10:45:04,field_tool,3,Good,2,Medium,1
+68a3925d-1ac7-420d-964b-43017b1d4144,a5ceda45-a148-4f11-b29c-885b8dfc8f0b,survey_921,Mozambique,Lake Arthur,Male,42.0,Secondary,Self-employed,completed,2026-05-14T10:42:07,field_tool,1,Good,5,High,2
+c8fe13e8-9f83-4900-8129-bd173acaf0eb,25edd4f1-8499-4a0a-b90a-7bcee37f0e34,survey_179,Mozambique,East Tammie,Female,58.0,Primary,Unemployed,completed,2026-05-14T10:44:55,field_tool,1,Very Good,2,Medium,3
+d2f64ea8-e325-4ce6-bf20-e018e58ec872,2e1484eb-cbb0-45b6-9489-2cd1fdce683f,survey_131,Mozambique,Ericafurt,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:44:16,field_tool,5,Very Good,5,Low,1
+4b73c32f-b94b-4ebf-be86-4922d13db5e9,525abf61-aab0-49a0-b8a8-d98f69127cae,survey_947,Mozambique,South Robertville,Male,30.0,Primary,Unemployed,completed,2026-05-14T10:40:26,field_tool,1,Very Good,2,Low,3
+0c869e58-9a5f-4ede-a25d-ee7055c4f6da,86ade6a1-5635-489d-986a-852e66eaf779,survey_244,Mozambique,Gomezland,Female,43.0,Secondary,Unemployed,completed,2026-05-14T10:42:40,field_tool,3,Good,2,Medium,1
+6fdbd73b-7c40-4495-8aa9-8b99293c810d,3ce3b388-0774-4631-a9f9-d330f9b0fa27,survey_204,Mozambique,Michaelside,Male,67.0,Tertiary,Employed,completed,2026-05-14T10:40:35,field_tool,1,Bad,5,Medium,5
+31a3533d-2b91-4be9-8c28-3228c5a9fe93,ad70d469-8b38-4a81-99ba-02bfcd307409,survey_320,Mozambique,Lake Susanton,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:43:15,field_tool,5,Bad,2,Medium,5
+453b0c12-e6fa-45eb-8a98-0410cc7a1c07,5b01cc71-079c-41eb-a784-4e6e665ee416,survey_952,Mozambique,Allisonfort,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:43:48,field_tool,2,Very Good,3,Low,2
+f34886d5-316b-4b8c-81d4-3b6b809bbf33,a3b90f9c-2f8f-4219-8c1b-b9e6a88f01cd,survey_838,Mozambique,East Tamaratown,Female,52.0,Secondary,Employed,completed,2026-05-14T10:40:03,field_tool,2,Bad,5,Low,2
+2c57c079-66c9-48ab-98dc-a255d087e392,bbbfc2de-45fc-43ad-8b6c-39b9899d710a,survey_891,Mozambique,New Austin,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:39:55,field_tool,3,Very Good,5,Medium,4
+d42ec1e5-5efe-4864-9b6a-ba368af924e8,f9e2ae66-6cd0-46e4-bbba-b7dbe7850e75,survey_549,Mozambique,Lake Chelsea,Female,,Primary,Self-employed,completed,2026-05-14T10:41:42,field_tool,2,Neutral,3,Low,5
+578d9316-f6b3-404c-a922-3188db5a2cf7,c74e05e0-2350-4845-8794-ea2c7e799bfb,survey_905,Mozambique,South Brenda,Female,55.0,Primary,Unemployed,completed,2026-05-14T10:40:41,field_tool,5,Bad,1,High,1
+dfdc7dae-9840-4c0d-9fca-00e3efdc1456,9ec499fc-ade5-4204-9a72-271c036f8ab1,survey_882,Mozambique,Batesmouth,Female,68.0,Primary,Employed,completed,2026-05-14T10:41:09,field_tool,2,Very Good,4,Low,1
+0ca69ff2-0b0e-4458-8d18-65b8b63868ab,939322dc-1098-47a3-a02e-5966d4177bc7,survey_970,Mozambique,Port Patricktown,Female,21.0,Primary,Employed,completed,2026-05-14T10:45:35,field_tool,2,Bad,2,Medium,4
+0b4662df-e21b-4432-be56-bde7122fd261,e2a74032-9d13-4461-8280-801fa90408b5,survey_442,Mozambique,South Markchester,Female,52.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,5,Very Good,4,High,2
+dbdef8c8-cffe-4b9a-b58e-277ee454725c,d34550bb-4511-4929-87fc-f70e0abfc0a5,survey_640,Mozambique,Whitemouth,Male,36.0,Primary,Employed,completed,2026-05-14T10:41:24,field_tool,1,Good,2,Low,3
+44f0f93c-b9ee-4850-978f-22b8a52e41f3,aa7b73ff-e3c0-4125-b8c5-140954992a26,survey_726,Mozambique,North Chloemouth,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:44:03,field_tool,3,Bad,2,High,1
+6d35612b-1a63-4fa4-86c9-1775d4c6185c,7c1c6764-1496-4658-a05a-e21f733011c1,survey_723,Mozambique,East Alejandrostad,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:42:30,field_tool,5,Very Good,2,Low,3
+764d788f-05c2-47f8-9637-42e0913e7dd8,03a2b3f1-5d64-4067-a910-5748f0e870f7,survey_807,Mozambique,Lake Amyhaven,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:44:39,field_tool,1,Neutral,4,Low,5
+460f64c7-39c3-440e-8dc5-af65e6da8d1e,0e953e25-fed2-4c02-a854-84820306a789,survey_580,Mozambique,Sarahshire,Male,37.0,Secondary,Unemployed,completed,2026-05-14T10:44:53,field_tool,1,Bad,3,High,1
+0c821be4-9d92-44e4-a016-918b78512710,3991de41-24ff-46f5-8375-5facc414a35d,survey_242,Mozambique,West Michael,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:41:58,field_tool,4,Bad,3,Low,3
+e3c05aa2-d747-4c12-a7a9-e08990bd0644,a5711fdc-33b5-4be1-8d7e-af3fe135efdf,survey_846,Mozambique,West Chelsea,Male,19.0,Secondary,Employed,completed,2026-05-14T10:45:34,field_tool,5,Good,3,High,4
+85ae2a7c-ccf8-4847-9cbe-5720972f1844,a51bc61c-2c93-4e78-b5ef-fe6cc61b11df,survey_917,Mozambique,East Ericaborough,Male,69.0,Primary,Employed,completed,2026-05-14T10:39:46,field_tool,2,Bad,1,Medium,3
+8cbb5a42-1756-4e31-b774-f329f3f8b3b8,a858acc0-83ee-49ba-94bf-9da4241bf952,survey_236,Mozambique,East Heather,Male,60.0,Tertiary,Unemployed,completed,2026-05-14T10:41:34,field_tool,3,Bad,3,High,3
+03fd4f95-0e51-488e-81a3-ce3055eb183b,3d278678-12b0-4044-a104-cb51665fa35a,survey_999,Mozambique,East Tina,Female,40.0,Secondary,Unemployed,completed,2026-05-14T10:43:19,field_tool,4,Bad,2,Medium,3
+29cfe273-ff2d-4305-89bd-b62309bca527,e40de640-03c1-4007-9463-1f4abbe7d16e,survey_961,Mozambique,Lynnfort,Female,46.0,Secondary,Unemployed,completed,2026-05-14T10:45:18,field_tool,1,Bad,3,Low,3
+b02622c4-c8a1-462a-80c4-2de939e7a164,e67f12b4-7f1a-49dc-8c50-7a04437e3be5,survey_332,Mozambique,North Cassie,Female,56.0,Primary,Self-employed,completed,2026-05-14T10:44:05,field_tool,3,Very Good,5,High,3
+2e10b28e-1644-44fc-a67b-32b9ef1e041b,07d9baa1-d6b3-4379-9efa-c31f1a17cdfc,survey_920,Mozambique,Blankenshipside,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:39:49,field_tool,4,Bad,4,Medium,2
+acabd361-41d6-4dc2-a920-fbd2b9306e35,8ef43f9b-d5f6-4bc3-ba64-ceb7cea5f733,survey_390,Mozambique,Barnesfurt,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:43:49,field_tool,2,Neutral,1,Medium,2
+9ceee340-bfb3-481b-8f9c-e0373cbbfa0c,34c21102-56ec-46d2-8e10-962a8714b335,survey_171,Mozambique,West Dana,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:41:20,field_tool,1,Bad,5,Low,5
+db4df3ba-e9c0-4918-a072-a41a99a73006,ad9d43f4-59c3-4f1f-be0e-6e35baa80014,survey_194,Mozambique,Huntbury,Female,58.0,Primary,Employed,completed,2026-05-14T10:43:36,field_tool,1,Bad,5,Low,1
+e5a7c043-7d9e-4d57-95bd-6b0bb6f55a3e,adc9fc05-11dd-4b31-87f2-4aa90a15c1de,survey_694,Mozambique,New Kathleenton,Female,41.0,Tertiary,Self-employed,completed,2026-05-14T10:41:24,field_tool,2,Bad,4,High,2
+617bb4cf-9416-401f-b5aa-118adb1f17d6,66132323-fbbc-4b33-bdd5-168b32a26082,survey_363,Mozambique,East Peterfort,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:42:30,field_tool,1,Bad,3,High,1
+7c57dfeb-9f52-430e-8eff-c568c37e15db,50178ffc-059f-4402-abec-e26f0627e64c,survey_467,Mozambique,East Johnstad,Male,27.0,Secondary,Self-employed,completed,2026-05-14T10:40:32,field_tool,5,Bad,1,Medium,4
+5c49d63a-cab0-4471-b6b2-c65bad8b72f5,cbf1bbf1-c969-4209-b133-a792e5f9f112,survey_837,Mozambique,South Joelfort,Male,49.0,Primary,Employed,completed,2026-05-14T10:44:27,field_tool,5,Neutral,4,Medium,1
+3e78fdf2-a1b1-43b8-93fe-0e9ac2e70ade,49a2fe10-d6e4-48e0-a5fc-68f1c12f8c58,survey_242,Mozambique,Erinmouth,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:45:03,field_tool,2,Very Good,2,Medium,3
+c8344d7a-06ef-47c8-90b7-7cbac878b73a,cff6d8bc-6999-4448-bc27-08a9f47ab5ed,survey_188,Mozambique,West Pam,Male,61.0,Tertiary,Unemployed,completed,2026-05-14T10:41:46,field_tool,2,Good,2,Low,5
+0181eb02-70c6-4a92-861e-c203e2e7273a,a980881a-4473-4148-beb9-30810348944f,survey_307,Mozambique,Port Ryan,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:39:44,field_tool,2,Very Good,1,High,5
+57f74cd3-8c31-4780-abf8-996fd3bd5725,3c7ccde4-d5eb-40d1-b0c4-04352b37b4d8,survey_453,Mozambique,East Richard,Male,23.0,Tertiary,Unemployed,completed,2026-05-14T10:44:58,field_tool,1,Good,1,High,5
+894259f0-7080-43fb-b0dc-aec9b6ab168c,e01aa3b8-f168-40de-a16e-f9589bde8d81,survey_212,Mozambique,Taylorhaven,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:43:40,field_tool,5,Bad,4,Low,3
+dee47c9f-cdd3-44eb-8da0-db56faa95af4,9ab04c34-2f37-46d7-a14b-58be06ab5b68,survey_831,Mozambique,Julietown,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:44:43,field_tool,5,Very Good,3,Low,4
+3829886b-1d65-46dc-9d3b-eda7d6176b17,14cff881-548e-4053-bd3e-2f1ab7434e8c,survey_690,Mozambique,North Kimberlyshire,Female,67.0,Secondary,Self-employed,completed,2026-05-14T10:41:44,field_tool,2,Very Good,5,High,5
+397d339d-ce28-4d6e-80eb-c8ad2caa3fe6,b3ed316a-d939-4ac0-a160-cba59afa1606,survey_485,Mozambique,Tonyashire,Male,,Tertiary,Employed,completed,2026-05-14T10:44:37,field_tool,4,Neutral,4,Low,3
+0d174d6a-cb74-49f8-84ad-1f9c9860f76d,77c5187c-6b01-42ca-9a1a-ddab69b1576b,survey_955,Mozambique,Crystalview,Male,48.0,Tertiary,Unemployed,completed,2026-05-14T10:42:44,field_tool,1,Good,5,Low,3
+a5863407-be5a-47c9-8ed2-b51207720a66,f1b4521c-aca0-4965-b8f0-08219b3abd8b,survey_985,Mozambique,Port Marieland,Female,60.0,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,1,Very Good,4,High,4
+01574c3a-4660-43ed-91b7-bd5df473a438,38e29c52-09a7-4699-a393-af22e054a5ab,survey_235,Mozambique,New Dustin,Female,51.0,Primary,Unemployed,completed,2026-05-14T10:44:30,field_tool,1,Bad,2,Low,1
+dd759668-e021-4688-8712-fcaf86d8b657,b858a9d5-2c78-4abe-8c55-a9194ab5326e,survey_647,Mozambique,North Jason,female,71.0,Secondary,Self-employed,completed,2026-05-14T10:42:12,field_tool,4,Good,4,High,2
+d0254f16-71d5-4fc5-a441-345c6fea21ad,20b72688-37b2-490f-b432-5c12bc863d7a,survey_738,Mozambique,Port Johnbury,Male,18.0,Secondary,Self-employed,completed,2026-05-14T10:40:02,field_tool,5,Very Good,5,High,5
+65fd717c-0464-492b-b706-1395fedcc6e6,0ce14d6b-a582-40e8-8fb1-2581e24f3f2d,survey_374,Mozambique,Jessicaburgh,Female,74.0,Secondary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Bad,5,High,5
+b8f4a8d9-a134-45a9-ab4d-c28145e54b9c,309c6c39-005f-471d-a018-fced54b2805e,survey_521,Mozambique,Port Davidborough,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:45:32,field_tool,2,Bad,3,Medium,3
+77970ff6-6165-4cb4-8a02-fd477caf1c44,deee1fcc-5690-40b5-94d2-998500725554,survey_512,Mozambique,Maytown,Male,42.0,Secondary,Unemployed,completed,2026-05-14T10:41:09,field_tool,3,Neutral,3,Medium,3
+8e551beb-4345-440b-8d84-71ecffe48aa8,5b053fcc-73f8-404d-8510-cf7d061f4864,survey_732,Mozambique,North Andrew,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:45:38,field_tool,1,Neutral,2,High,2
+936a4f76-2a77-4c3f-bead-ba9d0117f960,64911e42-5b71-46b1-9359-855a2c170b04,survey_510,Mozambique,North William,Female,51.0,Tertiary,Unemployed,completed,2026-05-14T10:43:24,field_tool,1,Neutral,2,Low,3
+2d31a031-7c80-416c-8773-9098f8fc04a0,297ff952-b4d1-47f8-af65-ef3501ce7190,survey_934,Mozambique,Port Dana,Female,54.0,Secondary,Employed,completed,2026-05-14T10:40:42,field_tool,4,Very Good,4,High,1
+e31d00bc-4394-4672-8e51-bfa9b6bbe245,7ad83223-86db-47f9-bde5-d3d644034cf4,survey_435,Mozambique,Kevinfort,Female,42.0,Secondary,Unemployed,completed,2026-05-14T10:41:48,field_tool,3,Good,5,High,3
+326d493d-55bc-4ea1-a2fe-27c86fe0e6de,f99c7982-3a5c-43e3-99bf-444301ca636e,survey_251,Mozambique,Christinaberg,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:43:52,field_tool,1,Neutral,5,Low,3
+5f371fe3-e7f1-4ecf-8517-98c480bed87f,08f48150-03aa-4309-bc7a-368769e48157,survey_255,Mozambique,Reyesbury,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,3,Good,5,High,3
+1f175ec8-9e30-4f47-a775-15be88ee8ad3,7538f630-231d-4fc1-9347-491b2fbcdc51,survey_894,Mozambique,New Scott,Male,44.0,Primary,Employed,completed,2026-05-14T10:43:00,field_tool,4,Very Good,5,Medium,2
+bbdfa5b5-adec-4593-bcb4-f3b3a51a836f,423e5c74-c539-4e25-b99a-a1477c5c28b7,survey_101,Mozambique,East Stacyville,Male,35.0,Secondary,Employed,completed,2026-05-14T10:42:03,field_tool,2,Bad,1,High,3
+09cc1c7f-2768-43fe-9adb-2b7e428106e1,3b22a6cc-0202-4956-9f7d-8a142571f3eb,survey_226,Mozambique,Coxfurt,Male,41.0,Secondary,Self-employed,completed,2026-05-14T10:44:58,field_tool,5,Very Good,1,Low,5
+48061015-a589-4471-b584-eda962f5ffc8,cb93a300-1007-4f70-8f61-bfb0f2074312,survey_588,Mozambique,Johnport,Male,46.0,Secondary,Employed,completed,2026-05-14T10:39:57,field_tool,4,Neutral,4,Low,2
+c28aae60-b105-4f0e-a3e7-a1f174650418,8731020b-96dc-4a6e-bc0e-5d671a05ba29,survey_774,Mozambique,Haleport,Female,23.0,Secondary,Unemployed,completed,2026-05-14T10:41:05,field_tool,1,Bad,4,Medium,2
+428abd4a-172e-42b2-98ad-90e703a2717c,3daf815c-5e30-47ec-9cbf-03ecf79c4eed,survey_496,Mozambique,Lake Samantha,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:40:35,field_tool,4,Good,2,High,4
+50206f20-21eb-4a11-be74-a37b46a38ee6,416e740d-960f-481b-ad68-0f9c83b20851,survey_691,Mozambique,New Olivia,Female,70.0,Primary,Employed,completed,2026-05-14T10:39:49,field_tool,5,Bad,1,Low,2
+557ed73d-79e4-4794-933c-8164c7d6f6a0,a0b48ea7-b2ae-4aa0-896f-e8bccac6b6dc,survey_752,Mozambique,Robertbury,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:43:59,field_tool,4,Very Good,4,High,5
+b469c0dc-9213-4992-9db1-574ad48065c6,8b8acef6-a8a2-4e54-aedc-6ad40212feeb,survey_363,Mozambique,Edgarberg,Female,54.0,Secondary,Employed,completed,2026-05-14T10:40:09,field_tool,3,Good,5,High,5
+0ad4a253-5a89-4b9b-bc98-1ea9ba512922,a4434d7e-496e-4fe3-9314-251e0c817c6d,survey_949,Mozambique,South Josephside,Male,49.0,Primary,Employed,completed,2026-05-14T10:45:41,field_tool,5,Bad,1,Medium,3
+6ed9d75a-0f15-4e26-8448-974d798dcb99,dc72666a-17cb-4eac-b587-ac625c12a009,survey_685,Mozambique,Michaelfurt,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:41:56,field_tool,4,Neutral,1,High,1
+7aee7a22-3685-4f38-a4e0-2923b0cba927,d3d274e7-7a1e-456e-ab0b-adc98a5696d3,survey_122,Mozambique,East Mollyberg,Male,,Primary,Self-employed,completed,2026-05-14T10:40:44,field_tool,3,Very Good,3,High,2
+5bd507b2-2609-41bc-91b0-54429eaac54d,3d2cf1df-03d2-4b95-b695-733284899db3,survey_262,Mozambique,Jessicaside,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:44:24,field_tool,1,Very Good,2,Low,1
+916ffed9-474f-4fe9-a382-70e098ea5d33,2a2716a0-478a-40e2-844a-bbf58c29ff60,survey_322,Mozambique,Lake Melissa,Male,18.0,Tertiary,Self-employed,completed,2026-05-14T10:44:59,field_tool,1,Neutral,3,Medium,5
+fbf3b0b1-0905-4317-b454-bb0776b40ccd,bbd5eeab-229c-49de-823f-35d943db5044,survey_337,Mozambique,South Barbaraton,Male,47.0,Tertiary,Self-employed,completed,2026-05-14T10:43:20,field_tool,1,Good,2,Low,2
+6452b278-67ff-4a0c-9367-4a3eef31d888,57ae6c2c-3a3d-461f-91c6-0eb98d4282de,survey_700,Mozambique,Harrisfurt,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:40:57,field_tool,4,Neutral,4,Medium,2
+307c617c-4990-4e35-b370-76e0d957fc34,49825fd9-af5e-4444-8533-e6b024901a5f,survey_430,Mozambique,Townsendchester,Male,67.0,Tertiary,Employed,completed,2026-05-14T10:42:33,field_tool,2,Bad,5,High,1
+7a63d38a-fd7e-41ff-b708-5fbda59ae8a2,5d6c174c-1f24-4cbb-a95b-4e9e5d21854e,survey_122,Mozambique,Douglasberg,Male,37.0,Tertiary,Employed,completed,2026-05-14T10:41:40,field_tool,1,Good,2,Medium,5
+6b9b52e6-0c94-42e9-9a90-bf08ccd5da27,d9cdf251-5824-4a99-a8c5-20595687dcdc,survey_446,Mozambique,South Davidview,Female,47.0,Secondary,Employed,completed,2026-05-14T10:45:35,field_tool,3,Very Good,1,Low,2
+ca864cf5-0108-4810-9ae5-9a0546dfc052,ed9c1156-7492-4b52-8be9-e4268ca996d5,survey_229,Mozambique,South Brad,Female,66.0,Tertiary,Employed,completed,2026-05-14T10:42:43,field_tool,3,Bad,2,Low,5
+19a67cfd-7b2a-4455-a55f-cda74d51313f,ec9a5d93-43f2-4966-9949-7d26943dad88,survey_545,Mozambique,Nicholasmouth,Male,22.0,Primary,Self-employed,completed,2026-05-14T10:41:37,field_tool,3,Good,3,Low,5
+fc8911fb-f185-4e92-81f7-1e23c524bb12,0e59c497-66c5-441e-b9fe-875750bb462e,survey_393,Mozambique,Mccarthyport,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:42:11,field_tool,3,Very Good,1,High,2
+f3206039-ea4b-454d-b648-6a36daf5226f,00b14a5d-ae50-4478-bbda-15917f9a5ac8,survey_563,Mozambique,Cummingsfort,Female,61.0,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,5,Bad,5,Medium,1
+57983692-eb79-4140-964c-f8c2cccb671c,103ce538-bd8b-4ac1-9bd3-c8930136f597,survey_685,Mozambique,South Anthony,Male,34.0,Primary,Unemployed,completed,2026-05-14T10:45:08,field_tool,1,Very Good,1,Medium,1
+99e121a1-3a3d-4f05-ad9e-4a558f1b0800,a3401a32-eab4-4a1d-b488-9b6c81db518c,survey_156,Mozambique,North Jessicamouth,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:40:16,field_tool,2,Bad,2,Low,3
+d80a6db0-6b0c-43a6-99b4-8c14518d4d78,f147c1da-6dcf-4632-869f-358a1b8ce786,survey_655,Mozambique,Williamberg,Male,71.0,Tertiary,Employed,completed,2026-05-14T10:41:22,field_tool,5,Good,4,High,2
+5a1ab7ff-180c-4946-b9d5-39b4176fbbdd,ac58732b-5b5c-469c-b266-edc3251a8295,survey_259,Mozambique,Harthaven,Male,68.0,Secondary,Unemployed,completed,2026-05-14T10:39:51,field_tool,2,Bad,3,Medium,1
+9ca27171-459c-445e-ad89-e82c0696d67b,89171c5e-8ad9-4d2d-8605-76d90fdc9901,survey_233,Mozambique,West Aliciaside,Male,72.0,Primary,Employed,completed,2026-05-14T10:45:08,field_tool,1,Neutral,5,Medium,1
+45988c25-a88d-409e-a658-d8eb563fbfa9,afc42a10-632c-46e9-8f92-c29e9aa60671,survey_166,Mozambique,Joseland,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:41:15,field_tool,3,Bad,4,Medium,3
+2a5e9b27-d8a8-4aa6-b6c9-9c235b61aaab,2cac1a44-b76b-4b94-becc-216e46fd84af,survey_378,Mozambique,New Robert,Male,35.0,Tertiary,Unemployed,completed,2026-05-14T10:40:13,field_tool,1,Good,4,Medium,2
+98c81019-7df0-4795-baf5-b4df60864faa,15144ccf-9ec0-4e3c-8412-fb2a6cab9ae0,survey_942,Mozambique,Port Angela,Female,68.0,Primary,Employed,completed,2026-05-14T10:40:44,field_tool,2,Good,2,High,1
+71d69804-9c84-48cc-a062-e6a6b43c49a4,bde927bd-2893-443f-b63f-65f879583703,survey_854,Mozambique,Madelineland,Male,61.0,Secondary,Self-employed,completed,2026-05-14T10:44:28,field_tool,5,Good,1,Medium,4
+e1d435af-2cd1-4fdf-bb3c-cf2ee917a5c8,8462ff91-7181-4bd9-ae3a-9093696f310c,survey_356,Mozambique,East Lauren,Female,26.0,Tertiary,Employed,completed,2026-05-14T10:45:20,field_tool,4,Neutral,5,Low,3
+c34eceb3-c936-425a-ba97-6c9add19f247,52b78683-7ba5-4047-a814-c06f949f1f3d,survey_255,Mozambique,Ballchester,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:42:52,field_tool,2,Good,2,Medium,2
+66d2f398-ab14-400a-905b-35c5f6b9b183,e39dcbda-af53-4417-8a6c-d1f795b41ffa,survey_228,Mozambique,Walkerside,Female,45.0,Tertiary,Self-employed,completed,2026-05-14T10:43:44,field_tool,3,Neutral,4,High,2
+5b23f3f1-bdd1-4a17-81b2-f6a5c72a6718,87867bf8-a901-4c49-a43d-7b7ed2de642f,survey_366,Mozambique,Matthewmouth,Female,26.0,Secondary,Employed,completed,2026-05-14T10:40:39,field_tool,1,Good,1,Medium,3
+c812135c-256e-47d5-a1c7-8f5206b77ca3,149fbf66-e893-413c-907a-aea8e473b57e,survey_188,Mozambique,Dominguezport,Female,18.0,Secondary,Employed,completed,2026-05-14T10:44:08,field_tool,2,Very Good,3,Low,1
+ade0291c-f3e3-4e9c-9539-54469999a4b6,bb58ec7b-87b8-4762-9d1f-4e85e5d1caf2,survey_135,Mozambique,Smithchester,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:41:24,field_tool,4,Neutral,1,Medium,1
+2fd19c9b-a741-460f-a5d8-1b05311f6ba5,898a20ac-a129-409e-ba72-4d4a37b819dd,survey_905,Mozambique,Greenmouth,Male,69.0,Secondary,Self-employed,completed,2026-05-14T10:41:01,field_tool,2,Neutral,1,Medium,2
+1174fde7-8134-4448-a409-e3bb13494b28,c65b438a-c47e-483f-a969-44a2b5632931,survey_898,Mozambique,Griffithburgh,Female,27.0,Primary,Unemployed,completed,2026-05-14T10:43:00,field_tool,3,Neutral,1,Medium,2
+e2bf99ab-ab3a-4c92-a197-a0bb2ccc96ca,3bfddef4-1c05-4332-84d6-5539bf274ecc,survey_533,Mozambique,Jonesbury,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:43:07,field_tool,4,Good,5,High,4
+ee88bb99-189a-4df7-99f4-53c6bd050c0e,b1275a11-7baf-433a-8c21-a2834efbda70,survey_448,Mozambique,Andersonburgh,Male,,Tertiary,Employed,completed,2026-05-14T10:45:27,field_tool,5,Very Good,5,Low,1
+fa67cd07-4e4b-4025-a454-2a597e171c5b,d3bf8c49-f30d-444a-a796-6acd89e0b62d,survey_500,Mozambique,South Kyleshire,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:42:27,field_tool,2,Bad,1,Medium,2
+96eca9e4-faa1-42f9-9406-06c142105f41,2e7e3dcb-689e-4349-9dfe-4399b5c160b4,survey_411,Mozambique,Christopherbury,Female,38.0,Primary,Unemployed,completed,2026-05-14T10:40:56,field_tool,3,Good,4,Medium,3
+573c5601-7cb6-4c1f-8c45-a99937d9c04a,ebb65b29-9995-425e-97f3-30e1479a6571,survey_317,Mozambique,Lake Davidland,Male,58.0,Primary,Self-employed,completed,2026-05-14T10:42:09,field_tool,2,Neutral,3,Medium,1
+2b65c7b9-78c5-4eb6-a66b-4fa005ba7e41,4502dc65-157d-45d7-aee1-c31ca90d55f7,survey_184,Mozambique,North Lisa,Male,71.0,Secondary,Employed,completed,2026-05-14T10:44:09,field_tool,1,Bad,5,High,5
+d3a0bfe2-7093-4b65-8d0d-aaa41b25473d,dad4042e-d9a3-4578-97b8-3ef925efcb64,survey_482,Mozambique,Susanmouth,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:45:33,field_tool,1,Very Good,1,High,2
+36f6854b-643a-4ed0-8c80-9efbf2a2bbd6,3817ad4a-4043-4780-9e00-bae1cdaa1b48,survey_368,Mozambique,Jeffberg,Female,67.0,Secondary,Employed,completed,2026-05-14T10:42:39,field_tool,5,Very Good,3,High,4
+8feb7639-c2c8-44ad-861b-5c13af5bd6cb,ecf3c66f-86f7-441e-8e7d-80fd0f988cd3,survey_702,Mozambique,Arroyoshire,Male,69.0,Tertiary,Employed,completed,2026-05-14T10:40:47,field_tool,1,Neutral,5,Low,5
+5661aede-ed90-417c-9ae7-933902800d3a,11b6a149-5941-44cb-8920-f637fa55d58e,survey_716,Mozambique,East Johnland,Male,27.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,3,Neutral,2,Low,1
+fa7b86bf-257a-4a90-b0ea-9246c4ac20be,fff24dcd-c07d-4baf-8dab-4ef2979a5da2,survey_934,Mozambique,Lake Veronica,Male,65.0,Primary,Unemployed,completed,2026-05-14T10:41:19,field_tool,2,Very Good,3,Medium,4
+49454068-bbfb-4e06-92ad-d00a07e8ca3a,26ff9dd7-488b-4cf0-9471-b34f485d9226,survey_603,Mozambique,West Marie,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:40:52,field_tool,5,Neutral,1,Medium,5
+5779b872-5686-4c57-9737-116fd8d41e3c,02c4ffb1-6b57-4d3a-8f8a-636371492794,survey_598,Mozambique,Olsonland,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:42:03,field_tool,2,Neutral,3,Medium,5
+ada9f9b2-aa0e-4a68-86b8-954af341ef7e,6565c13f-7a86-4345-9510-ab1499b4d8c3,survey_266,Mozambique,Douglasfurt,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:44:56,field_tool,4,Neutral,1,Low,1
+784a7646-175d-4c81-b536-a1f277d39fb7,d6154912-e24e-4268-be20-ca2f1b58ca68,survey_766,Mozambique,East Kimberlyberg,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:42:22,field_tool,2,Good,3,Medium,3
+9d91e3db-8a74-41c9-93e4-3ee7bbf775e0,4856c3d7-3a08-4fb2-aea3-e5722c57f753,survey_185,Mozambique,South Stephaniemouth,Female,39.0,Secondary,Employed,completed,2026-05-14T10:44:43,field_tool,2,Very Good,1,Medium,4
+1ac1f755-2f83-43b6-b4bd-10f5c2d84b51,c54315d6-fb03-466f-b6d8-6001f77d7efe,survey_795,Mozambique,Port Hannah,Female,51.0,Primary,Self-employed,completed,2026-05-14T10:40:23,field_tool,2,Neutral,5,Low,2
+5b1c0b23-563b-480c-b6c5-c6a085bfca5b,753bde59-1af1-49dd-acf1-ff9bf55dd53e,survey_383,Mozambique,North Michaelport,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:42:23,field_tool,1,Very Good,2,Low,5
+0a439db8-51f5-4b37-ade7-7dad7c83f469,0369eb64-64b7-41f7-9f25-7a59dc16d54d,survey_656,Mozambique,North Erikfort,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:40:44,field_tool,4,Good,5,Medium,3
+64da87b9-320d-4848-a64d-5916ea401d33,09bb39d3-d729-4fe8-ab86-6fd17b3cc2c4,survey_865,Mozambique,Rebeccaburgh,Male,32.0,Secondary,Self-employed,completed,2026-05-14T10:43:30,field_tool,4,Very Good,5,High,2
+30ae4ca8-e0af-4c5a-a835-3374a3544bad,e64152b4-a49b-4671-88da-ca13c671c92d,survey_393,Mozambique,Jamesland,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:42:42,field_tool,3,Neutral,4,High,1
+24027012-c0d8-4037-aa8e-1d29ca3397e1,c1e4bdc3-17ae-491a-9dfc-701d2b8846dd,survey_716,Mozambique,Martinezhaven,Male,,Primary,Self-employed,completed,2026-05-14T10:43:16,field_tool,3,Good,2,Low,1
+ce0a22b3-4cd3-41f1-a3da-8510894a4550,e4c7438d-5853-407e-aedc-f5b1b89b2022,survey_660,Mozambique,Nealland,Male,54.0,Secondary,Unemployed,completed,2026-05-14T10:42:51,field_tool,1,Bad,4,High,2
+759459f1-48f7-4f9e-9a0a-5db4e0ac1404,8e2d16d2-6c39-4356-bda2-20b2685592c3,survey_321,Mozambique,Nelsonfurt,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:45:08,field_tool,1,Neutral,4,Medium,1
+523caeb3-66b7-46ed-ae73-4a378672cbd6,048f8175-a5b0-4c8f-968c-55a7aa1a3e4a,survey_844,Mozambique,Katherinefurt,Male,24.0,Tertiary,Unemployed,completed,2026-05-14T10:44:37,field_tool,1,Good,4,Medium,4
+c8148d2c-328e-41a4-9b23-1e450914bc52,bf5f47a2-c403-47a8-8158-e108631c18ea,survey_617,Mozambique,Ariasburgh,Female,31.0,Secondary,Self-employed,completed,2026-05-14T10:44:08,field_tool,5,Good,3,High,4
+31c94c3d-8490-402b-90ba-80e7d19ea737,fe7eb3ce-62db-4baa-ba50-500f59aa3ea4,survey_230,Mozambique,Wilkinsburgh,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:44:29,field_tool,3,Good,1,Low,5
+12c6c5ce-3e2d-483c-a056-d31ab532be38,8751adea-1130-43ca-8dac-cad2a11b4fc9,survey_317,Mozambique,Oconnellland,Female,75.0,Secondary,Self-employed,completed,2026-05-14T10:45:38,field_tool,2,Bad,3,Low,4
+7a619b0d-b509-495c-9ccc-2613ca54856c,692d57cf-b529-445f-aa47-4d7433a1ab44,survey_895,Mozambique,West Kayla,Male,20.0,Primary,Employed,completed,2026-05-14T10:41:20,field_tool,1,Very Good,3,Medium,5
+160b4641-ff22-4789-a905-a3e5161fdc65,3e5e8eab-3b80-46e1-9e03-3c67f8c3145f,survey_559,Mozambique,North Heatherfort,Female,38.0,Tertiary,Employed,completed,2026-05-14T10:40:09,field_tool,5,Very Good,2,Low,2
+2d021a98-b583-4d75-a57e-d2ec6f4e5222,4931a8cd-ca56-407a-b881-c3046fd180dd,survey_819,Mozambique,Kylehaven,Female,64.0,Secondary,Unemployed,completed,2026-05-14T10:41:27,field_tool,5,Good,1,Low,4
+5e6883b0-9780-46eb-a625-957c7919cda3,bedcd1a8-9238-47f2-8d21-9934e5a2f176,survey_224,Mozambique,West Melindafort,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,1,Bad,1,Medium,4
+5b98904e-3eb0-4c93-9f16-8fada2b27caf,3d32d750-04a2-48a2-96e5-5692b6abca5b,survey_750,Mozambique,Lake Jasonfort,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:44:43,field_tool,2,Good,3,High,1
+51452344-633b-4386-80ba-dea8454745d9,122bdfde-6795-4e1b-9d99-dc4d9bfb576c,survey_940,Mozambique,Jenniferburgh,Male,49.0,Primary,Employed,completed,2026-05-14T10:44:58,field_tool,2,Good,1,Low,3
+1d35975f-f850-4f5f-a72d-1bf41cacef24,0d66fcc4-7067-443c-a614-a815767b9f6e,survey_422,Mozambique,Scotttown,Female,22.0,Secondary,Employed,completed,2026-05-14T10:44:48,field_tool,4,Very Good,1,Low,1
+a95fbffd-3f41-4028-b0a5-f3ce0802c941,b3b3ee25-079f-414f-8278-64a035b3c647,survey_207,Mozambique,Timothychester,Male,45.0,Secondary,Employed,completed,2026-05-14T10:45:15,field_tool,4,Bad,5,High,5
+0aa60ab1-2ca6-4bab-a1ee-739a559301bf,0327aa74-f656-48df-8a7e-56261638199b,survey_647,Mozambique,Willisberg,Female,56.0,Secondary,Employed,completed,2026-05-14T10:43:03,field_tool,5,Good,3,Low,4
+909453d2-0055-4317-b6b5-ca78d80c68d5,48c2044b-581f-46dd-8b29-9a7205acdc63,survey_159,Mozambique,New Robert,Male,49.0,Secondary,Employed,completed,2026-05-14T10:42:40,field_tool,2,Good,2,Medium,1
+5a273681-7ca4-49f7-90ad-b23fcfee42b4,09cd9d78-47e1-4a61-bd0e-5142fd1eb7ba,survey_339,Mozambique,Danielport,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:41:58,field_tool,5,Bad,3,High,5
+646953ad-33ee-4b9c-91bc-73c53c52fe1a,13203a0c-f617-4c2c-8a43-19574c01fd54,survey_775,Mozambique,Port Alison,Male,45.0,Primary,Employed,completed,2026-05-14T10:44:22,field_tool,3,Good,3,High,5
+7e2c0392-fd60-4f0e-860e-ba31c2d81d11,8a7d2b43-50e4-4139-a13b-220ad6bd6a81,survey_492,Mozambique,Lake John,Female,56.0,Secondary,Employed,completed,2026-05-14T10:45:21,field_tool,4,Bad,5,Medium,4
+e4d5ad03-1cdb-4984-8509-7e139f7d729b,6473f64b-2506-40d1-97e4-51ad59f5dd59,survey_811,Mozambique,South Jamie,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:44:17,field_tool,1,Bad,4,High,3
+49e85f95-0c7d-46b9-a355-150a6d084b78,d93562d7-fd88-4cd5-8f1e-6ca3c409fb7b,survey_713,Mozambique,Duranfort,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:43:48,field_tool,1,Neutral,3,Medium,5
+b2971785-136e-4576-8c67-36f395f6a756,905aad0b-8331-4ec6-99c3-0f069e20af63,survey_943,Mozambique,West Melissaborough,Female,31.0,Primary,Self-employed,completed,2026-05-14T10:44:16,field_tool,3,Bad,4,High,1
+9d08e4a1-8298-4180-8b4e-b232a614ee25,0d8d5a25-e9d3-4b1e-9621-1731b18f71d1,survey_104,Mozambique,South Jasontown,Male,72.0,Tertiary,Self-employed,completed,2026-05-14T10:42:24,field_tool,2,Bad,1,Low,1
+53bba961-c262-4710-9027-dfd2a4ed5bef,bcca38a6-a1df-4370-989f-91b5f174188a,survey_414,Mozambique,Anthonyfurt,Male,18.0,Primary,Unemployed,completed,2026-05-14T10:40:46,field_tool,4,Very Good,2,Low,5
+f09ffc58-0196-4fc1-9ac4-2e26eb05e17c,4349cfa2-abcf-41cb-8135-934e41573f38,survey_244,Mozambique,Hunterville,Male,57.0,Primary,Employed,completed,2026-05-14T10:45:20,field_tool,4,Neutral,5,Low,4
+c3daf48b-0584-427b-84d5-7236f285ac12,7b30c794-0f33-449d-989c-4f8b6f05afb7,survey_981,Mozambique,Port Jeremiah,Female,28.0,Primary,Unemployed,completed,2026-05-14T10:40:57,field_tool,4,Neutral,4,Low,1
+edf61bd0-543f-400a-847a-5bea888f0104,99a5bb87-0e90-4298-9b53-f836ccc9d564,survey_561,Mozambique,North Brandon,Female,42.0,Secondary,Employed,completed,2026-05-14T10:40:38,field_tool,1,Very Good,5,Low,2
+79fe95d7-de3f-4eda-b89a-7d02f3ab309a,b89e2855-9a59-4a85-8762-6fec1dd79d6f,survey_356,Mozambique,North Gina,Male,65.0,Secondary,Self-employed,completed,2026-05-14T10:44:27,field_tool,2,Bad,4,High,4
+c3776ddc-f079-4209-8540-9b16f6265935,92ef5914-05cf-4863-a15f-35f25959f167,survey_552,Mozambique,Stevenborough,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:44:57,field_tool,5,Neutral,5,Medium,3
+dffb7fdf-5f2d-4936-9615-7a9604d756ba,384200a0-a420-482d-964b-a494855a6813,survey_806,Mozambique,Starkview,Female,63.0,Tertiary,Self-employed,completed,2026-05-14T10:43:03,field_tool,4,Bad,5,High,2
+33aa27c9-8d52-4c45-83c8-21189a4b5915,ff7726a1-a0f9-495f-82db-f4aa9a1ae500,survey_102,Mozambique,Walterstown,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:44:56,field_tool,2,Very Good,5,Medium,3
+596adba6-0880-4768-8d74-4963c21fcc12,e562b003-388e-4487-8917-6b736d6789d2,survey_539,Mozambique,New Jessica,Female,18.0,Secondary,Employed,completed,2026-05-14T10:40:58,field_tool,1,Very Good,5,Medium,4
+1a94ad56-bebb-4083-b609-37b3bcfa485e,8d7c6efd-35a5-4ba4-98ed-0099aef7eda7,survey_462,Mozambique,East John,Female,40.0,Secondary,Unemployed,completed,2026-05-14T10:41:31,field_tool,2,Neutral,5,High,1
+45009199-81cf-48cf-a515-d9d1c310cda1,addba0d0-536b-4f65-911a-c1ab7555a28c,survey_701,Mozambique,Holdenmouth,Female,58.0,Secondary,Self-employed,completed,2026-05-14T10:45:37,field_tool,3,Very Good,4,High,3
+dab575cd-9af7-41e8-bb59-7c3413c7566b,21ce99a5-9cb8-4a46-954c-64b40981c081,survey_984,Mozambique,Anthonyland,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,4,Neutral,4,High,1
+6e946bc1-de3c-4107-bd2e-819ece848e87,d69af16d-a13c-4189-aa01-9eb7da78e943,survey_473,Mozambique,Hernandezchester,Female,49.0,Secondary,Unemployed,completed,2026-05-14T10:44:58,field_tool,2,Good,3,Low,1
+cdc6a977-153e-4b61-9d54-d9930f76a664,c54bd323-dd90-44f5-9c25-9f0666c433a1,survey_276,Mozambique,Crawfordfort,Male,51.0,Primary,Employed,completed,2026-05-14T10:43:41,field_tool,2,Good,2,Medium,5
+e26c238f-1a28-48d1-9d9e-af4d7cb9076b,81208bc3-c812-4c68-a9da-81588bf91ebb,survey_748,Mozambique,Martineztown,Male,51.0,Primary,Unemployed,completed,2026-05-14T10:44:05,field_tool,2,Good,3,Medium,3
+e7f76065-80ac-4687-98cb-e8698d54dc4c,f3d5a982-d133-4163-8111-563ea060f2d6,survey_633,Mozambique,New Tyler,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:39:43,field_tool,1,Bad,4,Low,1
+4a3b424d-4fd6-499e-b214-42b518928110,b40577f5-644e-403b-8a16-baccea8c4e2d,survey_181,Mozambique,Lewismouth,Male,45.0,Primary,Employed,completed,2026-05-14T10:43:21,field_tool,4,Bad,1,High,1
+fd57c7aa-b8e3-44fb-b106-fdbf1c3549d2,fee1541e-8a74-47f2-9038-9b6682147994,survey_220,Mozambique,Gomezport,Female,64.0,Secondary,Unemployed,completed,2026-05-14T10:43:59,field_tool,3,Bad,5,Low,3
+7af88225-ef16-4e11-a934-25a0855759c6,c2f6ef20-9608-4c0b-85d7-ba8df12510d9,survey_505,Mozambique,South Steven,Female,40.0,Tertiary,Self-employed,completed,2026-05-14T10:45:10,field_tool,3,Good,4,High,5
+3eb7645e-b53f-45f8-9964-c5a2cdc19e05,10cc33af-bfd1-4b20-ae79-2b8204adbb48,survey_979,Mozambique,Hardintown,Female,49.0,Tertiary,Employed,completed,2026-05-14T10:39:44,field_tool,4,Bad,2,High,5
+2086a411-32a4-4bc4-90d7-a79818161b44,cfd338c2-13ac-4073-8623-f5ac37b9dd6e,survey_582,Mozambique,Deborahview,Female,19.0,Secondary,Employed,completed,2026-05-14T10:41:27,field_tool,5,Good,1,Low,2
+7e9d7f90-6073-4a0c-8596-5ef772c3f9b8,00a01978-8a77-4fe1-8eef-6fbae00080bb,survey_991,Mozambique,West Melissaland,Female,65.0,Tertiary,Self-employed,completed,2026-05-14T10:42:43,field_tool,2,Neutral,3,Medium,5
+4c3c7067-ec44-42f7-a3da-a42e4f37e95f,02a9e09a-019e-452c-aacc-7c05f6cc5177,survey_415,Mozambique,Heatherborough,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:42:52,field_tool,2,Neutral,3,Medium,3

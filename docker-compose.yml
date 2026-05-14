@@ -35,6 +35,8 @@ services:
   airflow-init:
     image: apache/airflow:2.10.0
     container_name: afrosurvey-airflow-init
+    env_file:
+    - .env
     depends_on:
       - postgres
     environment:
@@ -49,6 +51,13 @@ services:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
+      - ./scripts:/opt/airflow/scripts
+      - ./ingestion:/opt/airflow/ingestion
+      - ./utils:/opt/airflow/utils
+      - ./config:/opt/airflow/config
+      - ./data:/opt/airflow/data
+      - ./data_contracts:/opt/airflow/data_contracts
+      
     entrypoint: /bin/bash
     command:
       - -c
@@ -66,6 +75,8 @@ services:
   # Airflow Webserver
   airflow-webserver:
     image: apache/airflow:2.10.0
+    env_file:
+    - .env
     container_name: afrosurvey-airflow-webserver
     restart: unless-stopped
     depends_on:
@@ -78,6 +89,7 @@ services:
       AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_WEBSERVER_SECRET_KEY}
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
       AIRFLOW_UID: ${AIRFLOW_UID}
+      
     user: "${AIRFLOW_UID}:0"
     ports:
       - "8080:8080"
@@ -85,13 +97,21 @@ services:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
-    command: webserver
-
+      - ./scripts:/opt/airflow/scripts
+      - ./ingestion:/opt/airflow/ingestion
+      - ./utils:/opt/airflow/utils
+      - ./config:/opt/airflow/config
+      - ./data:/opt/airflow/data
+      - ./data_contracts:/opt/airflow/
+    command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow webserver"
+    
 
   # Airflow Scheduler
   airflow-scheduler:
     image: apache/airflow:2.10.0
     container_name: afrosurvey-airflow-scheduler
+    env_file:
+    - .env
     restart: unless-stopped
     depends_on:
       - postgres
@@ -108,9 +128,14 @@ services:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
-    command: scheduler
-
-
+      - ./scripts:/opt/airflow/scripts
+      - ./ingestion:/opt/airflow/ingestion
+      - ./utils:/opt/airflow/utils
+      - ./config:/opt/airflow/config
+      - ./data:/opt/airflow/data
+      - ./data_contracts:/opt/airflow/data_contracts
+    command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow scheduler"
+  
 # Persistent Volumes
 volumes:
   postgres_data:

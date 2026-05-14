@@ -60,7 +60,7 @@ countries:
 storage:
   type: "minio"                     # minio | s3 | local (for future flexibility)
   minio:
-    endpoint: "http://localhost:9000"
+    endpoint: "http://minio:9000"
     secure: false
   buckets:
     bronze: "afrosurvey-bronze"
@@ -75,7 +75,7 @@ storage:
 # Database (PostgreSQL - Metadata & State Management)
 database:
   type: "postgresql"
-  host: "localhost"
+  host: "postgres"
   port: 5432
   database: "airflow"             
   schema: "public"

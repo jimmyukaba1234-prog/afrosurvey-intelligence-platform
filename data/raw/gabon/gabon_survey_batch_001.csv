@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+28e64442-c943-4b0d-b28d-c0ccfb0a1565,09684ea3-2617-4762-bb61-8e63e9ca8e13,survey_576,Gabon,South Danielview,MALE,39.0,Tertiary,Unemployed,completed,2026-05-14T10:40:17,field_tool,4,Very Good,1,High,5
+557813ec-5a9e-4660-b8d0-2dbcb37a821c,4f25a44b-f970-4448-ab08-61f231cec987,survey_800,Gabon,Sharonstad,Male,45.0,Secondary,Self-employed,completed,2026-05-14T10:44:28,field_tool,2,Neutral,4,High,3
+a31c76ec-9797-4b7d-b21c-38c079cd15eb,cc981235-7858-4301-8ca0-47a9462b1275,survey_330,Gabon,Rodriguezburgh,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:40:35,field_tool,1,Very Good,4,Medium,1
+46252dc0-dcbc-40ae-b3d2-0d11976e4f6a,ed5b1d52-3fd0-4a2a-904f-da438d0f24a5,survey_185,Gabon,Lake Dylantown,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:43:14,field_tool,3,Neutral,1,High,3
+d1c54b58-747f-4fba-b40a-60ad5046830c,bc253805-7006-44a7-8798-0ab9532e76cc,survey_792,Gabon,Garciaberg,Male,68.0,Secondary,Employed,completed,2026-05-14T10:41:06,field_tool,3,Good,5,High,4
+a97bcb7c-d68c-453b-8569-da9b23d0ef2a,fa7a07d7-e806-4bcc-a640-dbb1de8aadf1,survey_631,Gabon,Lake Jennifer,Female,22.0,Primary,Unemployed,completed,2026-05-14T10:39:53,field_tool,4,Very Good,3,High,4
+b4662c62-9be7-49df-a5eb-b470009c966a,488542bf-4bc9-4092-a2de-38115d5b8543,survey_197,Gabon,Grantstad,Male,47.0,Secondary,Unemployed,completed,2026-05-14T10:41:47,field_tool,5,Neutral,4,High,5
+7edb79cd-6486-4f06-9d57-ae486a784bb4,41b51e5b-efd2-4655-811e-747babd38b99,survey_339,Gabon,Mikemouth,Male,30.0,Secondary,Employed,completed,2026-05-14T10:44:37,field_tool,2,Neutral,3,Medium,1
+7ac9ba7d-277f-4487-9e07-e1cdcdfeccd0,f832cee9-2046-42c0-8d11-f275553d549a,survey_749,Gabon,Lewismouth,Female,55.0,Tertiary,Unemployed,completed,2026-05-14T10:43:19,field_tool,3,Very Good,3,Low,3
+eb63d5ee-41a8-4290-810b-d95e3100baec,7cbef196-7f98-438d-bfed-ce8a01b1a605,survey_651,Gabon,Sandraborough,Female,37.0,Primary,Employed,completed,2026-05-14T10:41:38,field_tool,5,Very Good,2,Low,5
+b8468d17-9c77-4c72-b6f2-d190d94662e1,68f1fe4e-7cf7-46bf-a30b-c715a56b22a2,survey_433,Gabon,New Jennifer,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:40:11,field_tool,4,Very Good,3,High,3
+a2689a30-923a-4e6a-9917-8228783b83f8,693b3938-d2cf-4f61-ada9-ee55434a54ac,survey_312,Gabon,North Aprilbury,Male,22.0,Secondary,Self-employed,completed,2026-05-14T10:43:04,field_tool,4,Good,1,Low,4
+dfa87169-5051-4fba-a2f8-d2e2d5bd9614,a922f180-b88b-4d28-a085-040b90c8e07d,survey_539,Gabon,South Pamela,Female,57.0,Tertiary,Self-employed,completed,2026-05-14T10:44:28,field_tool,2,Very Good,3,Medium,4
+b12356f6-98e0-422d-a6f6-baac5282003c,af86e24e-f26b-4d7d-af09-b22c04727dff,survey_447,Gabon,East Bryan,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:43:27,field_tool,5,Neutral,3,High,1
+d052a3b3-9f19-4773-8082-a31bfc8069a1,ad315ef7-5650-4854-b2ea-f34c5fe0da78,survey_238,Gabon,South Daltonton,Female,47.0,Tertiary,Self-employed,completed,2026-05-14T10:43:21,field_tool,5,Very Good,4,Medium,3
+ceaec08b-2f9e-4ace-9141-2ebed38e739c,7654865e-ea7f-4f6b-b044-e1b6a4b04a65,survey_997,Gabon,Lake Carlosmouth,Female,63.0,Secondary,Unemployed,completed,2026-05-14T10:45:27,field_tool,1,Neutral,5,High,2
+007a060d-57b9-4a1b-89fc-1f5245f7ddd0,0e4a04d8-09e6-46fe-ac32-5c951b99b85a,survey_362,Gabon,New Melinda,Female,61.0,Secondary,Employed,completed,2026-05-14T10:41:49,field_tool,1,Good,2,Low,4
+2ed23473-1806-4c15-aacd-0c408bb39eff,75043b12-087d-49a5-9c91-e8e54f30d268,survey_290,Gabon,Greeneburgh,Male,66.0,Tertiary,Employed,completed,2026-05-14T10:40:38,field_tool,1,Neutral,3,High,5
+de312108-1a8c-46db-a9ee-1db98b0d495b,12ea2c7f-ba65-4cc0-aeac-9f8561e47a6e,survey_588,Gabon,Lake John,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:45:31,field_tool,1,Very Good,2,Low,2
+73dd3452-5668-4632-a923-cfdbc11c7123,bc14c1e5-9692-4f46-bb30-a3e2d161bc66,survey_504,Gabon,Lake Caitlynshire,FEMALE,60.0,Secondary,Unemployed,completed,2026-05-14T10:42:53,field_tool,3,Bad,5,Medium,4
+551ad557-0ec3-4cd3-86b2-945dd1182800,258e8558-9c01-47de-a617-a28cc87f931e,survey_638,Gabon,North Melissabury,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:39:52,field_tool,3,Good,5,Low,4
+3c07dfb8-aec3-4144-8698-8109bcde853a,2c5fc4e1-28dc-4e48-95c5-292c7afa7121,survey_201,Gabon,Williamston,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:44:26,field_tool,1,Very Good,5,Medium,4
+ea55f8bf-13f5-4bd7-b1e4-8d5fbd759a10,82cadb6e-2533-4913-a26c-01cb203c8303,survey_484,Gabon,Lake Steven,Male,57.0,Tertiary,Self-employed,completed,2026-05-14T10:42:03,field_tool,2,Neutral,5,Medium,1
+7240b91f-3506-4215-b883-d70af573cb19,0ddc303c-c787-421c-b43b-4f4f2e8c7b3d,survey_840,Gabon,Justinside,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:42:25,field_tool,2,Very Good,5,Medium,4
+ded037be-0b50-48b0-9a72-20cca5610003,89131c17-8a9e-457a-bc3f-1ed37db1e272,survey_685,Gabon,Mccormickside,Female,60.0,Tertiary,Unemployed,completed,2026-05-14T10:40:54,field_tool,2,Bad,1,High,2
+c7fefbb9-fe3d-4720-9b51-954d95f00ea3,2695f8e4-318a-4e65-a675-6e5c0fe85fff,survey_333,Gabon,Lake Donna,Female,39.0,Primary,Unemployed,completed,2026-05-14T10:45:35,field_tool,2,Good,1,High,3
+5802787b-3c4a-4ecc-9a1d-434126245afa,f5c19ff1-069a-4fb9-be14-a4b7bf4e70d9,survey_482,Gabon,East Robertshire,Male,46.0,Primary,Employed,completed,2026-05-14T10:44:23,field_tool,2,Good,2,Low,3
+d9e813d7-8783-4405-96fd-df53abab034a,4239433a-4a87-4802-a6cb-1d280d92736a,survey_745,Gabon,Padillastad,Female,21.0,Tertiary,Unemployed,completed,2026-05-14T10:43:57,field_tool,1,Bad,5,Medium,5
+eaa6e512-af5b-4635-a21d-e62daf587271,bd9b5899-2329-4529-92f4-8bbf94600044,survey_408,Gabon,Travistown,Male,55.0,Secondary,Employed,completed,2026-05-14T10:44:30,field_tool,5,Very Good,5,Medium,4
+66f599d7-5881-4c5c-b3c3-38adeb006f96,d2690f57-b14e-4a2e-9187-7bc86abda041,survey_521,Gabon,Lake Ronaldview,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:43:25,field_tool,2,Bad,2,Medium,3
+52ce07e3-17a9-4ef4-8cf3-946138a16fed,41cf509d-a0ac-4cd1-b1dc-bdad27d7772d,survey_838,Gabon,Gregorymouth,Female,22.0,Primary,Employed,completed,2026-05-14T10:41:31,field_tool,3,Neutral,5,Low,2
+85ae8486-5319-4cf8-9eab-d6f78dd53d2a,b1e37336-773d-4f5d-8cd4-28e873fafda4,survey_988,Gabon,Taylorside,Female,71.0,Tertiary,Self-employed,completed,2026-05-14T10:44:14,field_tool,3,Neutral,1,High,1
+7659c608-1e40-431d-bbbb-2b90af5f12dc,00ec290b-7107-40f7-839b-aa2c42c874ee,survey_143,Gabon,Robertfort,Male,39.0,Secondary,Employed,completed,2026-05-14T10:43:39,field_tool,1,Neutral,3,High,4
+063823f7-ca63-45a1-98fd-b0c91844b1f2,0d8815de-de16-448f-8682-fc1a7549334e,survey_349,Gabon,Millerhaven,Male,63.0,Secondary,Self-employed,completed,2026-05-14T10:43:56,field_tool,2,Neutral,1,High,3
+8301cd8b-378f-49b5-bc40-4d8f0651d10d,ebd8fcfb-f418-4c80-b429-a2029b4e4fb0,survey_550,Gabon,New Kirk,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:43:04,field_tool,5,Very Good,4,High,1
+d6941773-74b6-496f-9490-99aed8d8e9f6,9946f64c-cbaa-4cfd-8fb1-244485bf7576,survey_775,Gabon,New Laura,Female,48.0,Tertiary,Self-employed,completed,2026-05-14T10:40:55,field_tool,3,Neutral,5,High,1
+fd81ee5d-d74e-40ca-9f31-4335e6a1aeaf,b834a149-afe0-4f6d-a6ab-74ade4c1b6ef,survey_373,Gabon,Lake Dawnfurt,Male,49.0,Tertiary,Employed,completed,2026-05-14T10:41:51,field_tool,1,Good,1,Medium,3
+0068cab1-79af-452d-be18-6f925bb5e82b,0055d6e9-06df-4dba-b003-11ee1e994781,survey_531,Gabon,Jamesfort,Male,49.0,Primary,Employed,completed,2026-05-14T10:40:18,field_tool,2,Neutral,3,Low,1
+61b645c2-69be-4b86-b1ff-ed4711a18b57,6c9b568f-f106-4b87-8415-08a2a53dc4e3,survey_529,Gabon,West Paulfurt,Female,70.0,Tertiary,Self-employed,completed,2026-05-14T10:44:17,field_tool,3,Bad,5,Medium,4
+aaaa98fd-dfc4-4fdb-9f5f-ee6a42054380,33861699-cb7e-4784-82b5-021683eb6cce,survey_152,Gabon,Lake Maryfurt,Male,35.0,Secondary,Unemployed,completed,2026-05-14T10:42:53,field_tool,5,Very Good,5,Medium,2
+ae53aa7b-21d1-4dc2-ad8f-49e6f06c394b,f82b85e2-78d1-47d5-bfdc-690c4e3cbe66,survey_559,Gabon,Cynthiaberg,Male,41.0,Secondary,Employed,completed,2026-05-14T10:43:38,field_tool,4,Bad,2,High,5
+ccd0dc20-116a-454b-a077-f472d112aee5,e5c6f349-30df-4b61-8610-fd12952774da,survey_906,Gabon,East Kathleenview,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:40:48,field_tool,4,Very Good,1,Low,4
+5945956d-0e9f-4547-b10d-86c57349d901,3cfc2467-5c68-4e52-af49-4d538e803f39,survey_549,Gabon,Emilyview,Male,,Tertiary,Unemployed,completed,2026-05-14T10:40:22,field_tool,2,Good,3,Medium,2
+adf6f9a7-ad7f-4db3-bfe9-473efc7e2a28,049c0661-cab3-4e59-a61e-efe8d6a4fb2d,survey_300,Gabon,New Cassandraside,Female,72.0,Primary,Self-employed,completed,2026-05-14T10:45:28,field_tool,1,Neutral,5,Low,4
+6e4a2015-603e-423f-bf71-19fdd8daaef2,85b56b35-050c-47c7-8e60-cb6742fe3279,survey_533,Gabon,Smithville,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:43:41,field_tool,3,Bad,5,Medium,5
+ddb7bb3e-c24b-48dc-a020-c70ea287601b,c789ac31-83b2-4b18-b130-088b004cfbd5,survey_378,Gabon,Tuckerville,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:42:47,field_tool,2,Neutral,1,High,5
+90c8dde8-5e04-4fa9-a955-81c99631ba5d,77a38c0d-7ac3-47b6-8a16-bf212ba92adc,survey_512,Gabon,Lake Stacyfort,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:42:06,field_tool,1,Neutral,4,Medium,3
+ec16880e-c208-4455-8220-56d577c68d24,39955dd1-39e0-45bd-88f4-88220ee7305e,survey_435,Gabon,Proctorshire,Female,68.0,Secondary,Self-employed,completed,2026-05-14T10:42:50,field_tool,4,Good,2,High,5
+92fdc3d2-3a66-417a-9881-433de718ea31,611a4528-98db-472c-b150-7ff6bb64f988,survey_118,Gabon,Lyonsport,Male,44.0,Tertiary,Employed,completed,2026-05-14T10:43:11,field_tool,2,Neutral,2,High,3
+3ff454fd-fe88-403f-8130-fb636435550f,53d88d7d-0dbf-4841-ab70-dcda154f0d60,survey_267,Gabon,North Austinshire,Female,34.0,Secondary,Unemployed,completed,2026-05-14T10:39:40,field_tool,3,Neutral,3,Low,1
+c4ec51ec-164a-4d73-8c86-aa33d87bbdb3,0d0e1789-780f-4182-ad21-0d5a0d1e2c3f,survey_856,Gabon,South Angelastad,Female,38.0,Tertiary,Self-employed,completed,2026-05-14T10:39:54,field_tool,4,Neutral,1,Medium,5
+d213e1ee-7946-493f-b14c-4d68b7925e8b,5f4a1286-0306-4d97-ad36-58edb9fcbd84,survey_248,Gabon,East Michaelport,Male,45.0,Tertiary,Unemployed,completed,2026-05-14T10:44:29,field_tool,4,Very Good,4,High,2
+10bebe9c-f610-43ed-b800-220ff3df7bb2,c339d513-afa2-476a-a9d9-525f793aec89,survey_171,Gabon,Lake Felicia,Male,50.0,Primary,Employed,completed,2026-05-14T10:41:09,field_tool,2,Good,3,Low,5
+353a8bd3-3dda-489a-8df3-946d591f918a,fd60bb05-030f-4e80-94f7-f2c00863c0d1,survey_701,Gabon,New Rachel,Female,58.0,Primary,Self-employed,completed,2026-05-14T10:43:40,field_tool,5,Very Good,5,Medium,5
+cc8d0ba0-2ec1-440e-8510-5e166e87c668,ca61de75-9fd6-4b59-a78b-28a85d4e316d,survey_755,Gabon,Adamsmouth,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:45:25,field_tool,2,Neutral,5,High,2
+450a2b6f-32c2-4b3b-b701-4426e7739434,dc2f392b-a9e2-4bfc-a769-736ab15c9203,survey_664,Gabon,Daniellechester,Female,53.0,Tertiary,Unemployed,completed,2026-05-14T10:42:24,field_tool,5,Neutral,3,Low,1
+1725e14e-ef6f-4af0-a842-74704754f0c7,fcde1b81-bf9b-4d4a-9df8-2d3898521e56,survey_651,Gabon,Goodmanview,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:41:05,field_tool,3,Neutral,2,High,3
+9dd9d178-7844-4759-a3a5-b5fdc101e60a,a9c15adc-6232-487c-a6be-bcd758b76942,survey_953,Gabon,Elizabethburgh,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:40:08,field_tool,5,Neutral,4,Low,4
+291fb6bb-ea10-49ca-b2dc-c68fae4f0d29,48c23668-678a-4c24-9558-6e6348020250,survey_693,Gabon,West Kimberlyborough,Male,41.0,Tertiary,Self-employed,completed,2026-05-14T10:43:25,field_tool,1,Very Good,5,Medium,5
+903f1276-5d99-4d35-8754-301e0b97583e,cb18aba6-f0ef-472c-8a12-cce64aae35bc,survey_396,Gabon,Christopherborough,Female,30.0,Primary,Self-employed,completed,2026-05-14T10:41:42,field_tool,5,Good,1,Low,4
+d29c2ffa-a2bd-44fa-85a1-e7dee52eeaad,fbb97c38-c7ee-468b-affb-89b57565e38f,survey_778,Gabon,Port Sean,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:43:16,field_tool,2,Bad,1,Medium,4
+72270be3-6f6e-46ae-a9db-61ecdb80010d,bdd6c8ce-653d-401f-8068-7aaacbd529ac,survey_651,Gabon,Grayville,Female,46.0,Secondary,Unemployed,completed,2026-05-14T10:45:26,field_tool,2,Very Good,1,Low,1
+30b1979f-162b-4323-b50b-d7ed3fccb850,eacfcefb-c462-4393-a070-fd1ee687cc1e,survey_540,Gabon,Port Alyssamouth,Male,54.0,Tertiary,Self-employed,completed,2026-05-14T10:43:54,field_tool,5,Neutral,2,High,3
+6e7abc1b-e9b3-40cc-a9d5-cf7029337da2,cbb3fb51-ceef-426d-96a1-9e43c44e6e8a,survey_534,Gabon,Turnerton,Male,35.0,Primary,Unemployed,completed,2026-05-14T10:42:45,field_tool,2,Very Good,1,High,2
+551a97fc-506e-4f81-91d8-2eefd2112c1c,b93d0525-9d89-48ce-8c5b-ba78855df63b,survey_610,Gabon,Blackland,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:42:00,field_tool,3,Bad,5,Low,3
+18639bf4-425a-46cc-8add-be4604fcf672,08ec979a-9cbe-451d-9696-4a9b45dad18f,survey_502,Gabon,East Stephaniemouth,Male,70.0,Primary,Employed,completed,2026-05-14T10:43:57,field_tool,2,Good,1,Medium,2
+7a456c32-eabc-4712-82f0-87e5100de2f3,bc065165-4882-4331-abc1-1d296698b733,survey_512,Gabon,Lake Michaelview,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:41:55,field_tool,5,Good,4,High,4
+c1efe498-e8b7-4e33-9a48-e8cdf4a83d65,9e00fe91-909f-4d3f-86dc-f78354a8d262,survey_793,Gabon,Clarkview,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:42:51,field_tool,2,Good,5,High,1
+b6a232a8-f30c-4a22-b2e7-5d7b7ba813c5,25361fff-513d-4f10-be55-21ecc3cd61ab,survey_682,Gabon,Doyleville,Female,61.0,Primary,Self-employed,completed,2026-05-14T10:40:29,field_tool,3,Good,1,Medium,1
+c9e930ad-8cec-4a06-8bcb-b4c5bb12bd0f,b104781e-172c-4b7f-9dd6-e056e6bfac63,survey_578,Gabon,Lake Aprilland,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:44:13,field_tool,3,Very Good,3,Medium,2
+7b99c9a3-0868-4c95-bc14-673418c8d6d2,6c9e53cb-ad6b-4c19-a90d-40b14012b2a4,survey_490,Gabon,Candaceburgh,Female,38.0,Secondary,Self-employed,completed,2026-05-14T10:40:19,field_tool,5,Very Good,1,Low,1
+520a62ee-ce01-4783-9276-c265732a5b6f,93ae1447-d3a6-4223-9b62-1d253e25b50c,survey_555,Gabon,Wilsonborough,Female,54.0,Secondary,Employed,completed,2026-05-14T10:40:06,field_tool,2,Neutral,2,Low,4
+9bb0aafc-49e6-427e-b4c5-2f51788d6109,b9247d0f-7436-4551-a8b9-704cd1989172,survey_186,Gabon,Lake Joshua,Female,42.0,Secondary,Employed,completed,2026-05-14T10:44:12,field_tool,2,Bad,1,High,4
+09a531a7-da1f-47c1-8950-8725e37d9079,0a35c8fe-c265-43b4-a0a9-5f2f0220dfc6,survey_161,Gabon,East Diane,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:43:14,field_tool,5,Very Good,4,Low,5
+19da9d6d-8edc-45a7-85a6-096f2dc6e83e,9dbf4277-589e-4b66-a7a5-1ec243c3329b,survey_426,Gabon,Batesberg,Male,62.0,Primary,Unemployed,completed,2026-05-14T10:39:44,field_tool,3,Neutral,5,Medium,5
+b2538b36-5660-4e2a-ad3b-e4945427e132,4be7dd02-54f6-4c68-99ff-faf955bf0d58,survey_993,Gabon,Port Autumn,Male,45.0,Primary,Employed,completed,2026-05-14T10:43:47,field_tool,1,Very Good,3,High,1
+476d1a24-71da-4c3a-9c87-4b7dd7cf5795,dd4d7474-8c4d-474a-8aab-dbd9ebe01de0,survey_732,Gabon,Lake Chelsealand,Male,72.0,Tertiary,Employed,completed,2026-05-14T10:42:04,field_tool,3,Good,5,Medium,5
+34275ee3-f240-4185-a4b7-2b8389730b9c,4160e5cf-aede-4b37-b8c4-22f9787166b2,survey_985,Gabon,Seanfurt,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:39:42,field_tool,3,Good,3,Medium,3
+a6e2a3ea-f413-41f7-a809-6cbf8d029942,3f76ceb7-9578-4e6b-acac-5acd4b70a26c,survey_860,Gabon,Mullenfort,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:44:20,field_tool,3,Good,1,High,5
+615c3e49-6224-42c6-95ea-7b1a113b7b7a,7974e151-aea4-420b-8087-a859eb39d038,survey_714,Gabon,North Jose,Female,46.0,Primary,Employed,completed,2026-05-14T10:40:20,field_tool,1,Neutral,5,High,3
+b470820f-7f92-4a4a-90f3-2bad1948b847,5600c174-7fc0-4b09-aee3-ac82754038e0,survey_593,Gabon,Port Josephberg,Female,55.0,Primary,Unemployed,completed,2026-05-14T10:44:58,field_tool,4,Good,1,High,4
+d72e709e-1cf8-4b02-9d3d-6badfeb4f39e,6c7faeb5-2e51-4039-a5a5-723fd509bb73,survey_165,Gabon,Linchester,Male,25.0,Primary,Self-employed,completed,2026-05-14T10:44:57,field_tool,4,Good,1,Low,5
+95de4b47-256b-4c98-8193-ec5bc8c512b5,a62855e2-84ba-42fd-80e1-e75feb633ae2,survey_125,Gabon,Lawrenceside,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:44:08,field_tool,5,Neutral,5,High,1
+62e59b03-981d-4f0f-907f-fca8a07f31b4,54a5031f-787b-4cc1-b0d2-421a7605ae29,survey_924,Gabon,Joshuahaven,Female,52.0,Tertiary,Self-employed,completed,2026-05-14T10:41:52,field_tool,5,Very Good,2,Low,5
+422c3a82-edef-4b84-8811-47cd6409a0a5,4b7f4932-c22c-4300-b3b0-f803e22b9771,survey_665,Gabon,East Joshuaville,Male,,Secondary,Employed,completed,2026-05-14T10:44:52,field_tool,3,Neutral,1,Low,3
+7aa0688e-7657-4f71-8c25-950e96b9b18a,b8d7dad4-22dd-4465-bebf-e1b8ed1bbacf,survey_294,Gabon,South Wanda,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:39:41,field_tool,5,Bad,2,Low,4
+83457271-c686-4867-85a8-67a826dcb60d,9a210ec8-f66a-45bb-940b-06c0b0f6242e,survey_862,Gabon,Whitemouth,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:42:30,field_tool,4,Good,3,Low,5
+633e4d26-297e-4c9d-94c1-b35687a679b7,fce52055-1062-4761-bdb5-36ada9da5dd7,survey_115,Gabon,West Nicholas,Male,35.0,Tertiary,Employed,completed,2026-05-14T10:41:47,field_tool,5,Very Good,3,Medium,4
+97e8fd36-d075-4567-98a1-046eb5793b05,1c62a050-06f7-460c-9a51-cbea841426c7,survey_756,Gabon,Port Joshua,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:44:10,field_tool,3,Good,5,Medium,3
+3dffa0cc-8458-405b-8c19-5aeabc76d3b9,7a80174e-4b6b-4bfc-89a1-db15494dc24a,survey_330,Gabon,South Jennifer,Female,43.0,Primary,Self-employed,completed,2026-05-14T10:45:22,field_tool,1,Good,4,High,5
+5d42093e-b271-4503-b666-b6307c1f9c27,ebcea534-1e6b-4a76-a839-3ff559770a37,survey_469,Gabon,West Robertfurt,Female,43.0,Primary,Employed,completed,2026-05-14T10:40:49,field_tool,2,Neutral,3,High,4
+b51a837d-b226-4d2e-b5f1-fb040a6bbcf7,ebedb454-b383-48aa-a1df-423eb48b544c,survey_956,Gabon,Port Paula,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,1,Good,5,High,5
+99299b2b-9be8-47bc-98b4-3ec05c0fbbb9,55d56d09-6b3c-45d6-a840-484507399d2c,survey_437,Gabon,Aprilmouth,Female,62.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,5,Neutral,4,Low,2
+89853526-554d-4a27-a0db-00c7e8e44638,219e2a6e-08fd-45d2-a0f6-e5fd1a25b90f,survey_331,Gabon,South Cynthia,Male,37.0,Secondary,Employed,completed,2026-05-14T10:42:13,field_tool,5,Bad,2,Medium,2
+4fa55c57-c49c-4cbc-ab59-91b406f84efc,3692f3ff-0d88-4247-bf81-e51c3dc40804,survey_849,Gabon,Horneburgh,Male,67.0,Secondary,Employed,completed,2026-05-14T10:45:13,field_tool,5,Bad,1,High,4
+7503419a-4253-41fc-ad3f-ba894adb793c,7df782eb-e88f-423d-801d-df41b72941ab,survey_882,Gabon,New Robertburgh,Female,35.0,Secondary,Employed,completed,2026-05-14T10:42:05,field_tool,3,Neutral,2,High,1
+66f30e57-d0c4-4c7b-88af-b9d70f312953,dfd49991-df48-4169-b4e1-a8554c5a3587,survey_547,Gabon,Robertland,Male,55.0,Tertiary,Unemployed,completed,2026-05-14T10:40:33,field_tool,2,Neutral,4,Medium,2
+44433efb-238f-4266-9137-8c689cdfaf75,35af5a55-1395-4e6f-a023-9bac214b836f,survey_107,Gabon,South Amyburgh,Male,72.0,Tertiary,Self-employed,completed,2026-05-14T10:44:25,field_tool,2,Bad,3,Medium,2
+620f87c6-81a7-4931-b88e-8d4c0b402ce9,c21fb20d-8a22-438d-bcff-43c6e771b626,survey_312,Gabon,South Robertmouth,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:45:36,field_tool,2,Neutral,2,Low,4
+7088283e-4d55-4a0e-ab62-18407f19ec30,9f6197b4-58c2-4f68-8c7e-a8c4e1cb0bae,survey_427,Gabon,Williamfurt,Female,69.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,4,Very Good,5,High,3
+ba2d178d-c20b-4031-a475-be746f821335,b56a24a0-537b-4436-aed9-a39d5a881ca4,survey_669,Gabon,Christophertown,Male,63.0,Tertiary,Self-employed,completed,2026-05-14T10:41:04,field_tool,3,Neutral,5,High,3
+bde5b5c7-f2ee-4eb5-b34b-332b2b9a9350,ae3fdd5f-8d0c-4808-9ac1-7492a0e3fbf5,survey_194,Gabon,West Donald,Female,73.0,Secondary,Unemployed,completed,2026-05-14T10:41:07,field_tool,2,Good,4,Low,1
+7a8e5b2c-974d-4bea-ab4e-5a64f9b44818,b473dcb1-85f7-4f5e-a9ab-7301ea34eefd,survey_829,Gabon,Reynoldston,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:42:21,field_tool,1,Good,5,Low,1
+a8d46b32-e79a-42a1-a756-eb36a3320ba6,45c32483-9d0b-4d71-b3c8-ff73d58ce487,survey_905,Gabon,Lawrencehaven,Female,71.0,Primary,Unemployed,completed,2026-05-14T10:42:18,field_tool,3,Very Good,4,High,5
+3210a9de-556f-41d2-bdde-fb7f4f9d5991,e3fbd382-8062-477e-896f-73b42cf4536a,survey_103,Gabon,Lake Mary,Female,47.0,Secondary,Unemployed,completed,2026-05-14T10:42:06,field_tool,4,Neutral,4,Medium,4
+61ac4246-8947-4fd4-8dbe-15c3d9f25352,540dff12-0937-43f2-a228-5bff72f22829,survey_440,Gabon,North John,Female,68.0,Primary,Self-employed,completed,2026-05-14T10:45:22,field_tool,4,Neutral,4,Medium,4
+12402c32-8ab1-47c6-ba20-289c5bd52ab2,2ae5546b-acac-4dfe-96f8-e0d638604a9d,survey_733,Gabon,Davisburgh,Female,57.0,Tertiary,Employed,completed,2026-05-14T10:41:27,field_tool,2,Neutral,3,Medium,2
+4e6e2df1-0dc3-48bf-a496-69b3f42bd3fc,044b13a5-eaff-4333-a8ca-a46dbeec3c0c,survey_538,Gabon,Port Ryan,Male,53.0,Primary,Employed,completed,2026-05-14T10:42:55,field_tool,4,Very Good,3,Low,3
+a9535dad-d912-4cdf-b884-c0228eb70564,4b00bb02-faeb-424a-afbd-12f985e05509,survey_494,Gabon,Port Scott,Male,43.0,Primary,Self-employed,completed,2026-05-14T10:43:46,field_tool,5,Neutral,4,High,3
+dd11a360-a5ed-4919-8d81-277d2c25fc12,6d6f0d8e-22dc-44cb-a3a2-8b1d8b8e4c86,survey_188,Gabon,Jacobberg,Male,66.0,Tertiary,Unemployed,completed,2026-05-14T10:44:10,field_tool,1,Neutral,1,Low,2
+d2cc7b20-4fcf-406c-abba-e040a3fdf82e,fb4757de-60f3-4b28-bd20-c06b7677fdd8,survey_554,Gabon,Lake Johntown,Female,70.0,Primary,Employed,completed,2026-05-14T10:43:58,field_tool,4,Good,4,High,3
+3ca4eaa0-9ba9-44c3-90f3-8ce55d552060,72e6e75d-7bad-4046-a9ab-3158fe72f0e4,survey_296,Gabon,Port Joseph,Female,71.0,Secondary,Employed,completed,2026-05-14T10:40:20,field_tool,2,Neutral,5,Low,1
+1736dc41-e74b-4465-974a-78d25d37aa75,681d7c0d-01db-47c0-be4e-20cdf4e2f368,survey_988,Gabon,Lake Amanda,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:41:33,field_tool,2,Neutral,3,Low,5
+b2efacdd-a1c5-4e2f-9e2b-4f180ab1226c,58d24990-a21f-44ab-a342-0fdb4415f0cb,survey_933,Gabon,Timothymouth,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:43:17,field_tool,2,Bad,2,Low,3
+678efaab-10b2-4dd7-bf75-a3c2e47a2c6b,a67eea7c-f43b-4412-b160-70c32c6976f1,survey_557,Gabon,Port Linda,Female,51.0,Secondary,Employed,completed,2026-05-14T10:43:31,field_tool,4,Neutral,5,Medium,2
+bf7e1ce7-9856-4875-977e-c22bfa58f7f3,c460e457-b6be-4683-a4f1-efed7fecb7a1,survey_449,Gabon,North Jonathanborough,Female,49.0,Secondary,Unemployed,completed,2026-05-14T10:42:33,field_tool,5,Bad,4,High,5
+a0b895af-3cd1-4740-862f-b0cfa5e81217,9581c2f1-b4a9-4e0b-9b40-7ea187de9cb5,survey_227,Gabon,Robinsonberg,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:43:36,field_tool,1,Good,3,Medium,3
+e1aa1365-d511-495b-b5a8-6b728f47f025,ab504c94-a2d2-4137-bed6-bb8f387af817,survey_206,Gabon,East Andrea,Male,60.0,Secondary,Employed,completed,2026-05-14T10:43:29,field_tool,5,Very Good,2,Medium,5
+3bba3dda-600b-44dd-97d1-291da1d57a12,4fea88cf-05cc-4354-a95e-9a2cec3b5e39,survey_965,Gabon,Port Jonathan,Female,,Primary,Self-employed,completed,2026-05-14T10:40:58,field_tool,4,Bad,4,Medium,5
+537c8923-d1cb-4ce5-9243-88f418c89ab4,4a549fd0-5676-4c02-9799-4d7754c0d4f4,survey_351,Gabon,Boydbury,Male,38.0,Secondary,Self-employed,completed,2026-05-14T10:44:36,field_tool,3,Neutral,1,High,3
+4128cb2c-c1dd-46d2-8a3a-1b4b5bce9c18,ea5e632a-e472-4f88-b32a-8f49cbb72d0a,survey_789,Gabon,Banksport,Female,35.0,Primary,Unemployed,completed,2026-05-14T10:40:33,field_tool,3,Bad,3,Medium,2
+f705f324-95c4-49ee-ae00-df023f5f6fe9,f897c7d9-7a07-4232-aa62-bb9c1a9face2,survey_376,Gabon,West Kristinachester,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:45:06,field_tool,5,Bad,2,Medium,1
+70699090-f656-42ac-9085-dc7e79740a54,6654c3dd-4915-417a-9d3d-f93cc8caa571,survey_598,Gabon,Hallfurt,Female,18.0,Primary,Self-employed,completed,2026-05-14T10:42:35,field_tool,3,Very Good,1,Low,3
+5eaea317-3080-4706-902a-b985712337b9,4c098021-0299-4b28-9bd5-3714614f2082,survey_386,Gabon,Zacharyview,Female,55.0,Tertiary,Self-employed,completed,2026-05-14T10:45:23,field_tool,3,Good,5,High,5
+7dd717eb-a175-438d-b5da-b88c68a61e1c,3a6f8411-bf01-4eb7-bfdc-adde6e655f53,survey_992,Gabon,East Jennifer,Female,42.0,Secondary,Employed,completed,2026-05-14T10:44:59,field_tool,5,Very Good,4,Low,1
+2b903766-40d7-40b9-a6fe-9c791fb8c768,b095a924-f6ff-4f22-920f-c4a7d91fc066,survey_631,Gabon,West Amy,Male,33.0,Primary,Unemployed,completed,2026-05-14T10:42:29,field_tool,5,Good,5,High,4
+cf043597-9988-4c27-a657-16699d1adcbe,eb035822-771a-4af3-88df-6a455a2d022f,survey_942,Gabon,Johnsonchester,Male,59.0,Tertiary,Self-employed,completed,2026-05-14T10:41:02,field_tool,1,Very Good,1,Medium,4
+afaa952b-9b85-48f0-9ee4-6753fb9a2f23,43036244-9d6e-46e8-ad69-71c03d390f79,survey_778,Gabon,Brandishire,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:45:26,field_tool,1,Good,3,Low,1
+e3c582ce-8633-4a1c-bf02-9554f0041298,28df781e-f579-4eaa-876f-a6d5d784a939,survey_336,Gabon,Hillfort,Male,71.0,Primary,Employed,completed,2026-05-14T10:43:11,field_tool,1,Neutral,4,Low,4
+cf520ca1-8426-4a82-a3b8-a99dd1aea3aa,983a5121-8e1e-4f2b-a2dc-b2030626cb30,survey_567,Gabon,Jamieland,Male,26.0,Primary,Employed,completed,2026-05-14T10:40:45,field_tool,2,Very Good,2,Medium,5
+48949768-9cb7-4bb1-bad4-80e26b8ad6ff,39b316a2-0c15-4304-b7e9-c54ff1ad9124,survey_764,Gabon,New William,Female,71.0,Secondary,Employed,completed,2026-05-14T10:45:35,field_tool,3,Bad,3,Medium,2
+33def31f-7b8c-47ac-928d-3cfcc04a4ae9,f200a6f9-b8a9-483c-bdc7-66d61e093961,survey_528,Gabon,Davisfurt,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:40:53,field_tool,3,Neutral,1,Medium,2
+079cf7aa-939c-48e2-a425-874484f3786d,5b193a9b-3f6c-4df5-b94d-f2c98b575c11,survey_478,Gabon,Dunnton,Female,67.0,Primary,Employed,completed,2026-05-14T10:42:24,field_tool,3,Very Good,3,High,4
+92e370f3-5fb2-4ae0-9e7f-13c16d97a3ae,c66a6065-8c51-4a02-a33a-c2d0e41ea3ac,survey_126,Gabon,North Ambertown,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:40:39,field_tool,5,Very Good,2,Medium,3
+c77f2e9f-e62e-45c5-8341-1836868ee5df,34eab001-37ec-4916-9190-64285db08ee1,survey_815,Gabon,Ramirezborough,Male,23.0,Primary,Employed,completed,2026-05-14T10:42:26,field_tool,4,Good,1,High,5
+a7d82a02-ee6b-4311-bf17-31334fad594a,2119d4ff-056b-47bf-b558-aace6758e53c,survey_417,Gabon,Henryhaven,Male,45.0,Tertiary,Employed,completed,2026-05-14T10:43:35,field_tool,2,Good,3,High,4
+7f7d65cd-7a49-425e-ae36-67d539f60c0a,ed0e7a58-519a-4b44-bf7b-e92312250b77,survey_761,Gabon,Diazchester,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:45:17,field_tool,2,Neutral,2,Low,3
+e48d86d5-065e-453d-bf69-dfee98456015,b263f2ae-7672-417d-9e3b-34419ef98613,survey_730,Gabon,Michaelfort,Male,47.0,Primary,Self-employed,completed,2026-05-14T10:42:34,field_tool,5,Good,5,Medium,3
+41d2034d-a47d-430d-8da4-280d44ad692b,91ee4bf8-9c92-4c06-97df-de3b917f1f1c,survey_385,Gabon,Theresatown,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:42:35,field_tool,2,Good,5,Medium,4
+19e84916-b235-4c00-af59-962270a54c27,3d700453-a606-4af6-a584-5c8952ff6f83,survey_627,Gabon,Andersonland,Female,38.0,Tertiary,Self-employed,completed,2026-05-14T10:43:26,field_tool,5,Good,4,High,5
+69ce65f0-c61b-48f7-b730-48525ef4f7c5,5d5323e5-8391-485d-8ce4-8e871d5f232f,survey_891,Gabon,Priscillaside,Male,44.0,Secondary,Employed,completed,2026-05-14T10:41:34,field_tool,2,Bad,1,High,2
+809c8381-7a6c-4cd4-8b12-8b3421f11a15,29137df6-f12a-43f3-9850-38099fcfdf54,survey_878,Gabon,Davidstad,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:40:53,field_tool,4,Good,2,Low,3
+a9386984-fa52-4305-b21c-6f2f9215aaa6,f141671d-0fcb-442f-aeda-f619cf1af575,survey_319,Gabon,Shannonhaven,Male,36.0,Secondary,Unemployed,completed,2026-05-14T10:45:10,field_tool,3,Very Good,3,Low,5
+fcf76a0b-f7ac-41b3-9f99-d8b4110069aa,c65c0c2a-29fd-4415-8028-df6cf9fd0365,survey_305,Gabon,South Debraville,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:40:14,field_tool,2,Good,2,Medium,3
+91acae20-14fc-4266-874b-e8252e463e4b,2f5a756e-b5b3-44c4-a110-20ab9c39e4eb,survey_449,Gabon,West Marilynstad,Male,72.0,Tertiary,Employed,completed,2026-05-14T10:43:51,field_tool,3,Neutral,1,Medium,1
+447f23a5-e07c-4ddc-972f-ccf5ea3595f4,51d5db5f-4bbc-4d0f-b5e5-75f54b9f1600,survey_530,Gabon,North Linda,Female,36.0,Primary,Unemployed,completed,2026-05-14T10:40:00,field_tool,5,Neutral,3,Medium,1
+a4ee533f-6cd9-41f1-9ad2-a7c181ddeab5,22b089c7-aa31-4ee0-8e8c-9c65ca1c2593,survey_207,Gabon,Mccoyview,Female,38.0,Primary,Self-employed,completed,2026-05-14T10:43:37,field_tool,1,Bad,1,High,1
+03e8d201-d18c-4d02-913d-4d63c3e2da06,bb0bf375-834c-40eb-8695-a0ba33d5ceaf,survey_314,Gabon,West Stephanie,Male,24.0,Tertiary,Unemployed,completed,2026-05-14T10:41:16,field_tool,3,Bad,2,High,4
+7dd98cc5-8576-47d5-ae9f-a45dc761f0cc,aee65375-5cc4-4dcb-ba91-71edd2919b85,survey_365,Gabon,East Jennifer,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:40:26,field_tool,2,Neutral,4,High,2
+407405ea-981a-437f-a473-275051ba39ba,fdf4ca04-bce2-458d-ab24-dedbc9287a8e,survey_402,Gabon,Natalieport,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:39:44,field_tool,2,Very Good,1,Medium,1
+991fc0a4-0019-493b-b842-077eb2368008,952f1308-2c41-4f60-b3c5-63babc9dea97,survey_600,Gabon,Port Samuel,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:42:08,field_tool,4,Bad,1,Low,1
+f26f23c8-d44c-4e9c-b07a-09c32b405f65,c93670a9-cb57-4bb6-95e3-1909a4dc3ff3,survey_532,Gabon,New Johnburgh,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:40:25,field_tool,2,Neutral,2,Low,4
+93c33bd3-2bbe-4715-9bd3-1569eb23668b,09edd3b6-e6b3-4de4-8d3a-b986d29f222c,survey_725,Gabon,Jenniferburgh,Male,68.0,Tertiary,Employed,completed,2026-05-14T10:42:41,field_tool,2,Neutral,4,Low,5
+a239783d-da45-4ff8-9481-55f7eb252b43,953f2211-5125-454e-9259-3c477a6b003f,survey_449,Gabon,Lake Anthonyfort,Male,74.0,Secondary,Employed,completed,2026-05-14T10:44:51,field_tool,5,Very Good,2,High,2
+96aa3cc0-aece-413c-ae33-05d8bf4e2842,22e44299-16aa-4954-80bc-c972e9c0cd03,survey_564,Gabon,East Mark,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:43:08,field_tool,4,Very Good,2,Low,4
+39aa26a6-2e2c-4624-bd57-5bbaa9991af4,e6694f3f-8dbe-41e1-961a-a2030216d820,survey_539,Gabon,Port Danielport,Male,74.0,Secondary,Employed,completed,2026-05-14T10:41:39,field_tool,5,Neutral,1,Low,5
+b438d27b-e248-4bcb-9f32-446fdf905d0b,b5c5fd9f-8099-427a-8d11-435d431185aa,survey_482,Gabon,Thomasborough,Female,23.0,Primary,Unemployed,completed,2026-05-14T10:41:29,field_tool,5,Very Good,4,Low,4
+3edaf35a-7c57-4c94-91b0-f41d00efe7a2,9f97fa5b-af84-4dd6-8463-190a99cfc5aa,survey_761,Gabon,Holtmouth,Male,24.0,Primary,Self-employed,completed,2026-05-14T10:43:18,field_tool,5,Good,5,Low,4
+454bcb5d-0271-481f-973a-a92a1238aa82,2f8611d5-1651-44bb-aa7f-ae108bff5388,survey_775,Gabon,Allenberg,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:40:39,field_tool,1,Bad,2,Medium,1
+9948857a-7dd6-498a-9790-aa4a16eda6fb,06a2afeb-2696-486d-9dd2-c38ac49bdcf1,survey_434,Gabon,New Christopher,Female,49.0,Tertiary,Unemployed,completed,2026-05-14T10:45:36,field_tool,2,Very Good,2,Medium,2
+e5622b5f-765b-4935-9b19-bfe32926aa19,1565b21b-80a3-446e-b42d-4e17b52f1129,survey_616,Gabon,North Christopher,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:44:43,field_tool,4,Very Good,4,Low,4
+b0c4f4a0-d8b8-456b-b4c6-3b86557f4f72,08cc75d7-8f7b-4817-8e29-2617dbfaedfc,survey_317,Gabon,New Alicia,Female,71.0,Primary,Employed,completed,2026-05-14T10:44:48,field_tool,4,Neutral,1,High,4
+90f11b71-1287-4075-81cf-55a1435f3b42,a50cb05b-8b87-460e-8e59-d1280cfd400c,survey_817,Gabon,New Noahchester,Female,66.0,Tertiary,Unemployed,completed,2026-05-14T10:42:14,field_tool,4,Neutral,5,Medium,3
+80ffaebb-ac63-4d21-9d2e-38206ac82588,30318a12-2864-4c4b-9c47-581ecf3ff26a,survey_549,Gabon,Port Ashleyshire,Male,23.0,Secondary,Employed,completed,2026-05-14T10:44:42,field_tool,1,Neutral,1,Low,2
+94e8602a-377b-4120-ad03-6054faa244bd,11f24fd8-2771-45f8-835c-f16b093ddf52,survey_744,Gabon,East Manuel,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:44:27,field_tool,3,Very Good,5,Medium,5
+7d2cf69f-4169-40f0-88bb-435c3582fe45,34f735ed-b239-4791-910f-5d4aba209b9d,survey_308,Gabon,South Susanbury,Male,73.0,Secondary,Employed,completed,2026-05-14T10:43:20,field_tool,2,Bad,3,Low,3

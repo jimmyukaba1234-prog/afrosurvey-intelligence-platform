@@ -1,0 +1,42 @@
+# Core Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Database
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.0
+
+# File Handling
+pyreadstat>=1.2.7
+openpyxl>=3.1.2
+
+# Object Storage
+minio>=7.2.5
+
+# API Requests
+requests>=2.31.0
+
+# Fake Data Generation
+faker>=24.0.0
+
+# YAML Config
+PyYAML>=6.0.1
+
+# Data Validation
+pandera>=0.19.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# Logging / Utilities
+structlog>=24.1.0
+
+# Spark (future Silver/Gold layers)
+pyspark>=3.5.1
+
+# Workflow Orchestration (future)
+apache-airflow>=2.9.0
+
+# Optional: Fast Parquet Support
+pyarrow>=15.0.0
+fastparquet>=2024.2.0

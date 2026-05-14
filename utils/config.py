@@ -34,9 +34,17 @@ def load_config() -> Dict[str, Any]:
     with open(config_path, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
 
-    # 2. Load data contract (schema + source mappings)
-    schema_path = base_dir / "data_contracts" / "survey_schema.yaml"
+
+    # 2. Load Bronze survey schema
+    schema_path = (
+        base_dir
+        / "data_contracts"
+        / "bronze"
+        / "survey_bronze_schema.yaml"
+    )
+
     survey_schema = load_yaml(str(schema_path))
+
 
     # 3. Inject secrets from .env
     # MinIO
@@ -64,8 +72,27 @@ def load_config() -> Dict[str, Any]:
     )
     #config["country_code_to_name"] = global_transforms.get("country_code_to_name", {})
 
-    print("✅ Full configuration + data contract loaded successfully!")
+    print("Full configuration + data contract loaded successfully!")
     return config
+
+
+def load_data_contract(layer: str, schema_name: str) -> Dict:
+    """
+    Load a specific data contract from the data_contracts folder.
+
+    Examples:
+        load_data_contract("bronze", "survey_bronze_schema.yaml")
+        load_data_contract("bronze", "api/world_bank_schema.yaml")
+        load_data_contract("silver", "survey_silver_schema.yaml")
+        load_data_contract("gold", "survey_gold_schema.yaml")
+    """
+    base_dir = Path(__file__).parent.parent
+    schema_path = base_dir / "data_contracts" / layer / schema_name
+
+    if not schema_path.exists():
+        raise FileNotFoundError(f"Data contract not found: {schema_path}")
+
+    return load_yaml(str(schema_path))
 
 # For quick testing
 if __name__ == "__main__":
@@ -78,4 +105,4 @@ if __name__ == "__main__":
     print(f"MinIO Bronze Bucket: {config['storage']['buckets']['bronze']}")
     print(f"Database User      : {config['database']['user']}")
     print(f"Country Mappings   : {len(config['country_code_to_name'])} countries")
-    print("\n✅ Config is ready for use in DAGs and pipelines!")
+    print("\nConfig is ready for use in DAGs and pipelines!")

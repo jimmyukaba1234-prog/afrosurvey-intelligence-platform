@@ -1,0 +1,72 @@
+# data_contracts/api/restcountries_schema.yaml
+dataset: restcountries
+version: "1.0.0"
+description: >
+  REST Countries API normalized metadata schema.
+  Contains country-level geographic and demographic metadata.
+
+primary_key:
+  - country_code
+
+fields:
+  country:
+    type: string
+    required: true
+    description: "Common country name"
+
+  official_name:
+    type: string
+    required: false
+    description: "Official country name"
+
+  country_code:
+    type: string
+    required: true
+    description: "ISO 2-letter country code (alpha-2)"
+
+  country_iso3:
+    type: string
+    required: false
+    description: "ISO 3-letter country code (alpha-3)"
+
+  capital:
+    type: string
+    required: false
+
+  region:
+    type: string
+    required: false
+
+  subregion:
+    type: string
+    required: false
+
+  population:
+    type: integer
+    required: false
+
+  area:
+    type: float
+    required: false
+
+  timezone:
+    type: string
+    required: false
+
+  latitude:
+    type: float
+    required: false
+
+  longitude:
+    type: float
+    required: false
+
+  source_system:
+    type: string
+    required: true
+    default: "restcountries"
+
+  ingestion_timestamp:
+    type: timestamp
+    required: true
+    description: "When this record was ingested into the platform"

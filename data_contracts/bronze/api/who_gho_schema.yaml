@@ -1,0 +1,37 @@
+# data_contracts/bronze/api/who_gho_schema.yaml
+
+dataset: who_gho
+version: "1.0.0"
+
+description: >
+  WHO Global Health Observatory indicator metadata schema.
+  Stores WHO indicator catalog metadata from the WHO GHO OData API.
+
+primary_key:
+  - IndicatorCode
+
+fields:
+
+  IndicatorCode:
+    type: string
+    required: true
+    description: "WHO indicator unique code"
+
+  IndicatorName:
+    type: string
+    required: true
+    description: "Human-readable WHO indicator name"
+
+  Language:
+    type: string
+    required: false
+    description: "Language of indicator metadata"
+
+  source_system:
+    type: string
+    required: true
+    default: "who_gho"
+
+  ingestion_timestamp:
+    type: timestamp
+    required: true

@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+3c1a2c48-7072-4926-a15b-fe6f1293033c,59693879-141a-4b56-9091-259688d5c2b6,survey_317,Ethiopia,New Shari,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:44:15,field_tool,1,Very Good,5,Medium,1
+45a573c0-fe1c-46ff-ba36-655d74e229f6,b19aadda-2af4-4faa-a340-02665d5ba987,survey_223,Ethiopia,South Andreamouth,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:42:35,field_tool,4,Good,5,Medium,3
+6b938ab7-2f3f-4e0c-91f3-753ead5d8cc0,9eb03dad-ce85-4ee8-9f63-e175e0778f89,survey_205,Ethiopia,Port Barbaraport,Female,54.0,Tertiary,Employed,completed,2026-05-14T10:45:26,field_tool,2,Neutral,3,High,5
+f59f12dc-8e87-452b-8448-8bfe0f08723b,eaab212d-1373-4d84-b935-0fc2cb2cda3e,survey_189,Ethiopia,New Tiffany,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:42:29,field_tool,1,Bad,4,Medium,4
+6520908f-1d32-4c4f-9105-f8e7b8382784,d6e9aeba-84d1-4e3b-8ec2-38635c6ae28e,survey_949,Ethiopia,South Stevenburgh,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,5,Bad,5,Low,3
+6dc5e61a-6c38-474f-acd4-76927548f0cc,da9397a6-f145-42c8-b49d-e09f89bcc9fc,survey_525,Ethiopia,New Jeffreyside,Male,34.0,Tertiary,Unemployed,completed,2026-05-14T10:44:32,field_tool,4,Good,5,High,3
+3609e159-f207-4475-92ad-2b2b5243a232,b76b05b3-e43b-47eb-8c38-24311779a44c,survey_317,Ethiopia,Lake Brianborough,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:44:12,field_tool,4,Bad,4,Low,1
+c1a28e64-93c5-4a58-aeb2-ae7cc4e8d0c5,ddbbea9f-4219-44c2-91b2-205f10a5d952,survey_844,Ethiopia,Lopezberg,Female,42.0,Secondary,Self-employed,completed,2026-05-14T10:45:40,field_tool,1,Good,2,High,5
+25cd3661-6418-4d99-a50e-3bd1dfac5cff,2c4cf708-d101-429c-bb66-4abf9b50b5fb,survey_810,Ethiopia,Robinville,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:45:32,field_tool,1,Bad,3,High,1
+666ee801-646a-42ca-84e8-ea577ba6e63c,9300f3dd-5eb6-45bf-a055-4c8c9bb754cf,survey_813,Ethiopia,Garnerbury,Male,19.0,Secondary,Unemployed,completed,2026-05-14T10:40:06,field_tool,1,Neutral,5,Medium,3
+2b84010b-dfa1-4b49-84d3-bff5fddcf71d,ec7a4974-bc4a-471c-966e-dc31d72588e3,survey_428,Ethiopia,East Bryanmouth,Female,46.0,Secondary,Self-employed,completed,2026-05-14T10:40:59,field_tool,1,Neutral,4,Low,1
+38c440f1-ac5f-4173-9607-a0ae061de0b1,4b91b450-3175-4735-a794-0b0878e0e9ac,survey_987,Ethiopia,North Kennethfurt,Male,51.0,Primary,Employed,completed,2026-05-14T10:40:25,field_tool,5,Neutral,3,Low,3
+9ed7c267-fc3b-482a-837d-4118c2f75053,55143e7e-1577-46e6-bfdc-848e32571e92,survey_367,Ethiopia,Michaelton,Male,33.0,Secondary,Self-employed,completed,2026-05-14T10:40:12,field_tool,2,Neutral,2,Medium,5
+8741f588-27d3-4fe2-ac1c-9c252e13301c,309757d9-09fb-47f0-b934-7ab6521b3730,survey_426,Ethiopia,Port Kyletown,Male,29.0,Secondary,Employed,completed,2026-05-14T10:43:30,field_tool,1,Very Good,2,Low,4
+47104c9d-0ab3-4e94-b58d-ad331b0af9f7,abf5c0bc-1683-4329-8867-260d70e22b70,survey_902,Ethiopia,North Christinachester,Female,39.0,Secondary,Self-employed,completed,2026-05-14T10:42:44,field_tool,2,Very Good,2,High,4
+022e6765-bf76-4faa-8124-de74e0de17da,a9e48f21-4d96-48aa-8c8d-33d09d294bd2,survey_749,Ethiopia,Luischester,Male,24.0,Primary,Employed,completed,2026-05-14T10:43:21,field_tool,5,Bad,1,Medium,1
+3486df88-75cb-4c4a-ab0b-933a80a9ee40,4e307317-ccdb-4925-bfd2-ef7c3cc4fe31,survey_312,Ethiopia,Vanessaport,Female,71.0,Primary,Unemployed,completed,2026-05-14T10:40:41,field_tool,4,Bad,2,Low,4
+51b490f6-ae8d-4cb7-a599-92de2d26d5e2,f947e835-bdf2-4031-8ef0-cbccc87849c1,survey_175,Ethiopia,New Brittany,Male,41.0,Tertiary,Unemployed,completed,2026-05-14T10:40:52,field_tool,2,Very Good,1,High,3
+7b166c94-a7fc-40cc-bbbf-254c7da0938f,db915ffd-9d26-42d1-b052-8bff681791ea,survey_190,Ethiopia,Matthewton,Male,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:13,field_tool,2,Good,1,Medium,2
+4901c48c-801f-4da5-bade-52b3f3cf36d4,ef57f0bb-1500-4f8d-af37-31504e898769,survey_369,Ethiopia,North Robertville,Male,50.0,Tertiary,Self-employed,completed,2026-05-14T10:45:35,field_tool,3,Good,2,Medium,1
+a12ee785-9e71-4f77-9ee9-e4b3de74fcb5,a405ff2d-fb71-4d04-a1e7-eed9bf8ae3f5,survey_770,Ethiopia,Vaughnland,Male,33.0,Secondary,Employed,completed,2026-05-14T10:39:48,field_tool,2,Good,1,Medium,3
+71abe84f-e020-4161-af31-8094f302b570,e3604e7e-c0f6-4d0d-a529-f6530f12543f,survey_218,Ethiopia,East Elizabeth,Male,43.0,Primary,Self-employed,completed,2026-05-14T10:40:48,field_tool,1,Bad,3,Medium,5
+24ae79d5-10a1-48df-853d-dcefed96e2c0,678d2bb9-1f9d-4ee5-bd74-2407ccd0d9c4,survey_301,Ethiopia,South Madison,Male,72.0,Secondary,Employed,completed,2026-05-14T10:40:44,field_tool,5,Very Good,1,Medium,4
+63ec0fe1-5f03-4269-92c5-d4f0f4c06f06,a2007835-156e-4644-afe0-27b426e5dd77,survey_511,Ethiopia,Kellyfurt,Male,41.0,Primary,Self-employed,completed,2026-05-14T10:41:07,field_tool,3,Bad,5,High,5
+90ab5338-22c0-4411-9a7e-08a3444ec881,d5edb0c8-618b-4b2e-883b-e551a67f8850,survey_549,Ethiopia,Blevinstown,Female,57.0,Secondary,Self-employed,completed,2026-05-14T10:44:10,field_tool,4,Bad,1,Medium,3
+dc516c7c-68f2-430c-9d48-794258a85205,7f1f2b30-455f-4ac0-a1a5-366b318cac32,survey_961,Ethiopia,Lake Adamstad,Female,31.0,Primary,Self-employed,completed,2026-05-14T10:44:31,field_tool,1,Very Good,5,Low,2
+7ea0ee22-7749-47ea-8a7b-7c7cc84f33e3,ccb60e9e-a97c-4644-a39f-7c503afb233e,survey_395,Ethiopia,Travisberg,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:44:22,field_tool,3,Very Good,3,High,1
+71807dcc-8a55-4f6b-ba22-96f529c38a18,b415e6c8-0c95-421c-b4b3-92bda0968dda,survey_795,Ethiopia,East Dustin,Female,18.0,Secondary,Unemployed,completed,2026-05-14T10:40:03,field_tool,3,Bad,4,Medium,5
+a39717bd-442b-4c87-93bd-38bf40c060ed,769aff7e-a937-44c7-a538-2d43f5cd3fcb,survey_866,Ethiopia,Angelicafort,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:40:45,field_tool,2,Neutral,2,High,3
+8b69f465-a523-400f-a84f-0c3c64f885ae,8e76db29-30fd-4cec-8e18-8222410bf3d1,survey_344,Ethiopia,Crosbyberg,FEMALE,33.0,Tertiary,Employed,completed,2026-05-14T10:44:52,field_tool,5,Bad,1,Medium,5
+ea5ebdb9-f448-4f20-b480-5730223446bc,55ad6655-4b94-43d9-969f-915e59828abf,survey_352,Ethiopia,Lake Lisa,Female,24.0,Secondary,Employed,completed,2026-05-14T10:42:29,field_tool,3,Bad,1,Medium,2
+df8cccbe-13e2-4e0c-a5ef-2f2cdc8274d7,e2741915-8300-4f15-beef-fc7fad48c174,survey_211,Ethiopia,Lake Sarahhaven,Male,27.0,Primary,Employed,completed,2026-05-14T10:43:04,field_tool,2,Neutral,5,Medium,1
+5f6d5370-ebd7-4dd9-a19d-b4abaac40408,0b3e32c1-614e-43e0-8e56-e8a604145aec,survey_751,Ethiopia,Andreaburgh,Female,,Secondary,Unemployed,completed,2026-05-14T10:41:13,field_tool,3,Neutral,2,Medium,5
+eb23438c-3bab-4f85-b83f-fd734e0e7d00,c87e332c-6b23-486b-8346-7306431c17b6,survey_807,Ethiopia,Melaniefort,female,33.0,Primary,Self-employed,completed,2026-05-14T10:41:54,field_tool,1,Bad,1,High,2
+45295ee7-df2f-436e-8886-f62ab0cde984,662dffb1-cdfd-4fe9-b461-eef8737ee7e5,survey_775,Ethiopia,Bobbyshire,Male,56.0,Tertiary,Employed,completed,2026-05-14T10:39:51,field_tool,3,Neutral,3,High,5
+4303a95b-9704-4947-970e-dddb2e2e5535,a272ceba-155b-459a-9ee1-421341d64371,survey_443,Ethiopia,Ryanview,Female,63.0,Primary,Employed,completed,2026-05-14T10:41:24,field_tool,5,Good,4,High,4
+8f620f10-9f38-46ac-bf83-5924ddff12e6,6390d5d3-e68c-4a15-9801-33f10907ec9e,survey_813,Ethiopia,Courtneystad,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:43:20,field_tool,4,Very Good,4,Medium,1
+2a4bc9c1-19f2-4cf3-a285-1ca56147dfd6,83cb763e-3876-4632-a271-0801ce257693,survey_170,Ethiopia,Schmidthaven,Female,41.0,Secondary,Employed,completed,2026-05-14T10:43:26,field_tool,5,Neutral,1,Low,4
+fe1dbd02-b112-47ea-b0bd-cc2c1c3de8b6,58fbf7c7-6183-4623-a14c-7ea0ba5e8d20,survey_343,Ethiopia,Terrybury,Male,43.0,Secondary,Employed,completed,2026-05-14T10:40:17,field_tool,2,Very Good,2,High,3
+7a45f7bc-dd15-4ed0-ba5f-f6c519cab18a,f57fd15f-a8b4-4926-a3ac-a07b34bca6b4,survey_170,Ethiopia,South Deborahberg,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:44:42,field_tool,2,Very Good,2,Low,2
+3b0ee18c-4e09-4f5a-bbef-33d9d35e752b,fe06ba7d-1693-4dc7-a27d-114a05e54cf0,survey_685,Ethiopia,Port Jessicaborough,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:44:24,field_tool,4,Very Good,2,Low,2
+8a89a1b9-e2e7-49cc-b21f-4ed169ec3f66,47898629-ec0f-4157-8255-c99461d73db1,survey_386,Ethiopia,Rivasview,Female,50.0,Secondary,Employed,completed,2026-05-14T10:45:20,field_tool,5,Neutral,2,High,2
+41efd5c2-486a-46f4-b4ee-98e8d24dfacc,e1d852f3-e70d-4181-b27c-c81cc0d4173b,survey_301,Ethiopia,Port Barbaratown,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,2,Neutral,2,Medium,5
+a86a558a-13d1-45a2-b01f-f75b9b212503,544b1a44-3512-402b-8444-e6428249dfeb,survey_889,Ethiopia,Port Jenniferview,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:44:06,field_tool,3,Bad,1,Medium,3
+b453de6a-6aee-4ead-a8f6-b165d1b43ed6,c3ea7af4-fd86-49e2-8c32-1064963cae6e,survey_289,Ethiopia,Jessicaside,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,3,Good,4,Medium,1
+5036792a-c334-416f-abcf-11afb96c891b,4a337f1b-91cd-4af7-b7df-c38cf36397c0,survey_814,Ethiopia,Charlesville,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:41:52,field_tool,1,Good,4,High,5
+c11e9801-893e-4312-bb0c-4621e5c7c5ca,bb27dcbb-9038-4703-8f12-b31375a870a1,survey_460,Ethiopia,West Jesusmouth,Male,47.0,Primary,Unemployed,completed,2026-05-14T10:40:45,field_tool,5,Neutral,2,Low,5
+7ff7f47f-9709-4fe9-b89a-4f61dcff597a,5bc0905e-96a9-4189-bd47-40c78f90364f,survey_739,Ethiopia,Lake Robertborough,Female,55.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,5,Bad,3,High,1
+a52dc802-9c64-43cb-9811-b9c858e47d7a,54d56514-907c-4b39-91f0-55ba0e6960ed,survey_453,Ethiopia,East Diane,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:43:01,field_tool,2,Good,4,High,2
+657c3c2d-1e10-4f95-bbc4-5eea18d9727d,8e7ce430-cecd-476b-8200-eb7f7e510fa2,survey_105,Ethiopia,Michellehaven,Male,61.0,Secondary,Employed,completed,2026-05-14T10:43:06,field_tool,5,Very Good,1,Low,4
+384c54f0-ce5c-43b0-8e00-044b87100763,bf8aff19-875a-4a92-a075-46aad08faff0,survey_567,Ethiopia,Davenportmouth,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:42:54,field_tool,3,Neutral,5,High,3
+73ad9a7f-58f1-40e4-a9ae-a74d60f9db82,97ceecf5-2635-4ad8-a92c-1fd3b0530141,survey_471,Ethiopia,West Kim,Male,59.0,Primary,Self-employed,completed,2026-05-14T10:45:19,field_tool,4,Neutral,2,Medium,1
+a2246cf0-9f4f-46e0-a504-e6977472bcbc,df652d96-2f81-49c4-a9de-64a388e86648,survey_477,Ethiopia,New Rebecca,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:44:14,field_tool,3,Bad,1,Low,1
+1f69eaee-a7fe-4e8e-a7c7-d140c0e04e4c,c391af62-c298-4f2b-8069-8a2ae6ac8886,survey_410,Ethiopia,New Jefferybury,Female,44.0,Primary,Employed,completed,2026-05-14T10:42:51,field_tool,4,Very Good,4,Medium,5
+11047b23-7607-4f7e-a1ea-31be80a290b7,e5f5883f-6fd1-4141-8aaf-1b4635acd71b,survey_150,Ethiopia,Ronaldport,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:45:28,field_tool,5,Very Good,3,Medium,1
+471daf6b-76fe-434f-8164-c1f0d2b536b6,7c263cec-6c22-4110-94f1-0cf9f12ee3a3,survey_961,Ethiopia,Fowlerhaven,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:39:49,field_tool,2,Neutral,1,Medium,3
+fe3f2c7f-e166-4adb-8da0-238cf6409c70,474e8557-6633-45b5-b2f7-91149c5e2a3c,survey_517,Ethiopia,Lauriebury,Female,64.0,Tertiary,Employed,completed,2026-05-14T10:43:45,field_tool,3,Neutral,3,High,2
+ae225498-9515-4501-a137-f34b96f9df4f,47ddafc9-bbeb-4043-84d0-2163f93b9f4f,survey_828,Ethiopia,Mariahfort,Female,27.0,Secondary,Employed,completed,2026-05-14T10:42:31,field_tool,1,Bad,5,High,3
+9daa64b7-e3a3-442a-9985-3431f6198a2b,5b7f7f66-3b26-48be-9450-3e5b2584e912,survey_733,Ethiopia,North Sharon,Female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:42:25,field_tool,2,Bad,2,High,3
+7b499eac-c5e8-4a23-982a-8d06ef2768cf,c98bf146-af05-477a-9838-8d77e5b069f5,survey_700,Ethiopia,Carolburgh,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:43:57,field_tool,4,Very Good,1,Medium,4
+f3dba424-ff6c-45f1-9643-50194c75ed82,46481f0d-7d11-443f-9f66-2738b3348662,survey_742,Ethiopia,Sanfordland,Female,28.0,Primary,Employed,completed,2026-05-14T10:45:31,field_tool,4,Bad,4,Low,1
+e0ade842-d849-4518-b1e0-58e519336931,4a87aa78-a2d8-45c2-b4ac-4cd1107a8d83,survey_238,Ethiopia,Suttonburgh,Male,64.0,Secondary,Unemployed,completed,2026-05-14T10:43:19,field_tool,5,Bad,3,Medium,5
+afe9083d-1ff2-4f68-b368-38365a557e0b,1ecc00a0-c2b7-47b1-92bf-3c8a719a704d,survey_621,Ethiopia,Port Christinafort,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:43:17,field_tool,5,Bad,1,Medium,3
+d1bb51ba-3161-4e4b-a4fe-162ddb83506d,44aa1ea7-3959-4bb2-95ab-4e6d41d6045c,survey_840,Ethiopia,Kellymouth,Male,60.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,2,Neutral,1,Low,3
+9befcf9e-fa7e-4729-ab80-4b62a52c69b3,a42df296-c755-46ad-9bb2-5e79c47b15e0,survey_312,Ethiopia,Collinsville,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,4,Good,1,Medium,1
+a213bc8a-4a93-43a8-a2ff-146d58a264ed,994e594e-8785-4fc6-b0cb-2492673ed606,survey_967,Ethiopia,Youngtown,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:40:05,field_tool,2,Bad,1,Medium,3
+2c95d7e5-2649-44ca-a138-04b5f7e8f6c4,59d8ac2f-34e0-4074-b495-f84d90d35298,survey_625,Ethiopia,North Mary,Male,41.0,Secondary,Self-employed,completed,2026-05-14T10:43:02,field_tool,3,Bad,4,Medium,1
+c6560f57-a45d-42fb-b176-226afaae45e8,09a2b826-d64d-4bb0-b111-5e09c8c6cbbb,survey_218,Ethiopia,Port Jillshire,Female,69.0,Secondary,Employed,completed,2026-05-14T10:43:43,field_tool,3,Neutral,3,High,3
+1c5c228e-1fb5-4ef5-82af-24a794445006,2c2c5d5b-27bd-468b-a3a9-41c1a6f71504,survey_836,Ethiopia,Duanehaven,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:42:03,field_tool,4,Bad,2,High,3
+70fa0d95-a805-4756-93d5-30c93e27a04c,bebf5e40-cab8-4add-8a9c-7a82c26317e8,survey_442,Ethiopia,West Kelsey,Male,25.0,Primary,Employed,completed,2026-05-14T10:44:47,field_tool,1,Very Good,2,Low,4
+fc83faea-4204-4cf0-815c-863db402dd43,690382b2-61ae-4903-bac6-e4702ada4447,survey_297,Ethiopia,New Courtneyview,Male,66.0,Secondary,Employed,completed,2026-05-14T10:43:23,field_tool,1,Very Good,1,Low,4
+d2508280-2be5-49fe-835f-1be4cd45d07c,f4757b23-0c9f-437c-b1b4-5409a7a7f955,survey_814,Ethiopia,Port Cynthiahaven,Female,,Secondary,Employed,completed,2026-05-14T10:39:57,field_tool,3,Good,2,High,1
+804db803-6182-46e3-bea7-0994dff8a656,34381df6-cb2b-4704-8213-4726464bcffb,survey_249,Ethiopia,West Angela,Female,75.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,2,Good,1,Low,3
+f2c8f2cd-bf15-4dfd-b5a0-37ee29ecdd13,ded6ecef-5569-4f97-9ab5-84bbd6a84942,survey_120,Ethiopia,South Julie,Female,65.0,Tertiary,Self-employed,completed,2026-05-14T10:42:51,field_tool,4,Bad,5,Medium,5
+52a1f86c-9413-43b7-afe5-0818ced9265c,662d826f-86e8-4510-a192-abeccb685168,survey_517,Ethiopia,Hatfieldfort,Male,32.0,Primary,Employed,completed,2026-05-14T10:40:33,field_tool,1,Neutral,1,Low,1
+1ee8f9b1-95d1-4420-b8d9-11ba644f9ef5,42def747-5388-4299-988e-3ff3edb50d4c,survey_725,Ethiopia,Roberttown,Female,19.0,Tertiary,Self-employed,completed,2026-05-14T10:42:36,field_tool,1,Neutral,5,Medium,1
+1999e450-fe4d-4417-a798-3a4961763bfa,e47aa215-277c-4792-95f5-0f193ebb7dfe,survey_289,Ethiopia,Williamschester,Male,72.0,Tertiary,Self-employed,completed,2026-05-14T10:43:48,field_tool,4,Good,1,Medium,5
+c49438e5-93da-4962-b122-d44b20bcf19d,bf6bcbd4-ee6f-46ca-846f-4fd0db15304f,survey_751,Ethiopia,Schultzberg,Female,69.0,Primary,Unemployed,completed,2026-05-14T10:43:53,field_tool,3,Bad,2,Medium,4
+a9c66ff8-db05-470f-8969-9ffe45b2588e,552f9fed-a10e-4d9e-8c4e-d3f422d30f66,survey_826,Ethiopia,South Sara,Female,48.0,Secondary,Self-employed,completed,2026-05-14T10:42:13,field_tool,5,Very Good,4,Medium,5
+111a1f29-e814-4ff6-9357-c251e4247a84,1b69f51d-101e-42c6-92c9-65d19fc1cc6e,survey_884,Ethiopia,Lake Alyssa,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:42:38,field_tool,2,Very Good,2,Medium,2
+10a21df6-6b36-4a9a-9fe5-ac9a4e6479c1,a064c0cc-bd27-4fd8-b1c7-4f6268a5057c,survey_732,Ethiopia,Port Walter,Male,49.0,Tertiary,Employed,completed,2026-05-14T10:40:01,field_tool,4,Very Good,4,Low,1
+83892cfe-b3a3-4a9f-838c-303d049b7f2a,e12587f7-15e2-4230-bb2a-5d582bb3d05d,survey_237,Ethiopia,Taraborough,Male,50.0,Secondary,Employed,completed,2026-05-14T10:44:25,field_tool,5,Neutral,3,High,2
+9bc521a8-5a51-4fcb-b695-fc97f271516f,ac6f9539-0505-4c45-9c63-a3963ef34fdb,survey_565,Ethiopia,Gibsonmouth,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,1,Neutral,2,Medium,4
+bb8ce7f1-5d99-494b-9b64-46bd37b2e57f,28a189bc-ea08-4543-96df-0a192385c221,survey_116,Ethiopia,Whiteview,Male,42.0,Primary,Unemployed,completed,2026-05-14T10:41:31,field_tool,2,Good,1,Low,2
+8ec1d6ec-45b8-48e1-8ad7-18f5d5917d6e,65cd5ee7-5eeb-48bf-9b7a-a110f140ab80,survey_798,Ethiopia,Davidsonview,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:42:07,field_tool,5,Very Good,1,High,1
+e51780fa-ac1f-4b79-8ee9-82522b430c33,7220abf9-00a5-4790-a53a-81fbbf966001,survey_127,Ethiopia,Port Timothymouth,Female,,Tertiary,Self-employed,completed,2026-05-14T10:40:22,field_tool,2,Very Good,4,Medium,2
+865c9fb0-1ec5-4287-801f-f17e2f99028b,9005042b-e4ca-47e3-8801-be4caa92e1d3,survey_923,Ethiopia,New Williammouth,Female,51.0,Primary,Employed,completed,2026-05-14T10:43:47,field_tool,5,Good,1,Medium,4
+f933a85f-6227-4de7-af6e-e765077e20be,27369729-118a-430f-9ecd-a3625fe8b045,survey_911,Ethiopia,Kerryport,Female,49.0,Tertiary,Unemployed,completed,2026-05-14T10:44:49,field_tool,3,Bad,5,Low,1
+d7f3848e-4820-4985-85ef-670a93148536,34bcfbd0-56cc-410a-aa4b-4ab3c7df6600,survey_154,Ethiopia,South Samanthaside,Male,21.0,Tertiary,Employed,completed,2026-05-14T10:41:11,field_tool,1,Very Good,5,High,3
+27473807-3e87-4460-8939-0646ca587cef,c28c57bb-ac47-4be8-8263-cf0d851f9a50,survey_949,Ethiopia,New Kimberly,Male,55.0,Primary,Unemployed,completed,2026-05-14T10:42:32,field_tool,3,Very Good,3,Medium,1
+e1bad468-ac09-4963-8209-458727db28a4,45a937a9-79d2-4895-9203-68b2a9b7fb58,survey_316,Ethiopia,Wallacestad,Female,72.0,Secondary,Employed,completed,2026-05-14T10:42:54,field_tool,4,Bad,3,High,2
+d465c6e2-cef8-4683-9562-8cefd0868c49,e5dc2616-9514-418f-91b9-aa71c7b6ba72,survey_880,Ethiopia,South Andrewmouth,Male,23.0,Tertiary,Self-employed,completed,2026-05-14T10:42:15,field_tool,1,Good,5,Low,2
+839db9ca-7792-49c6-b9ef-7e19c4b09474,a60d69d9-4369-4344-9cdd-a58cb9ac3983,survey_342,Ethiopia,Lake Mary,Female,34.0,Primary,Employed,completed,2026-05-14T10:41:33,field_tool,4,Very Good,3,Low,1
+c3c9579d-4e35-477d-991a-df1a3a620206,897bae29-6e91-4cf9-840d-c418fbe6cd41,survey_480,Ethiopia,Sandovalville,Male,45.0,Primary,Self-employed,completed,2026-05-14T10:42:32,field_tool,1,Good,2,Medium,3
+a5a4c570-27aa-40b1-a31a-e66976db6129,904d27d3-ccfa-40aa-a918-4fe9dc1d6309,survey_556,Ethiopia,East Jessica,Male,24.0,Secondary,Self-employed,completed,2026-05-14T10:44:38,field_tool,2,Neutral,5,Medium,1
+079e7b7e-6933-4272-bb20-71a1cec27973,dbccee78-9ccc-4ea8-8486-ca7144006cc6,survey_302,Ethiopia,South Richardbury,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:42:12,field_tool,2,Very Good,4,Medium,5
+1d0fa6c2-d9e7-4bda-be78-5eafa8cd2930,35e3ebf6-5884-48c3-9cd0-4b14dd79170f,survey_583,Ethiopia,Brittneymouth,Female,41.0,Secondary,Employed,completed,2026-05-14T10:40:43,field_tool,3,Bad,3,High,3
+b0241dc6-7f61-48fd-b7d7-531fc78d3b6b,0c389a24-a9fb-4275-8d0b-44e9fe7df350,survey_608,Ethiopia,North Stephanieview,Female,56.0,Primary,Self-employed,completed,2026-05-14T10:43:36,field_tool,1,Neutral,1,Medium,5
+f690c58c-fa36-4177-bdbe-25f22bab24a5,c43953ed-3a8d-44d6-9bda-db937471527a,survey_652,Ethiopia,Christinaview,FEMALE,63.0,Primary,Employed,completed,2026-05-14T10:41:43,field_tool,1,Bad,2,Low,2
+a6bad2d3-b4ab-491f-b949-a358c3485ff8,e4f96eed-d192-4cc4-925e-a338a9c84868,survey_199,Ethiopia,Heatherfort,Male,72.0,Secondary,Employed,completed,2026-05-14T10:40:48,field_tool,5,Bad,5,Medium,3
+8ec65586-981b-48ad-8c02-58d8a75e6760,5d8325ff-f14d-4410-9a36-bad72c465f0f,survey_462,Ethiopia,Haydenmouth,Female,52.0,Primary,Unemployed,completed,2026-05-14T10:43:05,field_tool,4,Bad,5,High,4
+bc418f32-1fc8-4166-bbaa-dc8632b403bc,57b535d1-3926-468b-9a96-b9d0412afff6,survey_149,Ethiopia,Deborahfort,Female,35.0,Secondary,Employed,completed,2026-05-14T10:42:18,field_tool,5,Good,4,Low,1
+b45b0411-4e75-474b-b0a6-70d17398b51b,542c2bf1-88b2-43b3-a4bc-ef25186109a9,survey_272,Ethiopia,Taylormouth,Female,27.0,Secondary,Self-employed,completed,2026-05-14T10:40:57,field_tool,4,Neutral,4,High,1
+695df2c4-0a82-4c8c-8b03-ba8f08dfd92a,8951f2a5-2502-4d89-9c57-0f3f3cdfa052,survey_138,Ethiopia,Tammystad,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:44:22,field_tool,4,Bad,2,Low,3
+88f2b3cf-a5e0-49d9-98c0-9518ae07a212,ac952a16-c676-4625-9580-5bc00484e757,survey_193,Ethiopia,Toddport,Female,39.0,Tertiary,Self-employed,completed,2026-05-14T10:43:49,field_tool,5,Good,4,Low,5
+6e587db9-c24c-4d12-8344-d30f836d0130,19043f35-8067-41dd-ad8f-2ec65cb43f8e,survey_689,Ethiopia,Powellberg,Female,73.0,Primary,Employed,completed,2026-05-14T10:44:11,field_tool,5,Very Good,3,Medium,2
+daa1d1c9-10f5-4880-8ef4-5226bac1e952,a0c92f46-4332-4324-a8b9-af63c5fe5b58,survey_401,Ethiopia,Port Jamesburgh,Male,29.0,Tertiary,Unemployed,completed,2026-05-14T10:41:42,field_tool,4,Bad,3,Medium,3
+1373556f-f9a5-48f2-ac68-317f3cf0cb65,a7bb41f3-bc6e-4fd5-bddd-a93f36a1b4f7,survey_792,Ethiopia,Scottport,Male,72.0,Secondary,Employed,completed,2026-05-14T10:39:49,field_tool,4,Bad,5,High,5
+a26a520f-9f4e-4042-bdae-eca0920eec1d,6683b4b0-406a-47f5-9a0d-12e1770b28a3,survey_579,Ethiopia,Schultzville,Female,32.0,Tertiary,Unemployed,completed,2026-05-14T10:41:50,field_tool,4,Very Good,2,High,5
+f8f61f7d-55e8-4606-9240-1530fb29daae,ab607bb0-7e21-4706-baa4-7f5cbac2b1e1,survey_116,Ethiopia,Lebury,Male,29.0,Primary,Employed,completed,2026-05-14T10:42:08,field_tool,3,Neutral,4,Low,3
+b5859960-7f3e-4a82-b8ed-bb797ac9e617,b6b166da-596b-40ba-8e54-1da71fde4909,survey_774,Ethiopia,Ashleyton,Male,36.0,Primary,Unemployed,completed,2026-05-14T10:44:05,field_tool,1,Neutral,1,Medium,4
+2d61edaa-6d05-45d8-981a-e87c12b6292e,f0572b06-7fd3-4610-b77d-10dbb67e82c0,survey_723,Ethiopia,Nathanfurt,Female,70.0,Secondary,Employed,completed,2026-05-14T10:39:58,field_tool,1,Bad,4,Medium,3
+35fa3570-fc7c-4de6-82f7-a847e2824cd1,30e2fbe9-0680-409e-b623-850e1f66b98f,survey_232,Ethiopia,Garcialand,Female,28.0,Tertiary,Unemployed,completed,2026-05-14T10:43:35,field_tool,4,Good,5,High,5
+9c2b2859-8500-4387-ae41-d0364b2eea17,07ff5498-ad84-48a2-9da3-68c959123e03,survey_753,Ethiopia,Port Danielton,Male,39.0,Primary,Self-employed,completed,2026-05-14T10:42:56,field_tool,3,Good,3,High,2
+da12c431-ec45-4fd4-b172-2059f556f1b9,a56dbdb2-ca63-4b88-92a1-9e4675c35754,survey_864,Ethiopia,Autumnfort,Female,74.0,Secondary,Unemployed,completed,2026-05-14T10:44:18,field_tool,4,Bad,5,High,3
+dbee6d57-a6f9-4cdf-acd7-c143810c6e3b,2d97d43a-98ee-4e5c-b362-fb846eb6c1e0,survey_240,Ethiopia,Leeville,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:43:03,field_tool,4,Good,2,High,5
+870fd2ce-9b50-4662-8a96-752e27b3ba36,1c1e9a5a-27f5-44d5-b421-76c0e763b8fe,survey_306,Ethiopia,Bethbury,Male,40.0,Primary,Unemployed,completed,2026-05-14T10:45:20,field_tool,1,Very Good,5,High,5
+ed931d56-034b-4b0e-aa9a-086e11e94393,ec607079-ca9d-42b9-8549-58d78cb7a5ea,survey_608,Ethiopia,Wallacebury,Male,63.0,Tertiary,Unemployed,completed,2026-05-14T10:42:40,field_tool,1,Bad,3,High,5
+b45afb0a-69c7-422b-9c05-8fe65d8abb43,6dae0002-ca63-4418-b2ac-5061ff8afa10,survey_383,Ethiopia,Cookestad,Male,33.0,Secondary,Employed,completed,2026-05-14T10:45:24,field_tool,2,Neutral,5,Low,3
+b2820050-1a17-4c17-bc7f-ce3227c3c05e,86f5cdaa-b406-41c1-9b25-d1f1cbab5e74,survey_304,Ethiopia,Williamston,Female,23.0,Secondary,Self-employed,completed,2026-05-14T10:43:32,field_tool,5,Bad,3,Low,4
+583e3927-1645-4ce5-b410-77c66d9e202d,89d00d69-88b2-4007-a201-c38820ca516d,survey_327,Ethiopia,West Kimberly,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:41:29,field_tool,1,Neutral,5,Medium,1
+3de05ecf-3d00-469b-b644-99ee3bb0ac34,d1fd6684-586c-4656-8d04-35373b00feb6,survey_987,Ethiopia,Port Jamestown,Male,45.0,Secondary,Unemployed,completed,2026-05-14T10:40:18,field_tool,1,Bad,3,High,3
+b88fd92a-b0db-406e-a856-ec7f79422e7c,9a8598af-0c10-4a7a-b087-1aa945a8abb1,survey_938,Ethiopia,Bartlettport,Female,72.0,Secondary,Self-employed,completed,2026-05-14T10:41:04,field_tool,1,Neutral,4,Medium,2
+9fef1eb1-a606-4fe7-b1a9-5392cbaaedb4,f9bfa7ad-4f4c-4b42-a29f-ef1e7e14686b,survey_359,Ethiopia,South Richard,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:45:24,field_tool,1,Good,1,Medium,2
+1207955f-4b29-4f42-9e93-d209e6c5dc44,7ad320e2-504b-402a-b99a-a53fec422181,survey_165,Ethiopia,Alexanderland,Male,45.0,Tertiary,Unemployed,completed,2026-05-14T10:45:35,field_tool,5,Neutral,3,Low,2
+79d2110f-f6a3-4bfc-ac50-c9cce85e2bda,05b88314-f698-4180-8529-3585449d9f4f,survey_640,Ethiopia,Lake Katrina,Female,39.0,Primary,Self-employed,completed,2026-05-14T10:45:21,field_tool,4,Good,4,Medium,2
+7c0f6dd9-9b0d-4aae-b4bc-06e2e12ee575,ea073d86-0d32-4a89-aa08-8f0d02d1269d,survey_500,Ethiopia,Nunezbury,Male,22.0,Primary,Employed,completed,2026-05-14T10:42:46,field_tool,4,Good,1,Low,4
+12902b60-de84-428e-b834-2bac1014047d,d7ee5d4f-6fdc-4550-a0fe-f4d6c6309f00,survey_945,Ethiopia,Annberg,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:42:59,field_tool,2,Good,4,Low,5
+f9f65ad9-168d-44ff-a24f-d35fe3612de5,2c923aa8-837f-4030-8672-d829d3096484,survey_714,Ethiopia,Howardchester,Male,61.0,Tertiary,Unemployed,completed,2026-05-14T10:41:41,field_tool,2,Very Good,5,High,5
+e4839a2a-93a7-4bfa-bfdb-5bed909d06d4,cf4d9e6c-788b-4ccd-babd-dfeae59cfdf4,survey_100,Ethiopia,Jasmineland,Female,42.0,Primary,Employed,completed,2026-05-14T10:40:52,field_tool,3,Very Good,1,Medium,3
+c031b832-c936-4dc9-91fc-b92c15964e65,c37a7562-dd2e-433a-81af-3834e2e8396d,survey_999,Ethiopia,Pattersonshire,Male,46.0,Primary,Employed,completed,2026-05-14T10:40:33,field_tool,5,Neutral,4,Medium,4
+e3925281-b5c2-414a-9ef6-d327144b55b2,ac168dcc-2052-4c9a-8f6c-678f16a55b73,survey_485,Ethiopia,East Laura,Female,32.0,Secondary,Unemployed,completed,2026-05-14T10:41:05,field_tool,4,Neutral,4,Medium,3
+43c1e9c8-53e8-456a-a5c6-214c64e09598,a85d6083-a06a-4d3a-838b-f10a1357d2fe,survey_698,Ethiopia,West Michelle,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:42:53,field_tool,5,Neutral,5,Medium,3
+342e6d0e-b41f-43fc-a971-56a5e88f8735,95e8a0a0-1bb3-49e4-ac5b-9ce61525d26e,survey_743,Ethiopia,Clarkeside,Female,43.0,Primary,Employed,completed,2026-05-14T10:44:30,field_tool,1,Good,4,High,3
+385190fe-2a0a-4b5f-9339-680b4afb2706,d7c86ae2-2591-416b-ba7b-b223ce57e676,survey_466,Ethiopia,Lisaport,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:43:01,field_tool,2,Bad,1,Low,4
+ed479137-11f9-4299-bcb1-966c2f76c0ca,518775b3-c23f-48aa-821a-eb93fa0c01ac,survey_954,Ethiopia,Stuartview,Female,73.0,Secondary,Employed,completed,2026-05-14T10:42:53,field_tool,3,Neutral,5,Low,3
+3cf7cfe0-8471-4fff-a87d-37b394bf18a1,36fb2d19-b337-4e70-9f4f-2723ea2aaae9,survey_971,Ethiopia,West Glenda,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:42:22,field_tool,5,Neutral,3,Low,3
+d2b2538f-a73b-4f92-a567-2f501688a141,138faa8e-ecae-4832-8952-2dc647b8d495,survey_805,Ethiopia,New Connorside,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:45:20,field_tool,2,Good,3,Medium,2
+ddc9a7e0-23b1-469d-a05d-5071e2f5b4df,b23f9a7c-e7b3-4985-83b7-367ed999b615,survey_887,Ethiopia,Christopherfurt,Female,57.0,Secondary,Self-employed,completed,2026-05-14T10:43:30,field_tool,1,Good,4,Low,5
+a30247a0-9242-49c6-820e-abea81f0af3e,04aeac4d-f764-490b-82de-9e7330054231,survey_828,Ethiopia,Drewborough,Female,74.0,Tertiary,Self-employed,completed,2026-05-14T10:44:22,field_tool,5,Bad,5,Low,4
+bd9a208d-61d1-4803-8f13-b6a21906f09f,8a353f73-a4ba-45b5-a5e7-c785d355e653,survey_772,Ethiopia,Lake Brittanymouth,Female,75.0,Primary,Unemployed,completed,2026-05-14T10:43:19,field_tool,2,Good,4,Medium,1
+ba1da0e0-2389-4171-a2dc-d184223bdc17,19870d8c-c7c3-4f17-8d08-526483536185,survey_591,Ethiopia,Michelleland,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:41:53,field_tool,3,Very Good,1,Medium,2
+488e52ba-24d4-4636-9192-817eca8a3ae1,2a72b033-2273-4684-abb6-f92261cadf6b,survey_585,Ethiopia,North Josehaven,Male,31.0,Primary,Employed,completed,2026-05-14T10:41:44,field_tool,5,Very Good,2,High,3
+e3139ea3-a2b9-4e22-bfe2-4192dd94c739,4457af40-52da-47ac-be30-ed5e32c582ac,survey_682,Ethiopia,North Danielmouth,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,4,Very Good,4,Low,1
+e53c8b9a-1628-4887-af77-bd102d7a768e,63a0793b-e952-4547-b501-ce808aad0693,survey_506,Ethiopia,East Aaronfort,Female,65.0,Tertiary,Self-employed,completed,2026-05-14T10:43:02,field_tool,5,Very Good,4,Medium,2
+3a3b8281-6f76-4c61-8e70-265e25ad748c,e86e99ec-77fd-4050-8a84-35edeb8deb4e,survey_683,Ethiopia,Williamsshire,Male,29.0,Tertiary,Self-employed,completed,2026-05-14T10:39:45,field_tool,2,Neutral,3,Medium,4
+e362ab8d-5871-4e21-a735-86c9cfa0f5b4,aa3e3c23-a951-46d0-abfa-4a3efdcb6139,survey_501,Ethiopia,Grahamside,Female,61.0,Secondary,Employed,completed,2026-05-14T10:41:41,field_tool,3,Good,4,Low,2
+8f4d95c2-b29c-4c88-b6f5-fbd5eb8dd8b3,24f62acb-6091-41dd-b70c-5816c685d4ec,survey_296,Ethiopia,Aaronchester,Female,41.0,Secondary,Employed,completed,2026-05-14T10:45:14,field_tool,5,Bad,1,Low,2
+d672d3cd-be8f-4261-a248-66b3535949ab,10d06ee8-d69d-4bf7-b065-1d397b977dce,survey_344,Ethiopia,Lopezville,Female,32.0,Secondary,Unemployed,completed,2026-05-14T10:43:55,field_tool,3,Neutral,3,Medium,1
+e89113f7-e2f3-4ca6-9098-384cfd989901,8bac739c-482d-4649-8ab3-2f5625b441ff,survey_290,Ethiopia,Hoffmanport,Male,38.0,Primary,Employed,completed,2026-05-14T10:40:32,field_tool,5,Bad,5,Medium,1
+3aa1b074-741e-4e16-b035-e3e3100b88ca,93058303-d05d-4802-a3d2-848e8041ca31,survey_561,Ethiopia,North Jeremy,Female,56.0,Primary,Unemployed,completed,2026-05-14T10:45:23,field_tool,4,Very Good,4,Low,5
+97176f0f-a56b-49ba-9c74-f49da6b8ae02,4c20a369-d84e-4f52-a31a-7806296e0975,survey_912,Ethiopia,Lauraview,Male,25.0,Secondary,Unemployed,completed,2026-05-14T10:44:54,field_tool,3,Neutral,5,High,2
+e3b010c9-1d5f-407e-a212-2852a560612a,1bf3c2e5-4c6b-4119-b79e-e3306ded23f8,survey_108,Ethiopia,South Benjaminbury,Female,28.0,Primary,Unemployed,completed,2026-05-14T10:44:51,field_tool,2,Neutral,2,Low,1
+c06de3b3-53ae-4ae1-823d-df0043270f6f,c8dd57fd-630c-4e84-853b-1b94ae85e861,survey_814,Ethiopia,Laurashire,Male,39.0,Secondary,Unemployed,completed,2026-05-14T10:39:56,field_tool,3,Bad,3,Low,5
+3bac4824-cfe8-439b-93e5-7a8fb42147ea,b5abf569-b825-4bbb-9086-fcf7f71b0645,survey_559,Ethiopia,Brewerbury,Female,66.0,Secondary,Employed,completed,2026-05-14T10:42:12,field_tool,2,Bad,4,High,3
+c2bb26c0-f996-4ba6-9397-ac78c1bfd476,a97912a9-d079-4a04-9617-4d9e2174cb53,survey_665,Ethiopia,Lake Susanmouth,Female,64.0,Primary,Employed,completed,2026-05-14T10:45:29,field_tool,1,Bad,3,High,3
+c9eb2ba1-d1ea-4d99-bf67-b64869c5bb10,11b3e6a9-8d64-4744-9f96-04580d96abac,survey_297,Ethiopia,Angelicaville,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:41:16,field_tool,5,Neutral,4,Low,4
+47ccc0f2-0904-49b4-9541-4701500c3c34,2467517c-8b79-4ccc-be54-0e0f65a8bdc1,survey_785,Ethiopia,Marshalltown,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:43:36,field_tool,3,Bad,1,Low,4
+caa26537-2136-4de3-a33b-b92ca9cffb13,f5f21b99-1e2c-423c-acd6-bb1d46fb4c7e,survey_559,Ethiopia,Sandraland,Male,68.0,Primary,Self-employed,completed,2026-05-14T10:44:46,field_tool,2,Bad,4,Low,1
+4dcb3c3b-b9f8-41c7-99d2-b15d92fc3eca,65e1916a-e6bd-4270-a33a-d2863fbc6187,survey_730,Ethiopia,Port Nancy,Female,55.0,Tertiary,Employed,completed,2026-05-14T10:41:07,field_tool,1,Bad,5,High,3
+67f8f326-4b1b-41e2-9be2-73c0b000dddd,23fe1431-00e1-4bae-8bbf-77ab66ca9c9c,survey_910,Ethiopia,North Rodney,Female,31.0,Tertiary,Unemployed,completed,2026-05-14T10:39:52,field_tool,1,Very Good,5,Low,4
+d05c6fe3-5246-4134-ba22-da3a82128908,749b5bee-8292-4f7f-b534-efc58ce73502,survey_614,Ethiopia,Laurahaven,Male,55.0,Secondary,Employed,completed,2026-05-14T10:39:45,field_tool,1,Bad,2,High,2
+6a34fc45-c352-4f65-a78d-3a2327c940a6,ed951bcc-d7d1-4fa2-9d66-1ebb243d9300,survey_701,Ethiopia,East Kendra,Male,57.0,Tertiary,Employed,completed,2026-05-14T10:42:48,field_tool,1,Good,1,Low,3
+ff472535-dac6-4b0c-b66e-f63cea7506ec,80e46e2b-c189-40d5-bb15-14908b949c8b,survey_180,Ethiopia,Jamesland,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:39:42,field_tool,1,Very Good,5,High,2
+88b0c6af-475e-4ce6-aa4b-1e8c7828a22d,3d439f5e-72d9-4645-9cb1-c89e68834f57,survey_985,Ethiopia,Melissafort,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:42:19,field_tool,3,Very Good,5,High,1
+e765a507-b097-4610-9af3-9a98f7734128,609c17ac-40f3-4e91-ab14-2767568be1db,survey_316,Ethiopia,Port Hannah,Male,73.0,Primary,Unemployed,completed,2026-05-14T10:42:36,field_tool,1,Good,4,Medium,2

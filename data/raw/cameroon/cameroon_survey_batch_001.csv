@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+08717518-064a-4772-9192-9b0e4d313d95,237c56bb-48d1-40c6-9cdc-546cd4f0fd63,survey_656,Cameroon,South Catherineview,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:40:59,field_tool,5,Bad,5,Low,2
+1ad29a34-da69-49f8-bece-0781424609ec,83cfed3b-b32f-4256-86ac-dcafa4ba0ef5,survey_554,Cameroon,South Catherineport,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:39:55,field_tool,1,Neutral,4,Medium,2
+01c3dde5-f3c1-486b-82ba-4ecdde1d0d71,aa3e009c-56b2-43cd-9a26-ec8964b56f4e,survey_240,Cameroon,Lake Thomas,Male,69.0,Tertiary,Self-employed,completed,2026-05-14T10:43:30,field_tool,4,Bad,3,Low,3
+d4ca3805-919b-461f-a5a6-7ad4c85b2a07,4e70263a-8245-408f-b3a2-e9575bd72a7c,survey_967,Cameroon,Desireefurt,Female,34.0,Primary,Unemployed,completed,2026-05-14T10:43:13,field_tool,2,Bad,1,High,3
+315ccac3-d994-4c38-925d-397ad419730e,cb5475bf-3c31-485d-ae35-0ed7ce955086,survey_982,Cameroon,Elizabethborough,Male,65.0,Tertiary,Unemployed,completed,2026-05-14T10:41:42,field_tool,4,Neutral,5,Medium,5
+6c3a2e9a-c99b-4021-a62e-5615082bb37f,27bc7004-b407-4f12-a612-92e07616e3a2,survey_227,Cameroon,North Brianville,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:40:54,field_tool,2,Very Good,5,High,4
+70f28b18-d7ce-4458-a34b-c80f0d92fd8b,2048ba6e-72ec-4f04-bf8b-b8911b908e3f,survey_875,Cameroon,Lake Charles,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:42:29,field_tool,4,Very Good,4,Medium,1
+cacefe9d-7cce-4c41-8a30-18cbdf7e3697,3d3fc0e0-944b-4f07-91e8-44c9b00ecc67,survey_773,Cameroon,Grahamville,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:45:08,field_tool,2,Very Good,2,Medium,5
+45c57b9e-0d31-4ab9-8b0e-a9d08aa9f6bd,8d57c064-abf0-44f1-b14c-d6f2ab13b31a,survey_894,Cameroon,Sharonborough,Female,64.0,Tertiary,Employed,completed,2026-05-14T10:43:41,field_tool,4,Very Good,2,Low,2
+7cac66c3-d52e-4f88-a86e-85a9a70f2fbe,281269bc-5d3c-42be-88a9-7c0fa7fb859f,survey_950,Cameroon,Leeland,Male,45.0,Tertiary,Self-employed,completed,2026-05-14T10:40:04,field_tool,1,Neutral,4,Low,4
+c77f62ee-d6f6-486e-87ae-103f301367ab,cdba8621-da62-4307-9753-ba9908087cc4,survey_291,Cameroon,Perryfort,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:43:36,field_tool,5,Bad,4,Medium,5
+4a384ed4-ad43-420c-bf32-30b29d9bf6ed,c8a22fe0-65c1-4162-b76f-fc87a8884750,survey_238,Cameroon,Shannonmouth,Male,54.0,Secondary,Unemployed,completed,2026-05-14T10:43:15,field_tool,5,Very Good,4,Medium,2
+ccd8c2b4-0e77-436d-a9c5-8feb26c4ea51,ea5dc3de-f543-414d-9095-f881a88d37de,survey_489,Cameroon,North Misty,Female,56.0,Secondary,Employed,completed,2026-05-14T10:41:03,field_tool,5,Neutral,5,Medium,5
+23822222-6a84-4061-a8fa-d8bef1d4c52c,17dd0691-6a71-4fda-8027-58b2f44c5255,survey_397,Cameroon,Hutchinsonmouth,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:40:54,field_tool,1,Very Good,3,Medium,5
+054c880c-1a80-4ec2-9952-7f93f196f7a1,3d722c0e-23ed-4309-a25c-2f4a0ac22e6d,survey_983,Cameroon,Kruegerborough,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:41:11,field_tool,3,Bad,5,Low,4
+766e7965-f876-4149-80b1-feccdd5b952a,025c9425-c557-43d3-89d7-cc9c6af98a8b,survey_638,Cameroon,Jenniferstad,Male,71.0,Secondary,Employed,completed,2026-05-14T10:42:31,field_tool,1,Good,1,High,5
+8c99634e-4718-4d16-9e5b-584ad9bc1c2d,c5857b6b-7b98-4c6e-9ac6-e2bf00b36478,survey_285,Cameroon,East Dylan,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:45:27,field_tool,5,Very Good,3,Low,4
+89bf4215-9f86-47fc-94f0-df3f5245cfaf,be7a38c6-bc8e-4e55-9b97-151da89e4fa6,survey_703,Cameroon,Alyssahaven,female,59.0,Primary,Employed,completed,2026-05-14T10:44:41,field_tool,1,Bad,2,Medium,1
+ad81a112-d1d0-4ffa-b2bd-587a33eb48c0,32586047-9cba-4eda-ad34-3b0f9cca6d2a,survey_136,Cameroon,Carrilloton,Male,43.0,Secondary,Unemployed,completed,2026-05-14T10:43:31,field_tool,2,Bad,4,Low,5
+d3c768ea-b4bc-4b5c-920a-33b9b71ad8c5,8c1043d4-974a-45a0-b817-68f8f6d20b48,survey_971,Cameroon,Ambermouth,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:40:01,field_tool,5,Neutral,1,Low,5
+fa4ed12e-17e8-48c9-9e52-05f6d01569e3,68473103-0496-422f-9525-a0d148d40d84,survey_901,Cameroon,South Mariachester,Male,74.0,Secondary,Self-employed,completed,2026-05-14T10:43:36,field_tool,2,Bad,2,Medium,2
+0ab1592f-3287-4a42-85e3-d135dd25599e,9267e278-9bd7-49be-a265-eddaea02cc7d,survey_818,Cameroon,West Mary,Female,45.0,Tertiary,Unemployed,completed,2026-05-14T10:41:33,field_tool,3,Neutral,4,Low,3
+701e1171-b9b0-45f2-bac9-4f28fbe23107,e43a3562-4cdf-4063-83c3-698873037257,survey_900,Cameroon,Port Jeromeshire,Male,38.0,Tertiary,Employed,completed,2026-05-14T10:41:49,field_tool,3,Good,4,Low,5
+29cf7c3a-361d-4c34-aa06-ff27b55196e2,87dec2ea-0118-42a5-83ef-054265126fe3,survey_607,Cameroon,North Jeffrey,Female,61.0,Secondary,Employed,completed,2026-05-14T10:43:29,field_tool,4,Very Good,2,Medium,3
+a5842aea-0fc8-438c-be1d-62e62f56c2ad,6e152f71-0093-4ba0-a5a0-7e433d2dca86,survey_841,Cameroon,North Leahview,Female,32.0,Primary,Unemployed,completed,2026-05-14T10:44:13,field_tool,4,Very Good,5,Low,4
+54a7bf1c-7f43-4339-b53a-6671f408a92f,f09e64ef-8bea-4f03-a645-3b43d07e22a1,survey_865,Cameroon,Smithport,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:44:46,field_tool,2,Good,5,Low,2
+9edf0ebe-637c-4fdf-8acf-b5d203c29bab,fd267a93-7f23-42b5-8d1b-293ba9cef593,survey_975,Cameroon,New Donna,Female,45.0,Secondary,Unemployed,completed,2026-05-14T10:42:06,field_tool,2,Very Good,4,Medium,5
+731d9525-3d33-4015-bf64-13cfa337a94a,3c1e0ac4-daf0-4b92-9da9-c3c5c798c498,survey_930,Cameroon,Castromouth,Female,19.0,Secondary,Unemployed,completed,2026-05-14T10:41:09,field_tool,3,Very Good,1,Low,5
+b4761f32-2020-4ceb-97f6-786e3268b05b,03a35aed-3344-4c51-a7f6-55fb8b8943fd,survey_518,Cameroon,Millerbury,Female,67.0,Tertiary,Self-employed,completed,2026-05-14T10:43:44,field_tool,2,Good,3,High,4
+a8b1cb1b-1b6d-461f-9944-4915e4445cd4,ee5b6379-213f-467b-9976-34e5054bffbb,survey_881,Cameroon,Garyport,Female,20.0,Tertiary,Unemployed,completed,2026-05-14T10:45:22,field_tool,3,Bad,3,Low,1
+d06836a4-3c93-47c3-99d1-773214a90b05,e7eca309-296f-40d7-aa63-2a6b41d0d034,survey_850,Cameroon,Harrisburgh,Male,43.0,Primary,Employed,completed,2026-05-14T10:42:44,field_tool,4,Neutral,3,High,5
+9a10d3cf-7cd6-4def-8a1e-feceb74a6b51,49ed6369-ee86-4beb-83dd-1d6a18fc9899,survey_332,Cameroon,Whitneyside,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:45:06,field_tool,2,Good,3,Low,3
+4cb8fa68-d6f7-4bac-accf-d65080b49b27,27d3584c-fb99-4c3e-9383-883b118f1972,survey_241,Cameroon,Port Sharonbury,Male,19.0,Secondary,Self-employed,completed,2026-05-14T10:40:12,field_tool,3,Bad,3,High,2
+dcd8ec29-3a23-4c80-9e8f-6ae2934713a8,c229a415-cb5f-4951-8534-f723c75694ac,survey_675,Cameroon,Tammyville,female,39.0,Primary,Unemployed,completed,2026-05-14T10:43:30,field_tool,2,Good,2,High,2
+b9f7d970-2c37-4a0a-93e6-cc25e3eb7901,c4188fea-801e-4901-9f16-a10e56685b02,survey_788,Cameroon,Dixonfort,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:45:21,field_tool,2,Very Good,5,Medium,2
+d6e11b6d-af66-43b0-aa5b-426e623af95f,15510ef5-c916-44e6-873e-b4b19d47172c,survey_214,Cameroon,Kristinastad,Male,64.0,Primary,Employed,completed,2026-05-14T10:41:09,field_tool,3,Bad,3,High,4
+a2873d7b-2b24-4d67-83c3-0e3e25163663,8b991282-3075-49af-8e7d-765b634c25ea,survey_252,Cameroon,Jessicaland,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:40:11,field_tool,4,Neutral,3,High,1
+643f24ad-19f6-49b2-8c9e-7fd2d42ea0ae,290c07eb-5793-4195-a553-ff33298bfa25,survey_832,Cameroon,South Vickie,Female,51.0,Tertiary,Unemployed,completed,2026-05-14T10:45:02,field_tool,3,Good,3,High,3
+62ad6a86-6795-4660-9121-2a2ecb236949,da7f624b-5716-4640-87a0-424659f43595,survey_740,Cameroon,Sparkschester,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:40:32,field_tool,2,Good,1,High,4
+65fcef53-cbcf-4072-8241-e0f71cf468f4,cfd2be23-c69e-473d-832d-f0cccea993a0,survey_800,Cameroon,Lewisborough,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:44:56,field_tool,4,Bad,4,High,4
+05bd656d-bb52-4ca8-895c-46fc429e3955,961b53af-c601-422f-bbc1-9e2fa3327e99,survey_304,Cameroon,Lake Jeremyfort,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:44:24,field_tool,3,Very Good,1,High,1
+586a981b-dab2-41cb-a56c-9a5a30a19060,527c9dea-6324-4e63-b535-ddc2c555b4b5,survey_836,Cameroon,Jameston,Female,41.0,Tertiary,Self-employed,completed,2026-05-14T10:39:57,field_tool,2,Very Good,3,High,2
+ba691354-ef6e-40ee-a31e-4fb5bcb94293,922913f1-00f3-4866-b026-0bb173f1df26,survey_623,Cameroon,Andrestad,Female,34.0,Tertiary,Unemployed,completed,2026-05-14T10:45:11,field_tool,4,Neutral,1,Low,5
+453e2040-96be-48d6-959b-90ba93b34ec5,d667a724-bfee-4aef-aa60-6a4b56b6b8cc,survey_952,Cameroon,West Michelleland,Male,32.0,Secondary,Employed,completed,2026-05-14T10:40:47,field_tool,1,Neutral,5,Low,3
+fd9b2772-350f-48d2-8679-7c771f0e44dd,85406adb-983a-4235-9891-f8cfd7d050be,survey_418,Cameroon,New Derekfort,Male,49.0,Secondary,Employed,completed,2026-05-14T10:44:22,field_tool,3,Neutral,2,Low,4
+2160f340-bb1f-4fc9-a29b-4a9a53d4018d,c2f72b1f-b9d4-42d3-8d35-f50cff02bf74,survey_277,Cameroon,Davidton,Female,69.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,2,Bad,3,Low,3
+a521b821-0efa-45ff-938b-c40469d346d4,897e2ce5-4fe3-4b6d-befc-5196512b4c10,survey_248,Cameroon,Carterville,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:40:07,field_tool,2,Very Good,3,Medium,1
+93d3cc2d-26e4-4fa3-b70f-9054b3b8a158,f6cdd0d1-aa31-422b-8cda-3e1cf0657d73,survey_209,Cameroon,Lake Jonathan,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:42:53,field_tool,2,Very Good,3,Medium,4
+9dc56acb-7f55-46b0-a255-779a7d219d05,570662ce-47d9-4d10-a72d-6aceffd0dce0,survey_212,Cameroon,Zavalahaven,Female,56.0,Tertiary,Unemployed,completed,2026-05-14T10:42:45,field_tool,3,Bad,3,Low,3
+8e933a45-cc8a-49c0-8e99-3c335a36ff58,bd16c038-4ef2-43f5-bf8f-bd67133a8490,survey_307,Cameroon,Richardtown,Male,51.0,Tertiary,Unemployed,completed,2026-05-14T10:42:04,field_tool,2,Very Good,5,Medium,2
+5d5707dd-ba45-48da-90ff-7f075269dc4f,17d3d848-b638-4b9c-af4d-7d4a53e7ad02,survey_260,Cameroon,New Carrie,Male,61.0,Tertiary,Self-employed,completed,2026-05-14T10:40:30,field_tool,4,Very Good,1,Low,1
+808c6f3a-557b-4e20-88d3-df1ca73f66a0,f981f289-185c-49ed-9d06-17355ccee873,survey_698,Cameroon,Katrinamouth,Female,,Primary,Self-employed,completed,2026-05-14T10:40:42,field_tool,4,Neutral,4,Medium,1
+8f6a0de2-cc3a-4ad0-aa71-f319a82420db,950ce835-3659-4a8c-938f-b1ef2ec01db7,survey_962,Cameroon,East Brandonport,Female,28.0,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,5,Bad,1,Low,5
+84bd4de7-860a-4c83-9fda-e716e88baac9,dbf7fa26-e9b8-4caf-8a93-0d39c13d3c53,survey_200,Cameroon,Port Jennifershire,Female,57.0,Tertiary,Self-employed,completed,2026-05-14T10:45:32,field_tool,2,Very Good,5,High,3
+7ceb726a-8741-4cb4-858c-8d51e2f331d5,8d67e82c-e804-4c91-8c15-b7ec8bcae422,survey_595,Cameroon,Craigfurt,Female,47.0,Primary,Employed,completed,2026-05-14T10:39:59,field_tool,3,Neutral,5,Low,4
+8dfd9dcf-65eb-4945-84c9-1042f80335e0,6b905645-e0c2-442e-ab38-fcdf4fd82aba,survey_454,Cameroon,Lake Mathewton,Female,,Tertiary,Self-employed,completed,2026-05-14T10:40:49,field_tool,5,Bad,3,High,1
+a20a2419-a0d3-4ea9-b0ac-631552f34834,f1d799af-f2f0-4a8c-9825-068b11997084,survey_106,Cameroon,North Patriciaton,female,21.0,Primary,Self-employed,completed,2026-05-14T10:43:39,field_tool,4,Neutral,5,Medium,5
+71cb58fc-5f5c-4f9c-b8a7-2f8ea254ddf4,8abe2e04-67ee-4fe9-9c72-e5cacf3b6e13,survey_753,Cameroon,West Erikside,Male,65.0,Secondary,Employed,completed,2026-05-14T10:41:45,field_tool,2,Good,5,Medium,4
+d2770e9c-c6e6-4e8b-abd1-2689d0b48c5d,2f64a0ad-2b1a-406e-9585-244514fe88bc,survey_378,Cameroon,Lake Lisafort,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:41:30,field_tool,2,Good,4,Low,4
+0020b37c-4e96-406c-9ad8-afee23dbc646,2b5bce12-206c-4216-b54a-126dba8f4592,survey_840,Cameroon,South Adam,Female,22.0,Primary,Employed,completed,2026-05-14T10:44:06,field_tool,4,Bad,1,High,2
+6dd8d33f-2290-4841-bab0-e8e8952eb12a,cb6ee774-93a2-414b-85f7-eef8e004c471,survey_868,Cameroon,South Amy,Male,22.0,Secondary,Employed,completed,2026-05-14T10:40:09,field_tool,2,Neutral,3,Medium,1
+3ded1c41-f924-472c-93d4-177621e07498,aab8cc30-9cfe-493d-b604-96b66e025590,survey_200,Cameroon,Leehaven,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:42:08,field_tool,5,Neutral,3,High,2
+c27bf4ad-2d90-4d48-8774-e7f1ff620f60,f945cfd4-678e-495f-a2de-b12c5821f077,survey_848,Cameroon,Bartlettport,Male,65.0,Primary,Self-employed,completed,2026-05-14T10:41:56,field_tool,4,Bad,4,High,4
+7b28a365-5d64-4944-aabb-c403f2ae2c90,e3bab56c-db2b-4d4f-9dcb-65be3fc0796e,survey_796,Cameroon,Lake Robertfort,Male,54.0,Primary,Self-employed,completed,2026-05-14T10:39:39,field_tool,4,Neutral,4,Low,1
+2a5c97f3-626e-4b26-8dee-07907d4dbf6e,973a9058-67d1-4b6f-9d57-20cdfa5223bb,survey_763,Cameroon,Lake Johnny,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:40:44,field_tool,4,Neutral,1,High,1
+bcfa5dd0-c6ac-478d-a878-ecdf2fdf9f85,a40cd0ee-d07f-4c45-af32-14c2939d1b61,survey_202,Cameroon,Lake Johnton,Female,34.0,Primary,Unemployed,completed,2026-05-14T10:41:37,field_tool,1,Very Good,1,Medium,2
+67d39789-22fe-43cb-a1db-c3bcbb8767c0,0beba1de-beb0-4722-bfff-bc75ff866deb,survey_913,Cameroon,Lake Ralphborough,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:42:00,field_tool,5,Good,1,High,2
+510e9c18-c856-4599-9da4-c258bb7465de,00b8a88f-9317-445d-9cd4-3dfff59b39fa,survey_883,Cameroon,Lake Daniel,Female,,Primary,Self-employed,completed,2026-05-14T10:45:35,field_tool,1,Good,3,Medium,3
+d1bec73d-9ae1-46b7-8dd4-be74e1294baf,57632be7-1b61-408e-a9d1-b0370385c534,survey_504,Cameroon,South Drew,Female,48.0,Secondary,Unemployed,completed,2026-05-14T10:45:10,field_tool,4,Bad,5,High,4
+e32ce1b4-43af-4422-980f-5fa37a82514c,5e66d8fa-de69-4076-9f8c-edcdc91ceaae,survey_851,Cameroon,Tiffanyfurt,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:45:16,field_tool,5,Very Good,2,Medium,2
+3a8f767e-fae8-4cd9-8b69-d7802285d587,71836f01-466a-4217-ae29-17c184d465df,survey_883,Cameroon,Port Cynthia,Female,26.0,Secondary,Unemployed,completed,2026-05-14T10:41:24,field_tool,5,Neutral,1,Medium,3
+e06fe200-4fbc-4206-af29-08ca0bf45715,deb51d16-3020-403f-9a69-e2c663a35592,survey_966,Cameroon,South Tracy,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:41:59,field_tool,3,Bad,2,Low,2
+0c6b525f-2425-4742-8a53-54841de53401,00c85e9a-408a-4d2f-8c86-e6b66ffcc6e5,survey_395,Cameroon,Fordton,Male,63.0,Tertiary,Unemployed,completed,2026-05-14T10:40:09,field_tool,1,Good,3,Medium,4
+376169c2-bd13-4043-a9a0-1a6b7f9e2173,4a00ae99-8637-4844-b570-7bd6bf922ea5,survey_100,Cameroon,South Daniel,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:42:06,field_tool,1,Bad,4,Medium,1
+047f7396-ea12-490c-a4f9-f1d33792917e,2d53cf30-4782-4b9c-888f-edb62404c66d,survey_290,Cameroon,Hammondfort,Female,60.0,Secondary,Self-employed,completed,2026-05-14T10:44:10,field_tool,2,Bad,5,Medium,5
+8bb3f964-65ad-411d-bf0d-efad3f5912e8,590c3cdc-7455-467a-9623-d84810b72ccf,survey_127,Cameroon,Dawnmouth,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:41:21,field_tool,3,Very Good,5,Low,4
+e366104e-3b5a-470f-b8bc-96cf61d61d6a,d6e75f73-468e-4df8-9d25-2141b03d01eb,survey_672,Cameroon,Stuartview,Female,31.0,Primary,Employed,completed,2026-05-14T10:41:01,field_tool,1,Good,5,High,4
+e0d3b54a-7311-4ba6-84ec-fdfd6f180850,e7a166d2-7029-4dbb-b876-fdaa7af83c9f,survey_180,Cameroon,North Kimberly,Male,32.0,Secondary,Self-employed,completed,2026-05-14T10:45:09,field_tool,2,Neutral,5,High,2
+8ec376e1-2327-4c72-bb84-922a7538f7ec,fc8ad016-3808-4dba-a273-f1647c641c58,survey_328,Cameroon,North Joseph,Female,42.0,Secondary,Employed,completed,2026-05-14T10:42:48,field_tool,1,Good,1,Medium,2
+154dbb02-2222-420d-98a9-fff08d197153,194d397d-b09d-4d19-813b-4e2085a3a473,survey_625,Cameroon,Michellehaven,Male,46.0,Primary,Unemployed,completed,2026-05-14T10:42:17,field_tool,4,Bad,5,High,1
+399738be-fdcd-4b7a-9ca9-839299cdaada,101ea7fb-0532-4a3e-a759-d978bf144332,survey_891,Cameroon,East Rachelview,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:41:44,field_tool,1,Very Good,3,Low,4
+2ffdcf89-90ec-4540-b4ed-7ffbec41de50,ee6e5ef6-ab1f-4666-b52a-72c4c1fb0bf5,survey_695,Cameroon,Lake Tyler,Female,48.0,Tertiary,Unemployed,completed,2026-05-14T10:44:09,field_tool,5,Bad,3,High,2
+0a741737-d3c8-49c0-8151-8b05d11f421a,05028ad9-f568-484d-a62b-2cda00dce949,survey_974,Cameroon,Kaylaside,Male,25.0,Secondary,Unemployed,completed,2026-05-14T10:43:13,field_tool,4,Good,5,Low,1
+051a0e37-79fd-40de-a345-8f095852a5b5,7b2413e8-005f-4765-975f-310891653dbc,survey_543,Cameroon,East Daniel,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:42:15,field_tool,2,Good,4,High,1
+ed8b9c36-250e-4137-8a27-488b268f6e2e,404c86f1-6cc2-420f-83a0-2289b88ba445,survey_572,Cameroon,Brendafurt,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:45:21,field_tool,4,Neutral,4,High,4
+5608b407-4d99-48d1-a393-05dce4326266,90b1f965-9a00-44e2-b5ed-6b7fd7876a50,survey_674,Cameroon,Codyfort,Female,31.0,Tertiary,Employed,completed,2026-05-14T10:44:58,field_tool,1,Neutral,5,Low,5
+36f9937c-b9c0-46c2-a3c8-51f2df099497,532086af-3eb0-48d1-a3e7-e32d323eab00,survey_216,Cameroon,Port Matthewfort,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:41:42,field_tool,1,Very Good,1,Medium,4
+efb7a67e-3a50-43f5-ae3e-57e55d804f52,3a4287f3-7e3f-4d45-955b-9d6088510075,survey_217,Cameroon,Bernardtown,Female,61.0,Secondary,Employed,completed,2026-05-14T10:45:32,field_tool,2,Very Good,1,High,1
+0cd022fd-192a-4187-8af1-d3556bb57c09,e55b5c65-90ae-41e4-9a6a-d16913865151,survey_692,Cameroon,East Robert,Female,51.0,Primary,Employed,completed,2026-05-14T10:40:01,field_tool,3,Bad,2,Medium,2
+fc5e44c6-13f3-4309-a565-e36fbb892fd3,88f47eed-6990-4abf-b792-be4734783752,survey_440,Cameroon,North Erinside,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:43:24,field_tool,3,Very Good,2,Low,5
+034e4757-3ab1-4b1e-a48c-835bbc9d27cf,bcef2c15-3881-4713-a2be-a0bcb7eb1786,survey_850,Cameroon,East Nathan,Male,72.0,Primary,Self-employed,completed,2026-05-14T10:39:57,field_tool,2,Neutral,3,Medium,1
+53093636-aba7-484f-873b-3a28e7b0f490,9666600e-eb0f-41a4-82fe-a0e241a722d6,survey_817,Cameroon,Martinezview,Female,22.0,Tertiary,Employed,completed,2026-05-14T10:45:08,field_tool,3,Bad,3,Medium,4
+009b40db-93fb-4c5e-906d-7e76258007b1,e4a2618e-7328-4280-a3ca-091596b0356c,survey_286,Cameroon,North Matthew,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:41:40,field_tool,4,Bad,1,Low,5
+5c0bad68-fc10-4bb4-a383-caa36759c648,ce2fbaf4-17f0-4802-9e68-4eac9c9d3925,survey_364,Cameroon,Kylieside,Female,56.0,Primary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Good,3,High,1
+3ccf7573-0859-4a5d-aeff-0d46aa7badf0,0b4ec2ee-3dbf-4049-82cb-0bc7f0329337,survey_348,Cameroon,Barkerside,Female,67.0,Primary,Unemployed,completed,2026-05-14T10:41:04,field_tool,5,Very Good,5,Low,3
+5bed29cb-66a4-40ca-90b7-01c67743a0dd,ba89c34b-b224-4627-81e0-248ea8449e0b,survey_413,Cameroon,Port Tracyborough,Male,45.0,Secondary,Self-employed,completed,2026-05-14T10:43:09,field_tool,5,Very Good,2,Low,3
+36323db4-e347-4caf-b520-822c09653d45,16b5b5fc-199f-4b17-94ab-a577e3311ee6,survey_987,Cameroon,New Joshua,Male,65.0,Primary,Self-employed,completed,2026-05-14T10:43:17,field_tool,1,Very Good,4,Low,2
+70c34d83-a164-419a-b0f0-3022b55b08d6,5b5dc6ed-ef45-49fb-9955-5d44b245e656,survey_528,Cameroon,Hawkinsburgh,Female,66.0,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,1,Bad,2,High,5
+c1412367-449f-4716-97ef-ad0ffbd8ece7,a0909a10-fb0f-49e5-98f6-7e0cbd2898b0,survey_589,Cameroon,Lake Joshuaburgh,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:40:59,field_tool,1,Very Good,2,Low,3
+82962468-4efb-4ad7-bde6-994a46a68629,bb8133fb-0b92-4003-bccb-296d3bf5d00a,survey_766,Cameroon,East Margaret,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:41:20,field_tool,2,Good,1,Low,5
+d9c49a0b-0e1c-4d70-a68f-894a8daf265b,0fafba84-75fa-49f2-8b85-1e2621f3eb6f,survey_351,Cameroon,Perezberg,Male,21.0,Primary,Self-employed,completed,2026-05-14T10:39:55,field_tool,2,Very Good,3,Medium,1
+64d65ef1-88f4-4023-8310-bbd0a7ac2527,b95c1eda-e988-444d-b9ca-59281e2d22f6,survey_417,Cameroon,West Courtney,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:42:12,field_tool,2,Good,5,Medium,2
+55b10b67-9e43-4445-a3fc-e11e2c2deda9,2767ec01-6e8b-4bd6-afcf-7c8ed5b1f09d,survey_956,Cameroon,Port Rachelfort,Male,35.0,Secondary,Employed,completed,2026-05-14T10:42:52,field_tool,5,Good,4,Medium,3
+c4331355-154f-4aeb-b9b8-dee9390e6420,08fe3f40-5fe1-4173-abdf-3df401f39146,survey_773,Cameroon,Lake Megan,Male,65.0,Primary,Unemployed,completed,2026-05-14T10:43:14,field_tool,4,Good,1,Low,5
+d23df4be-0af1-4117-bbad-0b96946d5601,28542b64-c3b0-4e86-95b7-3e011bc841bd,survey_735,Cameroon,North Eric,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:40:34,field_tool,1,Neutral,4,High,3
+b7525714-6110-48e5-9beb-11718d5fd73f,d006862a-b31e-48f5-bab0-98476f4327cc,survey_432,Cameroon,West Jennifer,Female,26.0,Primary,Self-employed,completed,2026-05-14T10:44:23,field_tool,5,Bad,5,High,4
+8cc670b8-5d84-4acb-92fb-00470280bf45,f3310760-87e6-4238-ad59-2953e24297fc,survey_127,Cameroon,Oliviaburgh,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,3,Very Good,3,Low,3
+2fcd27b3-9473-4c50-86bd-9fce6ffdf7fe,3730bf79-913a-47af-a917-9e028868b644,survey_136,Cameroon,Colemanmouth,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:42:01,field_tool,2,Very Good,4,Low,4
+05a0c5b2-858f-4572-8ac1-713c3f5421ce,36d25823-9b35-4089-829e-588250d3b1d6,survey_893,Cameroon,East Richardfurt,Female,45.0,Primary,Self-employed,completed,2026-05-14T10:44:13,field_tool,3,Neutral,2,Low,4
+a88ce995-ce1d-44a8-9b39-b9539a7cb9d0,dfedf5fa-174d-45c0-ad60-18d977019d44,survey_740,Cameroon,Port Heatherton,Male,23.0,Tertiary,Employed,completed,2026-05-14T10:41:36,field_tool,5,Bad,5,High,3
+c87d2502-6022-4390-88a3-86f5d71fc564,f316891d-8896-4456-b344-dde4bcac4426,survey_401,Cameroon,New Timothyshire,Male,58.0,Primary,Unemployed,completed,2026-05-14T10:40:48,field_tool,4,Neutral,5,Low,2
+1931bc10-23a5-4f38-b28a-f0349689b633,89fd911f-2e06-433a-8498-a96b0d8660ca,survey_790,Cameroon,Port David,Female,30.0,Tertiary,Self-employed,completed,2026-05-14T10:40:04,field_tool,5,Neutral,2,Medium,2
+c989f436-74e1-4c6e-8b08-b3c7e5152e55,8b2dfd83-9b5d-43c9-9bb9-c17382278cac,survey_546,Cameroon,East Amberland,Female,65.0,Tertiary,Unemployed,completed,2026-05-14T10:42:32,field_tool,1,Very Good,3,Medium,2
+fa8d803b-9444-47df-82cb-9c507bbf8514,4278f61e-17f2-429c-899d-f4da866b5f44,survey_735,Cameroon,Martinberg,Female,53.0,Primary,Self-employed,completed,2026-05-14T10:41:10,field_tool,3,Good,1,Medium,3
+5206b292-adda-4832-953e-0b806e688e35,d9a9a834-7d91-4485-ad7f-1aa30b44cceb,survey_267,Cameroon,East Leah,Male,71.0,Tertiary,Self-employed,completed,2026-05-14T10:41:31,field_tool,5,Good,5,Medium,4
+4aecdc0b-c3e1-48bb-a659-4e7674e488da,8498b40a-16e1-4f6b-a2e1-3d75b2e2f3cc,survey_719,Cameroon,New Scott,Male,45.0,Secondary,Unemployed,completed,2026-05-14T10:43:15,field_tool,3,Neutral,3,Low,1
+8cb19ac7-ef40-4c75-8d76-5b65560a960a,14852949-8bf6-40ea-a244-496ab88e33d1,survey_227,Cameroon,Stevenview,Female,20.0,Tertiary,Self-employed,completed,2026-05-14T10:42:31,field_tool,2,Bad,1,Low,5
+7222eaae-1e98-41a9-94b6-94943c538a45,02f39ad2-c3f6-4602-8879-a48007ab7770,survey_566,Cameroon,Port Elizabethtown,Female,53.0,Primary,Unemployed,completed,2026-05-14T10:39:54,field_tool,3,Very Good,4,Low,4
+784bb91b-3909-45c5-b593-4e1430cdb09e,c1ef5aef-2a38-446e-928f-234615690641,survey_364,Cameroon,North Haileyfort,Female,52.0,Secondary,Employed,completed,2026-05-14T10:40:29,field_tool,4,Bad,4,Low,1
+91be07c2-0ec7-42ff-9b6e-b00316d8e487,89fdf534-e4f0-48a1-889d-43e77060ee63,survey_736,Cameroon,Briantown,Female,23.0,Secondary,Employed,completed,2026-05-14T10:40:55,field_tool,1,Bad,2,Low,3
+b34e7cc9-305d-4c5b-ae44-3d759a97a4c7,610918c9-5016-4bd5-9a74-4822fd07f913,survey_467,Cameroon,Port Robinport,Female,43.0,Secondary,Unemployed,completed,2026-05-14T10:42:08,field_tool,3,Bad,3,High,5
+6c8560ca-8709-461e-97dc-d40d14a554fd,8bb7ecee-15c5-45c9-a8c6-35ff42c40e37,survey_603,Cameroon,New Elizabeth,Female,61.0,Tertiary,Unemployed,completed,2026-05-14T10:44:15,field_tool,3,Neutral,2,Medium,2
+f563f8e8-cdde-4d63-8e3c-20e241d224e9,85b059fe-7dbb-4c18-8984-e0ab7a0e2539,survey_689,Cameroon,East Gregoryport,Female,58.0,Tertiary,Unemployed,completed,2026-05-14T10:43:55,field_tool,1,Good,3,High,3
+dae3f1f3-1bd8-4342-9af3-27617fd98f03,5069c057-0ade-45db-89ce-acdb9f24c788,survey_334,Cameroon,Harrisonhaven,Female,63.0,Secondary,Unemployed,completed,2026-05-14T10:43:21,field_tool,3,Bad,2,Low,3
+9526155a-6462-4367-b2e6-f418600d21a7,9965ef48-0b4d-4de2-86b8-68bd77a1cf7d,survey_951,Cameroon,North Ebonybury,Male,45.0,Tertiary,Self-employed,completed,2026-05-14T10:42:52,field_tool,5,Neutral,3,Medium,1
+9bdfc2e3-f3ea-45bf-8946-58e2fffd653d,16b44b0c-576b-4523-a2fc-ab345868ffda,survey_157,Cameroon,Jenniferview,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:44:10,field_tool,5,Good,4,Medium,2
+edbb7a8f-b732-4c21-955e-c213f8fd35b6,9020dde2-60b2-45bf-a7ba-189d2663afff,survey_908,Cameroon,East Robertview,Female,37.0,Primary,Self-employed,completed,2026-05-14T10:44:00,field_tool,4,Neutral,5,Low,3
+010d121e-4703-4bb9-8f4e-6218eaf1073d,5e9be593-5257-46d0-bd9c-635d3a540890,survey_989,Cameroon,West Kyleburgh,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:44:34,field_tool,4,Neutral,3,Low,3
+0d0318f0-86fc-4646-8706-b51698fd1f97,8d737aa2-0ab8-42ea-bac7-0b9c60155570,survey_122,Cameroon,Lake Terrychester,Male,,Primary,Employed,completed,2026-05-14T10:41:25,field_tool,4,Very Good,5,Medium,1
+f25c5693-f161-4c13-88ff-2d236cec7448,db247ea2-9a23-43fe-a901-c88c3d8a3090,survey_615,Cameroon,Montgomerytown,Male,,Secondary,Employed,completed,2026-05-14T10:44:58,field_tool,4,Very Good,3,Low,4
+fe319829-64d2-4682-a4cb-e0f0a8aae133,f047e4e9-f3fe-47de-a2e0-f358c7533bff,survey_524,Cameroon,East Caleb,Female,31.0,Primary,Employed,completed,2026-05-14T10:41:56,field_tool,2,Very Good,2,Medium,3
+b8733a97-6f53-448c-861e-085e017cdeaa,1f564aa2-ed9a-4dd6-8c07-5053cd4f75e6,survey_620,Cameroon,Kinghaven,Female,56.0,Tertiary,Unemployed,completed,2026-05-14T10:40:42,field_tool,2,Neutral,1,Low,1
+7f4b6eda-5445-42e1-bd0a-f29cf87c3fd9,877f867c-ea4c-4607-8e48-7a8ce3e47946,survey_531,Cameroon,West Connieview,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:45:08,field_tool,1,Very Good,2,High,4
+43128916-08a8-4e83-9e5a-1c561983e50e,7940964f-f2cd-4e4b-8c27-7f182d6d0a43,survey_538,Cameroon,Gilmorebury,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:44:03,field_tool,4,Neutral,4,High,4
+7daeec5f-7175-45ab-90e6-6bca6ab35412,c38bdbdd-b7da-4c68-a0ca-5ead31a08f66,survey_728,Cameroon,New Deborah,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:43:03,field_tool,4,Very Good,3,Medium,3
+0e339199-2515-4ff7-ac11-ac2610eed268,ac49b6e2-27a4-474d-be02-99f6448e8117,survey_392,Cameroon,East Heatherport,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:41:06,field_tool,3,Neutral,5,Medium,2
+c8d36d44-c5ef-4e7b-a11c-e3c65e21fb49,ab640937-a52a-4a24-9248-9bee858fab60,survey_945,Cameroon,Rickeyburgh,Female,68.0,Primary,Employed,completed,2026-05-14T10:39:49,field_tool,4,Very Good,4,Medium,5
+1cf46b47-3587-4dcf-a653-0719afc3c183,c1a8a33b-6b77-4e6e-a123-61753e22a676,survey_123,Cameroon,West Jennifer,Female,34.0,Secondary,Unemployed,completed,2026-05-14T10:44:09,field_tool,4,Good,1,Medium,5
+74f6e06c-62fd-4569-a742-08353ea36a36,4f40f6ed-1aa5-44e2-b6c0-77aa6e4ebe99,survey_424,Cameroon,Christopherton,Female,37.0,Secondary,Employed,completed,2026-05-14T10:42:58,field_tool,2,Bad,5,Low,1
+cd911de3-679b-4f2f-a703-0ab1a9c1c00e,a1b2a7e5-fb72-425b-b209-329d4aa7f4e2,survey_384,Cameroon,Moorestad,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:42:07,field_tool,4,Good,4,Medium,5
+1d803b6c-2df9-4804-8566-b61fec60d577,2fc44d65-0ad5-4e56-9f9b-87b0ddc418d2,survey_451,Cameroon,Kramerstad,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:42:33,field_tool,3,Very Good,3,High,3
+30785acd-60c1-4794-ae28-35b973298874,4b38a57b-2fdc-4da3-aee5-1b7a8b20cc44,survey_521,Cameroon,Port Rhonda,Male,73.0,Secondary,Employed,completed,2026-05-14T10:39:50,field_tool,1,Bad,3,Medium,1
+49ba844b-a9ab-4487-b84f-906fc6d85b3a,6094d74c-7846-49c5-95a8-cb98ab2d96a0,survey_415,Cameroon,Robertview,Male,65.0,Tertiary,Self-employed,completed,2026-05-14T10:42:07,field_tool,3,Very Good,1,High,5
+93c16918-2c5c-4474-813b-5fbff3f5d2ed,d0919dcd-f5c0-4490-9361-b11d8352aaba,survey_204,Cameroon,Port Jeremiahville,Female,23.0,Tertiary,Unemployed,completed,2026-05-14T10:42:47,field_tool,5,Neutral,4,Medium,4
+347f1121-ca18-4939-bc8d-c7b4ae756cf9,803f8f00-b289-45e7-8e5b-ef683dcf3be0,survey_559,Cameroon,Port Toni,Female,64.0,Secondary,Employed,completed,2026-05-14T10:42:28,field_tool,5,Very Good,5,Medium,1
+e15bf4e3-c01d-455c-b30d-86843c105988,7736fb28-225e-45c8-b8f4-31f9b9ba04a8,survey_509,Cameroon,Lake Haleyton,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:42:07,field_tool,4,Neutral,5,High,3
+03102078-f346-40dc-981c-b8814c583ab3,fe3d81d8-0eb9-4aed-a39a-d4dfafd3ec8b,survey_700,Cameroon,Johnborough,Male,39.0,Secondary,Employed,completed,2026-05-14T10:41:25,field_tool,5,Bad,3,Low,2
+7ceffd67-20ce-480f-9877-5a63271d87d9,5ae57068-d2ed-4291-83da-1521f840596b,survey_688,Cameroon,Port Alicia,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:44:39,field_tool,4,Very Good,3,High,3
+3e6d4f96-7231-4834-8845-d893e13860cd,1f473751-b579-4849-a22b-c2f850a8ad59,survey_647,Cameroon,Chandlerberg,Female,61.0,Secondary,Employed,completed,2026-05-14T10:40:31,field_tool,2,Bad,3,High,3
+1107c8c9-2b95-4098-bd12-f3325ab7f442,99901c0d-b618-4e8e-9836-0f46170e0447,survey_485,Cameroon,Foxville,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:44:17,field_tool,4,Good,4,High,2
+8fdd40f7-3575-4102-a177-f94f9c816edf,32d8aff9-f9c0-4882-9b40-bb900c5f606f,survey_447,Cameroon,New Christopher,Male,64.0,Primary,Unemployed,completed,2026-05-14T10:45:26,field_tool,4,Good,3,High,1
+c0b81555-eb26-49ef-b3e1-e59a5882211e,227c27df-377f-4ac2-be19-cad732af7b95,survey_117,Cameroon,Schneiderbury,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:39:59,field_tool,2,Neutral,5,Medium,2
+d9b52b23-9e2f-4085-9426-739078275b66,08e5dd93-dad5-4f42-a81a-035fe1e3d66c,survey_798,Cameroon,North Samanthahaven,Female,52.0,Tertiary,Unemployed,completed,2026-05-14T10:43:53,field_tool,4,Good,4,Medium,3
+425f11f1-ce5d-4067-9e68-b6b4a147f5ee,fdcdd45c-53d3-4d79-b632-090ac22664f4,survey_178,Cameroon,Davishaven,Male,31.0,Tertiary,Self-employed,completed,2026-05-14T10:43:07,field_tool,2,Bad,2,Medium,5
+1c3cdfbc-4701-48cc-b316-517f73db9769,dd3024fc-b864-4af7-8d73-e7aac766dd63,survey_528,Cameroon,North Rhondaborough,Female,75.0,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,1,Good,2,Low,5
+e05c9e2f-ab4d-41c3-92e8-cb1d1c9ba05a,960a035c-0786-4459-8f89-321cff4ca29e,survey_663,Cameroon,West Kimberlyville,Female,62.0,Tertiary,Unemployed,completed,2026-05-14T10:44:20,field_tool,3,Bad,5,Low,3
+057df067-6d46-4dfb-ba4b-d3a3562887ad,861c53de-98e1-4160-966c-bda120be8394,survey_438,Cameroon,East Haleymouth,Male,53.0,Secondary,Self-employed,completed,2026-05-14T10:43:40,field_tool,1,Very Good,4,Medium,5
+d60cc8d8-4b0c-4dc6-a0cb-5ac042b2b95a,438e1bb9-7f52-4025-b3ed-3b04a3078402,survey_199,Cameroon,Mackenzieville,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:43:11,field_tool,3,Bad,5,Low,1
+2e4a9ecb-0cd8-46d9-9fdd-a0284858a299,9efda9e9-e1dd-4f7f-80c9-76e5eaab0629,survey_364,Cameroon,South Micheal,Male,52.0,Secondary,Employed,completed,2026-05-14T10:42:36,field_tool,3,Neutral,5,High,3
+f37e5b9c-a3cd-4bde-9656-26a003b0d972,13853f45-0ed5-4c8c-a2c9-4a442248fe75,survey_688,Cameroon,Cassandraville,Male,56.0,Secondary,Self-employed,completed,2026-05-14T10:44:08,field_tool,2,Bad,5,Low,1
+539a06c2-f3a9-4ee7-b1c7-8f90610edd53,496e186a-9335-4c77-8599-1a45a3a868d7,survey_297,Cameroon,New Kellybury,Male,38.0,Secondary,Employed,completed,2026-05-14T10:43:02,field_tool,1,Good,4,High,2
+fd31757e-b8ea-4430-aeb6-c92cad9e10ca,d68b717e-57cb-4719-ba33-67d087a6c63c,survey_471,Cameroon,New Donaldchester,Male,74.0,Primary,Employed,completed,2026-05-14T10:41:18,field_tool,1,Good,2,High,2
+dc2fb232-c98a-4d04-9fb7-1cc85132ae80,285d9795-b913-4441-90a0-54172bac7c89,survey_645,Cameroon,New Carolyn,FEMALE,36.0,Primary,Self-employed,completed,2026-05-14T10:40:54,field_tool,1,Bad,5,Low,4
+08e5be03-700c-451e-9c70-b2c65aceac88,4667b057-7387-4e41-bd79-f8b612d0ff7d,survey_420,Cameroon,Matthewland,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:40:26,field_tool,4,Very Good,2,Low,3
+71bbd561-c5f9-4a25-a9d7-ce15b68accd2,b206da83-0956-40e5-af0c-1132415155db,survey_671,Cameroon,Davidside,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:43:07,field_tool,5,Bad,2,Medium,5
+14f961f6-d5a5-4381-ac9c-db59d154db8b,d45f8e7f-0af8-4147-bf44-ea67f0cf9990,survey_800,Cameroon,Crystalmouth,Female,21.0,Primary,Self-employed,completed,2026-05-14T10:41:40,field_tool,1,Bad,4,High,4

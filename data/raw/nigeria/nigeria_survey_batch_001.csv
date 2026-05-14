@@ -1,0 +1,267 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+8f600888-0364-4c29-95f8-bbf832ecade9,de3276aa-84fd-4b86-9398-b5f82e000250,survey_131,Nigeria,Markborough,Female,35.0,Primary,Unemployed,completed,2026-05-14T10:44:27,field_tool,2,Good,4,Medium,4
+bdcce042-be5d-4f7f-a062-3aec45bfc9ce,adb1cf96-47b9-434c-bcda-2b6adf5c4886,survey_908,Nigeria,Stricklandland,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:39:46,field_tool,4,Good,5,Medium,2
+4160cb8e-39ab-496a-9456-2fa4d91a0859,a667257d-8420-4884-ab73-88b1f9e3e688,survey_544,Nigeria,Leeland,Male,43.0,Primary,Employed,completed,2026-05-14T10:43:42,field_tool,3,Neutral,2,Medium,1
+272c8c82-8bf5-44eb-bd95-d93472a8237d,d580b795-72a9-4908-ae65-ac943f633aac,survey_663,Nigeria,East Heather,Female,70.0,Tertiary,Unemployed,completed,2026-05-14T10:40:12,field_tool,2,Very Good,5,Medium,5
+cd07dbf4-382c-4e3f-8e59-feb83e5ed5fa,b64e527d-1ec2-4a9d-ac52-8f1dee0a612c,survey_597,Nigeria,New Keithstad,Male,36.0,Secondary,Unemployed,completed,2026-05-14T10:44:38,field_tool,2,Neutral,1,Medium,3
+e073cb84-6eee-4a41-8b7c-e222a7255a84,1a9a4693-a999-4ee3-9adf-663d76f658e4,survey_177,Nigeria,North Daniel,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:39:48,field_tool,2,Good,4,Medium,3
+72eb8e87-ba14-4103-8642-e2dc0de90db7,05c3c7db-393e-48c0-bfc2-be8ad79efc66,survey_826,Nigeria,South Jamesport,Male,34.0,Secondary,Employed,completed,2026-05-14T10:43:59,field_tool,5,Good,4,High,4
+99bdc6c8-42ba-418a-bff6-5cd86de82be0,c34f18c5-0560-4755-9532-542a1d480fd1,survey_645,Nigeria,Andrewmouth,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:41:09,field_tool,3,Neutral,5,Medium,4
+d29352af-a407-4e52-a179-e75cb62aaa10,e3b79340-cd73-4a64-9213-ecd9f37de751,survey_235,Nigeria,Deborahmouth,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:41:12,field_tool,1,Good,3,Low,3
+a9fca983-4d7e-4f6c-b8b8-6f400b75af99,9ac3a854-db3c-4164-955a-be016efab10b,survey_160,Nigeria,Amandaport,Male,69.0,Primary,Employed,completed,2026-05-14T10:41:48,field_tool,1,Very Good,5,Medium,4
+a1ed6618-8abd-49dd-bd43-46c6b82908ef,b3499a5e-1cc4-4c86-a315-00e8e773e432,survey_614,Nigeria,South James,Female,40.0,Tertiary,Unemployed,completed,2026-05-14T10:42:43,field_tool,2,Bad,2,Medium,5
+c4edf9b1-2030-4960-96f4-dda05d350272,8b6f3652-cc93-45be-9bae-04748fb16f45,survey_625,Nigeria,West James,Female,66.0,Secondary,Self-employed,completed,2026-05-14T10:44:13,field_tool,2,Neutral,5,Low,2
+3161e164-5404-4cb1-a99c-1c98992b3340,86577c14-2486-4375-a720-79f4dece730c,survey_545,Nigeria,Port Kristinemouth,Male,48.0,Primary,Self-employed,completed,2026-05-14T10:43:33,field_tool,3,Bad,4,Medium,2
+81225779-de12-42c6-afe4-9dd98034e5cc,2b269196-efd2-418f-b47b-251b61759921,survey_458,Nigeria,South George,Male,30.0,Secondary,Employed,completed,2026-05-14T10:44:38,field_tool,2,Very Good,2,Low,2
+b6deec9b-1adb-49cf-babe-4534df44b6b6,1aff19a7-b74c-4901-a8ef-f1811519ae26,survey_951,Nigeria,Lake Matthew,Female,75.0,Primary,Unemployed,completed,2026-05-14T10:39:45,field_tool,5,Good,3,Medium,1
+becdee77-9a97-46f8-9880-ad7da7f62647,dcb72ee5-8887-4950-8f7a-9204248cf736,survey_201,Nigeria,Sherrimouth,Female,58.0,Tertiary,Employed,completed,2026-05-14T10:41:14,field_tool,4,Neutral,1,Medium,4
+53207faa-e4d3-4e3f-b968-5d9a716b38ed,839e92b5-6414-4394-bca3-80fe562dea27,survey_148,Nigeria,Crosbyton,Male,56.0,Primary,Unemployed,completed,2026-05-14T10:44:12,field_tool,1,Bad,2,Medium,3
+d5ebd3d5-da82-4165-9d41-49fd1c254904,b22d1fcb-6451-4a4c-8a4f-618d892cb3cb,survey_700,Nigeria,West Melissa,Male,27.0,Tertiary,Self-employed,completed,2026-05-14T10:43:49,field_tool,3,Very Good,3,Low,1
+6981280d-2e48-49a6-a948-ad19db07b450,944abeec-cbdb-483f-a465-6decc8d6f126,survey_785,Nigeria,North Laura,Male,20.0,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,1,Neutral,2,Low,3
+34f413a1-64a2-49f1-9209-9fb703e69a82,ee70c4f0-77c5-4aba-bd43-5a7c17eea5af,survey_268,Nigeria,New Gregory,Male,31.0,Secondary,Employed,completed,2026-05-14T10:40:33,field_tool,1,Very Good,2,Medium,1
+0bcc9b01-5c74-4a04-b61a-e8dfd6d976fe,6645b3a6-1564-4271-b042-6ad02d4507f8,survey_170,Nigeria,Jessefurt,Female,33.0,Primary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Good,5,Low,1
+322a3c73-1a06-4203-956c-37be6fc02908,a49c7b58-cea8-4d2e-acef-ad62558f16a5,survey_470,Nigeria,North Kristenhaven,Female,24.0,Tertiary,Employed,completed,2026-05-14T10:41:59,field_tool,3,Very Good,1,Low,1
+51b741dc-34de-4a36-8b7d-7fd784ef99ad,13856201-af3c-44f7-82b0-bfbc13101f1d,survey_487,Nigeria,Johnsonburgh,Female,32.0,Tertiary,Unemployed,completed,2026-05-14T10:45:06,field_tool,2,Good,4,Low,1
+e3528a2a-9120-4f5f-8f0d-5c998c91d099,be7eb35f-db55-404b-9cb5-c9350de20043,survey_963,Nigeria,East Duaneville,Male,25.0,Tertiary,Unemployed,completed,2026-05-14T10:40:54,field_tool,2,Neutral,1,Medium,2
+e5f4453c-e19b-4ea4-9258-26e619e594bc,e3448e67-fb8a-40fa-8a17-676b5af15039,survey_564,Nigeria,Kristifort,Male,18.0,Secondary,Unemployed,completed,2026-05-14T10:41:02,field_tool,1,Neutral,2,High,1
+4b4534be-e190-4831-91a7-c142f1bf6d13,cfe80f18-75fa-475d-860a-db2a3c85db52,survey_549,Nigeria,Zacharyport,Male,45.0,Secondary,Employed,completed,2026-05-14T10:44:03,field_tool,3,Good,5,Medium,3
+e1ab058b-061d-4d9f-b623-82ff398ebdf6,e2dace0b-b1d6-4976-a66e-861e9228ddd1,survey_303,Nigeria,Port Deborah,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:44:36,field_tool,2,Good,3,High,4
+2a0c6fdb-b3d1-4505-9e8d-aacbb7dc71ac,b3eb2524-03f8-4e4b-8187-8b82ebe8cac0,survey_901,Nigeria,East Matthew,Female,53.0,Secondary,Self-employed,completed,2026-05-14T10:40:07,field_tool,2,Bad,1,Low,3
+39a4f8c9-ee45-45fc-9074-8f41f3b7965b,5fa22b85-3781-452f-9af6-9b159003aeed,survey_358,Nigeria,Mccarthyside,Female,34.0,Tertiary,Unemployed,completed,2026-05-14T10:40:30,field_tool,3,Good,5,Medium,3
+5d7d2ac2-c281-4d72-879e-37728ac28c89,446e757c-b257-4392-b84d-c164371bd94d,survey_622,Nigeria,Port Marcia,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:42:19,field_tool,1,Very Good,3,Low,5
+7777b30c-9f46-4c2d-b877-e60e64ab192a,c0109f74-5114-4e6f-941c-1c3dc99fd41b,survey_349,Nigeria,Johnsonstad,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:40:51,field_tool,4,Bad,2,High,4
+30301a0d-458c-4c50-a02d-a995a28f6cd3,c19e6433-0f97-4306-9f5a-3244dccb10b0,survey_421,Nigeria,Richardtown,Male,42.0,Primary,Employed,completed,2026-05-14T10:42:39,field_tool,4,Very Good,3,High,4
+925ee01d-75ac-49cc-bfa0-625fc338c204,90e7fe90-97e3-4876-894c-1c419f04cdec,survey_950,Nigeria,South David,Male,54.0,Secondary,Employed,completed,2026-05-14T10:39:56,field_tool,2,Neutral,3,High,2
+bb6e5a74-0c40-4d54-b966-582bad91aed7,4a5e1c37-d47b-4c4b-8c56-10efac50a314,survey_281,Nigeria,Manningchester,Male,65.0,Secondary,Unemployed,completed,2026-05-14T10:45:26,field_tool,3,Very Good,1,Low,2
+cc28fde4-83a3-4b65-a6e8-cc4606501bbd,1bee073f-d057-45ef-8fab-c84fb35659bf,survey_874,Nigeria,Ashleyview,Female,48.0,Secondary,Self-employed,completed,2026-05-14T10:41:26,field_tool,2,Neutral,3,High,4
+295a3710-d247-4af1-9b9c-f672ac3f313b,0ff37c14-58e8-4dfe-835a-64ff4b8894e2,survey_371,Nigeria,East Lisachester,Male,68.0,Secondary,Unemployed,completed,2026-05-14T10:44:00,field_tool,2,Bad,3,High,2
+445b9850-9c78-41c8-a8a5-e2548faaf055,4e4eb4d7-9a67-4b9c-94d0-a67e19d6f3d4,survey_553,Nigeria,Shawnmouth,Male,43.0,Tertiary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Bad,1,High,1
+5a0b923f-0be8-4d8d-9706-a9fa11be4fd4,2b02e58c-5cc3-45b0-b20b-fcebb3fa71a1,survey_704,Nigeria,West Mitchell,Male,75.0,Tertiary,Unemployed,completed,2026-05-14T10:44:06,field_tool,2,Bad,3,Low,1
+0fa9cbbb-5a47-4c0b-bcbf-5785498b5d82,9525d55a-2024-4d73-b78c-f8119a18228e,survey_414,Nigeria,Michaelstad,Male,63.0,Secondary,Employed,completed,2026-05-14T10:42:50,field_tool,3,Good,4,High,3
+f26c7924-39b5-4b49-a69d-bdb6af34f10b,1189ef12-47c4-416a-a5a2-2da2fcc410a5,survey_957,Nigeria,North Aprilland,Male,54.0,Secondary,Employed,completed,2026-05-14T10:42:30,field_tool,2,Good,5,Medium,2
+13d95bfc-99ac-4dd9-870e-c03c21972a2b,d4f189e7-c999-4540-82aa-ae8c4e33165f,survey_188,Nigeria,East Christina,Female,19.0,Primary,Employed,completed,2026-05-14T10:45:34,field_tool,1,Very Good,3,Low,2
+22076775-ca60-4f10-8f62-26a27a3d45b2,68c3cb28-4a15-4fb9-b1f4-7e8bac214889,survey_109,Nigeria,Jacksonmouth,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:41:05,field_tool,3,Bad,4,High,1
+264a48a0-5608-4bb5-9151-1f2b67dfa29b,4b697814-f2be-4394-b834-b8765dda365b,survey_884,Nigeria,West Joshua,Male,29.0,Tertiary,Employed,completed,2026-05-14T10:42:53,field_tool,3,Very Good,2,Low,5
+63d6749d-9624-4423-96ae-1f237f6986db,51157a3f-97a6-4464-9ad5-fb03b75415d9,survey_523,Nigeria,Lopezborough,Male,65.0,Tertiary,Unemployed,completed,2026-05-14T10:42:17,field_tool,2,Bad,3,Medium,4
+8505e910-cd16-47ca-9d60-a822746b21da,cfe0e2f3-5fe8-4437-be5e-db1284f3b8c4,survey_148,Nigeria,Donnaton,Male,46.0,Tertiary,Self-employed,completed,2026-05-14T10:41:03,field_tool,2,Neutral,5,Medium,5
+e0419edb-2264-4973-95df-32e2230c9c28,07c8b488-c918-4465-af1c-39243fe82231,survey_440,Nigeria,Davidfurt,Male,37.0,Secondary,Self-employed,completed,2026-05-14T10:45:34,field_tool,1,Good,4,Medium,3
+7c80ebe1-5f76-43c3-bcb5-943212b1055d,e0646eb1-89e2-4df1-867a-b0aa74fc5bad,survey_928,Nigeria,New Randy,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:40:24,field_tool,2,Very Good,5,Medium,1
+ec22f655-2564-4434-aa79-04275469a881,e145b7eb-2304-49d5-81d3-25f692a13748,survey_134,Nigeria,Claireview,Male,47.0,Primary,Self-employed,completed,2026-05-14T10:40:05,field_tool,5,Neutral,5,High,4
+6b33ff4a-0bb1-4766-b222-e723f45a189c,91bd7c83-0d9f-48f0-a0b4-f5a26b3c8bbd,survey_265,Nigeria,Wendybury,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:42:08,field_tool,5,Good,5,High,2
+4aa3f957-a8ec-4bd7-be61-caf3cd263344,26ce43c1-e9fe-4b38-82b1-e8f81d798968,survey_720,Nigeria,Lake Sarah,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:39:52,field_tool,5,Good,1,Medium,2
+86ba58d8-1ec3-478f-b2af-ede1672ef1fc,322d186a-a9bc-4daa-8886-69a41b1d8b18,survey_295,Nigeria,Lake Danielland,Male,41.0,Primary,Employed,completed,2026-05-14T10:41:49,field_tool,1,Bad,2,Low,4
+bb948d18-a95d-475b-96be-e10069fe863a,3df0108a-f28b-4865-a392-512b23813df7,survey_596,Nigeria,New Amanda,Male,44.0,Primary,Employed,completed,2026-05-14T10:43:13,field_tool,4,Bad,2,Medium,3
+64a9277b-d23f-4118-a6af-41044687ddf9,687203c8-978d-4c4e-8c6b-bd5883cefb93,survey_925,Nigeria,Butlerfurt,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:43:51,field_tool,5,Neutral,4,Low,2
+779f5f27-dd3f-421c-bf4d-e9ce41520a7c,469ce546-fe1e-41a7-b767-d82a336dd567,survey_758,Nigeria,Port Michaelbury,Female,23.0,Primary,Unemployed,completed,2026-05-14T10:44:36,field_tool,1,Very Good,3,Low,2
+174708c8-8b26-4d26-a4a6-a5c3a8625f10,1614a837-cff0-4f3a-8d84-d9eefeff6711,survey_130,Nigeria,East Paula,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:40:25,field_tool,4,Very Good,4,High,3
+1dc93a4d-d744-435d-887a-0bf403ed97e4,314f999c-410c-4617-83ad-b40b9988aa97,survey_228,Nigeria,Johnsonmouth,Male,38.0,Tertiary,Unemployed,completed,2026-05-14T10:43:18,field_tool,1,Good,5,High,1
+06407e47-f710-47db-8d32-cdb7fec359b0,c24590aa-4489-46b9-8e24-9074923649ad,survey_878,Nigeria,South Kristina,Male,23.0,Tertiary,Self-employed,completed,2026-05-14T10:45:43,field_tool,3,Neutral,1,Medium,5
+4d7c9724-73af-42ab-89e7-9ca8accc804c,41297a52-bbb0-43f3-b2e9-44ba4d99aab2,survey_700,Nigeria,Jenniferfurt,Female,41.0,Secondary,Employed,completed,2026-05-14T10:44:59,field_tool,5,Good,4,High,3
+c6e1fb04-37f2-4d0b-8fc9-2be42b884339,a5fa4526-233d-4173-8d6f-f83642a45f22,survey_328,Nigeria,Lake Charleschester,Female,42.0,Tertiary,Self-employed,completed,2026-05-14T10:43:30,field_tool,3,Very Good,3,Medium,5
+3f009b8b-9397-458a-8e44-77ac512a1c7e,a315234a-9c45-42ea-9d8a-ad4503a2cb1f,survey_708,Nigeria,West Jasonton,Female,55.0,Primary,Unemployed,completed,2026-05-14T10:41:41,field_tool,2,Neutral,3,Low,3
+a83304a9-e9c8-4da5-9dbd-5ed4b3cceef6,e36e8607-c640-4d17-a8ea-d44c2bcbe66b,survey_869,Nigeria,Port Matthewside,Male,72.0,Primary,Self-employed,completed,2026-05-14T10:43:40,field_tool,5,Very Good,2,Low,1
+74d354a3-f718-4011-be67-f95df061a765,050eeb74-41db-47ef-8874-0cdd1a40f8a7,survey_316,Nigeria,Joshuachester,Female,22.0,Tertiary,Self-employed,completed,2026-05-14T10:41:57,field_tool,4,Neutral,2,High,5
+03b11fc4-0cc7-4342-bb9d-ef6e8ae09ae9,e6bdea30-fa87-4ae9-8236-b3b2c28c462f,survey_622,Nigeria,Perezshire,Female,22.0,Primary,Self-employed,completed,2026-05-14T10:44:30,field_tool,2,Very Good,3,High,1
+928162ea-5024-4e46-806f-3cf80a17caf9,84710aa0-2410-4d38-a6ca-cc139456981c,survey_140,Nigeria,Benjaminland,Male,57.0,Primary,Employed,completed,2026-05-14T10:42:21,field_tool,4,Bad,4,Medium,1
+2f5c734d-fb8f-4948-af78-6df004de81f8,a132fabd-bcef-4588-81b9-fafcba68303a,survey_999,Nigeria,Duncanmouth,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:45:08,field_tool,3,Good,1,Low,2
+3a2c4baf-d8c5-4aef-93b5-5745b4448a9f,382610d7-a45c-46c3-b4ba-838c7e64813f,survey_546,Nigeria,Williammouth,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:42:01,field_tool,4,Neutral,1,High,4
+db2599c1-4172-4420-965d-6c1295d9119c,1ac586b2-3e42-44ca-ae63-158e1c0f4ef4,survey_459,Nigeria,Port Scott,Female,,Primary,Self-employed,completed,2026-05-14T10:42:46,field_tool,5,Neutral,1,Low,4
+ab3d1dcd-9886-43ee-90fa-626dc84b4ffe,69d2cfc1-006c-4e25-8397-a24b09c70c24,survey_548,Nigeria,North Matthew,Female,,Secondary,Self-employed,completed,2026-05-14T10:44:56,field_tool,4,Bad,5,Medium,3
+f9593860-5733-4427-8df8-2053f6c5405c,e93e27e7-aebc-404c-8658-9844a78cd57b,survey_191,Nigeria,West Samanthachester,Male,68.0,Primary,Employed,completed,2026-05-14T10:43:51,field_tool,2,Very Good,2,Medium,5
+3e440e70-d609-471b-a6b0-3f973220dc6d,4903ffae-fe97-48f1-b528-f079b68ab9a3,survey_828,Nigeria,Port Staceymouth,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:44:58,field_tool,5,Bad,5,Medium,4
+d709a57e-0fb3-4b8c-b31b-70dca0883675,b58a3243-898a-4e18-812c-ee9cd6c29fb2,survey_636,Nigeria,East Ericabury,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:40:00,field_tool,2,Bad,5,Medium,3
+d762d315-4eb7-4500-917f-f2127445d175,97a4f1ab-e1be-4e17-bda0-d719e112fadc,survey_295,Nigeria,South Michael,Female,57.0,Secondary,Self-employed,completed,2026-05-14T10:45:12,field_tool,3,Good,5,Medium,3
+05f925a9-9330-4910-a5f4-1e99a210acfc,82cd3317-bc24-4777-941b-34acaa527317,survey_920,Nigeria,Port Jasontown,Female,59.0,Secondary,Unemployed,completed,2026-05-14T10:45:37,field_tool,4,Good,1,Medium,5
+8a0a9838-d97d-44af-b00a-64576ffdfc30,16f6d382-22ce-437b-96f9-8bb6199314f6,survey_719,Nigeria,Johnsonshire,Male,69.0,Primary,Employed,completed,2026-05-14T10:45:44,field_tool,5,Neutral,1,Medium,2
+87d6ae16-e880-4277-bd89-9f3a8b150620,52b9dda9-96b7-424d-8888-302948d6ce94,survey_669,Nigeria,Jonesland,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:41:29,field_tool,1,Bad,2,Low,3
+2b7bc649-21d1-4fe5-9de8-1d18465d234c,2f3b240c-0fae-4e2e-9d33-601141355bdb,survey_222,Nigeria,South Davidfurt,Male,,Secondary,Self-employed,completed,2026-05-14T10:44:34,field_tool,2,Very Good,1,Low,1
+b6fc2b22-a8c4-45f7-b798-1b0e420399da,8b1bb5f3-b5bc-4264-941e-535119348a88,survey_749,Nigeria,Jasonland,Male,33.0,Primary,Unemployed,completed,2026-05-14T10:40:13,field_tool,5,Neutral,4,Low,2
+4c85f317-0bcd-46fb-b6df-e2524cea5206,77fc74e8-073e-4874-bfd4-e0b36a10d723,survey_465,Nigeria,Savagefurt,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:43:50,field_tool,3,Very Good,4,Low,4
+61a3e89c-db81-446e-a40a-acc4344b0e79,5305f1e5-2f64-420c-81a0-d806fb0b4b9c,survey_305,Nigeria,Port Davidville,Female,29.0,Primary,Employed,completed,2026-05-14T10:43:44,field_tool,5,Bad,3,High,1
+ce07f4aa-352c-4f86-b39d-01afd31c634b,c86142f6-f41a-4494-be1d-d2bd7b3d37bb,survey_940,Nigeria,South Amber,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:42:31,field_tool,5,Good,5,High,1
+250a1413-aa68-46c5-bb36-702079fdfc7b,a4b378fe-e0bb-4545-b3c1-a169b68b55b9,survey_650,Nigeria,Fergusonland,Male,64.0,Primary,Employed,completed,2026-05-14T10:40:14,field_tool,4,Good,4,Low,5
+eec383b2-9764-461e-9403-ca83331516d7,20f57371-bc44-4e46-9827-668ec92c845f,survey_748,Nigeria,Bryanside,Male,52.0,Primary,Unemployed,completed,2026-05-14T10:43:21,field_tool,3,Good,5,Medium,1
+c7b3f5d8-705f-4df2-9afa-6b48aeac3cca,ffa1e275-12db-4ff8-bbd4-8c03cc34b6f1,survey_400,Nigeria,Nathanmouth,Male,45.0,Tertiary,Unemployed,completed,2026-05-14T10:43:16,field_tool,3,Very Good,3,Medium,5
+3203e56c-7ae1-4846-a40d-c29f0b783524,7c0d6a55-b43d-4e88-a0f9-6a03754aa390,survey_264,Nigeria,Bishoptown,Male,74.0,Primary,Self-employed,completed,2026-05-14T10:42:28,field_tool,3,Good,2,Medium,2
+ffb510ed-b47a-4c52-ba56-891fbbefe24e,ec211b0a-4cff-4f43-bdaf-5181e673cdc7,survey_206,Nigeria,North Rodneyfurt,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:44:49,field_tool,1,Bad,2,Low,4
+4c201a96-a059-47aa-b7a4-784e2e3d43fc,e94d505c-161f-4705-97fc-2e1ae56bc1ed,survey_941,Nigeria,Jaredtown,Male,,Primary,Self-employed,completed,2026-05-14T10:45:10,field_tool,2,Good,4,Low,5
+ce17f3de-e2f1-4411-90dc-109e1b1f334f,250323fc-5111-4de8-a942-c1d2faadc30a,survey_270,Nigeria,Dominicchester,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:45:22,field_tool,2,Good,1,High,1
+d666a262-9889-4684-bcc1-e4163d9b0466,6e585dd4-c9ca-4612-95fb-91f7f1b6cd97,survey_690,Nigeria,Jenkinschester,Female,22.0,Primary,Employed,completed,2026-05-14T10:44:59,field_tool,2,Very Good,1,Medium,2
+0edc2de1-d916-4ce2-b33e-7730a0db348f,0299e75a-d0d9-4785-9207-0ac8c94089c5,survey_870,Nigeria,South Angelahaven,Female,,Primary,Unemployed,completed,2026-05-14T10:40:44,field_tool,4,Bad,5,High,1
+9ad18630-e664-4fdd-a2c6-a9e07a492ca0,03053c1e-f8fc-431c-925e-db9f6677a979,survey_153,Nigeria,Dannybury,Female,60.0,Secondary,Self-employed,completed,2026-05-14T10:43:57,field_tool,5,Neutral,5,Medium,3
+090ca5cf-00cb-4915-b6f0-1e9bdcc1c2b1,a47d8494-b582-44a0-9d8d-a85997196050,survey_346,Nigeria,Nelsonton,Female,23.0,Primary,Employed,completed,2026-05-14T10:42:12,field_tool,2,Good,4,Medium,3
+d5700b1e-645d-44ee-ac4a-1d7ca9757487,e010dabb-f6dc-480e-90cb-c717e9e84dbc,survey_796,Nigeria,Williamsside,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:41:44,field_tool,4,Neutral,5,Medium,4
+cc31c253-0ad9-46f8-b6d7-7b3105a8cb97,3d06b542-00b8-4f14-984e-96984e13208a,survey_239,Nigeria,North Charlesstad,Male,69.0,Primary,Self-employed,completed,2026-05-14T10:43:52,field_tool,1,Bad,5,Low,4
+9deb20fc-7d54-4663-80c5-4e33b9b8b2c4,7b2964e9-dcd7-44ca-a33d-5e89c096b9a5,survey_166,Nigeria,North Amandatown,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:45:35,field_tool,4,Bad,2,High,3
+ae5beb92-477e-43d2-8c28-0bc43ddb81c2,4e439208-81fc-4f3c-b8e7-8ea4a889014c,survey_458,Nigeria,New Henryview,Male,43.0,Tertiary,Self-employed,completed,2026-05-14T10:42:41,field_tool,3,Neutral,5,Low,4
+c9ffbbfd-7363-46e1-8a7e-8978a42f631a,d6a3bd96-af11-4c3b-8380-8a1e608440af,survey_821,Nigeria,Samanthaberg,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:39:56,field_tool,1,Very Good,4,Medium,2
+4b29a7b8-f496-49b3-ada0-e44639674344,fae1ac6c-3260-4819-b0ee-e7811e8abbce,survey_447,Nigeria,East Kristinaberg,Male,75.0,Secondary,Employed,completed,2026-05-14T10:41:24,field_tool,3,Good,1,High,2
+c571844c-edb6-42ae-a086-e8016d0478f7,3fef5a8a-a394-44db-84c8-d4b991f05c4a,survey_298,Nigeria,Josephbury,Male,57.0,Secondary,Self-employed,completed,2026-05-14T10:42:55,field_tool,2,Very Good,1,Medium,4
+28a2b9eb-7856-4130-b3d9-2a13e3f9301e,db09be3e-3bab-4fbc-94f3-ca687370af61,survey_203,Nigeria,Port Ann,Female,22.0,Secondary,Employed,completed,2026-05-14T10:41:52,field_tool,5,Very Good,1,Low,3
+52ba1abc-d3ba-4e95-af48-a4cb17a98045,7784d531-a05f-4b59-a90b-1ca17c79fcaa,survey_420,Nigeria,East Laurafurt,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:45:16,field_tool,4,Bad,5,High,1
+329bd70e-a95a-4e10-ad2a-2332a9b989e9,fc2f648a-503e-46fe-932d-99c8b63176ba,survey_230,Nigeria,Hallstad,Female,43.0,Secondary,Employed,completed,2026-05-14T10:40:27,field_tool,4,Bad,1,Medium,5
+b3405e27-6f5c-460b-8f0c-02b68dd6719e,49a27dda-f078-4364-a82b-b4d05272b2d0,survey_883,Nigeria,Williamsfurt,Male,21.0,Primary,Unemployed,completed,2026-05-14T10:43:25,field_tool,2,Bad,3,Low,5
+84acd822-97cc-47cc-84d5-f590067bb0ca,fdc862fd-b448-4998-b29a-8f100fdab8bd,survey_678,Nigeria,Ortizfort,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:40:30,field_tool,2,Neutral,5,High,4
+5fe39d2f-e7e3-4194-95d3-924121a5f5a1,4a0e6f6c-3593-41f7-85be-5bde25a345d9,survey_454,Nigeria,Mayside,Male,61.0,Tertiary,Self-employed,completed,2026-05-14T10:41:36,field_tool,4,Very Good,1,Low,2
+c1dda810-6f65-4eb2-a4a9-d55095eacecb,4bc9a961-53b4-4aaf-86e3-cc384331adab,survey_335,Nigeria,Petersonmouth,Female,73.0,Primary,Employed,completed,2026-05-14T10:43:54,field_tool,2,Good,4,Medium,3
+1d427de3-473c-4270-97ad-707b5cedaea5,0aa09911-d60f-4ea5-85fa-302b989a8b88,survey_351,Nigeria,West Meganbury,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:40:59,field_tool,1,Neutral,1,Low,5
+d1ac4d1f-9925-4b4d-b88d-62b89335d78a,78a07b63-9599-4349-a42d-52606c19fbe3,survey_576,Nigeria,South Brian,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:41:42,field_tool,1,Good,1,Medium,2
+ac6a0823-625b-4281-8b24-80f3616aab83,0f168e1e-e6a7-4779-bdba-0c3ef86b2aa5,survey_951,Nigeria,South Maryhaven,Female,70.0,Tertiary,Self-employed,completed,2026-05-14T10:45:07,field_tool,1,Good,1,Low,3
+2e2fb5bb-4edb-4473-a365-d28613581f8f,172b4cb0-b795-4197-91ac-3f5f27a7a26f,survey_186,Nigeria,New Matthewburgh,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:43:59,field_tool,2,Neutral,5,Medium,3
+8cc228d8-1e31-4a53-9169-e4ce2531b2c8,e3213a11-3e54-44cc-b750-48938dcfe8c8,survey_137,Nigeria,East Amanda,Female,54.0,Primary,Self-employed,completed,2026-05-14T10:45:03,field_tool,3,Neutral,5,Low,1
+c4115155-eb2d-49ef-b13c-b9cfea29c924,d2fb372c-6016-428d-b343-e8edb8e22468,survey_664,Nigeria,West Lucas,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:40:22,field_tool,5,Very Good,4,Medium,5
+339c7255-de08-47c3-be46-9a24ad1829d7,13c3eea4-b273-4c0f-985d-ea706d40a1ca,survey_426,Nigeria,Port Patrickland,Male,55.0,Primary,Employed,completed,2026-05-14T10:42:24,field_tool,2,Very Good,1,Medium,3
+033d1502-3e47-49f2-b08f-d71f9f475287,83e35a0c-377a-43a0-9806-e613a7708291,survey_665,Nigeria,Port George,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:43:16,field_tool,2,Very Good,4,Medium,2
+c720a443-93bd-45de-84ee-e44eb7297f79,3265e30f-c554-4ad0-9d62-5af827550091,survey_271,Nigeria,Hineshaven,Female,58.0,Primary,Employed,completed,2026-05-14T10:44:24,field_tool,5,Bad,3,Medium,2
+3590f0f8-4a87-4696-ac8c-9e70a26d4ceb,b83631d7-4643-44c7-910e-2c593abc8060,survey_406,Nigeria,Mathismouth,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:41:00,field_tool,4,Very Good,5,Medium,5
+1cadc614-f5c7-4828-bdbf-ee32d8bd0598,e9d24b5c-b8e9-46ca-8881-5160fba33f0f,survey_429,Nigeria,Amyberg,Female,21.0,Secondary,Unemployed,completed,2026-05-14T10:42:26,field_tool,3,Very Good,3,Medium,3
+4d7a734f-9104-4266-96cb-0c82c3e2ff91,ad840f02-d18c-4382-a14b-03cd253e5823,survey_421,Nigeria,Maldonadoland,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:41:22,field_tool,4,Very Good,3,Low,1
+762fe2f3-17ae-4544-acbc-2aec448e4eba,5fc75e1e-8044-4fd2-8174-3a2bcd4eec19,survey_207,Nigeria,West Wesleyshire,Male,75.0,Secondary,Self-employed,completed,2026-05-14T10:42:09,field_tool,2,Bad,3,Medium,3
+34c1f356-224a-4a92-9d6a-312450f3aa7d,4c71c0dd-9cea-4c62-89ad-4e6de06827d4,survey_828,Nigeria,Hensonhaven,Male,34.0,Secondary,Self-employed,completed,2026-05-14T10:44:15,field_tool,2,Good,4,High,5
+bd247682-94bc-4e8a-b6b2-1545d2a8a086,9c658cc0-9862-485d-a33b-62ecccc80a03,survey_223,Nigeria,Lake Steventown,Male,38.0,Secondary,Employed,completed,2026-05-14T10:43:58,field_tool,5,Good,4,Low,5
+482714a0-9abf-4426-b95d-36f58ad450d4,1952eb8b-6b59-48b7-a46b-3225e3cce70f,survey_855,Nigeria,Jonathanhaven,Male,68.0,Tertiary,Employed,completed,2026-05-14T10:39:48,field_tool,2,Neutral,3,High,1
+4a3b85c6-6b98-4cdd-ad25-d1e88e44e442,a1524813-f34f-4797-a847-7e9afc32b056,survey_573,Nigeria,Garciahaven,Female,26.0,Primary,Employed,completed,2026-05-14T10:43:29,field_tool,4,Very Good,5,High,5
+0b6a2507-d2c3-4ed1-8bf0-4bc3d54fda42,14995d12-fb85-4066-86f9-ee330d7830e2,survey_822,Nigeria,South Lee,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:40:59,field_tool,5,Good,5,High,2
+5bbe0c2f-9d51-48ec-94dd-89b062a01cdf,6bd20644-103c-401b-8224-0d5b2f46b63b,survey_487,Nigeria,West Sean,Female,74.0,Tertiary,Unemployed,completed,2026-05-14T10:44:52,field_tool,4,Good,4,Low,3
+b759a6cf-989e-4a3b-9385-ed14352fa84f,4f43d75f-67a5-40b7-bd5e-65e21ae8edff,survey_909,Nigeria,Whitemouth,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:44:47,field_tool,5,Neutral,2,High,1
+6aafd7ab-51a3-451f-a059-e851b6feeec7,61c4735d-5b2a-4362-9251-cb5c8c3daed3,survey_354,Nigeria,Gregoryville,Male,33.0,Secondary,Unemployed,completed,2026-05-14T10:41:11,field_tool,4,Bad,3,Low,5
+b7892902-62f7-4af9-b571-f2422cf46673,f4a861a0-e696-4d24-8314-d778213f3dbb,survey_612,Nigeria,Jaredmouth,Female,21.0,Tertiary,Employed,completed,2026-05-14T10:41:52,field_tool,3,Bad,3,High,1
+a766ab2b-bd26-4d0d-bee8-364c1bf1c9ad,3ead251e-42d1-48df-9a21-8594d1770ff3,survey_753,Nigeria,North Danielleshire,Female,33.0,Tertiary,Self-employed,completed,2026-05-14T10:41:52,field_tool,1,Bad,5,Low,2
+6dc04b44-ea77-4f79-a556-e1c473d95e77,dfad20e3-e23e-43fb-a559-3d392dbcfe34,survey_830,Nigeria,Mcintyrefurt,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:41:22,field_tool,3,Neutral,3,Medium,5
+e1554bab-a336-41ff-b702-15255e7e9d55,e5f7f503-5377-4b1e-a61e-0179e55d5473,survey_526,Nigeria,West Johnton,female,41.0,Tertiary,Self-employed,completed,2026-05-14T10:41:58,field_tool,2,Neutral,3,Medium,5
+ab0d52cc-b594-4aea-b776-2087f3d52c66,8acaa507-05e3-4f6f-b958-c644a5a4515d,survey_262,Nigeria,West Lukeland,Female,54.0,Secondary,Employed,completed,2026-05-14T10:40:01,field_tool,1,Very Good,4,Medium,4
+ac48a57a-3414-4c20-aa21-abc70c9a83e5,52f71704-2bb1-4fea-895c-7256c5aa7ca7,survey_894,Nigeria,West Shaneport,Female,49.0,Tertiary,Unemployed,completed,2026-05-14T10:45:42,field_tool,3,Very Good,2,Medium,3
+43d26b5b-3b02-4f7f-aca3-12b89f122eac,98e3f82f-6fac-407a-bb07-0ecfcae4467b,survey_906,Nigeria,South Danielbury,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:42:40,field_tool,4,Neutral,5,Medium,3
+49acfe0b-70fa-4694-ab4b-f0289f77fb95,a46e3a45-1146-4ad1-9256-1ba890807009,survey_637,Nigeria,Tiffanyshire,Male,53.0,Primary,Employed,completed,2026-05-14T10:45:39,field_tool,1,Very Good,3,Medium,1
+b662ba97-e747-486b-ba6e-790f451c6127,8232af19-2660-4aa9-b929-ff0b1a698771,survey_933,Nigeria,Thomasland,Male,60.0,Tertiary,Unemployed,completed,2026-05-14T10:40:57,field_tool,3,Very Good,3,High,2
+e7836c6d-c1a1-4d91-aefe-4fafdbaa9345,f52b32d5-9c0e-4160-9c92-39b073be17e8,survey_128,Nigeria,South George,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:42:19,field_tool,4,Very Good,1,High,5
+53022794-065c-4de6-8c1c-d6e495fc5edd,8a30ea27-d35a-422c-9ada-53e215ff6560,survey_944,Nigeria,Medinaborough,Female,50.0,Tertiary,Unemployed,completed,2026-05-14T10:41:46,field_tool,2,Very Good,3,Medium,4
+a2ef2570-4091-43f4-9b40-06b95f4e44af,6c65fdf0-0e2c-4c5a-b60c-d5c63be15d70,survey_604,Nigeria,Michaelmouth,Female,27.0,Secondary,Employed,completed,2026-05-14T10:43:07,field_tool,2,Bad,3,Low,1
+d666396a-f59b-46b0-a4f8-a53d3fcbf811,57c3a5cc-5b16-4b5a-bdef-211311c7fc06,survey_144,Nigeria,Lake Dominic,Female,20.0,Primary,Unemployed,completed,2026-05-14T10:45:41,field_tool,1,Very Good,2,High,3
+f6fa27da-cd59-4e1d-aac8-1ec943add27f,2108675d-e95c-4653-a767-7339e892715e,survey_359,Nigeria,Oliverville,Female,26.0,Secondary,Self-employed,completed,2026-05-14T10:45:21,field_tool,2,Neutral,3,Low,5
+558feeae-41a4-4129-b900-c6dafb003a24,aa9973bc-f367-441a-b4fd-07037d6b4555,survey_665,Nigeria,North Christopherburgh,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:44:17,field_tool,2,Neutral,4,Low,5
+ffbf7ac7-9ac0-45e8-9834-af3f45c56534,c770becd-5828-4a5b-8d11-95ad0bbe6562,survey_940,Nigeria,Hannahmouth,Male,75.0,Primary,Employed,completed,2026-05-14T10:41:17,field_tool,2,Very Good,2,High,5
+c18e2129-637a-478c-99fa-32053e4e06a9,8bca4204-4557-403e-9737-c3ada679c54b,survey_536,Nigeria,East Janet,Male,48.0,Secondary,Self-employed,completed,2026-05-14T10:40:42,field_tool,2,Bad,1,High,5
+8704359e-4555-493d-a663-b1c71e14fbb9,926dc899-82bb-4973-903b-8c0217816099,survey_401,Nigeria,Piercestad,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:42:18,field_tool,5,Neutral,3,High,2
+888eaace-ef02-40a4-8218-d8dcf62a50fd,ad73c66e-2368-441a-9e4b-a9c208a08938,survey_461,Nigeria,Dawnview,Male,57.0,Tertiary,Employed,completed,2026-05-14T10:39:54,field_tool,5,Good,5,Low,4
+0430c4da-4d5a-4426-9f4d-48b817bddbf7,06290ea5-62e4-4551-a1a9-4b11bddfda79,survey_207,Nigeria,Randyborough,female,64.0,Primary,Self-employed,completed,2026-05-14T10:40:54,field_tool,1,Neutral,4,High,1
+c20af12a-ca5c-4c20-b631-07643aa0c841,0ca0c4d6-02c3-4f39-9b6e-022be0ba5d42,survey_252,Nigeria,Staceyshire,Male,51.0,Primary,Self-employed,completed,2026-05-14T10:40:19,field_tool,3,Very Good,2,Medium,3
+5fae5ae2-6178-49bb-8861-c046e6bdb19e,2db75698-af15-4e80-bfdf-7d295587a5ce,survey_194,Nigeria,Pecktown,Female,19.0,Secondary,Unemployed,completed,2026-05-14T10:43:24,field_tool,3,Good,1,Low,1
+6bffbb36-2129-4f09-98ea-b511fcb1bdfd,aa89e6e5-e7cc-499d-bf5b-deafb3f692c2,survey_366,Nigeria,Jacksonside,Female,64.0,Tertiary,Employed,completed,2026-05-14T10:41:14,field_tool,5,Neutral,2,Low,1
+fa65667b-1439-448c-9943-0bdfb3874de8,542383de-2962-4641-8498-d8eedd85d065,survey_751,Nigeria,West Johnfurt,Male,60.0,Secondary,Employed,completed,2026-05-14T10:42:27,field_tool,4,Very Good,3,Low,4
+5570d08d-7334-47cc-b950-2f7497a84d6a,211900a9-17e8-453a-b0c8-9be8dcdf246e,survey_144,Nigeria,West Anita,Female,49.0,Secondary,Employed,completed,2026-05-14T10:44:09,field_tool,3,Good,5,Low,3
+8a6f0cc8-016d-4983-8385-b55f03f07590,fdaffbf3-2761-491c-83fb-191cb12b841b,survey_855,Nigeria,New Josephhaven,Female,73.0,Primary,Self-employed,completed,2026-05-14T10:42:03,field_tool,2,Bad,5,Low,2
+7988ac77-d9a0-4272-8039-2bdfa0f289ff,6e6b1f12-fa77-451a-86b1-6cbe4ba64fdb,survey_769,Nigeria,Port Bradley,Female,19.0,Secondary,Employed,completed,2026-05-14T10:41:19,field_tool,3,Very Good,5,High,4
+898fb832-190f-4cc3-8a6c-a9a4ab706a8c,bbe58592-ff4b-41a4-9648-37b04ec6fe2c,survey_231,Nigeria,Reidshire,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:43:43,field_tool,3,Good,4,Medium,4
+105664c4-bfc2-4947-8cc4-3a220f292e0a,c4970b47-3132-46b6-b2ab-e7da2fcd9577,survey_375,Nigeria,Port Johnburgh,Female,57.0,Primary,Unemployed,completed,2026-05-14T10:40:29,field_tool,5,Bad,3,Medium,5
+35a65c85-514f-41fc-b1a8-24fd5ccbd722,0897bae9-827a-4bf1-a496-286d1b8fcbd8,survey_802,Nigeria,Lake Brittany,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,2,Very Good,4,Medium,4
+955a538f-3d9b-478c-8d59-706494cbccea,36e2bf03-4664-46d0-b533-55ab093cf7e4,survey_873,Nigeria,Katiemouth,Male,41.0,Tertiary,Employed,completed,2026-05-14T10:41:12,field_tool,5,Good,5,High,3
+9a814761-65ef-4635-a85c-9edfe4778bcb,ec25d40d-3b93-4b4a-8b8c-d9c99bada213,survey_550,Nigeria,North Donna,Male,39.0,Primary,Unemployed,completed,2026-05-14T10:42:35,field_tool,5,Very Good,1,Low,1
+50ddad53-c813-4bcd-b779-1e2067569626,f26c8bb0-1f52-4cae-b946-a601e0ac0e03,survey_101,Nigeria,Nicolechester,Male,52.0,Tertiary,Self-employed,completed,2026-05-14T10:45:11,field_tool,4,Bad,2,Low,5
+6f0ddd6b-7db7-43f5-bbdf-db6553007648,3ca7af66-7494-4395-b7ac-e9a1d9fd3187,survey_117,Nigeria,South Nicholas,Female,73.0,Secondary,Unemployed,completed,2026-05-14T10:40:08,field_tool,4,Neutral,2,Low,4
+4feb0517-5020-436c-b22c-8b82a68a8aef,ca9907c2-234b-4268-bdd2-9839745da28a,survey_504,Nigeria,Mcdonaldside,Female,70.0,Primary,Employed,completed,2026-05-14T10:45:43,field_tool,3,Good,3,Low,5
+80dc9946-f562-4374-a280-35246f1a03ae,a154c6b7-6af6-4b6e-ba6b-4e737c160c8f,survey_541,Nigeria,Sydneyfort,Male,55.0,Secondary,Employed,completed,2026-05-14T10:41:44,field_tool,5,Bad,2,High,5
+7567ddf4-7142-46f3-ac94-65220f57a699,06e2010a-6b6e-44e6-8a71-1cde26d83fb3,survey_644,Nigeria,Elizabethton,Male,28.0,Secondary,Employed,completed,2026-05-14T10:42:42,field_tool,3,Neutral,2,Low,5
+51ba7da4-6a44-4d9d-a0e1-3cd210d4be57,b14b2641-22cd-4463-a2e6-d3d50473abb8,survey_105,Nigeria,North Carmenmouth,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:39:49,field_tool,3,Good,1,Medium,4
+c602a8eb-1955-4c4f-80c9-1dfd50c88718,82d46abe-5eae-43d0-8754-d0dfb84880f2,survey_668,Nigeria,South Jennifer,Female,37.0,Tertiary,Unemployed,completed,2026-05-14T10:41:10,field_tool,1,Bad,3,Medium,3
+63ca0ff5-82bc-448a-84f8-315cbe9fefdc,75630e87-10a4-4c89-8534-cfec544858b0,survey_534,Nigeria,Lake Eddiestad,Male,47.0,Secondary,Unemployed,completed,2026-05-14T10:45:19,field_tool,3,Bad,2,Medium,1
+1fa99b31-9dbf-4576-927d-e0c7b6fd4ec0,a624a2da-5ec5-42de-b7d2-8c53b97aa292,survey_244,Nigeria,South Nicole,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:41:54,field_tool,3,Neutral,4,Low,2
+580aedfd-2620-4481-a4f8-eb23d70d1a2c,e98d1e09-ae0f-42f9-914e-dc2f6f6e9fd6,survey_810,Nigeria,West Victoria,Female,23.0,Primary,Employed,completed,2026-05-14T10:41:21,field_tool,3,Good,1,Low,1
+d3c2a58f-cb2d-444a-8985-f34e365bc5aa,fe2d88a1-21b4-4a70-81f7-e52d2dab93cd,survey_711,Nigeria,New James,Female,69.0,Secondary,Self-employed,completed,2026-05-14T10:41:11,field_tool,1,Bad,1,High,3
+67385200-5390-4930-86a1-69dab20d82a0,32494eb2-ede8-463b-9304-d9d4d3f7d16d,survey_518,Nigeria,East Emilyborough,Male,74.0,Secondary,Self-employed,completed,2026-05-14T10:41:19,field_tool,4,Very Good,3,Low,2
+72530c1a-e569-4e7e-8766-5f7bde3c4a38,4d11cdd1-07d0-4bfe-884e-edde20233938,survey_392,Nigeria,Amytown,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:45:12,field_tool,1,Bad,1,Medium,3
+0687569b-9cb1-4e0f-9e57-dc0c335a60c9,5af42d54-45fd-43f4-8315-fa19065b36aa,survey_141,Nigeria,West Keith,Male,44.0,Secondary,Self-employed,completed,2026-05-14T10:43:05,field_tool,1,Very Good,4,Low,5
+e72f4979-a056-49ab-8927-63b2f418172c,d20612fd-2f5b-4897-ae18-6e85d03bc928,survey_764,Nigeria,South Sydney,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:44:53,field_tool,5,Good,1,High,2
+56012d82-d42d-4428-9027-c650ed646ce6,1240b6dc-8011-4177-a220-5e03d7f18eaa,survey_811,Nigeria,Hernandezburgh,Female,68.0,Tertiary,Unemployed,completed,2026-05-14T10:42:05,field_tool,2,Neutral,5,High,5
+e49c127c-65ff-46ab-8339-6ecb2cc90140,432b9e6c-3288-4cdb-be08-82ccc5f136fa,survey_629,Nigeria,Westtown,Male,25.0,Tertiary,Self-employed,completed,2026-05-14T10:41:59,field_tool,3,Neutral,4,Medium,2
+18380e55-07f4-4919-ac8b-16207ed56e99,caf12ee5-8849-4d4b-ab8c-80f4dd0bac11,survey_345,Nigeria,Justinfort,Female,28.0,Secondary,Employed,completed,2026-05-14T10:43:00,field_tool,1,Very Good,2,High,2
+31cdee16-d4a0-4bca-b8a7-1159fb1f12c4,a3541b1a-254f-4507-8e0b-2e76e8e44214,survey_182,Nigeria,West Erika,Male,46.0,Primary,Self-employed,completed,2026-05-14T10:44:36,field_tool,1,Bad,1,High,3
+9f7ea09c-0c00-4b2b-b1e1-0069e8bc2061,8eb29406-cc3f-4de7-8ead-b75e9aa66e2d,survey_811,Nigeria,Angelicafort,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:42:42,field_tool,1,Neutral,2,Low,2
+66f55555-d713-4c72-b0d1-392873860337,5e4f6b59-5d50-4ff8-a31a-05d793cdb211,survey_927,Nigeria,Hamiltonshire,Female,63.0,Secondary,Self-employed,completed,2026-05-14T10:41:52,field_tool,4,Bad,1,Medium,3
+d3966d95-e12b-4a1c-94f6-74c1f54e4043,3ce3e2e8-f718-4003-9b3a-7533f455d0c3,survey_746,Nigeria,North Williammouth,Female,30.0,Tertiary,Self-employed,completed,2026-05-14T10:40:31,field_tool,3,Very Good,5,Low,2
+36961e9c-2670-44db-be31-1127ee7be9db,3842eade-2594-47b2-ac01-b5b00d974317,survey_257,Nigeria,Katrinaville,Male,45.0,Primary,Unemployed,completed,2026-05-14T10:43:05,field_tool,5,Bad,5,High,3
+30b370db-61b2-4b45-8d53-56b73dfc9161,1bab875b-c3c5-4c6a-b686-67d09051e13e,survey_104,Nigeria,Lake Melissa,Female,71.0,Primary,Unemployed,completed,2026-05-14T10:42:05,field_tool,4,Neutral,2,High,5
+b0b8bd24-581c-460f-8032-7cee0fb82321,62ff2b6a-e050-44c1-8338-177fd5f6cf6f,survey_598,Nigeria,Beverlyfurt,Female,31.0,Secondary,Employed,completed,2026-05-14T10:45:42,field_tool,4,Very Good,3,High,2
+d3718976-35ce-4c80-a87e-a024ef435033,f705f2fd-a9fe-4772-abe8-26be6227028b,survey_828,Nigeria,Richardchester,Male,43.0,Secondary,Unemployed,completed,2026-05-14T10:39:49,field_tool,3,Very Good,2,Low,3
+89443a6c-fde9-484d-b5a1-8e1ad42d2a5b,7e7aceda-072f-4fa5-aa0d-19572f1d47c5,survey_269,Nigeria,Hollandview,Female,74.0,Primary,Employed,completed,2026-05-14T10:42:24,field_tool,4,Very Good,1,Medium,1
+594b2196-a2cb-4eff-afc3-95c51967176e,3cdc3da3-e736-4bfe-bed9-1efc145aab2f,survey_490,Nigeria,New Rickyberg,Male,58.0,Secondary,Self-employed,completed,2026-05-14T10:43:39,field_tool,4,Very Good,1,Low,5
+31c235f5-beae-472a-9561-78a3df1a3b6e,b4e51981-4ae6-4df0-b9ca-1c03bb864915,survey_150,Nigeria,Makaylaport,Female,33.0,Primary,Unemployed,completed,2026-05-14T10:45:03,field_tool,4,Bad,4,Low,5
+9f1b9a71-557f-49f8-a9cd-0c7105274494,8e87d6de-c4ae-42fc-9322-98604c6822ba,survey_931,Nigeria,Haleyburgh,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:43:27,field_tool,4,Good,2,Medium,2
+56d2dd91-b1cd-406c-acda-e5aafca45fe0,94cfe976-46fc-474c-ad01-b4ae52012aeb,survey_876,Nigeria,Jeffreyton,Female,61.0,Secondary,Unemployed,completed,2026-05-14T10:42:52,field_tool,5,Very Good,2,Low,2
+42996ed8-0755-4405-8040-6ddea634f1b4,59f69e91-cfce-4701-a0aa-d50478a5964d,survey_307,Nigeria,Christineland,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:42:33,field_tool,2,Good,3,High,5
+48215766-2c4c-492c-84d0-88b4efb203ab,457e7b01-4ea0-405d-b629-593a83227542,survey_984,Nigeria,West Elizabethburgh,Female,18.0,Tertiary,Self-employed,completed,2026-05-14T10:40:56,field_tool,1,Bad,5,High,5
+5952e81c-912f-4ed2-8488-58a32ec672db,544afe6b-98ab-404d-bb08-a088282c084f,survey_879,Nigeria,Lake Amystad,Female,26.0,Tertiary,Employed,completed,2026-05-14T10:45:23,field_tool,5,Good,3,Medium,1
+597afd94-ad25-423a-853f-496b21628e9e,70476c6f-98fc-4d4d-8fe9-d26cf9b800f7,survey_803,Nigeria,Robertsonland,Female,33.0,Secondary,Self-employed,completed,2026-05-14T10:42:58,field_tool,1,Good,3,Medium,2
+334955eb-fb79-4802-8dcb-270f77a7ab74,0167fce7-5a02-412a-90c6-2adeb3dcbf20,survey_636,Nigeria,West Caitlinhaven,Female,58.0,Secondary,Self-employed,completed,2026-05-14T10:43:29,field_tool,5,Very Good,2,Low,5
+ad1f915b-73e0-4150-b1fa-ad7172b70fe6,1e13865e-9073-4016-9aed-68236c09d84c,survey_647,Nigeria,Stevenside,Female,35.0,Primary,Unemployed,completed,2026-05-14T10:39:59,field_tool,3,Neutral,3,High,4
+25ee3dba-efcf-4eba-bfb0-7770c4798967,81237d7d-baf9-4593-8d5b-fb8d0f54d7d4,survey_944,Nigeria,Pinedashire,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:40:06,field_tool,5,Bad,2,Low,2
+c24e07bb-2ebc-456c-a86e-590d05148dd3,dd6906eb-0362-46d9-a9f1-d4cc866d1f56,survey_341,Nigeria,South Lori,Male,26.0,Secondary,Employed,completed,2026-05-14T10:44:07,field_tool,1,Good,4,Low,1
+b4beaa9a-9658-4854-803c-b60997d5bf29,92ba8b3c-4145-4bbf-a930-589924e22912,survey_676,Nigeria,Lake Laurabury,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:42:22,field_tool,3,Bad,5,Medium,2
+59d6f24f-881f-4783-b7a7-595d6b2ea5c3,7ff189ee-d7ba-4693-8703-fce0219f3cdb,survey_905,Nigeria,Rebeccamouth,Female,40.0,Tertiary,Unemployed,completed,2026-05-14T10:44:02,field_tool,5,Neutral,5,Medium,2
+a8f6854a-93e5-403f-9620-a835ba6dbccf,2bb027c0-522b-4cfb-b50f-73bd4baed51c,survey_398,Nigeria,New Kristine,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:42:53,field_tool,5,Neutral,5,Low,5
+82e9f46e-7ae0-42cb-97bb-5fe47b68ab89,67f75abf-50f6-481f-93d0-e8895665c613,survey_533,Nigeria,Port Dana,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:44:58,field_tool,4,Bad,4,Medium,5
+854f0a02-e3f8-4348-916a-a8404ce539d6,7d4cb1dc-bd57-483f-bbec-f0d29dbf0d50,survey_176,Nigeria,New Carolyn,Female,21.0,Secondary,Unemployed,completed,2026-05-14T10:45:37,field_tool,3,Good,2,High,4
+1e66980f-9e7e-459d-b6fd-6b4d70db5770,22b93f9f-b3a3-42bf-aade-4d82d7242c61,survey_536,Nigeria,West Jamieville,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:43:11,field_tool,4,Neutral,2,High,3
+e5ef3f3c-d481-4656-9cd7-ab840eeae24f,d51f1028-23a4-4149-89d8-38e00eb2d09f,survey_266,Nigeria,Mathewsfort,Male,26.0,Tertiary,Unemployed,completed,2026-05-14T10:42:53,field_tool,5,Neutral,3,High,5
+51930e51-2ac2-4d36-9d0e-edfa612188ff,c3e35d93-a3bc-4259-998d-43599fc245ef,survey_385,Nigeria,Vazquezburgh,Male,55.0,Tertiary,Unemployed,completed,2026-05-14T10:44:36,field_tool,2,Neutral,3,Low,4
+cf058e71-a07a-46f8-a5a2-b4c93a7b4c4f,63f66651-4e54-409b-81aa-1a50f09e81bc,survey_142,Nigeria,Williammouth,Female,38.0,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,1,Neutral,3,High,1
+e3ff0562-4689-4811-9e0d-78bf90e80d4d,5ef960cb-07b8-4124-b675-96b169251d42,survey_535,Nigeria,Lake Sylviamouth,Female,72.0,Secondary,Self-employed,completed,2026-05-14T10:43:44,field_tool,4,Bad,4,Medium,1
+43f11caf-7880-4eb0-b739-ca2eb4583a8c,e6488d31-c317-4a56-988a-6a495d107b3e,survey_571,Nigeria,Wardborough,Male,51.0,Secondary,Unemployed,completed,2026-05-14T10:45:01,field_tool,3,Good,1,Medium,2
+8e34661b-19f3-4bbe-9eb4-d2c7966e32f6,91a4ba25-d11f-4dde-a9c1-56bcfbb1d77a,survey_536,Nigeria,New Allisonville,Male,71.0,Primary,Employed,completed,2026-05-14T10:45:02,field_tool,2,Neutral,3,High,2
+fc01c3f8-c67e-4bd2-a7e9-68654bffe0a0,47c85a73-580f-4e5e-8a73-3e4641072cec,survey_594,Nigeria,Robertstad,Female,59.0,Secondary,Employed,completed,2026-05-14T10:41:12,field_tool,3,Good,4,High,1
+3349f706-854c-49ed-baaf-fe79a4018461,b3d4388b-14c3-4b84-ad02-a41f9498d093,survey_705,Nigeria,West Alexandra,Male,25.0,Primary,Employed,completed,2026-05-14T10:42:51,field_tool,4,Very Good,4,Low,4
+8e533301-a05f-40fa-aef9-9d5e33a3b02a,0cea946e-3281-40a5-a626-5e078bd2c583,survey_603,Nigeria,Cruzside,Female,44.0,Tertiary,Employed,completed,2026-05-14T10:40:54,field_tool,1,Neutral,3,High,1
+6932f05d-532a-477f-9912-ffc4484c5214,e7705283-0060-42fe-9206-a974ada827a5,survey_392,Nigeria,Johnberg,Female,26.0,Tertiary,Self-employed,completed,2026-05-14T10:43:08,field_tool,2,Neutral,2,Medium,5
+2248cd09-f207-4d10-b45e-463864a8998f,474b8e78-c041-4a54-a432-eae2060cebfb,survey_298,Nigeria,Davidville,Female,40.0,Primary,Employed,completed,2026-05-14T10:40:31,field_tool,5,Good,3,Medium,2
+6d9179b2-2984-442d-90a6-2c94f132b8f5,c0271dc4-3a7a-46cf-b7be-49157bcf02f9,survey_990,Nigeria,Christinaberg,Male,26.0,Secondary,Employed,completed,2026-05-14T10:43:34,field_tool,1,Very Good,4,High,2
+2def5762-3444-40a8-a21d-1a18cacf123f,ccf72f2c-b694-47de-bfd1-eb8c431a0f93,survey_151,Nigeria,Castroport,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:44:21,field_tool,4,Very Good,2,High,2
+ee083851-b71c-4d07-ae69-91d995eeebe0,05aa2ebb-7158-4864-88b7-e43f5d0bb312,survey_403,Nigeria,East Sherryport,Male,65.0,Primary,Self-employed,completed,2026-05-14T10:40:55,field_tool,5,Very Good,5,Medium,4
+6e1d0bf2-e913-402d-9643-996e3217914d,5306406b-3a51-49be-acb2-e9a1cc472e06,survey_957,Nigeria,Julieview,Female,49.0,Primary,Self-employed,completed,2026-05-14T10:42:20,field_tool,4,Bad,2,Low,1
+00b11ca1-66f1-462a-9da8-b070125ae0e5,067c3ab9-bdd7-4d63-b243-fc45fd923a76,survey_352,Nigeria,Vincentville,Female,22.0,Primary,Unemployed,completed,2026-05-14T10:40:10,field_tool,4,Good,3,Medium,3
+3c613a37-3b4a-441c-897a-c2d0e6f15bf2,feb3a944-a91b-43b1-9401-a882d30a07d4,survey_948,Nigeria,Andersonhaven,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:45:14,field_tool,3,Neutral,4,High,2
+b0c0832d-4f12-45b3-aa0e-31e85d7deae0,1d00c03e-00c2-430f-a71a-ff7a086b2264,survey_951,Nigeria,North Jonathanberg,Male,36.0,Tertiary,Unemployed,completed,2026-05-14T10:42:49,field_tool,2,Good,3,Medium,2
+19aa7a8e-0ec8-4ab7-9d27-975b7faf0e50,8186cd30-edec-44b1-b15e-47cf8288efe2,survey_564,Nigeria,Barkerport,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:44:49,field_tool,4,Very Good,3,Low,4
+bae86084-3160-4014-9f63-5fe240ebf72f,22ea2f87-0010-4fb9-a481-65e7a7b86e6b,survey_780,Nigeria,West Bradley,Female,47.0,Secondary,Unemployed,completed,2026-05-14T10:41:09,field_tool,5,Bad,3,High,5
+980e71c5-8cc7-4f7b-991f-2553e343661e,1fcc47d5-07fc-4c4c-af8b-d9cff3343a22,survey_752,Nigeria,New Ambermouth,Female,28.0,Tertiary,Employed,completed,2026-05-14T10:42:36,field_tool,5,Good,2,Medium,1
+8f6d1f72-ddd6-44b4-9bb1-6be22b52fd41,7d661685-15c5-4ba6-a50c-78d729df7156,survey_909,Nigeria,New Kimberly,Male,36.0,Secondary,Self-employed,completed,2026-05-14T10:40:53,field_tool,2,Good,1,Medium,3
+1cefef39-5add-467e-b3a0-9364706ce7c9,b75e9277-20be-4b60-8a4a-93407d57606f,survey_821,Nigeria,Hahnberg,Female,62.0,Secondary,Employed,completed,2026-05-14T10:42:55,field_tool,1,Neutral,3,High,2
+46b97769-ff3c-4cd5-962a-2a54798e3ae0,70a2b32b-c476-4e76-a08b-6f6e9063f6a5,survey_750,Nigeria,Beasleytown,Female,65.0,Secondary,Employed,completed,2026-05-14T10:41:52,field_tool,5,Good,1,High,1
+8965a758-ab7b-4649-841c-648d33ace410,1c161a1c-7377-4596-aead-0a810ba636cd,survey_826,Nigeria,Port Alexander,Female,53.0,Primary,Self-employed,completed,2026-05-14T10:40:43,field_tool,5,Bad,1,Low,5
+2644b3fc-b62d-42a0-a817-a6a035d71393,ab578fa6-83fe-4d50-8cb5-9ec002d62979,survey_956,Nigeria,Tinastad,Male,33.0,Secondary,Employed,completed,2026-05-14T10:40:59,field_tool,5,Neutral,4,Medium,5
+5c04bb9c-46a4-4882-af86-6dba026c8d4e,09f503ae-42ca-4e69-abbc-33245799fd68,survey_552,Nigeria,Lake Jillianstad,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:45:26,field_tool,5,Bad,1,High,1
+5a489fe5-eab1-4483-a9f6-33899b9f7e12,ed4e3597-f45d-4b9e-b947-ce62e45521f1,survey_993,Nigeria,Port Elizabethside,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:44:04,field_tool,3,Good,4,Medium,5
+8b08007a-959d-4fce-9ba3-915c7b6aa37f,9db9c048-e0e9-4c57-87b7-eef2a4b0d3dd,survey_690,Nigeria,West Julie,Female,66.0,Primary,Unemployed,completed,2026-05-14T10:43:56,field_tool,5,Good,5,Medium,5
+69a7ca34-c8f8-4274-bf35-1a2775c28e6c,48a6928a-d5cc-431b-b36a-d091626300d2,survey_797,Nigeria,Scottshire,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:43:36,field_tool,3,Good,4,High,2
+84749097-ea76-4124-8434-7795995cfbc7,b30cb194-62f0-4b76-a7ad-e7b59ef1da20,survey_631,Nigeria,North Richardland,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:43:14,field_tool,3,Very Good,4,High,4
+05968d0a-8af3-42b3-901d-83f45f0cadc1,63a443e3-4216-49e7-aaa5-b7cdb1b9e5e6,survey_886,Nigeria,Longborough,Male,75.0,Secondary,Self-employed,completed,2026-05-14T10:41:18,field_tool,4,Good,4,Low,2
+c30ea044-75c0-48ef-b52d-d60c08c18dc0,aaac6fbb-3924-4dd3-ae2a-69126f7a9cc7,survey_650,Nigeria,New Amymouth,Male,66.0,Tertiary,Employed,completed,2026-05-14T10:44:01,field_tool,5,Good,1,High,1
+849d3721-57de-42c8-b0b2-45b60880b6eb,c6527380-dc63-4d88-a436-b6e0d24cdd4b,survey_582,Nigeria,Reyesberg,Male,72.0,Secondary,Employed,completed,2026-05-14T10:42:13,field_tool,3,Bad,5,Low,1
+1c7b988b-2815-47ff-a277-4e9fb1553408,4d8cb7ec-a36d-4e59-8508-6b685ed757df,survey_892,Nigeria,Christopherchester,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:41:17,field_tool,3,Bad,4,High,1
+dfab5c9a-e612-4213-8e69-a29d7d1b24b8,39120df2-6d15-4777-bf89-0f43efb634e9,survey_547,Nigeria,Scottmouth,Male,74.0,Primary,Unemployed,completed,2026-05-14T10:42:15,field_tool,1,Good,2,Medium,2
+1f2f57ab-39cc-4d77-9576-7075e9d95435,4b151810-c23c-4074-8298-69b5b1391102,survey_211,Nigeria,Geraldtown,Female,41.0,Primary,Unemployed,completed,2026-05-14T10:42:41,field_tool,1,Very Good,5,Low,3
+046dc657-ad45-4797-bd21-59766255ff0d,1cc79ed3-c912-4296-8401-0c79fcd9ea02,survey_140,Nigeria,Hatfieldborough,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:41:26,field_tool,3,Bad,1,Medium,2
+7593d5f0-33bc-416a-b1e2-4a21e594b424,2d825b83-43e7-4bfe-a05a-65d81ec42886,survey_639,Nigeria,Lake Jenniferport,Female,59.0,Secondary,Self-employed,completed,2026-05-14T10:43:43,field_tool,4,Good,2,High,3
+7ff1e486-df01-4e57-99fa-44a681697b15,ccae53f7-3cc4-441b-a7f8-66022d9d11d5,survey_599,Nigeria,Port Jamesmouth,Female,74.0,Tertiary,Employed,completed,2026-05-14T10:40:09,field_tool,3,Very Good,5,Low,5
+727fac2e-2531-4d55-8e8d-a7c7f1744dd7,4c8060a6-5503-468f-9377-002fed4b412b,survey_526,Nigeria,Alanfort,Male,51.0,Tertiary,Self-employed,completed,2026-05-14T10:42:15,field_tool,5,Neutral,1,Low,5
+fd9abde6-a2d5-4e38-9895-e4452fa519e0,e7e39f7a-17e9-401c-ae1a-fd75e8aad058,survey_494,Nigeria,West Jeffrey,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:39:47,field_tool,3,Good,5,High,2
+1703bcd0-3473-46ff-b5aa-665d0fff112b,54faefbd-bd37-4901-915a-2986f553ed8e,survey_333,Nigeria,North Jennifer,Male,63.0,Secondary,Employed,completed,2026-05-14T10:43:47,field_tool,2,Very Good,3,Medium,3
+2b57c340-2343-4a54-a144-c8141f1d9b79,a5390c32-03eb-4719-9706-8bc69c0bdd4b,survey_152,Nigeria,Deborahfurt,Female,29.0,Primary,Employed,completed,2026-05-14T10:45:30,field_tool,1,Good,3,Medium,4
+6347c457-a6ba-444f-93a2-d957a2de86fa,bd9c49da-adb3-452b-98b9-dbb16fad7875,survey_137,Nigeria,South Debra,Female,29.0,Primary,Employed,completed,2026-05-14T10:43:16,field_tool,3,Good,3,Low,1
+b50596e8-3016-4d3e-919a-5455742c6801,a00cc917-4e8b-44ba-b197-f10dfeefb652,survey_429,Nigeria,Davidside,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:42:30,field_tool,4,Neutral,4,High,1
+cae85cd0-3bc7-4522-9fd5-495e0884f1ba,9bd75374-2579-4e53-b4b5-7318af1d08e7,survey_339,Nigeria,Mirandatown,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,2,Bad,4,Low,1
+db2d9424-eba2-400f-93dd-baebd8cc279a,ee0265bd-186f-4917-af49-1866b24afeae,survey_249,Nigeria,North Daniel,Female,21.0,Secondary,Employed,completed,2026-05-14T10:41:10,field_tool,2,Good,1,Medium,4
+6c0cb3b6-0e6f-4dae-b5ea-81eec7c52e90,9ad7ebef-bc77-4b0a-bb8e-b307be08c26d,survey_495,Nigeria,Huntstad,Male,23.0,Primary,Self-employed,completed,2026-05-14T10:44:35,field_tool,1,Neutral,4,High,4
+62b7bc08-6273-495d-aa8c-63835391e39a,a1a177aa-527c-4f70-a787-4d43cfdcc2ad,survey_522,Nigeria,North Jody,Male,19.0,Tertiary,Unemployed,completed,2026-05-14T10:43:47,field_tool,2,Neutral,2,Medium,2
+0bb783d2-2b1d-4c60-bc18-7ba40f2d20a9,b8659ab7-dfa5-4238-bd7d-1635ec6fc421,survey_668,Nigeria,North Garyville,Male,38.0,Secondary,Employed,completed,2026-05-14T10:40:12,field_tool,3,Good,1,Medium,4
+6085ec03-5fcd-41bf-b3ee-f81655b7424f,f6b5b3c8-903c-4094-b92c-a0ed51f76b89,survey_572,Nigeria,New Andrew,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:41:49,field_tool,1,Neutral,4,Medium,5
+4335e38d-a97a-4c53-b408-e525988cda72,cd38b317-4fd3-4815-a0b2-cb640df65a2b,survey_345,Nigeria,South Victortown,Male,52.0,Primary,Unemployed,completed,2026-05-14T10:41:08,field_tool,5,Bad,2,High,5
+bf787f1c-4056-4c89-a7a3-9f8133864b96,90c3169b-4d2f-4867-9525-f473bf54f5c8,survey_298,Nigeria,Port Sharon,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:45:01,field_tool,5,Neutral,3,Medium,5
+f783d5cf-5e3e-4b9d-9d8b-db9df697b99d,83603936-77a5-4e0f-8be6-911e0e04dd4c,survey_327,Nigeria,West Aaron,Male,54.0,Tertiary,Self-employed,completed,2026-05-14T10:39:54,field_tool,2,Neutral,2,Low,4
+e6d0adf9-d97e-4a81-959c-d70ebf36d48c,22136388-ab61-4638-b58b-5aaf7639d9ab,survey_364,Nigeria,Ericaberg,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:40:46,field_tool,4,Good,1,High,4
+072fa21d-3c5b-478b-9991-9957499bd58c,8be8a1db-95c3-4928-8b9b-19aacf1d2792,survey_204,Nigeria,Brandyton,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:45:08,field_tool,3,Neutral,5,Low,3
+47f2550f-31aa-4f14-a8de-09411b33161e,dd01f91f-0050-44f4-b026-ae636e1efdb3,survey_653,Nigeria,Jamesberg,MALE,28.0,Secondary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Bad,2,Medium,5
+bba7c4a8-8b7a-4d61-a082-49a205e1b430,e5616d38-5fbe-4bbc-be64-feac1734f937,survey_920,Nigeria,Port Brittany,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:42:03,field_tool,4,Good,5,Medium,3
+516b54dc-5f6e-4fa5-8966-4b56a95d9d7a,af2fc90a-170f-4932-9bad-c5f6fb9aa29b,survey_341,Nigeria,New Maryfort,female,43.0,Tertiary,Unemployed,completed,2026-05-14T10:40:57,field_tool,2,Neutral,2,High,1
+20705a00-871e-467b-90d2-d5904d210f6b,feb9a87f-2c89-4224-8586-b67f77be6152,survey_929,Nigeria,East Laura,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:43:42,field_tool,5,Bad,4,Low,3
+38c5008b-aa5c-4de6-b9de-486f804fd912,11f170a7-d08c-4709-aeb1-2d1558248881,survey_537,Nigeria,South Tracey,Male,36.0,Primary,Employed,completed,2026-05-14T10:40:43,field_tool,2,Neutral,4,High,3
+c0f28519-5458-495c-900b-714eccb008fd,ea8f742a-9794-4ed3-9cf6-b7601d2d23cb,survey_375,Nigeria,Hollandstad,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:45:05,field_tool,2,Very Good,4,Low,2

@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+a3b204d2-b5db-4778-9c16-c7f88a9f7cb8,35f5c158-39d3-4fcd-bf8c-3d0b57351dc7,survey_707,Zimbabwe,Cooperside,Male,19.0,Primary,Employed,completed,2026-05-14T10:44:18,field_tool,1,Very Good,5,Low,1
+ec642747-1192-4278-9214-b241a832d1c6,f1760097-a88f-4e15-9154-805dd2529200,survey_993,Zimbabwe,Kellerberg,Female,37.0,Tertiary,Unemployed,completed,2026-05-14T10:40:43,field_tool,3,Bad,5,Medium,3
+810e6c8e-2b58-4969-87be-894d6c59d787,ebed052a-e2d9-4921-87da-d02f98024842,survey_278,Zimbabwe,North Jonathanfort,Male,49.0,Primary,Employed,completed,2026-05-14T10:42:16,field_tool,3,Bad,3,High,5
+f74c1fda-a26b-4abd-a41c-b9bddef852b9,9d0dbb4b-9d43-4bbc-af1c-3d707872dea0,survey_398,Zimbabwe,Lutzfort,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:43:08,field_tool,3,Neutral,5,Medium,3
+8d8a66c1-b890-4f33-aa27-412887722682,b6520f0a-a855-4a06-80d2-c723b6d067c9,survey_100,Zimbabwe,West Ashley,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:45:40,field_tool,1,Very Good,1,Medium,4
+a51050ff-ee9e-45d1-8316-7ca4afbd8971,21b43cdf-a883-45f5-894b-0890c2b9bc79,survey_440,Zimbabwe,New Colleen,Female,30.0,Secondary,Employed,completed,2026-05-14T10:40:16,field_tool,5,Neutral,5,Medium,3
+69589eda-b869-4ae6-b3da-f9911fbf5cef,7d244549-56fe-46aa-8b6e-0db8de03fa48,survey_622,Zimbabwe,Joshuaton,Female,,Secondary,Employed,completed,2026-05-14T10:42:12,field_tool,5,Very Good,3,Low,4
+b393a626-ce7a-4b9a-ae08-af493a01ebb1,f56f22b8-5c1a-47f0-968c-0c469306b622,survey_742,Zimbabwe,Cobbhaven,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:43:31,field_tool,5,Bad,3,Medium,5
+e56cc992-4fa1-4701-ac1f-fac986741a1b,5ea4e256-7c37-4bfd-9522-ce132d359c05,survey_558,Zimbabwe,Samanthatown,Female,68.0,Secondary,Employed,completed,2026-05-14T10:42:01,field_tool,2,Good,1,Medium,1
+f7d36281-7ca3-4fa0-acea-d61eeb5a8e22,155d7dc3-c71e-4575-8b39-463240b4a232,survey_576,Zimbabwe,Port Josephmouth,Female,34.0,Primary,Employed,completed,2026-05-14T10:41:15,field_tool,3,Neutral,4,High,2
+58c381a8-0c6f-4b15-a401-5018fd7b7f0f,eaa57e1f-4db9-4ac2-ba8f-80c3dd986c1a,survey_440,Zimbabwe,South Shirley,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:42:17,field_tool,4,Bad,2,Low,5
+3d940c90-56dc-4c4e-b585-b43553009e34,2ad6804e-90ff-4958-9e3d-b5638ebf392e,survey_977,Zimbabwe,Debraport,Female,52.0,Primary,Self-employed,completed,2026-05-14T10:42:37,field_tool,4,Very Good,1,High,4
+cebf6335-be91-48cd-8fe7-9a61309f065a,e228daae-423f-44d5-b429-dd833a30d2c0,survey_572,Zimbabwe,Thompsonshire,Male,49.0,Primary,Unemployed,completed,2026-05-14T10:40:57,field_tool,3,Neutral,5,Medium,3
+d2da3682-786d-4767-839f-4e049f149285,96b45964-f4aa-47be-b190-27587b9260a0,survey_358,Zimbabwe,Meganberg,Male,43.0,Secondary,Employed,completed,2026-05-14T10:40:03,field_tool,1,Good,2,Low,3
+ce1630da-0b32-42d0-a249-d56490bab3ff,91cf91ea-c40a-4339-9e3b-7db224c480b8,survey_491,Zimbabwe,Cherylstad,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:43:44,field_tool,5,Bad,5,High,1
+a46844b4-531a-4b0e-a472-5871bc6f05dd,2875f966-3f7a-4cb5-a964-5f95c1421157,survey_419,Zimbabwe,Michaeltown,Male,28.0,Secondary,Employed,completed,2026-05-14T10:45:20,field_tool,4,Very Good,3,Medium,1
+ee2a705b-3ce3-4208-a30d-cd34de3edb93,56e91dc5-7750-41a9-8a58-e31093f22ee9,survey_288,Zimbabwe,East Kevin,Female,35.0,Tertiary,Self-employed,completed,2026-05-14T10:41:10,field_tool,5,Bad,1,Medium,3
+29a5c477-6634-4175-87df-55531f674d1a,ba8f0da9-cee5-41c8-8b71-8a054b8904b1,survey_739,Zimbabwe,Jessicaberg,Female,54.0,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,5,Good,2,Low,3
+41adf2ae-737d-4944-9bdc-21d24ea3e8e5,6ba2d2e7-bb93-4bcf-9a3c-d24fa3103baf,survey_838,Zimbabwe,West Steven,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:44:01,field_tool,2,Neutral,3,Medium,3
+b30de023-afdd-49dc-bf45-fb390d317339,3f665936-bd59-46a6-a1bd-1d19ffd2a874,survey_568,Zimbabwe,Reneeburgh,Male,18.0,Primary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Good,2,Medium,3
+643f94b1-2aaa-4548-a9da-fda5fbcf2b7b,a7b91e74-3502-4dab-947d-5858de9f9be9,survey_708,Zimbabwe,Lake Shellyshire,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:44:30,field_tool,4,Neutral,3,Medium,1
+38e9c8ce-da74-4307-b45a-68dcd9d768a6,6ab1a826-604a-414f-a6c0-9a28ce505498,survey_985,Zimbabwe,Kingland,Female,25.0,Secondary,Employed,completed,2026-05-14T10:44:36,field_tool,4,Bad,3,Low,2
+333070fc-41c4-4cf6-a991-9dd0eda1a24d,ec8d4d05-6b71-4cc9-b04f-f390c0cb18e3,survey_690,Zimbabwe,Gonzalezfort,Female,54.0,Secondary,Self-employed,completed,2026-05-14T10:41:40,field_tool,4,Good,5,Low,3
+799cfaed-0d95-4a8c-bb62-12240d6ae038,81138401-824b-4e84-82d2-1940222ca315,survey_395,Zimbabwe,Moorehaven,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:42:22,field_tool,1,Good,1,Medium,3
+14f5517b-50c0-4962-b66c-755a1eebe350,c882f2fa-0147-4570-a949-6d4d21d35970,survey_375,Zimbabwe,East Jonathan,Male,52.0,Tertiary,Self-employed,completed,2026-05-14T10:42:24,field_tool,3,Bad,2,Low,5
+e32b2221-e77a-4963-9cce-a2608a50b34a,2938f6cb-2314-4e87-8f74-e616d608ab39,survey_943,Zimbabwe,Port Stephenport,Male,25.0,Secondary,Unemployed,completed,2026-05-14T10:42:13,field_tool,2,Good,5,High,1
+ebb3f8ca-39da-4cc4-b48e-b2889ef5995d,448e2873-e7b3-4316-917c-147c06978b8a,survey_388,Zimbabwe,Hernandezberg,Male,69.0,Primary,Self-employed,completed,2026-05-14T10:40:55,field_tool,2,Neutral,2,Low,1
+ce50af90-5480-40ec-a598-f8ec8c5d9df4,4c4b0915-b9f6-46d8-ad33-b2e2f9773beb,survey_336,Zimbabwe,Lake Alexis,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:42:29,field_tool,1,Very Good,5,Low,4
+80a0cca9-9cf7-46c0-bf38-84f4b94962f1,c281e9eb-8cd1-482a-b60e-976c981fc5e1,survey_948,Zimbabwe,New Sarahstad,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:40:16,field_tool,5,Good,3,High,1
+7522f109-8a1a-493b-bad3-c501ff546bda,a7fb0bb1-4b79-446d-be08-f34cc3fb1cb7,survey_702,Zimbabwe,Douglasville,Male,26.0,Primary,Self-employed,completed,2026-05-14T10:41:51,field_tool,3,Neutral,2,High,3
+88212776-57a8-4d7b-9bcb-840f5df052a0,a77984ec-efb0-4e4b-a2f4-9e2c448ddcb1,survey_566,Zimbabwe,New Matthewberg,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:42:11,field_tool,5,Bad,4,Medium,2
+a0eaec50-ab61-4920-85fb-ca2085c516fa,2c757219-7000-4afd-abb5-3bcd85d225b6,survey_766,Zimbabwe,New Angelica,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:43:42,field_tool,5,Good,5,Low,1
+ce0b6b4c-5282-4eef-81cf-718961dc5067,47bd0060-9920-4f55-ab91-af5ea21b71b0,survey_502,Zimbabwe,Port Sarah,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:40:00,field_tool,5,Good,3,Low,4
+5977169c-1033-4a83-87d7-f70942400a20,1dec8558-3df3-49b0-a83b-b8cf17414b27,survey_871,Zimbabwe,Brendaville,Male,29.0,Primary,Employed,completed,2026-05-14T10:40:05,field_tool,1,Bad,2,Medium,1
+8f761230-2524-456a-8e7e-149207c6098d,5b9cb65c-6943-4bb1-8952-24c4f67da43d,survey_162,Zimbabwe,Lake Yolanda,Female,29.0,Secondary,Unemployed,completed,2026-05-14T10:40:31,field_tool,3,Neutral,2,Low,1
+df8950a2-b708-453c-9e04-ebe63bb3a48c,e006dd17-a964-4b4e-b648-3621653d88d5,survey_409,Zimbabwe,Kristiside,Male,65.0,Primary,Self-employed,completed,2026-05-14T10:45:03,field_tool,1,Bad,3,High,5
+28594e1c-39c3-4ace-b18f-3a8b6e838a5c,78d1f54c-7a7a-452c-be86-2475fe119306,survey_800,Zimbabwe,Michaeltown,Male,21.0,Primary,Employed,completed,2026-05-14T10:40:17,field_tool,5,Bad,3,High,5
+f98a7e7c-951e-4843-b41d-2f7643a58f16,4ae34e6d-d813-4458-8229-4f0a74f9e8a8,survey_493,Zimbabwe,Davisview,Male,31.0,Secondary,Employed,completed,2026-05-14T10:43:32,field_tool,4,Neutral,3,Medium,5
+383f31f2-39e6-46b8-afcb-69e2b9b3447d,310572e3-0367-46f2-a5fd-6df6f31e84f7,survey_511,Zimbabwe,Lisaport,Female,70.0,Primary,Self-employed,completed,2026-05-14T10:40:50,field_tool,2,Good,4,High,3
+e4d0a546-3ba5-46be-bbf0-13a193898e07,d4e44286-7535-4663-8ee3-c419b7ad67bf,survey_825,Zimbabwe,Lake Cassidy,Female,29.0,Tertiary,Employed,completed,2026-05-14T10:42:48,field_tool,2,Bad,4,High,4
+a6fb67b4-94bb-4fb5-8b20-576fd2f08711,939c7ef9-1f0c-4dd7-aa38-1cefeb40cad7,survey_951,Zimbabwe,Alvarezfort,Female,44.0,Primary,Self-employed,completed,2026-05-14T10:42:34,field_tool,4,Very Good,2,High,1
+99124065-5e2e-4836-b516-d7e28dd13003,b1fdbb7b-9c8c-457d-9a67-082ddb90d308,survey_416,Zimbabwe,Brendaside,Male,56.0,Tertiary,Self-employed,completed,2026-05-14T10:41:30,field_tool,3,Good,2,Low,4
+f0c676fa-7b01-4b9a-b2cc-ae0eecf1a37b,04aa95d2-928d-48ca-b05c-7bbb38bc9918,survey_466,Zimbabwe,West Jeffreyville,Male,25.0,Tertiary,Unemployed,completed,2026-05-14T10:44:18,field_tool,2,Bad,3,Low,2
+2585a2d1-3ed6-4b67-a971-a43df08cd01d,335c09c4-560d-4355-b6ea-9d7bf6af65ec,survey_336,Zimbabwe,Thomasburgh,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:41:07,field_tool,1,Very Good,3,High,2
+e2a072eb-7e5a-4bdb-bf59-5d436a04b027,e2db9f01-80c9-41a4-b001-5fe069252bf2,survey_156,Zimbabwe,West Joyce,Male,61.0,Primary,Employed,completed,2026-05-14T10:41:23,field_tool,4,Neutral,3,Low,2
+be7112fa-704f-4acc-a24d-991578d4ac5a,ab9465fd-0405-40ea-b2cb-6c7f4cdaffc0,survey_552,Zimbabwe,Gonzalesfort,Female,72.0,Tertiary,Self-employed,completed,2026-05-14T10:40:43,field_tool,3,Bad,5,Medium,2
+719f836f-43f7-4f27-b30f-f232c7cded89,57a3b340-9c51-4847-af55-c9f7e984b893,survey_267,Zimbabwe,Proctorside,Female,52.0,Tertiary,Employed,completed,2026-05-14T10:43:20,field_tool,1,Neutral,5,High,3
+da3a970e-6aa0-487a-bb5e-1d96c5cdb30e,7617ae4e-7eb2-4085-9884-08540df7f3c8,survey_763,Zimbabwe,Aaronfort,Female,70.0,Tertiary,Employed,completed,2026-05-14T10:44:00,field_tool,3,Very Good,5,Low,3
+7fd9e812-2a94-44da-8218-d46605bc0923,1fbe7712-de9b-45c0-a102-d18b42317306,survey_704,Zimbabwe,Paulachester,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:43:33,field_tool,5,Good,2,Medium,3
+6e89b308-d8e4-40f0-8163-135e9d4184c4,8cc8911c-9e93-471f-9988-3ed33e975681,survey_994,Zimbabwe,Edwardchester,Male,68.0,Primary,Employed,completed,2026-05-14T10:39:53,field_tool,4,Bad,1,Medium,2
+e620704f-aed8-413c-b971-8bd20da75c6a,06a57d10-3446-4a1c-aade-cd3e898d6311,survey_253,Zimbabwe,South Kevinfurt,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:40:50,field_tool,4,Good,5,High,4
+27df4a72-36f8-4774-9897-8a429882f925,4325219b-6122-4ff8-abe2-e3dd9aa3f164,survey_477,Zimbabwe,Lake Randyport,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:40:52,field_tool,3,Good,4,Medium,3
+0b34b296-b56e-4ae4-8b6e-12041a05ec10,1dc90081-2624-4f70-822d-6ee1d903b7cd,survey_337,Zimbabwe,Richardstad,Male,61.0,Primary,Employed,completed,2026-05-14T10:40:36,field_tool,2,Bad,5,Low,5
+4a1f2e3a-9320-4217-8740-f0fc2ba85e36,efb8912a-f7b6-41bd-8bda-b294ce4737c5,survey_407,Zimbabwe,Lake Don,Male,25.0,Primary,Employed,completed,2026-05-14T10:41:11,field_tool,2,Bad,2,Low,3
+942fe3fd-1e1a-4ec8-8292-ced7e5014b43,12084bb4-6cb6-4226-ac86-7076c3ca298f,survey_836,Zimbabwe,Daniellemouth,Male,73.0,Tertiary,Self-employed,completed,2026-05-14T10:43:22,field_tool,1,Neutral,4,Low,5
+b822c6c0-b39e-47af-9a19-6be7567b8c24,493c4d0e-06d9-4df4-a786-0f3596927d87,survey_151,Zimbabwe,Davidberg,Female,41.0,Tertiary,Unemployed,completed,2026-05-14T10:42:41,field_tool,1,Neutral,1,High,4
+bc70278f-26b0-4108-a5d3-4a010b2e6902,a103ebbc-76f7-4cb6-9af5-131442fdaa7c,survey_500,Zimbabwe,New Kimberlyport,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:39:53,field_tool,1,Bad,4,Low,3
+cb6b6899-01dd-4abc-b81f-a6eb0cbbd48f,bfafabfd-32f3-406b-8220-cce88f51b65d,survey_118,Zimbabwe,East Jaclyn,Female,19.0,Primary,Employed,completed,2026-05-14T10:42:28,field_tool,5,Good,2,High,2
+8535d730-007e-46fd-ac18-f3e40520b754,adf76279-db27-4653-9982-914e2fcaf187,survey_970,Zimbabwe,North Catherine,Male,53.0,Primary,Self-employed,completed,2026-05-14T10:41:26,field_tool,5,Neutral,3,Medium,4
+67f2313b-aa77-4015-911e-b6d906253e89,9edb0160-1b01-403a-a149-4dbdeef996e7,survey_717,Zimbabwe,Port Craig,Male,56.0,Secondary,Self-employed,completed,2026-05-14T10:40:05,field_tool,1,Good,5,High,3
+081a0ab0-54f3-4b08-a445-0c796552c2ef,2fc28660-4f27-40a1-8fd8-ed2d6b6ef073,survey_798,Zimbabwe,Morganland,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:45:33,field_tool,3,Good,4,High,1
+082dd0a9-fbf4-4978-938b-c11a427347b2,cc2dc34b-1e46-40dc-b382-e316dcc4f1ef,survey_300,Zimbabwe,Chavezside,Male,25.0,Tertiary,Employed,completed,2026-05-14T10:40:07,field_tool,1,Very Good,3,Medium,3
+fd8d830d-bcc1-474b-a773-1d81e2867a41,0b97e170-36e9-409f-b2e2-92fe5dabe950,survey_452,Zimbabwe,Sandrabury,Female,42.0,Tertiary,Self-employed,completed,2026-05-14T10:39:58,field_tool,1,Bad,1,Low,3
+443c83f2-c5d2-456a-bf06-32e4e32e5764,1a83b9a3-442f-4781-86b0-abe5fdf27aba,survey_521,Zimbabwe,New Cynthiachester,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:44:56,field_tool,1,Good,1,High,2
+6081284c-c1f8-4663-a1b2-78e338f40d31,066fdfb4-8704-421d-b300-130e5717b002,survey_272,Zimbabwe,Nguyenchester,Female,22.0,Tertiary,Unemployed,completed,2026-05-14T10:43:35,field_tool,5,Very Good,4,High,3
+3198ab1d-c096-4349-8f07-60fcce00a4d8,7de7c087-912d-4977-be56-d7634584f295,survey_273,Zimbabwe,Williamsport,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:40:46,field_tool,3,Good,4,Medium,2
+bd5fb038-dad2-4430-ac3c-39a41f9111e6,606f0222-c19c-49d7-b8bf-b828fe2690c2,survey_407,Zimbabwe,Thorntonberg,Male,19.0,Secondary,Employed,completed,2026-05-14T10:40:03,field_tool,5,Very Good,2,Low,4
+de2e6b96-b685-4f2b-b965-afdfcce37a75,0585c9f4-d895-4166-b8ce-dd6a13b6bfca,survey_693,Zimbabwe,Foleychester,Female,60.0,Primary,Employed,completed,2026-05-14T10:45:41,field_tool,4,Very Good,2,Low,4
+cdb19bea-3394-4330-8520-e0d3dabdd315,c89eea1b-1e0c-4330-b45e-5acf0827a3d0,survey_801,Zimbabwe,Martinezland,Male,36.0,Tertiary,Unemployed,completed,2026-05-14T10:40:06,field_tool,1,Very Good,3,High,2
+9fcd25f1-72ad-402a-8af2-ac50cd91412a,b4a47019-d49c-479f-aada-6b89e0900fdd,survey_469,Zimbabwe,Robertton,Female,60.0,Primary,Employed,completed,2026-05-14T10:43:30,field_tool,1,Good,5,High,3
+edd94469-f7c2-40a6-8294-0911232e3e74,68405e11-41d3-4459-bb53-648e19bec562,survey_619,Zimbabwe,Port Marvin,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:40:15,field_tool,4,Good,3,Medium,2
+a89e2013-e9d6-4123-9a54-46dd5e608fc0,a37027f2-98dc-44ad-9dbc-6b37a4deb78e,survey_377,Zimbabwe,Chrischester,Female,66.0,Secondary,Employed,completed,2026-05-14T10:45:44,field_tool,5,Bad,3,High,4
+82dff36d-2048-46bc-a40e-8dfe18fec581,62f94191-efd8-4d64-aab3-181eb0a55981,survey_682,Zimbabwe,Olsonburgh,Male,53.0,Primary,Employed,completed,2026-05-14T10:40:07,field_tool,5,Good,2,High,1
+eca05b89-6367-42a0-95f9-4e54ee7112d4,974b6125-c577-4a0a-a10b-94355fc0f5cc,survey_581,Zimbabwe,Port Zachary,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:40:53,field_tool,5,Bad,3,Medium,2
+58f38a12-90f6-4208-adc6-2659df7cbd16,17fbc9e8-62f0-4406-ba65-70b808468ff8,survey_589,Zimbabwe,Sydneyfurt,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:40:37,field_tool,5,Neutral,2,Low,2
+65f6c3f7-e6a2-4895-99f8-c663f9eab60a,79d9ceda-efc9-4dee-9e5b-c6bc15bf20fd,survey_990,Zimbabwe,Reedchester,FEMALE,67.0,Secondary,Self-employed,completed,2026-05-14T10:41:32,field_tool,1,Very Good,3,Medium,2
+760e44fb-9ba5-4d4c-9e95-df246bd8fbdc,4c3131ca-4490-4e5a-836c-5b76cd6a2b31,survey_573,Zimbabwe,New Kayla,Female,31.0,Primary,Employed,completed,2026-05-14T10:44:00,field_tool,3,Neutral,4,Low,1
+0e10c0a5-67ac-4b03-b305-35d4fba7a8c4,119f8660-061f-4a67-9176-6b21e515466b,survey_661,Zimbabwe,Lake Karenmouth,Male,49.0,Secondary,Employed,completed,2026-05-14T10:41:58,field_tool,2,Neutral,5,Low,2
+32f80ffd-68cb-4ecb-91b5-b2f9f212aaf9,a34a93ae-05b8-4aa9-962c-54cf852221d4,survey_284,Zimbabwe,Port Marvinmouth,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:44:27,field_tool,3,Good,1,Medium,1
+1b6fa3c5-6bb1-4ce4-a9e3-e1d3f16ab519,3072f1d1-0f76-4f73-bbe3-12050f018b32,survey_412,Zimbabwe,West Edward,Male,35.0,Primary,Unemployed,completed,2026-05-14T10:40:01,field_tool,2,Very Good,5,Medium,4
+8769aad1-077a-4b88-862b-17b4a6cb464e,e388d1dd-eadc-46b0-ba38-9871f6b50b01,survey_492,Zimbabwe,Ryanside,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:43:01,field_tool,4,Very Good,1,High,2
+9c2c7912-2e04-40c7-a84c-198fbef9473b,b73a3eef-c38b-4121-8445-fedbf21c70cc,survey_698,Zimbabwe,New Jonathanmouth,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:41:13,field_tool,1,Good,5,Medium,5
+57a3c9b5-c705-42dc-bbaf-3db7e12111bf,c2b18b20-d8bd-4b36-8b16-65af2fa49cd6,survey_959,Zimbabwe,West Randall,Female,52.0,Tertiary,Self-employed,completed,2026-05-14T10:41:19,field_tool,2,Neutral,4,Medium,5
+e0d47132-5d56-4fe2-9d90-cd0754202150,6ba7a105-fe3a-40bd-84b5-91d4888dbb94,survey_408,Zimbabwe,West Gregory,Male,39.0,Secondary,Employed,completed,2026-05-14T10:43:48,field_tool,1,Bad,3,Medium,4
+6b628ba0-8536-4e04-97ec-47f9deb09c29,cc43f13a-34a4-4d1e-983e-9b53f578163b,survey_991,Zimbabwe,Sherryton,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:44:02,field_tool,4,Good,1,Low,5
+1dd82d7f-39d8-4a9e-a4cb-6b2ad25bea66,08905c8d-64c9-4151-802c-3a99ff5a4936,survey_463,Zimbabwe,East Lisaport,Male,20.0,Secondary,Self-employed,completed,2026-05-14T10:41:10,field_tool,1,Good,2,Low,3
+5ac4201f-f504-416a-a04e-9fa83a7010a6,7182045d-8fd4-4ee5-9d9e-9017fc0e8141,survey_543,Zimbabwe,North Wandahaven,Female,67.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,5,Very Good,2,High,5
+2fe6ff85-f497-43e1-842f-07c67f46c5de,73bcb71b-d5b9-4710-8941-d6b19458ae6a,survey_811,Zimbabwe,New Anthonyville,Female,56.0,Secondary,Unemployed,completed,2026-05-14T10:44:43,field_tool,2,Neutral,5,Low,3
+43a233f2-ccb7-4a36-844c-de30d39f8124,188835a6-af1e-46b8-93ad-d8486f7e0667,survey_764,Zimbabwe,Brandonview,Female,20.0,Secondary,Self-employed,completed,2026-05-14T10:41:52,field_tool,2,Very Good,1,Medium,3
+333d7504-5623-48aa-8a29-4cee10ccbcd8,56e197fe-ffbf-49da-8a23-60bc63beae04,survey_702,Zimbabwe,Alejandroborough,Male,42.0,Primary,Self-employed,completed,2026-05-14T10:41:07,field_tool,1,Very Good,2,High,4
+43f0a4f4-bd6a-4869-8ae1-01fc541130e5,85823b0a-ad52-4e08-8d63-cf489ec8b01f,survey_630,Zimbabwe,New Shaneport,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:40:26,field_tool,5,Very Good,1,Medium,3
+d37770ff-c450-4c8b-900d-6e7958dcfd9f,212074d4-1fcb-4120-b6c9-feb475072c8d,survey_959,Zimbabwe,Phillipsshire,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:45:23,field_tool,3,Good,4,High,3
+6a2ea5f1-821e-4100-8a12-7f5aee55e241,d8c32aaa-ce56-46e2-9d66-357981c13c38,survey_301,Zimbabwe,Lake Brandonport,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:40:17,field_tool,1,Very Good,5,High,1
+855c246a-8942-4a79-8878-878667778165,7a8da46c-9fa6-4e30-885c-43fc440f8b8b,survey_927,Zimbabwe,North Brent,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:40:34,field_tool,3,Neutral,2,Medium,1
+ca3a4a29-4798-4593-852b-6c1e8a25eeb5,4fe72211-8536-48d2-8cf2-0193446cf232,survey_931,Zimbabwe,West Paul,Male,29.0,Tertiary,Self-employed,completed,2026-05-14T10:44:44,field_tool,3,Very Good,3,Low,3
+6fd778d1-33e5-4bf5-a15b-48a7edfd3787,0fb6be8f-332d-45d7-936c-0f6d0bf4b55e,survey_561,Zimbabwe,New Jacob,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:42:29,field_tool,5,Good,5,High,1
+f913de85-2339-4c99-8a77-69f15d049f91,4d65a2db-32aa-4a9c-aa9e-f56ebe54e7ed,survey_122,Zimbabwe,East Brandonfort,Male,44.0,Secondary,Employed,completed,2026-05-14T10:41:55,field_tool,1,Good,3,Medium,2
+968a32d3-84e7-4f61-9d6c-d83ede89a619,31b0e0cb-18b2-4453-8c83-aab21d122f63,survey_468,Zimbabwe,New Tiffany,Female,25.0,Tertiary,Unemployed,completed,2026-05-14T10:41:08,field_tool,4,Neutral,2,High,5
+32822121-5191-4c9c-ba32-a64f813d2fc8,ad66c475-8b0a-4edf-b79e-de43aea35530,survey_665,Zimbabwe,Kington,Female,43.0,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,5,Bad,1,Low,1
+6fafe3cb-bbf9-484b-a156-d8591d4a14b4,2006c108-5b75-4343-b20a-deaa95eb9d10,survey_608,Zimbabwe,Munozberg,Female,47.0,Primary,Unemployed,completed,2026-05-14T10:39:59,field_tool,5,Good,5,Low,5
+fe124124-3f0b-4255-80a6-4edf844ed9d7,f8d29876-9486-4f9f-a71f-61b6fd586193,survey_919,Zimbabwe,Port Mandy,Male,18.0,Secondary,Self-employed,completed,2026-05-14T10:42:30,field_tool,2,Neutral,2,Low,1
+3b8fe39e-75b1-4b61-a002-c862be90f456,1d575bc9-8e2f-4c75-826e-06553d26caa4,survey_258,Zimbabwe,Lake Kevin,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:39:51,field_tool,1,Good,1,High,3
+f74ce972-82fc-4181-980c-42083121e126,53d170a6-cc32-43d9-82b4-4ea64b52155f,survey_287,Zimbabwe,Jillianstad,Female,62.0,Primary,Self-employed,completed,2026-05-14T10:39:59,field_tool,1,Very Good,2,Low,4
+9c4e7e4a-38a0-4eab-801b-f7737ba717e9,bbeb6465-5ece-4485-a92d-84c6ac78647a,survey_408,Zimbabwe,Jonesfurt,Female,56.0,Primary,Employed,completed,2026-05-14T10:39:59,field_tool,1,Very Good,3,High,3
+e407a800-f908-4ccc-849d-598b6d32957c,471e800d-f8dd-4122-bdb1-05c81847199d,survey_795,Zimbabwe,Thomasport,Female,45.0,Primary,Employed,completed,2026-05-14T10:42:15,field_tool,5,Bad,3,Low,5
+34046725-9b63-472e-9324-64aaba929367,9640e8e2-b202-48b8-a004-88f95c635225,survey_456,Zimbabwe,Willisland,Male,60.0,Primary,Employed,completed,2026-05-14T10:42:37,field_tool,5,Good,2,Low,5
+0db0448d-ef90-4777-84d2-ea08b8ac629a,bd514595-92d4-4823-a119-f47dbf850dac,survey_783,Zimbabwe,West Emilyport,Female,18.0,Primary,Self-employed,completed,2026-05-14T10:44:48,field_tool,3,Good,4,High,4
+c8648eba-9aff-42dc-8672-03a0924275d0,f18dd5f4-2f90-4487-bd95-e40bcf2170b7,survey_791,Zimbabwe,Bowmanshire,Male,73.0,Primary,Unemployed,completed,2026-05-14T10:42:37,field_tool,3,Very Good,2,Low,2
+ff2c570d-2ab6-4db5-ad72-081f0c89f68f,61291f12-0f8b-4c77-8a53-8870f2e38d30,survey_984,Zimbabwe,West Joshua,Female,43.0,Primary,Unemployed,completed,2026-05-14T10:40:55,field_tool,3,Good,5,Medium,5
+90a1c47b-85ad-4f4f-875b-a93358a9f299,10a072cd-3b08-498f-b741-7c1f5a54bbf0,survey_515,Zimbabwe,North Amber,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:40:25,field_tool,3,Neutral,2,Medium,1
+cc6b984f-8251-49cb-992a-63db4887d404,a1371f17-eb8e-47b2-9e89-70c2943a45c5,survey_910,Zimbabwe,Scottburgh,Female,23.0,Tertiary,Employed,completed,2026-05-14T10:43:46,field_tool,4,Bad,1,High,5
+030dd135-c41c-4d69-899d-1c601825e16b,bd8e597b-f12e-43ad-8c89-32888c4090c8,survey_883,Zimbabwe,East Waynefurt,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:44:46,field_tool,1,Very Good,2,High,4
+e721230e-6764-405c-8585-fe56aff1759f,d708ee7b-d9db-4a89-9648-0826bdbaaa17,survey_124,Zimbabwe,West Michaelstad,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:44:56,field_tool,2,Bad,3,High,5
+c7450f1c-6323-421a-8c5a-c1981deefe31,0337d3d6-da8a-4774-ab59-d574b24373ac,survey_256,Zimbabwe,New Maryfurt,Male,51.0,Primary,Employed,completed,2026-05-14T10:45:40,field_tool,5,Bad,3,Medium,4
+87fd8f88-ed0c-44db-92ca-320e9f011353,4bfc573d-b872-4572-b217-0608a8e91b70,survey_572,Zimbabwe,Arielside,Female,36.0,Secondary,Employed,completed,2026-05-14T10:42:27,field_tool,5,Good,1,High,1
+13c87377-e49b-4946-98a1-e29d6d98826e,1fb01c5b-4114-4067-8870-dadb9a9498d8,survey_599,Zimbabwe,South Phillipside,Female,65.0,Primary,Employed,completed,2026-05-14T10:43:14,field_tool,2,Bad,1,Low,4
+07b23045-e166-443f-9b1e-900f838e95aa,99b81187-85c6-4bef-8bce-c605d7fba2e4,survey_851,Zimbabwe,Schmidtfurt,Male,68.0,Primary,Employed,completed,2026-05-14T10:42:58,field_tool,3,Bad,2,High,3
+cf8d80bf-0ef8-404f-a58a-38893f66fdfe,a7241884-6c88-4e13-aff9-5b7caae09341,survey_667,Zimbabwe,East Blake,Female,72.0,Primary,Unemployed,completed,2026-05-14T10:43:04,field_tool,4,Bad,5,Medium,3
+9e594428-e435-41fd-9fba-7a5815a08bc0,fd991594-5ae9-4c01-972f-dfce5098c6e8,survey_364,Zimbabwe,Harpertown,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:42:58,field_tool,2,Good,2,Low,5
+0ca13ac7-8c41-416e-a1db-7c5c1b45f3f9,7b08c6c7-2937-4771-a9e0-33c65dc9bf42,survey_510,Zimbabwe,Jeffreyborough,Male,63.0,Primary,Unemployed,completed,2026-05-14T10:42:59,field_tool,2,Bad,1,High,3
+82c9f8e1-48bb-4076-b1b0-39f3fb7567c2,5ca76b63-50d7-4c40-bdb1-c249c5f1dcb4,survey_216,Zimbabwe,South Heidishire,Male,59.0,Primary,Employed,completed,2026-05-14T10:43:25,field_tool,1,Good,1,High,2
+5903fd60-78f1-4d5c-95cf-a3a470cc4117,3340094c-99af-429c-a147-0212fc7f57d0,survey_441,Zimbabwe,Pagetown,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:39:58,field_tool,1,Bad,5,High,3
+78a9aaa6-d015-43aa-bccf-608a6bbabaee,11a0c91d-77fa-4534-97ad-e7fbe7f2e177,survey_757,Zimbabwe,West Alan,Male,52.0,Primary,Employed,completed,2026-05-14T10:42:59,field_tool,5,Very Good,3,Low,3
+2e3b1d49-b0b0-4cd2-abd1-e252c43a6a30,7c75c3fe-014b-4792-99aa-32e0b60357ac,survey_602,Zimbabwe,New Laura,Female,48.0,Secondary,Employed,completed,2026-05-14T10:42:36,field_tool,1,Neutral,5,Low,3
+6766e28c-a18f-4ab0-81ec-b8ba1cba5cca,59fb4c5d-7fb2-4f14-8614-1e22b6c1fd53,survey_334,Zimbabwe,Elizabethbury,Female,58.0,Tertiary,Employed,completed,2026-05-14T10:45:35,field_tool,1,Good,3,Medium,1
+fecff76a-fd50-49c4-a420-012b3ad4da35,4f8215c1-05f0-43ef-880c-3108a2916576,survey_190,Zimbabwe,Rebeccachester,Male,38.0,Primary,Employed,completed,2026-05-14T10:42:10,field_tool,1,Good,5,Low,4
+09d01cee-d370-4441-9308-88941ceaea6a,ab6c0984-142b-49a1-b568-088ac00939f2,survey_896,Zimbabwe,Susanview,Female,72.0,Secondary,Self-employed,completed,2026-05-14T10:40:50,field_tool,2,Very Good,1,Medium,4
+dabdffcb-7491-4630-9760-326695efb7fe,f6f6b844-6404-4a91-9db4-8f075454659c,survey_815,Zimbabwe,North Brianna,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:44:51,field_tool,3,Neutral,2,High,2
+a94cc21e-b2dc-4a3d-ae00-9890aed19a77,25fa9d2e-4e03-44a8-89bd-0e553ed5156b,survey_217,Zimbabwe,Frazierfort,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:41:55,field_tool,1,Good,4,High,5
+adaaf5ae-d89e-417a-8f8e-a9b515817cf5,d51c9d0d-dd14-42a0-9204-d87eac61f241,survey_186,Zimbabwe,Davidhaven,Female,52.0,Secondary,Self-employed,completed,2026-05-14T10:41:14,field_tool,4,Neutral,2,Medium,3
+0168ac0f-05fa-4918-aec5-5242782254f7,a7c7ff17-b927-4002-a7fd-7a167dcf07f6,survey_840,Zimbabwe,East Christophermouth,Male,58.0,Secondary,Unemployed,completed,2026-05-14T10:45:42,field_tool,3,Bad,1,Medium,1
+815dd3a7-fbb3-4a14-82c4-eb1a3a3183ca,974be758-a300-4e2e-88ed-7bcd56981d96,survey_192,Zimbabwe,New Jessicatown,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:39:52,field_tool,5,Very Good,2,High,1
+9c4f047f-9664-45db-a107-5e2c7288ab90,03893018-08b9-43d6-a611-2979a1cadd00,survey_660,Zimbabwe,Barryburgh,Female,41.0,Primary,Unemployed,completed,2026-05-14T10:45:42,field_tool,1,Good,5,Medium,5
+feb89eff-02fd-4bef-adaa-4c5be4bbf232,34676d90-4011-4da8-9e14-ae516e9c47ac,survey_620,Zimbabwe,North Jake,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:41:21,field_tool,3,Neutral,2,High,2
+27fd74cf-b378-4cff-9904-526e91239d08,e3c77c6e-56d8-417e-94f0-a52fd5bf8f1b,survey_662,Zimbabwe,Shawnfurt,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:42:48,field_tool,1,Neutral,2,High,5
+9a744996-0640-4fe9-8109-9e061c208744,9025f4b1-e4c2-4d6c-8bed-538cd30080e8,survey_220,Zimbabwe,Melissatown,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:45:03,field_tool,3,Neutral,1,Medium,1
+971d76d7-0e02-4ff7-b34e-82e19f382c5d,870fd145-a611-42ba-8e9c-0abec854427a,survey_447,Zimbabwe,Lanceburgh,Female,46.0,Tertiary,Employed,completed,2026-05-14T10:45:21,field_tool,5,Bad,3,Low,4
+bfa527ce-f67f-41b2-a11b-de228b45cec4,4fed989c-6566-4b41-a911-e376e76c295c,survey_177,Zimbabwe,Daniellebury,Female,23.0,Tertiary,Self-employed,completed,2026-05-14T10:44:31,field_tool,2,Neutral,1,Low,4
+4912c964-1bf5-4cbc-92e9-d630305bfc79,0ccff45b-3a58-42f0-a84d-33c0e50406fc,survey_103,Zimbabwe,East Peter,Female,48.0,Primary,Employed,completed,2026-05-14T10:45:18,field_tool,4,Good,1,High,3
+ffc1d9d9-4af9-46b1-99e2-79664889b170,2c7fe067-9967-45e0-93b4-22e4b69261ff,survey_639,Zimbabwe,Christianshire,Female,65.0,Secondary,Employed,completed,2026-05-14T10:40:36,field_tool,3,Neutral,1,High,5
+699efdb2-ae6d-4dab-965f-bf301f8cb9f0,662da018-de14-404c-91dd-12a57c2da379,survey_354,Zimbabwe,Ericaville,Male,57.0,Primary,Employed,completed,2026-05-14T10:43:14,field_tool,5,Very Good,3,High,5
+682a3743-fca8-4860-830b-0c8cd24aa61c,e32a35cb-46be-4749-9ca3-e632216f28a8,survey_117,Zimbabwe,East Raven,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:45:24,field_tool,4,Neutral,1,Medium,1
+b43b17db-808e-4e4c-a7b4-4fb58e418698,e413e149-c7ed-4b2e-8800-72ba2785fafe,survey_372,Zimbabwe,North Lisa,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:44:24,field_tool,1,Bad,2,Low,5
+2c456a90-72fd-40da-8f5b-8338baa534d9,cc66dd79-c51f-4f11-aa1f-36bf393035a4,survey_161,Zimbabwe,New David,Female,42.0,Primary,Unemployed,completed,2026-05-14T10:43:04,field_tool,3,Good,5,High,4
+c3096a7a-15b9-4ca2-915d-96413a40cc9e,36f1310e-9234-4bd6-8ccc-fb00df1dec32,survey_481,Zimbabwe,New Christina,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:41:38,field_tool,5,Very Good,5,Medium,4
+38bdc357-054d-403b-8871-9d54fe6cc31a,f82ff486-ce01-4450-9985-45c34f9a39ab,survey_938,Zimbabwe,Port Marvin,Female,58.0,Primary,Employed,completed,2026-05-14T10:44:21,field_tool,1,Bad,4,Low,5
+68d72b3e-ff20-4e91-b6c6-967c4ebeeaef,af006da0-b51a-4686-b564-7f3681af9987,survey_797,Zimbabwe,North Jonathanmouth,Male,69.0,Secondary,Employed,completed,2026-05-14T10:41:47,field_tool,5,Bad,1,Low,5
+7b0991bf-6436-4eb0-87ba-5fdf57efce3c,c4221067-7380-4301-b3d3-14e58f2a1888,survey_786,Zimbabwe,New Staceymouth,Male,25.0,Tertiary,Employed,completed,2026-05-14T10:40:23,field_tool,1,Bad,3,Low,4
+04185c5f-e22c-4cbc-8082-043e4672c86d,f6e228eb-d015-4723-b1d9-bdcb3d9af5c1,survey_748,Zimbabwe,South Lydiafort,Female,37.0,Secondary,Employed,completed,2026-05-14T10:45:41,field_tool,1,Good,3,High,4
+360ebe2c-433b-4716-98bb-fa1a5dc75143,84a5397e-4ee8-409b-9308-f8cd90a69473,survey_369,Zimbabwe,Duncanchester,Female,36.0,Tertiary,Self-employed,completed,2026-05-14T10:40:03,field_tool,1,Bad,3,Medium,2
+a04d62ef-ca52-417b-9a6e-f8aaa22a94b4,95e8b622-1321-406e-b983-a8b005c2c624,survey_677,Zimbabwe,Robertmouth,Female,71.0,Primary,Self-employed,completed,2026-05-14T10:41:28,field_tool,2,Bad,2,Low,5
+95ba5555-feed-47d6-83ca-af06ad8513cc,6096a1fd-d1c6-4134-9389-ac4927b49987,survey_124,Zimbabwe,Perkinsfurt,Male,58.0,Secondary,Employed,completed,2026-05-14T10:43:17,field_tool,2,Good,2,Medium,3
+b554c5e2-8a16-47e4-99ce-60c17ba0b088,b0072ebe-af95-4c1f-a9f0-8d2cf883c726,survey_284,Zimbabwe,Biancaburgh,Male,70.0,Secondary,Self-employed,completed,2026-05-14T10:43:01,field_tool,5,Neutral,5,High,2
+8e02e5d1-ebaa-4bdb-a482-dcf15320c72b,4c737fea-aa6f-4925-8d3c-ef4ca15ba9fd,survey_284,Zimbabwe,Johnburgh,Female,52.0,Primary,Unemployed,completed,2026-05-14T10:45:16,field_tool,3,Good,4,Low,4
+ba88df0d-a901-44e9-8254-eb622d86a788,e29dd9e4-9271-444a-aba5-4dfe580f3958,survey_215,Zimbabwe,Kellyfort,Female,31.0,Secondary,Self-employed,completed,2026-05-14T10:39:54,field_tool,5,Very Good,5,Medium,3
+3e1024af-d73a-4876-8527-0a56e7d191c7,83e482a3-2578-45e1-897f-ad17d8a495ed,survey_254,Zimbabwe,Eatonhaven,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:39:47,field_tool,5,Good,1,Low,4
+8cf454ff-c3b4-4bc2-8030-bea89d55fe96,4f07430e-445b-4345-9967-20d40d05f357,survey_192,Zimbabwe,Shahburgh,Male,70.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,5,Bad,3,Medium,1
+13387da9-7701-421e-b313-77a9edad5294,1cd7ed72-88f4-4c42-bf52-5e1c2cd1d33d,survey_827,Zimbabwe,South Carolyn,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:42:49,field_tool,5,Very Good,3,Low,4
+4f828cba-5aea-4127-bd4d-a8d3be925471,d28cd3a7-84f3-4a02-91f0-a2a304391d0f,survey_978,Zimbabwe,Hannahton,Male,65.0,Tertiary,Employed,completed,2026-05-14T10:40:30,field_tool,1,Good,2,Low,2
+dbccbb22-df62-4061-8e2c-201fdce7e238,8a6b29de-5ac8-4d70-8454-cf609ec4ae92,survey_701,Zimbabwe,Kevinton,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:44:57,field_tool,4,Very Good,4,Low,4
+96d1198b-5ca9-4dc2-9857-793a7208fffa,58d0f3e0-a691-4e78-bbdc-d412a73b189f,survey_898,Zimbabwe,Hernandezside,Female,61.0,Primary,Employed,completed,2026-05-14T10:42:40,field_tool,2,Neutral,1,High,4
+9797c5df-9d2b-4f36-b38c-d6d2e3e54b31,78bf0056-6fd8-4ce3-8653-c4f24a429cbc,survey_261,Zimbabwe,Port Peter,FEMALE,60.0,Tertiary,Employed,completed,2026-05-14T10:41:34,field_tool,1,Bad,5,Low,3
+53c76dab-98f4-439e-8cc9-bdb8574eb893,720d1074-e87b-475b-bfda-18cff4ea0a4d,survey_397,Zimbabwe,Lake Miranda,Female,40.0,Secondary,Unemployed,completed,2026-05-14T10:42:30,field_tool,5,Bad,1,Medium,4
+312f116b-9607-4286-a999-c96abdd2dddf,712c9b84-2fc7-488e-8919-b3c7f9198bfe,survey_952,Zimbabwe,Lake Justin,Male,26.0,Primary,Self-employed,completed,2026-05-14T10:41:39,field_tool,3,Good,5,Medium,5
+70b21da9-064c-4062-a194-8100d77979b3,a065abf1-7c0b-49db-868d-1dfae58412f3,survey_559,Zimbabwe,West Nathan,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:45:11,field_tool,2,Bad,2,Low,3
+09c41697-3bbf-4c19-b3b1-141264cb57b2,bb6787fd-ffda-48fe-831e-953909449aaa,survey_748,Zimbabwe,Port Alan,Male,28.0,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,3,Very Good,1,Medium,4

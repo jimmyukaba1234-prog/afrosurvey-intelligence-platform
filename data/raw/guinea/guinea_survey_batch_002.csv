@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+a6f6fc30-cb8b-4749-91b6-552ed2349766,c34d627f-d848-4d22-82f3-99bb6fc247ed,survey_743,Guinea,Adamburgh,Male,45.0,Secondary,Employed,completed,2026-05-14T10:43:23,field_tool,2,Very Good,3,High,4
+8ca7be20-2feb-4838-bcbf-747ac4ab7920,5a3094f1-30b9-4ead-9fbc-c5f0b19c4b30,survey_189,Guinea,West Eric,Female,46.0,Secondary,Employed,completed,2026-05-14T10:42:41,field_tool,2,Good,2,Medium,5
+e1649b97-cd66-4200-b10e-0051adc85ff8,8e96ac56-1618-40fc-a2a8-bf43576baa21,survey_568,Guinea,East Lisa,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:43:21,field_tool,4,Neutral,4,Medium,4
+857fc02b-aba4-4229-aa12-a2190234882a,1699d28a-d4c4-46d3-a706-0974b8498f8c,survey_414,Guinea,New Jonathan,Female,63.0,Tertiary,Unemployed,completed,2026-05-14T10:40:43,field_tool,1,Good,4,Medium,1
+be34fb7d-3f26-45ee-bc8c-10d7d367e818,583cc91a-5c2e-4c46-b01c-3c95dcf36167,survey_502,Guinea,Port Alanstad,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:42:00,field_tool,2,Very Good,2,Low,3
+1bc321f4-aa96-4a7b-9eed-29eb6fb85fe4,f7bdf0fd-dee8-4c08-a1ed-17e4ee02fe41,survey_520,Guinea,Kendrafort,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:42:34,field_tool,5,Bad,1,Low,3
+45a5a0d0-9e26-4fb4-b652-68ae9dc6a9b2,e711d038-66e7-4e38-9e27-8d8001b2634a,survey_539,Guinea,New Rebeccahaven,Male,22.0,Tertiary,Unemployed,completed,2026-05-14T10:41:09,field_tool,5,Good,1,High,4
+812b4d54-4064-4975-88eb-edeaea111f56,2806d3e5-7048-44f2-8363-f8eeb276b405,survey_332,Guinea,Jonesfurt,Male,27.0,Secondary,Unemployed,completed,2026-05-14T10:41:17,field_tool,1,Good,3,High,2
+138c2770-7c21-49da-810d-ae632f81bd7e,b1385e6f-0859-49f0-8e8d-ebc9349d17d8,survey_593,Guinea,Lake Christine,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:43:51,field_tool,4,Neutral,3,High,4
+3ac01491-ebc5-4182-bdc2-b1f57026864f,bbb9c175-1af6-4451-afb1-398b878d2cfa,survey_867,Guinea,East Richard,Male,70.0,Secondary,Self-employed,completed,2026-05-14T10:41:02,field_tool,3,Very Good,1,High,2
+2d4b1f09-51a4-40ba-b047-881d05a08cc3,279734d3-3e6c-4ac9-bf59-6bcb7388873d,survey_867,Guinea,Martinezmouth,Male,68.0,Secondary,Unemployed,completed,2026-05-14T10:43:20,field_tool,3,Bad,1,Medium,4
+62d25839-da11-4896-8e9e-fd9f6058a8d1,e1d08b54-6f35-4934-8a9a-870e706017d2,survey_725,Guinea,Rhondahaven,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:44,field_tool,2,Good,1,Low,5
+92bfd3d4-27d4-418a-8611-16ce42efa4cc,4afb483e-d832-4435-a272-719094a46fd4,survey_873,Guinea,Medinamouth,Female,71.0,Tertiary,Self-employed,completed,2026-05-14T10:45:08,field_tool,3,Bad,4,Medium,4
+38806fc9-fe6e-475d-82a0-1224507d704e,4b522d57-c0a7-4a27-b532-ac23b4d57cd5,survey_353,Guinea,New Keith,Female,54.0,Tertiary,Employed,completed,2026-05-14T10:44:51,field_tool,1,Good,5,High,5
+2a3db303-5842-4601-b0fd-8b9793a69f05,12ab21e5-c990-4529-b1a2-48049c4ea246,survey_163,Guinea,South Tracy,Female,72.0,Secondary,Employed,completed,2026-05-14T10:45:07,field_tool,4,Good,3,Low,3
+0202bc6d-6a3b-4177-b207-3800882e7690,fcfa005d-2830-4b56-beb2-12b7e283effc,survey_964,Guinea,Ortizview,Male,22.0,Secondary,Employed,completed,2026-05-14T10:44:50,field_tool,1,Neutral,2,High,4
+06b29bfb-44fe-4ee3-bcdb-cc72ed176c13,e8ea474d-012b-4449-a06c-5f09f6c48c4a,survey_710,Guinea,Jerrychester,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:43:25,field_tool,4,Very Good,2,Medium,2
+de260924-8d61-49c2-a1be-fbbcdf7f0834,c364c6ff-3590-4433-805b-7c77a56b3436,survey_574,Guinea,North James,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:43:04,field_tool,1,Good,5,Low,1
+bac9b9c4-fb7a-467f-bdc4-5ad446510714,b613e519-b691-48fb-a6e5-a2fc1f99eadd,survey_671,Guinea,Port Daniel,Female,64.0,Secondary,Employed,completed,2026-05-14T10:43:31,field_tool,3,Very Good,5,High,1
+1c2a0b1a-d370-4cb3-8973-991472bddbf9,3e4a9853-576f-4394-83ca-d65998ccaae2,survey_490,Guinea,Blakeborough,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:44:24,field_tool,3,Very Good,3,High,2
+152ec472-2000-486b-8f66-3fb2cb2871bc,307d474c-38bb-4034-88b4-fdb1ae3b0ab2,survey_112,Guinea,North Destiny,Male,48.0,Tertiary,Unemployed,completed,2026-05-14T10:45:21,field_tool,3,Good,4,High,5
+c9f4298c-988e-4d36-90a2-fd0c7d0ea972,1888b324-ba63-4893-a314-dce1f0ff606e,survey_717,Guinea,North Raymondview,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:44:17,field_tool,1,Bad,5,Medium,2
+59d74558-2b04-45f1-87af-b9d883c18dad,3fe140e4-2853-41c8-82e6-9e89d15ba370,survey_593,Guinea,Taylorton,Male,62.0,Primary,Unemployed,completed,2026-05-14T10:40:42,field_tool,2,Very Good,1,Low,2
+9b343f93-950e-4365-8f3e-2610bb5bae6c,80300bac-38da-4624-98d4-70d7df0dc871,survey_821,Guinea,Stephanieland,Male,64.0,Primary,Employed,completed,2026-05-14T10:40:37,field_tool,3,Good,2,Medium,2
+a8f73405-cbcd-43cc-bb0a-86753afe3fd7,e2a2be81-c65f-4b54-86a9-fe935a864729,survey_983,Guinea,New Timothy,Male,36.0,Secondary,Unemployed,completed,2026-05-14T10:40:29,field_tool,4,Neutral,1,Medium,5
+4db08879-8bc3-4191-b976-8bdad89b0a99,42954e0c-3efe-43b3-bc14-76635c06d8c9,survey_879,Guinea,Port Lonnieland,Female,68.0,Primary,Self-employed,completed,2026-05-14T10:39:52,field_tool,1,Neutral,5,Low,3
+40c8129a-0adc-4cd8-a199-0b12148bab5a,6d227438-c65f-49b0-a0a9-154dac7ae1c0,survey_221,Guinea,New Robertburgh,Female,71.0,Tertiary,Employed,completed,2026-05-14T10:41:41,field_tool,1,Bad,3,High,2
+8ef22cc4-dfef-4a73-b05e-3629419c376a,0f423f8a-5a6c-427b-a14b-58b8b739b772,survey_478,Guinea,Randyberg,Female,73.0,Secondary,Self-employed,completed,2026-05-14T10:43:11,field_tool,2,Very Good,4,Low,1
+48faada8-7b84-4352-a1ee-ee27770d24ce,2cb1e1bd-a72c-4899-bd25-f1a7e9b07bc1,survey_466,Guinea,West Michelle,Female,21.0,Primary,Self-employed,completed,2026-05-14T10:43:54,field_tool,5,Very Good,4,Medium,4
+add2726b-f0c8-4751-a20f-3741deca8ea9,21bf724e-9ae9-4391-a39b-e4bc8d5ca266,survey_824,Guinea,West Daniel,Male,73.0,Tertiary,Unemployed,completed,2026-05-14T10:44:22,field_tool,5,Good,2,Medium,1
+b3ba2459-bb66-4cc7-9ca1-71aab7845b4f,de6b51a5-257b-42de-b241-6aedfe3dc3e5,survey_858,Guinea,Nixonville,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:41:46,field_tool,3,Very Good,3,High,2
+97b5b339-4c2f-4d0c-aae8-a6c67b0cd382,6a7298c1-f499-4f1e-8b09-6487565c9f6a,survey_208,Guinea,North Bruce,Female,67.0,Primary,Employed,completed,2026-05-14T10:42:09,field_tool,2,Bad,3,Medium,5
+122d5ad5-bb3b-407b-99b7-ebfe5dbf5a0f,ddcf879a-52b5-404b-93cf-9b2c087d8e15,survey_133,Guinea,Richardshire,Female,44.0,Primary,Self-employed,completed,2026-05-14T10:43:55,field_tool,3,Good,3,Low,3
+229b7634-43a3-4536-96b8-fe56f2e9f633,6509ff92-0485-472c-a6cf-f4a0ec58c1c4,survey_977,Guinea,Lake Christina,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:44:09,field_tool,4,Bad,1,Medium,4
+9f0013a4-d161-40c3-85eb-fa822866076a,ffb377bc-9078-4212-8983-fd671075ac32,survey_297,Guinea,Dayburgh,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:43:17,field_tool,1,Bad,1,Medium,1
+d372ea95-2099-4946-8ce2-1af417351d94,eeca93ec-6b1c-49c3-a549-fe0987edf6c6,survey_841,Guinea,Brandonside,Female,61.0,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,4,Bad,2,Medium,1
+cc30422d-79ef-43e8-8882-48295588052e,c346e02a-17cb-4b96-8d66-796b6b330d06,survey_107,Guinea,Hawkinsburgh,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:40:39,field_tool,3,Neutral,1,High,1
+da71036c-bb63-428f-bfe6-37d8a6a4ebf8,f42d6d00-7149-4c4f-8abe-b05c4a791f0b,survey_137,Guinea,South Valerie,Female,50.0,Primary,Self-employed,completed,2026-05-14T10:40:08,field_tool,4,Very Good,3,Medium,1
+a54ac8f7-092b-4221-9a04-164ac26f9ae5,741081a8-f941-486e-af97-612386842d76,survey_241,Guinea,West Karenshire,Female,75.0,Tertiary,Employed,completed,2026-05-14T10:39:50,field_tool,5,Good,4,Medium,3
+cb121950-0900-4238-92e5-740ffaa3ee4a,9a4f421e-0290-420b-9e7e-b52031ec3c1c,survey_854,Guinea,North Robin,Female,63.0,Secondary,Unemployed,completed,2026-05-14T10:42:35,field_tool,4,Good,5,Low,1
+a55d8e7a-3162-40f6-8d4c-9f9ffbe1ccb0,aa3af6b7-bd2a-4da3-8a5c-6f9ad873ef5a,survey_962,Guinea,Thompsonton,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:43:47,field_tool,3,Bad,3,Medium,1
+0a31a3c1-a8cc-4062-b1be-6870d6eca7de,fc258627-2d61-477a-a1ea-f52e01dc93be,survey_959,Guinea,Travishaven,Male,42.0,Secondary,Employed,completed,2026-05-14T10:42:28,field_tool,3,Bad,1,High,1
+ab2451b0-a0d6-48ec-8e29-1e5080b10201,9faae3df-72ea-4f6d-a73d-25c1e48f5d7f,survey_931,Guinea,North Jerry,Female,19.0,Primary,Employed,completed,2026-05-14T10:43:37,field_tool,2,Bad,2,Medium,4
+0a2355ba-bd6f-455d-9572-693f85172b9d,e3c72dd6-1e01-4875-886f-5fed3a79374e,survey_863,Guinea,Sheilaberg,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:44:46,field_tool,5,Very Good,1,Medium,3
+23f70b22-ebae-44e1-b978-ffe661d6864a,2c44888c-350b-4ad6-9380-7ba7c8e024f0,survey_737,Guinea,New Shawn,Male,21.0,Tertiary,Employed,completed,2026-05-14T10:45:28,field_tool,1,Very Good,2,Low,5
+c3366569-b2c7-4361-99c8-4c227e607e57,53f616ee-c556-4c04-b6cd-5a042cb61d24,survey_639,Guinea,Benjaminport,Female,29.0,Secondary,Unemployed,completed,2026-05-14T10:44:44,field_tool,1,Good,4,High,2
+2c2326d1-2478-4e5c-a489-51f3284918b1,3fb2c37c-ad0c-4f25-9a7e-6419abb75c29,survey_194,Guinea,Tracystad,Female,36.0,Secondary,Employed,completed,2026-05-14T10:42:10,field_tool,1,Bad,2,Low,3
+5fccfffa-9f90-4822-8b5a-00f26665135e,8180098a-15d7-4f31-a410-f7a93c16e6e6,survey_646,Guinea,Cobbstad,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:44:48,field_tool,2,Good,5,Medium,2
+670e867c-456b-4f0a-91ae-21e56689c4b2,0d573748-8bcb-47d2-b45b-89ba44ad0ca1,survey_313,Guinea,South Lisashire,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:41:09,field_tool,3,Neutral,5,Low,2
+332a952e-1bad-47cd-bd47-60a6d366c8f0,c0e6c31e-4504-4404-bb7a-3a14bc87b2c3,survey_767,Guinea,Robinsonchester,Female,42.0,Tertiary,Employed,completed,2026-05-14T10:44:47,field_tool,3,Bad,1,Medium,2
+db96134b-ac6a-40e9-855b-5c1b88020b55,7a60e32a-3dff-42aa-85f3-1c88d5f96647,survey_508,Guinea,Michaelstad,Female,68.0,Secondary,Employed,completed,2026-05-14T10:45:12,field_tool,4,Good,2,Low,2
+7aad1a0b-11e0-4d98-a69f-55c6685f2e40,eb0981b6-d4e2-4024-87b7-6f3c045e92f9,survey_513,Guinea,Amyside,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:43:53,field_tool,3,Bad,3,Low,2
+383e39e6-e619-4893-a362-c148ec408da4,dfdf7727-037c-4216-89e7-bfe15c61fd8d,survey_244,Guinea,Adkinston,Female,53.0,Secondary,Unemployed,completed,2026-05-14T10:44:56,field_tool,2,Neutral,1,High,5
+dff88158-c332-44bc-9c49-cbe4255d780c,30337244-bb53-4061-8de0-d07194c02a1f,survey_893,Guinea,South Kristineville,Male,27.0,Primary,Employed,completed,2026-05-14T10:45:03,field_tool,4,Very Good,1,Medium,3
+58ff3ac2-4f88-4f3c-82e7-e77369e0144d,3a1e1132-cb29-4e3d-93ea-e6bae0f9eeb1,survey_824,Guinea,Victoriahaven,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:39:42,field_tool,2,Bad,1,Medium,2
+4c7b4c40-b6f6-46ff-804f-03528a781bfa,3c89bca4-35a0-4637-b164-e87948627ff2,survey_741,Guinea,Port Katherinechester,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:44:38,field_tool,5,Neutral,4,High,5
+17070c09-499a-48f8-b317-71338ee1c7bb,1d937e25-04b4-4a56-83bf-95236ba77cab,survey_734,Guinea,North Larrytown,Female,30.0,Secondary,Unemployed,completed,2026-05-14T10:40:27,field_tool,1,Neutral,1,High,2
+849abc38-0391-468a-a4ad-1f55866534ed,332c6797-ad5b-4ba7-9e3a-e7ede2fbdf5f,survey_539,Guinea,West Jacob,Female,51.0,Primary,Unemployed,completed,2026-05-14T10:43:23,field_tool,5,Good,1,High,2
+6f659b6f-a053-42dd-829f-25b4c5aa7510,cf3844ad-2c95-4efa-bc78-bdee2a97f399,survey_487,Guinea,Brownshire,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:41:27,field_tool,3,Neutral,4,Low,4
+069af542-e012-4972-993a-34aced3c83d7,be450d5b-6342-418d-bd5c-7a5b13c76f08,survey_239,Guinea,Davidfurt,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:43:05,field_tool,2,Good,1,Medium,1
+f823fdf5-9992-4c22-8ad9-6b918ad88fe2,3b298d59-3a0a-481d-afd7-3b67d67f423a,survey_183,Guinea,South Codyton,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:44:22,field_tool,2,Neutral,5,High,3
+4e29044c-6f6e-4d34-a7c8-2de6f5453045,1afbbe0b-30b7-47cb-a7fa-557ef4145465,survey_588,Guinea,North Thomasmouth,Female,21.0,Tertiary,Unemployed,completed,2026-05-14T10:40:42,field_tool,1,Good,3,Medium,3
+2268b28a-0979-44cc-ade9-68190499f040,4b8be2a2-9503-4bc6-8b40-526b9a20f59a,survey_992,Guinea,Stevenview,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:40:04,field_tool,1,Neutral,1,Medium,3
+bba2df49-f67f-4c4a-a4c8-b5288a8969ba,9a8d9ca3-1c31-4133-832d-497b559e7481,survey_630,Guinea,Anthonyland,Female,24.0,Secondary,Employed,completed,2026-05-14T10:44:47,field_tool,5,Very Good,5,High,2
+a4e7a4d0-725a-4a90-a273-f00154366633,0174386d-02f9-4c9c-b5b2-446ae55f6b6d,survey_269,Guinea,Robertmouth,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:41:40,field_tool,1,Very Good,4,High,3
+f54de5ec-e354-4ae7-b0cd-1057b0ac55cf,cd752ade-2844-49d6-9bad-29aaa33f7fd3,survey_869,Guinea,Cuevasstad,Male,73.0,Primary,Self-employed,completed,2026-05-14T10:44:47,field_tool,5,Neutral,4,Low,4
+18c0516e-fd19-4dfa-8c7a-4d4155190a70,ccbe0940-78ca-4d0e-9647-7c455e7c0b07,survey_476,Guinea,Allenburgh,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:41:56,field_tool,5,Good,4,Medium,3
+82e4305e-6edd-440d-a7d1-7c21d320646a,f1fac66b-a6f3-47af-bd64-10281c036ebe,survey_355,Guinea,East Janethaven,Male,38.0,Tertiary,Employed,completed,2026-05-14T10:42:53,field_tool,2,Neutral,2,Low,4
+12d53b17-6bf8-4d38-8872-f87f85b87106,0de813df-190a-4307-be87-02cd7a9b9f90,survey_552,Guinea,Perrychester,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:39:52,field_tool,3,Good,1,High,5
+76236c98-6bfa-49fd-8835-411800bd7f91,2ae87613-94c4-4fa8-8b7b-78a72b24e201,survey_736,Guinea,West Nicole,Male,45.0,Tertiary,Unemployed,completed,2026-05-14T10:43:26,field_tool,2,Neutral,2,Medium,2
+03dd05be-e167-4b42-a94b-f0bb5d80cf06,aa0f14a8-14c6-46e2-899c-c7c2719c872d,survey_261,Guinea,Bethanystad,Female,36.0,Tertiary,Unemployed,completed,2026-05-14T10:43:42,field_tool,4,Bad,4,Medium,5
+19acc447-2364-4c70-a2ea-ccaf9a29ea83,310f83a6-564e-47d8-bf95-8cc715e00ea2,survey_467,Guinea,East Jennifer,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:45:30,field_tool,4,Neutral,4,High,3
+ab4edcfb-604d-4fef-9149-ea46f77fd213,d8d79d83-9e3e-4bd3-ae12-63bb9fc1673b,survey_458,Guinea,Bensonstad,Female,41.0,Tertiary,Self-employed,completed,2026-05-14T10:41:04,field_tool,3,Bad,5,Low,1
+f313a9cd-44c3-450e-80db-5b94f45fef2b,50df607e-1f3c-49ca-bc2a-dd9a64cdca8e,survey_358,Guinea,Acevedohaven,Male,48.0,Secondary,Self-employed,completed,2026-05-14T10:45:00,field_tool,5,Good,5,Medium,2
+1a5dd9e5-3684-490a-b359-da788ffcc77c,ecad8838-d80d-4ffd-a8fd-5008b40106ea,survey_171,Guinea,South Lisaside,Male,73.0,Primary,Employed,completed,2026-05-14T10:41:48,field_tool,5,Neutral,2,Low,1
+ca899edd-9e5f-4862-a9b7-26546173be81,1b1b9803-f886-44fe-ba33-aa9719400fb9,survey_203,Guinea,Michelleville,Male,71.0,Tertiary,Unemployed,completed,2026-05-14T10:40:28,field_tool,4,Neutral,3,High,5
+66e926c0-7b2b-42cb-a4c7-a87e3551fe30,b92b6c23-2998-4aae-8210-1b3a1112ae27,survey_130,Guinea,Darrenport,Female,61.0,Primary,Self-employed,completed,2026-05-14T10:45:40,field_tool,5,Neutral,2,High,2
+6299facf-2193-47d3-a23a-09b644f237ec,fe76d3e5-4fcf-4b1c-8031-3984ce53cccf,survey_612,Guinea,Oliviachester,Female,69.0,Primary,Employed,completed,2026-05-14T10:43:26,field_tool,1,Very Good,3,Low,5
+73ebf198-39a4-4701-9974-ff419d9e4d75,ac3c498f-ea51-4c9d-9309-749d378266d4,survey_635,Guinea,South Charles,Female,18.0,Secondary,Employed,completed,2026-05-14T10:43:41,field_tool,3,Neutral,5,High,1
+59d95520-7986-41e1-8639-a444213b15ac,b6c5f197-e280-4a23-9770-2e6ee54cb568,survey_771,Guinea,Christophertown,Female,39.0,Primary,Unemployed,completed,2026-05-14T10:45:30,field_tool,2,Neutral,4,High,2
+ba0cef62-c3b1-4a22-b028-4cca3b5a492d,52389ed8-98dc-47f9-a6fc-4c9b68ed0c12,survey_494,Guinea,Rebeccamouth,Male,57.0,Secondary,Unemployed,completed,2026-05-14T10:45:16,field_tool,5,Good,3,Low,3
+1208296f-c12e-4a52-af7e-05cd1f547728,79c0009b-5a15-4e27-8af1-934e0db27d4f,survey_676,Guinea,East Jonathanville,Female,62.0,Primary,Employed,completed,2026-05-14T10:45:13,field_tool,3,Good,5,Low,5
+9f23b08a-40ea-480d-8cd1-ae379f08028a,eee23b99-173c-460b-8b88-2c8afb006331,survey_477,Guinea,Powellland,Female,75.0,Secondary,Self-employed,completed,2026-05-14T10:43:37,field_tool,1,Very Good,2,Low,5
+d37a589d-332f-466c-9120-4c1d85785509,34cfd7b1-1ab1-4b94-a30f-51d20767c4b4,survey_525,Guinea,North Daleberg,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:43:32,field_tool,3,Neutral,2,High,1
+160313db-153f-4780-a340-e7e857f6364b,db69f162-38be-4cd2-8842-0c39369566b7,survey_236,Guinea,Lake Stephanieland,Female,46.0,Secondary,Employed,completed,2026-05-14T10:43:33,field_tool,4,Bad,1,High,1
+1317a59b-6eee-47af-a480-98c381c4af37,3e9062a7-f001-477f-8794-bf3b298ea5e0,survey_474,Guinea,Theodorefurt,Male,36.0,Tertiary,Self-employed,completed,2026-05-14T10:42:44,field_tool,2,Neutral,2,Medium,2
+aca6e5f2-eadb-4d03-bc36-877c1b390ef6,4270710e-6c01-43a5-96ad-4e6ff47c1797,survey_164,Guinea,North Bryceland,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:45:21,field_tool,3,Very Good,5,Low,4
+9031e0d0-e8c8-41ce-b15f-147244cef695,ee0d0354-a663-43a1-9a22-505cc64bc7b1,survey_505,Guinea,Kellyberg,Male,40.0,Secondary,Self-employed,completed,2026-05-14T10:43:05,field_tool,4,Very Good,4,High,2
+55b2d766-b9fb-4ff6-b7da-66dafd02f7ba,e4f3ada1-b5a8-4861-8ea7-fc22b9094ff2,survey_679,Guinea,Tranberg,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:42:09,field_tool,2,Bad,2,Medium,4
+07fd3ab5-5d78-4c32-a210-c01bb8a9f80f,debce18f-6bd0-4587-9f7b-1b5a133b1bed,survey_690,Guinea,Jamieburgh,Male,54.0,Secondary,Self-employed,completed,2026-05-14T10:42:16,field_tool,4,Good,1,High,2
+a19058b8-4add-455c-8a11-b79aa880f798,fc9a1ff4-b515-4d4c-a929-b118f5dc5ffe,survey_278,Guinea,Port Davidfort,Male,48.0,Primary,Self-employed,completed,2026-05-14T10:42:23,field_tool,5,Good,5,Low,4
+2bd4addb-5957-45e0-a0ee-35b22ce758dc,65503df5-a8ac-4e8c-8aa9-040ae0adad94,survey_545,Guinea,Thomashaven,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:40:55,field_tool,2,Good,2,Medium,3
+84503d14-8862-402f-8c24-81466f00214c,d7cc2646-f3cc-44e5-ba94-3e45207e73da,survey_913,Guinea,Lake Ronaldport,Female,52.0,Secondary,Unemployed,completed,2026-05-14T10:40:45,field_tool,3,Good,5,Low,5
+1ae7f5f6-92db-4dd7-84be-8580f7d78d33,1448b067-cbed-4db9-92c2-ef31be0a3d76,survey_627,Guinea,Knappview,Female,52.0,Tertiary,Employed,completed,2026-05-14T10:43:05,field_tool,5,Bad,5,High,2
+2bb58def-58c2-4f59-ad38-9e938903df46,ce837e3c-84bd-4077-b96c-c3a80e084ce5,survey_841,Guinea,Coreymouth,Male,42.0,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,4,Good,3,High,3
+33f6a733-2faa-4b0e-b3f6-7f42408e06e3,eb5a83dd-4771-424f-bcf1-e41b261847b1,survey_882,Guinea,Myersberg,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:40:14,field_tool,2,Good,1,High,2
+bbd44f97-40d2-4bda-8ae0-7bb8634eac1e,496035f2-7ec8-4a51-80e9-a3aad872c46a,survey_305,Guinea,Scottborough,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:41:40,field_tool,4,Bad,2,Medium,5
+fb2809fd-d68f-4b3f-891b-e30d6e90aec8,c0873379-6ee3-4080-b251-e040193a8a83,survey_355,Guinea,Beverlymouth,Female,30.0,Primary,Employed,completed,2026-05-14T10:39:45,field_tool,3,Neutral,4,High,1
+4cbea7eb-46c1-4066-aff7-3f6d06726162,52d609e8-c774-4124-88a2-b53b6e1e3022,survey_944,Guinea,Daleborough,Male,57.0,Secondary,Self-employed,completed,2026-05-14T10:43:44,field_tool,4,Very Good,3,High,4
+5310fef4-5632-4ac8-9324-1738aba51a39,a73c5546-edae-40a6-bfd9-5dd6fafb7a3f,survey_633,Guinea,East Darleneport,Male,61.0,Primary,Employed,completed,2026-05-14T10:45:09,field_tool,4,Neutral,5,Low,1
+37fa0569-6f30-41af-b64c-8ca4dddee281,ca2d6883-e282-4da3-be2a-1c206cdfee4d,survey_804,Guinea,Lake Daniel,MALE,38.0,Tertiary,Unemployed,completed,2026-05-14T10:45:31,field_tool,4,Bad,5,Low,5
+949ba4ce-acbd-4372-899f-1c572fc34a8e,8b17251e-7f11-4d61-b24c-7474030aaf26,survey_757,Guinea,Lake Timothychester,Male,42.0,Tertiary,Unemployed,completed,2026-05-14T10:44:36,field_tool,1,Neutral,1,Low,1
+e71c5e15-e3f7-4cb1-adfa-c0236bf3eba1,523c1c6d-bfd9-4319-af3b-6dcdd5ea93eb,survey_305,Guinea,Adkinston,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:40:38,field_tool,3,Very Good,5,Low,4
+a887a851-5d72-4a67-98ad-d6d13c173c58,86e221b5-c416-4320-8cfc-86438eb39c32,survey_957,Guinea,North Joshua,Male,42.0,Primary,Employed,completed,2026-05-14T10:45:37,field_tool,4,Bad,2,Medium,4
+cc32306c-758b-4c04-9676-cfb4cf2d2435,dbd189c6-a24d-49bf-929d-29d4ac764828,survey_971,Guinea,Daniellefort,Female,48.0,Secondary,Self-employed,completed,2026-05-14T10:42:17,field_tool,5,Neutral,2,Low,1
+6d71f730-c78d-45b1-b5fe-29f9e0ba3987,3cf54bcd-3d8d-4cb5-bf91-31c2d67af5b3,survey_739,Guinea,Jacquelinestad,Female,48.0,Primary,Unemployed,completed,2026-05-14T10:45:16,field_tool,1,Good,4,High,2
+2966130d-8470-489d-a87f-2ba2874bae86,9bd42fc0-db46-4f3e-a72c-fa01d46c7b72,survey_790,Guinea,Wrightfort,Male,52.0,Primary,Employed,completed,2026-05-14T10:39:58,field_tool,4,Very Good,2,Low,1
+8d65d366-ab74-4fc4-b133-49d4b64ac061,8080a74e-6d33-465e-aa33-d95b1801ea1d,survey_796,Guinea,Ericstad,Male,26.0,Secondary,Self-employed,completed,2026-05-14T10:41:44,field_tool,4,Bad,5,Low,3
+1a9327b6-9069-4233-b957-2467bea8aa0e,d77bc91f-cf03-4a18-aa6f-4fc91395b66f,survey_300,Guinea,Roblesmouth,Male,40.0,Primary,Unemployed,completed,2026-05-14T10:40:05,field_tool,3,Good,3,High,5
+cda3fb5a-512c-4836-a3d9-2f415c7e0217,cb8fc990-010c-40f6-bbc5-f2d1410d8e0b,survey_988,Guinea,South Andrew,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:40:40,field_tool,1,Good,4,Low,1
+b7c501d7-aaf2-4906-819b-375de74ac4cf,65d8106a-9f12-4b5c-93d5-548284b1e722,survey_258,Guinea,Adamstown,Male,26.0,Secondary,Employed,completed,2026-05-14T10:44:58,field_tool,1,Neutral,1,Medium,5
+016123d6-a8ed-4859-b772-f2f3bd9aab7a,057062c3-908d-4427-ab4d-8b6b5bc49f3f,survey_519,Guinea,Jenniferstad,Male,22.0,Secondary,Employed,completed,2026-05-14T10:39:57,field_tool,5,Good,4,High,2
+89dbdc68-bba7-40a5-ab92-5332179f6cb6,ebf493fb-7bab-4550-99a0-32049955a3e1,survey_648,Guinea,New Carlos,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:41:57,field_tool,1,Neutral,2,High,1
+c09815d8-9079-48f2-b48c-ca763fc5e489,63fc7a91-273f-4b36-badc-22437268dcfb,survey_652,Guinea,Wagnerfurt,Female,70.0,Tertiary,Self-employed,completed,2026-05-14T10:41:26,field_tool,5,Neutral,3,Medium,2
+b3c41ef8-bec5-45f9-a8b3-6886cade002a,9b08d505-9b39-434e-a0f6-aae6bdb2dc52,survey_979,Guinea,West Chase,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:45:06,field_tool,1,Good,2,High,5
+160f41cc-e54b-4d49-a3f4-82518965dc1e,58a909e7-98c9-4885-9723-7eb918480ab5,survey_963,Guinea,Austinfurt,Male,21.0,Secondary,Employed,completed,2026-05-14T10:41:11,field_tool,4,Very Good,5,High,2
+1f01d984-4ba4-411d-a5af-44c924bfa207,a5658d53-8346-4526-bceb-742fbd5b3e9b,survey_482,Guinea,New Tiffanyton,Male,32.0,Secondary,Employed,completed,2026-05-14T10:43:02,field_tool,2,Neutral,1,Low,4
+74e16883-819a-496b-885c-74ef62fd4d0c,16caaa17-338d-4b87-8c8f-284b8096e30d,survey_214,Guinea,East Susanville,Female,42.0,Tertiary,Unemployed,completed,2026-05-14T10:43:36,field_tool,2,Very Good,4,Medium,4
+4fb8866b-de56-4ca6-9025-9606253a409d,9a48f547-550d-4e31-9523-2c53efc1cfaf,survey_254,Guinea,New Edgar,Female,19.0,Primary,Self-employed,completed,2026-05-14T10:41:03,field_tool,3,Bad,4,High,3
+31e3eeb3-593c-4996-8ab8-dc2534c4523d,14d0c8ec-f4a0-4c33-bdcd-7d8735acc14d,survey_184,Guinea,West Peter,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:43:56,field_tool,1,Bad,3,High,1
+d102fcca-ee47-43ab-869c-e75f796bbed1,d316a07f-0097-4552-98a1-a0be2312a685,survey_615,Guinea,New Melissa,Female,38.0,Primary,Employed,completed,2026-05-14T10:43:20,field_tool,1,Good,1,Low,2
+44f6d0c0-0ea2-4e67-9080-1cfa107e1a56,b066ae7f-2cc3-44d3-acb3-c9441f8fb24b,survey_710,Guinea,Lyonsview,Female,25.0,Secondary,Unemployed,completed,2026-05-14T10:40:28,field_tool,3,Neutral,4,High,5
+1924b1be-640b-4630-a106-f819aab80b26,2ca9ff8f-ca89-4a53-877e-23423081bb69,survey_722,Guinea,Delgadofort,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:41:17,field_tool,2,Neutral,2,Low,2
+b9c2c851-6ecc-4c1c-a645-c2f24dee6256,a68af9e7-50c7-46d7-b398-c9e824db7aa2,survey_711,Guinea,Hallfort,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:41:51,field_tool,3,Neutral,3,High,3
+fc6a7e41-9918-490b-8b51-23424c6d7bbb,19ea4ed0-c8cb-417a-a87f-eb8e2e0dce66,survey_824,Guinea,Jennifertown,Male,25.0,Secondary,Self-employed,completed,2026-05-14T10:44:52,field_tool,5,Bad,2,High,3
+dda12874-e767-453b-8307-dbc77e7be485,70751d9e-08e1-40ae-af65-0efa40ac67a1,survey_370,Guinea,South Jose,Female,40.0,Tertiary,Self-employed,completed,2026-05-14T10:42:50,field_tool,5,Neutral,1,Low,4
+3647bf42-d3b8-4ed6-98ba-e5d72884ae99,10c4f8c6-7491-4fe2-8218-68bfa6448355,survey_193,Guinea,Douglaston,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:45:20,field_tool,1,Good,1,High,2
+c9955b93-3213-4467-9d5c-6f2a68409c69,22cd1168-910b-4f23-bf12-6ca5544c1d53,survey_704,Guinea,Jeremytown,Male,42.0,Tertiary,Self-employed,completed,2026-05-14T10:44:35,field_tool,1,Very Good,1,High,2
+cffd3e3b-62d7-48aa-9d09-03981e95d926,d92fd620-b068-446d-9be0-79895d380561,survey_708,Guinea,Snyderbury,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:43:03,field_tool,5,Bad,2,Medium,5
+f3f5fb4a-ae31-4556-af8c-b3ed0f48b542,2ea0658f-c8a0-4b98-abe1-420c4b9e3f05,survey_708,Guinea,Clarkshire,Male,69.0,Primary,Self-employed,completed,2026-05-14T10:42:39,field_tool,3,Neutral,3,Medium,4
+81e62daa-f7b6-48cd-a345-7d692e75a1c8,85442cb3-38f7-47f4-a622-61d9742e4d92,survey_406,Guinea,South Susanland,Female,52.0,Secondary,Employed,completed,2026-05-14T10:40:46,field_tool,4,Very Good,1,Medium,3
+5c8e9f64-231a-49f5-812f-2561c43edb83,3d464194-15c6-481c-a609-ded1953f2e88,survey_358,Guinea,Daleland,Female,54.0,Primary,Employed,completed,2026-05-14T10:41:43,field_tool,2,Good,4,Low,4
+f48d4c1e-a975-4a79-a90c-297571761eb7,1b5e1be3-0cfc-4e02-b51d-39eaa7d5959b,survey_203,Guinea,South Markstad,Male,52.0,Secondary,Self-employed,completed,2026-05-14T10:45:27,field_tool,5,Very Good,1,Low,5
+f69c7b69-285c-4c6a-ac3c-53dcb73d468b,429821d9-de53-4e47-ad99-46c80b5a9b5a,survey_497,Guinea,Mccannview,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:44:09,field_tool,2,Bad,5,High,4
+0afd78f5-13cb-4392-ba1d-c13c430c9c7b,49d1140c-d000-4a6e-86b4-cd8dd510a9c2,survey_238,Guinea,East Jasonberg,Male,,Secondary,Employed,completed,2026-05-14T10:41:13,field_tool,1,Good,2,High,4
+8fb0434c-6467-4ea9-8259-bca9379b3056,e80679e4-2b8d-4660-9b29-818b3a67db6b,survey_634,Guinea,New Timothybury,Male,21.0,Tertiary,Unemployed,completed,2026-05-14T10:44:09,field_tool,2,Neutral,2,Medium,4
+fde569ca-a45a-4a8f-ac8b-691b55ab3bec,b430f524-e2f0-458c-925e-7af1c0aafc7a,survey_986,Guinea,Brownshire,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:42:16,field_tool,5,Very Good,4,High,5
+24f63337-838c-48e0-92d2-50e3c12fa72f,d5719091-d4ba-45b2-95b3-44dd350b07b5,survey_556,Guinea,East Timothyhaven,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:42:41,field_tool,1,Good,5,Medium,1
+75b8f0a9-de52-40f2-bada-50b23f1697ee,f5733d18-708a-4d5f-a0c3-0f268fd5db9d,survey_184,Guinea,South Christine,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:40:44,field_tool,5,Good,4,Low,2
+2c494497-0d1f-4a36-bac4-360286a50b13,1c923c45-fcc8-496b-b32a-265939a62072,survey_628,Guinea,Cabreraside,Female,66.0,Tertiary,Unemployed,completed,2026-05-14T10:41:16,field_tool,4,Good,5,Low,4
+eb4947bd-2c44-4f56-b838-6c0e83c5c622,0dd87fd5-a645-483e-a033-631523fbaa03,survey_847,Guinea,New Wendyborough,Male,39.0,Secondary,Employed,completed,2026-05-14T10:43:29,field_tool,2,Very Good,1,Low,3
+4f2bcf43-4a80-45d1-8cff-84a1e0b1ced2,9fe57596-1b51-4fc4-9f54-0fc9114ea4fa,survey_931,Guinea,North Sara,Female,74.0,Primary,Employed,completed,2026-05-14T10:44:19,field_tool,1,Good,2,Medium,5
+3015c096-a1c5-444d-bb16-458eb5d69c2b,993bc04f-b6e0-4668-851b-e4734d356704,survey_420,Guinea,New Aaron,Male,45.0,Tertiary,Employed,completed,2026-05-14T10:43:28,field_tool,5,Neutral,1,High,5
+a32dd6c3-2c50-4f1a-9b95-7712e8262609,a667e980-fc0f-4fb7-873f-13a1a350a6e4,survey_267,Guinea,Barronbury,Female,46.0,Tertiary,Unemployed,completed,2026-05-14T10:44:19,field_tool,3,Bad,1,Medium,2
+2a3b78bb-e050-459b-9c2f-78ad8354d1f3,cb002182-392c-4a2d-9880-f8f01f90aaee,survey_605,Guinea,South Bruce,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:41:49,field_tool,4,Neutral,4,Medium,2
+419ba8f2-387b-4c87-8bd0-94a211fd6d20,2b46e30a-654b-47ea-843e-c2bb932a3701,survey_886,Guinea,Meganmouth,Male,44.0,Primary,Unemployed,completed,2026-05-14T10:42:18,field_tool,2,Good,3,Medium,1
+ed82278c-e70a-46a6-a90f-7d17a21865d8,7cffc3db-db37-4876-b08b-042f07fafcfa,survey_542,Guinea,North Manuelbury,MALE,41.0,Primary,Employed,completed,2026-05-14T10:42:43,field_tool,5,Neutral,3,High,4
+96c14872-649c-41c7-a295-956cc0284a1f,81f8fc53-f17d-4f2b-a667-2c4b5268a85a,survey_747,Guinea,Port James,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:41:56,field_tool,4,Very Good,5,High,1
+01df8da0-63ce-4a22-ae62-7df424d96123,aac96e71-19e2-49a9-b93a-1e8f8d40c77f,survey_529,Guinea,Port Williamside,Male,71.0,Secondary,Self-employed,completed,2026-05-14T10:41:12,field_tool,3,Good,2,High,3
+4f0027bf-02ae-414a-8e24-0f31105bc78c,3b7ac2f4-befb-406b-a6e3-8e23908cf386,survey_742,Guinea,Brianberg,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:44:14,field_tool,5,Very Good,2,Low,4
+285c378a-3fe3-4559-8f16-1c0dc09be385,97706f7c-7b32-4ba4-bdfd-da7f47c3de21,survey_834,Guinea,West Zachary,Male,75.0,Primary,Employed,completed,2026-05-14T10:42:42,field_tool,3,Neutral,3,High,2
+fde69321-fe4c-4147-b726-9abb39e2cacb,fdfa85c1-11f5-491a-b6e9-403f381c4c97,survey_352,Guinea,Ronaldport,Female,75.0,Tertiary,Employed,completed,2026-05-14T10:40:32,field_tool,5,Bad,1,Low,4
+9f295864-7027-4c50-bd3b-fc4a93de5d74,ce8e69e4-d98e-400e-a25e-54d9523565e0,survey_177,Guinea,East Julia,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:43:29,field_tool,5,Very Good,5,Low,2
+91920e7c-3b87-4a6c-a82f-0e7c194315b9,69350830-619e-4e10-8421-8cc7c5950fbf,survey_845,Guinea,Beckerfort,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:40:12,field_tool,2,Good,3,Medium,1
+883165c3-c7a6-48b5-9a9d-643043e222f9,b2b6fdf8-a999-4c1a-a3e1-f96ba5069b35,survey_323,Guinea,Lewisbury,Male,36.0,Tertiary,Unemployed,completed,2026-05-14T10:40:27,field_tool,1,Good,5,Low,4
+2e30e93a-2f6f-4307-b90a-6f8ecc0bd5ae,fca68d96-c9ec-43eb-92b4-c39b19910748,survey_997,Guinea,Lake Ryanland,Male,57.0,Primary,Self-employed,completed,2026-05-14T10:40:34,field_tool,2,Bad,5,Low,4
+e0c62257-e4da-4b61-9648-7b2d89721067,55177750-971c-4363-b68a-6338fd3cc4e3,survey_204,Guinea,Juliatown,Male,65.0,Tertiary,Unemployed,completed,2026-05-14T10:44:45,field_tool,1,Very Good,2,High,2
+2d458749-845b-4496-ae98-4c5a36ab649b,b9f52c1c-349f-4fe9-bd75-854f3eb1f4ef,survey_979,Guinea,Port Jameston,Female,61.0,Tertiary,Self-employed,completed,2026-05-14T10:41:38,field_tool,5,Neutral,5,Low,5
+980dbbee-758a-4774-9a12-e35b9bd29eb9,13c1ae4b-9f6d-49cc-be2e-56417cd7aea8,survey_795,Guinea,Smithborough,Male,30.0,Tertiary,Unemployed,completed,2026-05-14T10:43:49,field_tool,2,Neutral,3,Low,5
+5614f268-2295-4fed-9005-b41cfd258b20,3611b153-a6f2-45f6-a18a-d358927e16ca,survey_727,Guinea,South Connorside,Male,75.0,Tertiary,Self-employed,completed,2026-05-14T10:44:38,field_tool,5,Good,5,Low,5
+269e020d-a5c5-4036-a54b-d6cada805971,e56a7d7b-0d04-4933-a10d-f19e231ab6d3,survey_431,Guinea,West Tracistad,Male,51.0,Tertiary,Unemployed,completed,2026-05-14T10:44:05,field_tool,1,Good,3,Medium,4
+c6f4341b-deb1-49d7-b103-30db400cc504,24d5591a-7a10-4eee-8b8a-9c3e212cd4ff,survey_999,Guinea,South Ianview,Female,26.0,Primary,Unemployed,completed,2026-05-14T10:43:30,field_tool,2,Bad,1,Medium,2
+eda3c9bf-017f-456b-ab85-a74cec06c5c1,2081af20-4c6f-416a-b159-8c09f94944ad,survey_636,Guinea,Ryanview,Female,20.0,Secondary,Employed,completed,2026-05-14T10:43:45,field_tool,3,Neutral,5,Low,1
+a637eefb-aeec-46e5-878c-0494715e343e,e10b4445-5c35-4183-a5be-0e503e6beee6,survey_724,Guinea,Brucechester,Female,52.0,Primary,Self-employed,completed,2026-05-14T10:42:29,field_tool,2,Good,3,Medium,4
+3a878345-e9fd-4da7-96e7-ee251ca697df,a91b2218-9356-47f4-a268-25d1d5a059ba,survey_890,Guinea,West Jenniferbury,Male,60.0,Tertiary,Self-employed,completed,2026-05-14T10:42:57,field_tool,2,Bad,3,Medium,1
+406c6c3f-a25b-470a-8d8e-1221e5f8ad48,70efaf74-f0a7-41fc-aa4a-2509ce9c0640,survey_564,Guinea,East Andrewmouth,Male,18.0,Secondary,Employed,completed,2026-05-14T10:41:02,field_tool,3,Bad,5,High,4

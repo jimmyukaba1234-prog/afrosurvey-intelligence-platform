@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+d3eda227-761b-4bff-9d7c-a1ac104c04fa,461de017-1ee9-4d3b-902f-4f5c55e39295,survey_732,Botswana,Port Robert,Female,25.0,Primary,Employed,completed,2026-05-14T10:45:35,field_tool,2,Bad,1,High,1
+67a53358-4a9f-48ca-938d-77302944e599,704c19e2-2a3d-4769-8dac-210d5eb38ef5,survey_274,Botswana,New Billy,Female,64.0,Primary,Employed,completed,2026-05-14T10:40:30,field_tool,3,Bad,1,Medium,1
+198602ff-2c72-40e7-a34e-6aa377adfe27,9cc8f772-a1d7-4199-98ed-0649ca826730,survey_437,Botswana,Stricklandtown,Male,37.0,Tertiary,Self-employed,completed,2026-05-14T10:43:48,field_tool,4,Good,2,High,5
+74f10200-c5c0-40e1-a5be-0096e077288e,2dee003e-01d9-4e96-81a0-204714aa3ca3,survey_871,Botswana,Lake Deniseport,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:43:12,field_tool,4,Bad,5,Low,2
+3fc95aed-20b0-4d83-8ac2-2d3ae7364a85,c5c6ab7d-cad0-4982-8eb2-8a32b189727f,survey_848,Botswana,Schwartzborough,Female,35.0,Secondary,Employed,completed,2026-05-14T10:40:52,field_tool,1,Good,3,Low,1
+50da9d64-6b8d-4199-9407-0f2b8b669e93,734eab10-85e9-454f-855c-f668a3cb9e18,survey_762,Botswana,Allenburgh,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:44:51,field_tool,1,Bad,4,High,2
+b3bc70ce-d897-4289-81a6-8c0b5236ab39,2e1482be-98a5-47b2-89a1-8b34b11184e7,survey_292,Botswana,Salazarland,Male,47.0,Secondary,Employed,completed,2026-05-14T10:45:00,field_tool,3,Neutral,5,Low,5
+60ea72fb-1dbd-4f2a-843c-00901e98df3a,590cee67-4d1b-4d80-8857-5c8ad3946dc7,survey_771,Botswana,Smithbury,Female,37.0,Primary,Self-employed,completed,2026-05-14T10:41:17,field_tool,1,Neutral,2,Medium,4
+cc08733f-af56-4dcc-9146-d46646b3e93d,fa0f01a4-87bb-4f6d-bc92-0c731e14fe04,survey_509,Botswana,New Michaelside,Female,50.0,Primary,Employed,completed,2026-05-14T10:43:58,field_tool,3,Very Good,2,Low,3
+d6e8f90e-8602-4ec8-bc73-80a29d9d4bbe,a05ff5e6-c534-4e41-b6d6-dc3938227b0d,survey_212,Botswana,West Brian,Male,74.0,Primary,Employed,completed,2026-05-14T10:40:36,field_tool,4,Neutral,3,High,4
+b06da083-e26f-40d4-8c43-c19ba727ac7d,d80213ba-af6c-4278-a633-1cc6cbeed3e3,survey_186,Botswana,Jimenezburgh,Female,25.0,Secondary,Unemployed,completed,2026-05-14T10:45:22,field_tool,2,Neutral,4,Low,4
+29b680aa-279e-4c55-928e-3c2c193e2856,a5159982-0dd4-40e6-8b09-9fccec344cf0,survey_150,Botswana,Justinchester,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:41:47,field_tool,4,Neutral,3,High,4
+a53c215e-c311-4f61-a4a8-5a0c131e4386,e3dc419d-ce1e-4d1f-9de7-df7b5594552b,survey_631,Botswana,Williamston,Male,51.0,Secondary,Employed,completed,2026-05-14T10:44:14,field_tool,1,Neutral,1,High,1
+3afd6ee9-0e1f-4e52-96f4-f40b4909ba71,0770d18f-c916-4147-a875-ad5d2d06f862,survey_167,Botswana,Robertsonland,Male,54.0,Tertiary,Employed,completed,2026-05-14T10:41:39,field_tool,3,Neutral,5,Low,4
+75802dd5-10a6-4513-bdef-43fdf4e273a2,946b4482-97bb-4fbf-b1df-c82cb8addf54,survey_808,Botswana,Robertmouth,Female,32.0,Secondary,Unemployed,completed,2026-05-14T10:41:36,field_tool,2,Neutral,2,Medium,3
+3a223664-a098-4327-a180-1c9b3e97494b,3a4fece7-537d-46c6-9c31-aaf3c76aec88,survey_817,Botswana,East Joanborough,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:42:51,field_tool,3,Neutral,2,Medium,1
+fbcef3db-a90e-436f-a96f-19cf49c4d85a,7892d145-12d2-47e6-b87d-5adde43081aa,survey_113,Botswana,Brownchester,Male,75.0,Tertiary,Unemployed,completed,2026-05-14T10:40:53,field_tool,4,Good,1,High,3
+e8bb9619-b598-42fd-bf48-7cdca78b1c27,747a4829-9c03-465c-ad8a-028c3756999b,survey_708,Botswana,South Nathaniel,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:43:33,field_tool,5,Bad,4,High,4
+8a2481b1-7d9f-4f9f-972d-51283d7c897a,5bcc90fc-a1cc-42d8-b1b4-2308b8463413,survey_397,Botswana,Jamesberg,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:39:55,field_tool,5,Neutral,2,High,1
+02fcf163-f439-429e-8f05-095095c03ea8,47d5ac92-0f45-45da-9194-1591b134b58f,survey_852,Botswana,North Melissa,Female,39.0,Secondary,Self-employed,completed,2026-05-14T10:43:33,field_tool,3,Very Good,3,Medium,4
+041eefb2-7799-4a73-a7eb-9a53aaa1a77c,57f498e0-c2a5-4d7b-abd3-d9716b10b786,survey_630,Botswana,West Cassandra,Male,37.0,Tertiary,Self-employed,completed,2026-05-14T10:45:05,field_tool,4,Bad,3,Low,5
+b009db58-1fe6-444e-98fc-c81e48459086,2b80e44a-e7d3-4770-9c8d-1adef3e816b5,survey_775,Botswana,North Robert,Male,44.0,Primary,Unemployed,completed,2026-05-14T10:44:06,field_tool,4,Bad,2,Low,4
+3f5a8387-9455-449e-b6a2-f25a3f91150c,3768c85b-fee3-4baa-9cb9-13b47d3d16ca,survey_486,Botswana,Hoodview,Female,23.0,Tertiary,Employed,completed,2026-05-14T10:39:46,field_tool,3,Very Good,5,High,3
+1843c136-b0bd-4fe5-9484-5905a179038b,df629d0c-bc76-47a0-ad98-a416bae27198,survey_382,Botswana,East Mark,Female,43.0,Secondary,Employed,completed,2026-05-14T10:44:35,field_tool,1,Good,5,High,4
+c25e5812-3c3a-4074-87d8-d29f3a995fe2,977e5877-ed6f-4ee3-a44e-7cd138efa3bc,survey_395,Botswana,New Rachel,Female,68.0,Primary,Employed,completed,2026-05-14T10:43:12,field_tool,4,Neutral,4,Low,2
+a856907b-b7bd-400c-a75e-d26943671361,fdc419b2-0a41-4919-8b52-46f3faed5777,survey_598,Botswana,Quinnhaven,Female,60.0,Secondary,Employed,completed,2026-05-14T10:39:56,field_tool,3,Bad,4,High,2
+7095fb1a-6de9-4801-b0eb-91136e961c2e,7ab16533-64f2-4a7c-87f7-97fa6cfa855f,survey_413,Botswana,South Tylerland,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:44:24,field_tool,3,Bad,1,Medium,2
+dcddf4c7-38af-4989-ad49-0e8272c992ea,bb56588b-b172-4c53-832e-2730c0c9c3ed,survey_781,Botswana,Dodsonberg,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:42:42,field_tool,1,Good,2,Low,2
+d6f3af50-084a-4151-8a78-c43db22ad67c,ffbb4bcc-a5cb-4f6f-bd33-31644bb8ebe2,survey_132,Botswana,North Timothyport,Female,23.0,Secondary,Unemployed,completed,2026-05-14T10:41:01,field_tool,2,Very Good,4,Medium,1
+d23d11ed-6dd8-4533-a429-2df441614bb8,920479ce-dba0-489e-b593-8f5ab40bc353,survey_677,Botswana,South Stevenberg,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:45:39,field_tool,3,Neutral,2,Medium,2
+c76c10f4-2f2e-4ef9-b4c7-fd222a11b061,df1e04cb-ca34-4e3c-af58-9a8167c5b29b,survey_404,Botswana,Courtneytown,Female,37.0,Tertiary,Self-employed,completed,2026-05-14T10:45:00,field_tool,4,Neutral,4,Medium,1
+d589f6da-643c-48ab-bac6-1a6cd8913dcb,b0d508a9-e4b8-4e89-a287-729e12194d94,survey_801,Botswana,Alyssaport,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:43:17,field_tool,4,Good,4,Medium,4
+3cab91c7-1472-4bac-8ef1-b61ac6334853,f2335074-b2b3-4b39-8510-eaadc0bd44c0,survey_190,Botswana,Port Gail,FEMALE,53.0,Primary,Self-employed,completed,2026-05-14T10:44:56,field_tool,3,Neutral,5,Low,3
+13a30ab3-1e47-477b-9ccc-711e35c32fed,eea77ea8-bc5a-4195-95f0-1600e17f348d,survey_400,Botswana,New Sierrastad,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:40:05,field_tool,2,Very Good,1,Medium,5
+0ad0aea8-078a-46f4-885f-20c3920e5410,77215daa-5d97-4cdc-a209-56a81c684db0,survey_949,Botswana,West Michaelside,Female,23.0,Tertiary,Employed,completed,2026-05-14T10:45:39,field_tool,3,Bad,3,Low,4
+da9d404a-9609-4122-bde3-bc6492cf1ed5,c6090b78-b597-4e43-8f8d-d99511274cb2,survey_790,Botswana,East Tina,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:41:41,field_tool,1,Neutral,5,High,5
+d545a91d-dd16-4de3-afb8-58e3310630ce,7a7e8c31-a627-4167-9d12-1daf8a257159,survey_972,Botswana,Port Julie,Female,75.0,Primary,Unemployed,completed,2026-05-14T10:41:34,field_tool,3,Bad,4,Low,2
+201c6eba-2640-46f1-9f9c-88b99f8d52a0,44719067-e5de-408e-9a4b-4fdb5209eaab,survey_223,Botswana,Ramirezland,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:42:49,field_tool,2,Neutral,1,Medium,1
+c8e22e52-b351-44de-82a0-afdcec8d8e0a,805f0892-7c79-4dd9-b3d1-2f3e5860c4f4,survey_595,Botswana,South Jenniferside,Female,25.0,Primary,Employed,completed,2026-05-14T10:42:08,field_tool,5,Good,5,Low,4
+648fec47-a967-4cb4-8b43-1c28be8ead43,ccc67ffd-5e3e-4e60-9ef6-a99f73b4daf3,survey_938,Botswana,East Patriciamouth,female,58.0,Tertiary,Self-employed,completed,2026-05-14T10:40:23,field_tool,2,Neutral,5,Low,5
+0ff0dbe7-4ed7-4d68-9dc5-358b9de2e3eb,2dc69c90-e5df-47af-a403-c4bc14860c2d,survey_202,Botswana,Susanland,Male,36.0,Tertiary,Unemployed,completed,2026-05-14T10:40:34,field_tool,3,Good,4,Medium,1
+59c19616-5d35-452e-8a62-c8cccc71d941,b273f93c-1cad-448a-86a4-2ee12a2e1e6a,survey_390,Botswana,South Edward,Female,45.0,Secondary,Employed,completed,2026-05-14T10:41:23,field_tool,5,Very Good,1,Low,3
+0852fc8d-b83e-4138-af0b-c78ac72b095a,05cf079e-a095-4c4d-b3bd-2348854bc8fa,survey_555,Botswana,Robertside,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:40:46,field_tool,2,Very Good,4,Medium,1
+683a4c2e-ba0e-4cf0-aa11-528d9bbe659f,71a0cff8-6b8d-4340-98c1-58e27951d52b,survey_315,Botswana,West Jaimetown,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:41:37,field_tool,5,Very Good,5,High,2
+0d02df53-7bd5-416a-9308-809e85388293,a50939f1-8505-491d-b28b-ffb9d5bf1edb,survey_570,Botswana,Robertmouth,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:45:14,field_tool,3,Good,4,High,4
+85369922-73ef-44fa-8011-b0a3902735c6,7c743895-5388-4128-896d-525ea5639cf4,survey_689,Botswana,Ellisshire,Female,56.0,Tertiary,Self-employed,completed,2026-05-14T10:40:46,field_tool,5,Good,2,Low,3
+8c12da46-18da-447b-9903-88b3f9cc6946,2bf6f6c4-4e76-44e9-8a12-ba49e5f5cdc8,survey_146,Botswana,Jeremystad,Female,71.0,Primary,Self-employed,completed,2026-05-14T10:42:06,field_tool,2,Neutral,1,Low,1
+b4d1e6df-fed9-4d1c-bf09-5a012b239080,25f98046-0c1d-480e-9873-9636c50e5194,survey_337,Botswana,Justinburgh,Female,48.0,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,1,Neutral,4,Medium,1
+06c2a76b-5f8d-451c-afde-90437ae96ebc,890a83b4-b639-429e-a929-8691ec93e43d,survey_867,Botswana,Ianburgh,Male,25.0,Primary,Unemployed,completed,2026-05-14T10:45:33,field_tool,3,Bad,2,Medium,1
+f8f47886-e9f5-4f99-850f-3a5e3356f064,274ac7a7-cb61-4d75-aa96-4dfbe79b265a,survey_304,Botswana,East Daryl,Female,58.0,Primary,Unemployed,completed,2026-05-14T10:42:21,field_tool,4,Very Good,3,High,2
+1774d9a2-4cc6-47b9-a243-72218b9e3005,42aa0bc7-70de-43fc-a060-917a931414e8,survey_296,Botswana,Jackside,Male,51.0,Primary,Self-employed,completed,2026-05-14T10:39:56,field_tool,1,Bad,2,High,2
+69fe1ed3-4eb2-4648-8a29-672e9f551aa0,58065bae-fa5f-4fdb-9123-39faaa61b32f,survey_985,Botswana,West Shane,Male,44.0,Primary,Unemployed,completed,2026-05-14T10:41:02,field_tool,2,Very Good,2,High,5
+6d2f83b7-8d49-4e72-8e8e-e95a13e77de5,eba18fa8-1f19-485b-8d33-0569889cd33d,survey_672,Botswana,South Sarahberg,Female,40.0,Primary,Employed,completed,2026-05-14T10:43:33,field_tool,4,Very Good,4,High,5
+175afbf7-f446-47f4-9f2f-bdb0f8b8338c,01196e6d-27f3-4b78-91f9-cd77ed850a6d,survey_220,Botswana,Deborahport,Male,51.0,Secondary,Employed,completed,2026-05-14T10:43:41,field_tool,1,Good,1,High,3
+78ce3c73-6b00-4e97-918e-d20e9da3a1cd,f1aa9ba0-f838-41c5-8a32-1d2ae55ec749,survey_992,Botswana,Port Annette,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:43:25,field_tool,1,Neutral,5,Low,5
+daa1b7da-4564-4ffa-a632-c0cdd14a52b0,bb4ccb14-1cc0-4764-b06b-efca56b405d7,survey_213,Botswana,Mcculloughberg,Female,21.0,Tertiary,Unemployed,completed,2026-05-14T10:45:26,field_tool,3,Bad,1,Medium,4
+08f99a50-9134-4f98-8cfe-260b7e9ed7cc,0659010a-4ede-49b6-9deb-979d8d0bb6d7,survey_242,Botswana,Williamsonbury,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:43:27,field_tool,3,Bad,2,Medium,1
+a96adda9-5b22-477e-9874-43edeffa3673,0e16af3f-538c-40ca-97ac-d7e95b7e24ca,survey_712,Botswana,New Alicia,Male,22.0,Tertiary,Self-employed,completed,2026-05-14T10:42:01,field_tool,1,Very Good,2,Medium,1
+468f10f5-4cba-41db-8572-7cd261a34ef0,89d56357-1566-4feb-85c5-bf8d321a6c3f,survey_458,Botswana,Rhodesland,Male,50.0,Secondary,Unemployed,completed,2026-05-14T10:44:01,field_tool,3,Neutral,1,High,1
+f6d478ab-8eba-4a5a-ae87-6ea122b0bacb,51589375-7d8f-4350-b1c7-7a4464f8f226,survey_800,Botswana,Lake Michaelberg,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:43:17,field_tool,5,Very Good,1,Medium,4
+469cc598-8dd6-4214-aa9b-7d1ed33f1132,031eef96-5f71-4cc4-a2d8-46d05ea011cd,survey_218,Botswana,Michaelport,Male,45.0,Secondary,Employed,completed,2026-05-14T10:43:27,field_tool,5,Good,3,High,3
+7763614e-b2e9-46d8-96fd-588d20858581,3737cc38-166c-4d33-8f9f-dc15dfd23d15,survey_702,Botswana,Figueroachester,Female,33.0,Primary,Employed,completed,2026-05-14T10:43:25,field_tool,4,Bad,1,Low,2
+4418541f-d2b7-4840-83b2-300a2dc4b7be,ba5e4066-ce40-424a-a9ee-29f449e3eb48,survey_389,Botswana,Chandlerchester,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:40:50,field_tool,3,Neutral,3,High,5
+154d9361-29b0-43d9-8f43-c446477e9f67,160934d1-9912-4090-9651-6ec2d5e4157d,survey_178,Botswana,East Kevin,Female,25.0,Secondary,Self-employed,completed,2026-05-14T10:44:07,field_tool,2,Very Good,3,High,4
+d981e107-4164-4109-bce9-e45b880a19fd,eee31d47-10ec-46ae-95dd-df38fc9454ae,survey_989,Botswana,Davischester,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:45:06,field_tool,5,Good,3,Low,5
+4eeff692-d125-4e6b-9155-83e0c01dba74,2cc5c9de-6a1d-4731-85f8-e14dea16ce6e,survey_736,Botswana,Pageberg,Male,75.0,Secondary,Unemployed,completed,2026-05-14T10:41:21,field_tool,1,Neutral,2,Low,2
+a180fb92-2473-403d-895c-2673010e1f99,4a1a4219-61bb-45fb-9510-8bc02f9e1ddb,survey_842,Botswana,Williamsport,Female,31.0,Primary,Employed,completed,2026-05-14T10:44:38,field_tool,2,Very Good,4,High,1
+2eafb928-ff45-494f-b79f-aab358f26c01,bd673458-8f2d-4b17-be7d-5e884dcd5534,survey_493,Botswana,Walkertown,Female,35.0,Secondary,Employed,completed,2026-05-14T10:40:57,field_tool,1,Good,5,Medium,4
+2d777df1-7cef-492c-b4df-454dfb8d9ebb,a3fb6d0b-f4be-48b4-8cd7-e6f7433ecd2c,survey_329,Botswana,Martinezport,Male,42.0,Primary,Unemployed,completed,2026-05-14T10:43:12,field_tool,2,Very Good,5,High,3
+f630d736-dcc8-471c-8e05-cda30ad203e3,b0167db8-e823-4943-bdec-46052deb57f9,survey_723,Botswana,North David,Male,40.0,Secondary,Unemployed,completed,2026-05-14T10:42:00,field_tool,5,Neutral,1,Medium,5
+c72d7517-bddb-4573-9632-9f0c06a08993,1114e0da-f87a-46de-be8c-9aab7e388a19,survey_853,Botswana,Biancashire,Female,68.0,Primary,Employed,completed,2026-05-14T10:43:22,field_tool,5,Very Good,3,Low,4
+a7f42c44-95f1-462e-b0f7-f8cfcbb428d3,af97fbd2-a0c4-4942-8206-7d80de4beb12,survey_366,Botswana,Mccannville,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:42:50,field_tool,4,Neutral,2,High,3
+c4a83123-6290-4728-a476-4e58bca8c11f,047dd583-9344-4b2f-bba3-16688334e524,survey_402,Botswana,Franciscoton,Female,33.0,Secondary,Self-employed,completed,2026-05-14T10:40:53,field_tool,4,Bad,5,Medium,3
+4cc02863-3a3b-4e5b-8960-e27118656429,b17aff6d-e0d9-4670-b606-fa3451d69f11,survey_890,Botswana,West Frank,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:41:58,field_tool,1,Good,5,Low,3
+9719134d-d9df-4f4b-b21a-f08cfdbb0de1,e97fb025-a2e1-4798-ab65-450b5c75352c,survey_550,Botswana,Brandonport,Female,46.0,Primary,Unemployed,completed,2026-05-14T10:44:10,field_tool,1,Good,4,Low,5
+7017cb03-77a6-4ce2-8bc6-877e819ca1f7,838cc137-13aa-49c8-afb2-78fda391ffdb,survey_383,Botswana,Port Courtney,Male,55.0,Tertiary,Self-employed,completed,2026-05-14T10:40:27,field_tool,3,Bad,4,High,3
+fe1fe47a-0f7d-469e-af1b-fcb7ab909613,8b30bb4c-2ac9-4b60-80ac-430a99487f82,survey_745,Botswana,Moniqueport,Female,49.0,Primary,Employed,completed,2026-05-14T10:41:57,field_tool,5,Bad,2,High,1
+8f5e6327-6fad-418e-9958-12fc2f6aa2cd,5cce495d-b037-4c52-b2ad-ffa6af793d4a,survey_424,Botswana,New Bettyberg,Male,73.0,Primary,Self-employed,completed,2026-05-14T10:39:45,field_tool,2,Bad,3,Medium,1
+03741aa2-b6f5-4389-8321-303c29d5c74f,5f7ddbb1-480a-4e9f-84a6-d693230f1e69,survey_458,Botswana,Jenkinsburgh,Female,20.0,Primary,Employed,completed,2026-05-14T10:40:31,field_tool,5,Very Good,1,Low,1
+4801420c-8ba2-41a7-bac1-88a0333c61c3,389ae4fd-80dd-4386-a790-e92f37c6bc5d,survey_942,Botswana,Port Penny,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:44:53,field_tool,1,Very Good,3,High,1
+717a4bea-17f5-4b92-9ba0-2ba58dc9a0be,86912efe-f3d6-49f2-94d7-b0cab08d1676,survey_517,Botswana,South Stevenland,Female,41.0,Tertiary,Unemployed,completed,2026-05-14T10:40:38,field_tool,4,Good,5,High,2
+26568439-f892-48ea-9808-16e4bf2a7476,0472f9f6-ec64-44e0-a198-6e3cd19fcf31,survey_126,Botswana,Baileystad,Female,27.0,Primary,Self-employed,completed,2026-05-14T10:40:50,field_tool,2,Good,5,Low,5
+7451f472-84fa-431b-ae86-09e492edc1dd,fcd2280e-e3c5-4ba8-b122-d7a0d12972d3,survey_133,Botswana,Geraldport,Female,42.0,Tertiary,Self-employed,completed,2026-05-14T10:39:53,field_tool,2,Very Good,1,High,2
+8d122625-3a0a-4741-9b52-489820b43abd,38ec71aa-1e5c-4da8-9087-edcbbe94f1cb,survey_640,Botswana,Port Heather,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:45:31,field_tool,4,Very Good,3,Medium,2
+d2b82c5a-ed6f-49a6-bc1b-91a23af3968d,35b823e4-2016-4e6d-8eb3-9f633a00c83e,survey_886,Botswana,North Roger,Female,39.0,Secondary,Employed,completed,2026-05-14T10:40:36,field_tool,4,Good,1,Low,2
+d60e82b2-7ada-4180-9ddf-84ea825aba6f,7bf820f6-c652-4c3d-84d0-7f2913e675fd,survey_181,Botswana,Williamsville,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:39:55,field_tool,5,Bad,3,Low,4
+f9f98dfb-cb3a-44a0-a98f-b24e334cddc6,97da64cb-8373-4f49-a8e7-ebe3cb05aa14,survey_947,Botswana,South Davidview,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:40:01,field_tool,2,Very Good,5,Low,2
+a107e73e-1961-4c69-8b79-3435fac5f866,02a13629-aae6-41a1-8d38-a8d010f59651,survey_183,Botswana,Port Davidborough,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:44:39,field_tool,5,Neutral,5,Medium,2
+85f70562-df82-4323-ae7f-e8090a02b698,abac7bf8-2f4d-4c9b-b334-cd07e6b36561,survey_528,Botswana,Anthonyberg,Male,18.0,Secondary,Self-employed,completed,2026-05-14T10:42:01,field_tool,4,Bad,2,High,4
+330ac927-7af2-4c52-b834-08c5739b87e3,5a29fe6b-590b-40c6-946a-95a6f2e401af,survey_987,Botswana,Port Vincent,Male,22.0,Tertiary,Unemployed,completed,2026-05-14T10:44:52,field_tool,4,Good,2,Medium,5
+65232d74-894f-45b1-ad97-23fbb7a3e7e3,117e894e-91fa-41c7-8141-bb373de814ac,survey_944,Botswana,Port Belindatown,Male,25.0,Secondary,Self-employed,completed,2026-05-14T10:44:09,field_tool,5,Bad,1,High,3
+50fa374a-292d-4a8f-8f79-416704e72701,f6d9fe17-3109-4211-b73f-6e64378d2f8d,survey_954,Botswana,Georgeside,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:39:41,field_tool,4,Neutral,2,Low,5
+b7ae1da7-7e50-4f77-80b3-8378df66e6d3,ec9a799e-1943-4791-b9b0-7ec4f93c8859,survey_478,Botswana,New Melissa,Male,18.0,Tertiary,Self-employed,completed,2026-05-14T10:43:42,field_tool,4,Very Good,3,Medium,2
+c9662041-684a-4604-a148-694be1d67ed5,2f64672f-96e1-4522-b2b8-d6985dd0855c,survey_605,Botswana,Nunezville,Female,24.0,Secondary,Employed,completed,2026-05-14T10:41:11,field_tool,5,Very Good,3,Medium,4
+73df6a1d-f19e-4545-83cc-59b95d182a9a,612e73c7-fb36-4cf4-9ad5-a309d5b1a96a,survey_852,Botswana,Lewisbury,Female,27.0,Tertiary,Employed,completed,2026-05-14T10:43:07,field_tool,4,Good,5,Low,3
+5dfeb885-cc34-4bf3-9b90-ae62d69c7db9,5074ac13-fc0f-44cd-82eb-baa21ce370ed,survey_380,Botswana,South Danielberg,Male,28.0,Secondary,Unemployed,completed,2026-05-14T10:43:52,field_tool,2,Neutral,3,Medium,5
+a54c61a9-b102-4402-a9f9-801ba26c258e,49cc253f-b469-4ec4-9c7a-e8efc3245e35,survey_198,Botswana,North Markville,Male,60.0,Primary,Self-employed,completed,2026-05-14T10:42:56,field_tool,5,Neutral,1,Low,1
+f3b1315c-4abe-43c6-91ad-875e4b037617,bc75ed53-99b3-4070-b4fa-65ce489ac27e,survey_126,Botswana,Gloriamouth,Male,,Secondary,Employed,completed,2026-05-14T10:41:34,field_tool,3,Very Good,4,Low,2
+07834c8a-f279-43a8-a0b8-0fae2438083d,fc267da6-4a64-4fc1-a843-a5c38dcd6e9b,survey_965,Botswana,Lopezland,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:43:42,field_tool,4,Very Good,3,High,2
+7d615568-3a6b-4a99-aaad-ce9a6db4d5ec,2de66d5b-5e10-43a0-addb-8943f067ad82,survey_922,Botswana,Lake Travisville,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:43:01,field_tool,2,Bad,3,High,5
+99148704-c51d-4140-bf5f-f6bac010af19,ad3053ce-a896-4e70-85cd-338470249792,survey_788,Botswana,North Douglasfurt,Female,58.0,Primary,Self-employed,completed,2026-05-14T10:45:34,field_tool,3,Bad,4,High,5
+23a7dadd-9fa3-4f2b-a231-ddb001fe55d5,bdce7f65-1a0a-4680-ba42-156e972ec23e,survey_998,Botswana,North Michael,Female,53.0,Tertiary,Employed,completed,2026-05-14T10:41:20,field_tool,1,Neutral,2,Low,4
+b7184238-f617-468e-8551-5d6a60d2d0f9,d8125123-984f-4a56-b344-77eb56b09052,survey_596,Botswana,Martinezchester,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:43:54,field_tool,4,Good,2,High,1
+fee71c19-d5ff-4aaf-9b30-6b356c6293ec,c416c07c-b6a7-47b1-83cb-0c28474cfa29,survey_671,Botswana,Katelynfurt,Male,,Tertiary,Employed,completed,2026-05-14T10:42:41,field_tool,2,Bad,4,Low,3
+d091e6b8-b251-4c2b-84a3-bf6918446577,f33c4c36-9a69-4cad-aaab-583079cfc04f,survey_595,Botswana,Archerhaven,Female,33.0,Tertiary,Self-employed,completed,2026-05-14T10:42:01,field_tool,2,Good,2,Medium,4
+ee045b2b-7bcd-4f62-ac2c-cb6efb3eeb56,1ba84a91-7462-4144-849b-9e6225ba4f03,survey_656,Botswana,West Tracybury,Female,43.0,Secondary,Unemployed,completed,2026-05-14T10:45:00,field_tool,1,Neutral,1,Medium,4
+dbdd6894-36f4-4e4b-b7d3-8c9ba4619785,197f9b8d-079b-45e6-a275-b1e2f14152c7,survey_280,Botswana,Port Carlostown,Female,60.0,Secondary,Unemployed,completed,2026-05-14T10:41:10,field_tool,1,Good,4,Low,2
+71ff7bc2-58c5-4d45-9e66-53be708ec1d0,53b3618b-ade0-4648-9ac6-030661f43c2b,survey_521,Botswana,West Christy,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:40:28,field_tool,1,Good,3,Low,2
+c7172398-404b-412b-8ece-9714145397ae,c0697f1d-a93c-4413-9396-a289c29a988f,survey_791,Botswana,Sparksborough,Female,67.0,Secondary,Unemployed,completed,2026-05-14T10:42:09,field_tool,4,Very Good,4,Medium,3
+b0b34d24-afbe-450f-b20b-91128b2b989b,813a3aa5-7d81-4c21-bf76-4fcea97ef131,survey_751,Botswana,Amyside,Male,64.0,Primary,Unemployed,completed,2026-05-14T10:44:18,field_tool,4,Very Good,2,Low,2
+5dc16b4a-d617-48b8-80f0-52c073a025aa,0816d739-c393-4447-b3dc-50bf04860bee,survey_728,Botswana,Beardville,Male,25.0,Tertiary,Unemployed,completed,2026-05-14T10:42:55,field_tool,2,Bad,1,Medium,1
+074a90cb-e0e5-4ce6-b88f-523378526608,605797cf-da55-4825-9086-f384733ac54f,survey_164,Botswana,Stevenston,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:41:09,field_tool,5,Neutral,3,Low,2
+f135b30e-93c7-4889-a557-323a03259e8b,c7859c05-dc40-4942-a8cf-29368e81b2f0,survey_334,Botswana,Nicoleburgh,Male,43.0,Secondary,Employed,completed,2026-05-14T10:43:50,field_tool,3,Good,4,High,5
+c6ccfc3e-2563-48d5-99b3-42b2e81d2a83,b739a28a-4ffd-4b7a-a26d-d24f6e411e23,survey_873,Botswana,Freemanville,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:44:30,field_tool,5,Very Good,4,High,2
+423b6214-0c43-409c-a7c0-4f2e4db7c3cd,8dc4c81f-a8fa-4904-bd94-ed9facce693e,survey_804,Botswana,Alvarezburgh,Female,32.0,Primary,Employed,completed,2026-05-14T10:43:58,field_tool,3,Bad,4,Low,4
+8e19327f-e012-44da-bfb9-e02aa593cf37,7ea413e5-436d-477b-a431-cbbe0e44c9dc,survey_186,Botswana,Jensenstad,Male,74.0,Primary,Employed,completed,2026-05-14T10:42:04,field_tool,5,Very Good,1,High,5
+46d6ce6a-9ba9-4701-9249-862c2369249c,97289c5e-0734-4403-8fb9-7b5d520b28f6,survey_298,Botswana,East Marystad,Male,55.0,Tertiary,Unemployed,completed,2026-05-14T10:44:37,field_tool,3,Very Good,5,Low,1
+2450091f-386e-4659-8578-3bd3d5e26b83,a00a06e6-e42f-4c28-83e3-c14806e2e861,survey_771,Botswana,Oscarchester,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:42:35,field_tool,4,Good,4,High,2
+0772ade6-09e4-49a2-a802-0151d61f9fe4,59ecc846-6974-47ea-9b7c-57e8fdf02450,survey_819,Botswana,Lake Johnbury,Female,48.0,Tertiary,Self-employed,completed,2026-05-14T10:45:10,field_tool,2,Very Good,1,Medium,4
+9fb60640-18ef-400c-8d44-07005f270b72,e90f4137-15be-4dd0-97b0-27ce4fe5c13b,survey_329,Botswana,Port Kevinmouth,Female,63.0,Tertiary,Employed,completed,2026-05-14T10:41:05,field_tool,4,Neutral,4,Medium,4
+55680aad-2837-4713-b143-73cda128ddae,0991946d-537c-44b0-89d5-af23050bd848,survey_745,Botswana,Barrettchester,Male,39.0,Primary,Employed,completed,2026-05-14T10:44:29,field_tool,5,Neutral,2,Medium,5
+ea5f82f1-5a87-4718-940c-b6aca6dbebaf,444122a5-6bd1-4826-a6c2-cbb783c74cbe,survey_584,Botswana,Lake Terrytown,Male,43.0,Tertiary,Self-employed,completed,2026-05-14T10:42:21,field_tool,5,Neutral,1,Medium,3
+e947b805-e844-470c-86af-9418ae1e534a,528a34f3-63ea-40a1-9202-b09c60b36938,survey_137,Botswana,Port Tracyborough,Female,39.0,Secondary,Self-employed,completed,2026-05-14T10:42:31,field_tool,5,Very Good,1,Medium,2
+02200b60-1707-4dc4-9753-26966e53a9d1,c3d0bde3-cfbb-484a-80b5-70137f29c9e7,survey_341,Botswana,Garrettport,Female,38.0,Secondary,Unemployed,completed,2026-05-14T10:42:45,field_tool,4,Bad,1,Medium,1
+2e0ee41c-1941-47c2-affd-6f58d594be91,7f383a3e-33a6-4403-af9d-1d74f82c6ad8,survey_866,Botswana,Port Melissaborough,Female,18.0,Primary,Employed,completed,2026-05-14T10:42:06,field_tool,2,Very Good,1,High,4
+1ff89d06-5269-4ef9-9aec-ca9f3cb69f56,ff08c739-4c1d-4e43-8c2b-03e443e1346d,survey_243,Botswana,Ballardland,Female,69.0,Tertiary,Self-employed,completed,2026-05-14T10:44:35,field_tool,4,Very Good,1,Medium,1
+a7e05e20-da62-46b6-b2d7-a55bbe75f6f8,45fb3e8a-563b-44fa-9784-713d18407642,survey_792,Botswana,New Lauriefort,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:17,field_tool,3,Good,5,Low,2
+7a8a4e93-f3c4-4f84-97dc-58d23ea706cb,13a0181b-cbaf-4542-98e9-bbad35b1773c,survey_728,Botswana,Williamport,Male,61.0,Tertiary,Unemployed,completed,2026-05-14T10:43:20,field_tool,5,Good,4,Medium,2
+ea6dc908-8682-4c01-9476-e4495d5ec40f,33383ec9-5037-4669-8a3a-0129a9d84c4f,survey_238,Botswana,Moraleshaven,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:43:31,field_tool,4,Bad,3,Medium,2
+320268d7-5da0-4e0e-843e-382e219f45b6,2e3bdb69-8c2d-4e27-8370-f2e2abeb5f49,survey_292,Botswana,Lake Jacquelineburgh,Male,18.0,Primary,Self-employed,completed,2026-05-14T10:44:34,field_tool,1,Very Good,3,High,1
+b50a5c49-3c19-4a13-a524-7dd2b0bfe79c,f64d4de0-a92a-4880-b684-13397fcbcf31,survey_672,Botswana,Adamsside,Female,22.0,Primary,Unemployed,completed,2026-05-14T10:44:53,field_tool,1,Neutral,3,Medium,4
+d708f23e-08bd-4ee0-bc03-c28415b9dec5,6f089155-e826-4484-84e4-fe52da4f706b,survey_360,Botswana,New Jamesmouth,Female,67.0,Tertiary,Self-employed,completed,2026-05-14T10:40:54,field_tool,2,Bad,5,High,1
+a1830806-6b3e-4bbe-8c8b-8c00182fb71b,af704164-bf16-4454-a685-602c3d8925a9,survey_229,Botswana,Meganchester,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:42:22,field_tool,4,Good,5,Low,5
+fafd1a71-c299-4362-971c-b262a8bd54b4,107e528c-e940-43af-9488-edffdc352577,survey_784,Botswana,Port Robert,Female,65.0,Secondary,Employed,completed,2026-05-14T10:42:05,field_tool,2,Bad,2,High,1
+b144ad67-51ad-478f-9485-8b1ed2fa15aa,afd5b90b-41a6-4c90-a91c-0da1a5630d3a,survey_431,Botswana,South John,Male,48.0,Primary,Employed,completed,2026-05-14T10:40:55,field_tool,2,Very Good,4,Low,4
+c3ad2d16-0a65-45cf-b055-037ed4abacde,cc0b200d-3ede-438e-8717-9ef331216863,survey_673,Botswana,Stevenside,Female,66.0,Secondary,Unemployed,completed,2026-05-14T10:43:22,field_tool,4,Very Good,3,Medium,5
+d96019a8-a13e-420d-901a-30e37a8519f6,097913a0-e7d9-4c1b-a59c-aeed6c097204,survey_319,Botswana,East Joseph,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:39:53,field_tool,3,Neutral,4,Low,4
+5dbbb826-1f17-40da-8efc-0168e1643dcc,471c10ae-cdb4-4dab-8a27-cd6942264ba4,survey_671,Botswana,Lake Melissa,Female,34.0,Secondary,Self-employed,completed,2026-05-14T10:43:47,field_tool,3,Neutral,1,Medium,4
+5270feb4-03c5-433e-b6d9-e4400ed0ff53,dc0db266-0e29-4d9a-8518-bd4dc840789b,survey_997,Botswana,West Carolynland,Female,31.0,Primary,Unemployed,completed,2026-05-14T10:43:07,field_tool,3,Neutral,1,High,4
+514f9515-8d37-4567-a4a5-c4722f7cae35,a84d5f25-abf2-4369-9d0a-06d3e592ee7c,survey_436,Botswana,South Sherryberg,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:41:39,field_tool,3,Bad,5,Medium,1
+3324e512-f3cf-47a3-8406-67c3c5e8be42,80104995-bc06-486b-922b-4fb21ca79972,survey_812,Botswana,New Elizabethshire,Female,43.0,Tertiary,Unemployed,completed,2026-05-14T10:44:07,field_tool,3,Bad,5,High,4
+6e261dbe-8dea-45b6-9bde-f132e5d836c8,171a8b65-e272-47ca-bf17-6b5540767e21,survey_763,Botswana,New David,Female,48.0,Tertiary,Employed,completed,2026-05-14T10:42:19,field_tool,1,Good,1,Low,2
+eb3630fe-905b-48c5-b02f-50faa087826a,bcbb859a-9596-4725-9513-da02544c14d1,survey_954,Botswana,Shafferbury,Male,26.0,Primary,Employed,completed,2026-05-14T10:43:15,field_tool,4,Bad,3,High,5
+9e9557fd-9068-49bf-a425-97c814cc2c24,2cd6e8df-1b58-49c9-a4ef-65a737cf65ca,survey_855,Botswana,West Scott,Female,30.0,Primary,Unemployed,completed,2026-05-14T10:41:49,field_tool,3,Neutral,5,Low,3
+d947cdd3-5273-4968-a1eb-a41d6cdc054b,7d8823d2-0e51-4083-96e8-3922dce70289,survey_783,Botswana,Hollyville,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:42:21,field_tool,1,Neutral,5,High,3
+fcf3ad86-f355-4d7c-900d-44b30e0f199b,aec7f267-7990-4a27-ac7c-eeb78bb5f242,survey_303,Botswana,West Natasha,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:40:53,field_tool,4,Neutral,1,Medium,3
+e2b41a9d-847d-4e99-bc14-a956020597c6,5e24296e-b736-4ad9-b9a8-226b5ced7017,survey_813,Botswana,Andrewton,Female,47.0,Primary,Self-employed,completed,2026-05-14T10:45:18,field_tool,4,Bad,1,High,2
+b5945015-33cf-49fc-80ba-f841f995965c,b0d090bd-0dff-41ba-b0db-6ecbcc876b1c,survey_120,Botswana,West Angela,Male,55.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,2,Good,4,High,2
+2108eb8b-466e-4c7a-b324-31af4754f70d,5ce4124b-b35b-4f78-b55f-2e80a3922a4e,survey_985,Botswana,New Michellemouth,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:42:57,field_tool,2,Good,1,Medium,3
+0d8db16a-dafa-4c85-a9ae-2a3d06ecca33,649a0bf9-f5f3-443a-a8e7-f03002038340,survey_331,Botswana,Kevinbury,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:42:11,field_tool,2,Neutral,3,Medium,4
+c304add7-edfd-4d9b-9509-57e58345c7d2,2904a6d6-e3e7-45ab-9c02-bc2935dbe396,survey_457,Botswana,Welchchester,Female,40.0,Tertiary,Self-employed,completed,2026-05-14T10:39:56,field_tool,4,Neutral,1,Low,4
+e4d5d263-048d-40a8-b7ba-2837a0e2000a,d2bd16ec-1481-43b4-9dcf-5003462741ec,survey_544,Botswana,Ruizchester,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:42:29,field_tool,3,Neutral,3,Low,5
+cbaed7f6-12ef-41ec-a7bb-ce661599f8af,eb25d7e7-e073-4c70-ac20-2d89b7a69c32,survey_323,Botswana,Port Ethanview,Female,67.0,Secondary,Unemployed,completed,2026-05-14T10:43:58,field_tool,1,Bad,5,Low,2
+a62ee8af-dd84-4598-aa1c-3f4d2d550133,9a244525-6bbe-4bd6-9a13-41e710fd7164,survey_677,Botswana,Shawntown,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:40:05,field_tool,5,Bad,3,Low,1
+8ab62df2-3e63-4c30-9347-eebac03cdf50,a151ed02-2f09-4f4d-a43f-683aa43101e4,survey_586,Botswana,Gibbsberg,Female,18.0,Secondary,Unemployed,completed,2026-05-14T10:39:40,field_tool,1,Neutral,3,Medium,2
+2ddd90e7-5b2f-4063-8f9d-adf0df1088b3,4e385d03-a0d8-4651-b338-22d16691c664,survey_707,Botswana,Barbaraville,FEMALE,66.0,Tertiary,Self-employed,completed,2026-05-14T10:40:59,field_tool,4,Very Good,4,High,3
+113f822f-df7f-4091-b6df-611e06b09ae1,f83bf029-b6ac-4048-8430-8e0c3fe604f4,survey_407,Botswana,Port Brooke,Female,48.0,Primary,Employed,completed,2026-05-14T10:43:09,field_tool,5,Bad,4,Medium,3
+5cc2867f-49dd-4c88-80d6-5bae021b261f,7394d796-51c4-443b-b07d-b671caea9ae5,survey_407,Botswana,Russoberg,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:41:52,field_tool,5,Neutral,5,High,2
+dbabe554-7315-4355-b908-7a6638d9f248,d3a71b83-97d0-4f8f-affd-d43b2c691f04,survey_416,Botswana,Laurenborough,Female,21.0,Primary,Unemployed,completed,2026-05-14T10:40:22,field_tool,4,Very Good,2,Medium,1
+bc784229-4863-4bf2-8fe5-d79c3c3d823a,64bc08cf-2e90-4b5c-9e1b-015f6a1c701b,survey_182,Botswana,Duffyshire,Male,29.0,Primary,Employed,completed,2026-05-14T10:41:33,field_tool,2,Very Good,1,Low,2
+97d1e245-5700-47ba-bcfc-1bd6b83104c1,ec511744-05e1-4e2f-b2b7-4922054edd71,survey_105,Botswana,North Terri,Male,72.0,Secondary,Employed,completed,2026-05-14T10:41:20,field_tool,3,Bad,4,Low,4
+0c594c0c-c731-4c5b-9113-e1e173e7988f,2b339734-da11-4684-b385-d9de430438b5,survey_574,Botswana,South Christineview,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:40:55,field_tool,1,Very Good,2,Medium,2
+21ae7bd3-1138-40a9-89a1-59ccd15e1f39,2b8d2c49-5e30-43e1-b541-a44e16ccb813,survey_790,Botswana,North Jenniferchester,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:43:31,field_tool,5,Very Good,5,High,3
+c53df6d5-7a4f-49d8-a225-5b00dd923692,1e56d346-7e80-4d05-ac71-b531d3c724e8,survey_886,Botswana,Lake James,female,55.0,Primary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Good,5,High,5
+0de9638c-4311-4da7-a7cf-55b048d95181,61cf91fb-7e81-4dfa-bf16-e3e949b7e037,survey_611,Botswana,South Melissa,Female,59.0,Primary,Employed,completed,2026-05-14T10:44:46,field_tool,2,Good,4,High,3
+88519307-5dfc-4671-b15c-90a0e3a5fb81,48708a92-d2f7-4d5d-bec5-ea47372f5f47,survey_418,Botswana,South Henry,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:40:53,field_tool,4,Bad,3,Medium,2

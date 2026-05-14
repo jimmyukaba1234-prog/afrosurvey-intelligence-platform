@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+c0c74f93-0b05-495c-aa15-0a51fe6387b9,43293809-b6d8-434f-b364-83afe172c32b,survey_331,Uganda,Bradfordburgh,Male,18,Secondary,Unemployed,completed,2026-05-14T10:43:42,field_tool,1,Very Good,1,Low,3
+424e6acc-f72d-4f46-90e4-76959e5acec6,ec677736-8d20-4715-9212-8d7bbc9ee700,survey_694,Uganda,Fordton,Male,61,Tertiary,Employed,completed,2026-05-14T10:44:39,field_tool,5,Good,3,Medium,2
+6afaf620-27b8-43f5-9407-c820056408d7,b4872f33-16bc-4aca-bcc5-116dc24ba2a1,survey_566,Uganda,Port Laurie,Female,32,Primary,Employed,completed,2026-05-14T10:45:33,field_tool,2,Neutral,5,High,5
+ba651e3c-1a88-43cd-ac74-fc1544ef9d58,62c90a97-08c0-469c-a049-15c393e55538,survey_263,Uganda,Pricemouth,Female,37,Tertiary,Self-employed,completed,2026-05-14T10:41:31,field_tool,3,Good,5,Low,4
+45fe7a34-dc0c-4e0d-a3a0-f0ff5aa96536,395e9710-66ba-4a3b-89b7-76703ccf1c58,survey_673,Uganda,Port Andrew,Male,62,Tertiary,Self-employed,completed,2026-05-14T10:44:38,field_tool,2,Neutral,5,High,3
+079d622b-45fb-4325-aea9-a11899f8a6fb,9e2b9be9-ff19-4a2d-b1a8-2f5da729b0cc,survey_740,Uganda,Wardburgh,Female,43,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,3,Very Good,4,Low,4
+a831a773-e8f3-4946-8fe9-f1ad16add0cb,bf166568-6b6d-4e27-805d-4b71dabad6af,survey_609,Uganda,Ramirezfurt,Male,40,Secondary,Employed,completed,2026-05-14T10:44:17,field_tool,1,Neutral,4,Low,3
+c91c13c6-3205-4ba4-aaa7-e1f710d794b2,08cf8c59-5d63-469d-8337-b6ebd438c797,survey_729,Uganda,South Gregorychester,Female,45,Primary,Employed,completed,2026-05-14T10:40:20,field_tool,5,Very Good,5,Low,4
+c1c1ec63-ed86-4810-aa13-9294ed367ff9,cb564352-46c1-40a2-b403-75e7ad6a10ef,survey_820,Uganda,West Derekville,Male,46,Secondary,Employed,completed,2026-05-14T10:41:53,field_tool,1,Neutral,5,High,5
+84d17273-2b89-4b77-9d18-485863796c13,0cfcb9d3-ffe4-4788-84ec-8bdcd9f7737f,survey_560,Uganda,East Matthew,Male,49,Secondary,Self-employed,completed,2026-05-14T10:45:19,field_tool,3,Very Good,3,High,3
+2dea93e5-b1c6-48e2-86c1-f43266ce1f33,c13eca14-5b5a-4ba8-bc06-8dc112198705,survey_242,Uganda,New Toniburgh,Male,45,Tertiary,Unemployed,completed,2026-05-14T10:40:54,field_tool,4,Very Good,3,Medium,4
+9f67a5d4-8ded-435d-a50a-041fad0958b4,da27ff8b-fd92-4176-9586-4e3614fa9492,survey_656,Uganda,West Oliviafort,Male,41,Tertiary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Very Good,3,Medium,2
+063d8f1c-a853-4655-872d-6812ddcd44ae,f86e1709-44b2-44ba-bddb-4702c94f174f,survey_608,Uganda,Markton,Female,50,Primary,Employed,completed,2026-05-14T10:45:03,field_tool,1,Very Good,2,Low,3
+8f93a46f-5cb4-4e54-8eb5-474d9e648be7,ca25cfe7-1920-48d8-a0a2-cd5b8bb9c5bc,survey_436,Uganda,New Andreaberg,Male,41,Secondary,Self-employed,completed,2026-05-14T10:42:26,field_tool,2,Bad,4,Medium,4
+e9166d98-b02b-40e4-9dda-9c94792fc61a,46b6b6f8-ef55-4a57-bc93-7768c5f0715a,survey_730,Uganda,West Stephenfort,Male,44,Secondary,Self-employed,completed,2026-05-14T10:45:27,field_tool,1,Good,2,High,1
+0f0c9586-d6c0-4c7c-91d6-53a69fbede13,0000f362-9ef0-4399-90cf-749ae197f06b,survey_511,Uganda,Mariofurt,Male,45,Tertiary,Self-employed,completed,2026-05-14T10:40:02,field_tool,2,Good,4,High,5
+de8042a1-bc48-4af6-ac11-e83feec9a233,5098671f-513e-4b30-9c08-f2d4cf4a8e86,survey_344,Uganda,South Rachel,Male,29,Primary,Employed,completed,2026-05-14T10:40:03,field_tool,3,Good,5,Low,2
+cac52233-c46a-4936-8d14-50bcaac7a3ab,d76896aa-f5c2-4aa1-9635-37865b0517ac,survey_773,Uganda,Bakerbury,Female,23,Secondary,Employed,completed,2026-05-14T10:41:43,field_tool,2,Neutral,4,Medium,3
+b09adecc-7e70-4ace-9717-b58790440f50,b015f76d-5d2e-4d8d-b184-63b6e6e75269,survey_960,Uganda,Stewartstad,Male,59,Secondary,Unemployed,completed,2026-05-14T10:44:40,field_tool,2,Neutral,4,Low,3
+74ced171-2c38-4409-9e4b-6a5e054459e8,8340f447-a525-4ab7-ae3b-b1704a7eaef3,survey_820,Uganda,Toddmouth,Female,71,Secondary,Employed,completed,2026-05-14T10:42:54,field_tool,5,Good,5,High,1
+4bf8e279-aa07-45f0-8493-d735ca6dda45,18dc81b7-4219-4572-8a86-e134bf19fc03,survey_253,Uganda,Lake Erin,Male,48,Secondary,Employed,completed,2026-05-14T10:42:59,field_tool,2,Very Good,4,Medium,3
+d0c9ff76-8f04-4865-bcee-4d9b2b250750,4b893b2e-d380-4397-8415-a3b1d196b38f,survey_778,Uganda,Jeremymouth,Female,30,Secondary,Self-employed,completed,2026-05-14T10:41:04,field_tool,3,Good,5,Low,3
+1e5caad9-1868-4544-971e-fb7e12d0c85e,0ee197b7-3faa-430a-a5fb-247c9ebcf9fd,survey_959,Uganda,Richardville,Female,41,Tertiary,Self-employed,completed,2026-05-14T10:42:46,field_tool,3,Bad,2,Low,5
+953357c4-93d4-42ec-9f25-7056288b1957,7c944d78-24d8-4902-bce0-fcdb2d00dabd,survey_162,Uganda,Clarkburgh,Female,54,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,1,Bad,5,Medium,1
+e182af95-d65b-45ad-8d93-19ea337c15e8,66699c4c-d859-4f2a-b46f-6f85250fd3ef,survey_617,Uganda,Anthonychester,Female,46,Secondary,Employed,completed,2026-05-14T10:42:47,field_tool,2,Good,2,Low,4
+2e69da8f-1b36-4416-92c2-0f5e3b9b40bc,df67bf35-580e-4fd3-bbcc-8d76fabc358f,survey_367,Uganda,East Clairehaven,Female,67,Tertiary,Employed,completed,2026-05-14T10:42:34,field_tool,3,Very Good,3,Medium,1
+3a1b0ef2-c7e9-4055-892a-f0326a8075ca,cece8e39-b186-467f-81d3-0addb3554a17,survey_815,Uganda,Jacksontown,Female,38,Secondary,Self-employed,completed,2026-05-14T10:40:16,field_tool,2,Neutral,5,High,3
+548d885a-38a8-4cba-b567-86734db0b27a,2faf6450-e052-43b9-8194-3b1b03f09da7,survey_469,Uganda,Port Lisa,Male,57,Tertiary,Employed,completed,2026-05-14T10:42:12,field_tool,2,Very Good,1,High,5
+7278e4c4-829d-4d0a-811a-5ffdeb459472,25b76229-349d-4142-8936-69f516839206,survey_975,Uganda,West Jason,Female,58,Primary,Unemployed,completed,2026-05-14T10:42:55,field_tool,3,Neutral,2,High,1
+3e147a6e-8709-4459-b86d-e059564e8500,5cd45171-7150-49ca-a1d6-c7885a475844,survey_372,Uganda,Danielport,Female,64,Primary,Unemployed,completed,2026-05-14T10:40:57,field_tool,2,Neutral,2,High,1
+00890710-79b2-4890-a037-4a7067444460,3a34cfbe-c841-47dc-8432-b689b733b7e0,survey_711,Uganda,New Patricia,Female,34,Tertiary,Unemployed,completed,2026-05-14T10:41:42,field_tool,4,Very Good,2,Low,1
+a43d53b8-b9ba-4049-9dc6-f7a91acc8be5,827ef71e-036f-42d6-9910-1fd27bd5b2ca,survey_157,Uganda,Nicholasshire,Male,66,Secondary,Employed,completed,2026-05-14T10:45:45,field_tool,3,Neutral,2,Medium,4
+d51f72d4-3237-4a0d-b62f-a851ec7ee528,ba5545b0-3c19-4700-92e2-882fe3020950,survey_673,Uganda,Adkinsmouth,Male,43,Tertiary,Employed,completed,2026-05-14T10:42:26,field_tool,5,Bad,2,Medium,4
+f6e9d3c1-8249-4316-a9f0-5d07ed7bc0d7,82942716-bf5c-4e4b-ab42-8f57e4609890,survey_797,Uganda,Tiffanyfort,Female,20,Tertiary,Self-employed,completed,2026-05-14T10:43:26,field_tool,2,Neutral,2,Medium,1
+46b6e8f0-93de-4988-b874-5123a9fd7813,d7777426-14cb-41dc-8e06-0eb69478f4e7,survey_887,Uganda,Amymouth,Male,29,Tertiary,Unemployed,completed,2026-05-14T10:45:22,field_tool,1,Very Good,3,Medium,4
+4514a1a8-d6b1-4047-b70b-8ba96ad5b25c,1b9cf125-5ab4-46f2-8b62-b9986bb3aa95,survey_805,Uganda,Lake Christopherfort,Female,29,Primary,Self-employed,completed,2026-05-14T10:40:25,field_tool,5,Good,3,Low,5
+c932b026-a906-46c8-a7ee-43f1dce21240,1433e9ba-c617-489f-8c72-7bb01bb13c2a,survey_607,Uganda,Port Carol,Male,31,Primary,Employed,completed,2026-05-14T10:44:01,field_tool,4,Good,1,Medium,4
+07e2acad-448c-4861-b230-6dc1ef821a8e,47e3cb15-9a24-40c1-a186-2dac118151e8,survey_861,Uganda,Margaretstad,Female,71,Secondary,Unemployed,completed,2026-05-14T10:45:22,field_tool,5,Bad,2,High,2
+37049b3e-3063-4e36-9940-59c081051694,e63d3c49-18df-4252-8812-3ffc47171f58,survey_580,Uganda,Lake Keith,Male,43,Primary,Employed,completed,2026-05-14T10:41:51,field_tool,1,Neutral,1,Low,5
+becde994-2a24-4252-b749-e6575913cc10,deeb61fc-2a58-4275-a964-525223fad6b0,survey_444,Uganda,Lake Tammyhaven,Male,48,Secondary,Self-employed,completed,2026-05-14T10:43:55,field_tool,4,Neutral,3,Medium,3
+411ab12e-7d46-48a4-8937-8403d7a55f6f,4aa0f64c-5816-4c54-ab6a-f16e739abc4b,survey_617,Uganda,Ortegaberg,Male,39,Tertiary,Employed,completed,2026-05-14T10:44:44,field_tool,1,Good,2,Medium,1
+5714e7be-4c7c-4448-850d-c2c6dc6088c5,37f10202-cdef-4081-9877-52996004dc19,survey_447,Uganda,Shannonland,Female,32,Tertiary,Unemployed,completed,2026-05-14T10:42:36,field_tool,3,Bad,3,High,2
+bb55de82-cd09-4b8d-a09f-7f72c36259ed,45150cca-87bf-4cd0-8775-c994c961bf60,survey_113,Uganda,North Jon,Male,43,Secondary,Self-employed,completed,2026-05-14T10:40:22,field_tool,1,Bad,2,Low,3
+604c4ae2-7a99-4f5a-895d-1fadf70afb9c,0917b42b-c5aa-400b-8c39-dad5f750782e,survey_189,Uganda,Barberborough,Female,32,Primary,Self-employed,completed,2026-05-14T10:42:32,field_tool,5,Good,5,High,3
+9cbb3fdf-494b-4638-806b-8605e5903d77,091e6d63-0973-40da-83b6-50a92d394584,survey_229,Uganda,Leeborough,Female,37,Secondary,Self-employed,completed,2026-05-14T10:41:50,field_tool,3,Neutral,3,Low,2
+f25f7b43-e1a8-41cb-be53-3c3358858f1b,8a75c232-f931-403e-a8de-4a158edf83d1,survey_494,Uganda,Gateston,Female,48,Tertiary,Employed,completed,2026-05-14T10:40:07,field_tool,2,Bad,4,Low,5
+0ede583f-8e00-4ad1-b714-967bf2584284,971d54db-d323-4251-bd4f-fcbaf65e4261,survey_706,Uganda,North Karenborough,Male,18,Primary,Self-employed,completed,2026-05-14T10:40:45,field_tool,5,Neutral,4,High,3
+bb9f2cb3-64cf-4f2d-b2ef-258da99a57c0,5fed5586-8ee0-4da2-9ab0-0fcc9e054e19,survey_190,Uganda,West Nathantown,Female,27,Primary,Self-employed,completed,2026-05-14T10:42:43,field_tool,4,Neutral,1,Low,1
+b7c207f8-751d-4e4a-9d83-1b520d5f7e04,1916f9d7-695b-4290-aade-5e75b037ab6f,survey_745,Uganda,Mccoyport,Male,61,Tertiary,Employed,completed,2026-05-14T10:40:32,field_tool,4,Bad,1,Medium,3
+78440109-6976-4c20-b56b-b0f0ef3ee250,1f208cf2-c60b-4727-9ab4-57aa8b699910,survey_842,Uganda,Kellyport,Male,28,Secondary,Employed,completed,2026-05-14T10:43:03,field_tool,2,Bad,1,Low,5
+6f6288ed-019d-4360-92e1-9653df7c02ed,3f9584e1-7cb4-4126-83e7-194986f6d45f,survey_839,Uganda,South Melinda,Female,68,Secondary,Self-employed,completed,2026-05-14T10:42:44,field_tool,3,Good,5,Medium,1
+29e90c70-57b6-4ccd-8f5e-3f688b2dd38d,9fb9a15a-fccf-4aaa-a4da-16b807516869,survey_329,Uganda,Romanland,Male,24,Secondary,Employed,completed,2026-05-14T10:40:15,field_tool,4,Bad,1,Medium,1
+bc233995-2486-4546-842f-e2c65cbfa79f,a97621da-836b-4b7d-a338-727c4f96d678,survey_833,Uganda,East George,Female,26,Tertiary,Self-employed,completed,2026-05-14T10:43:45,field_tool,4,Bad,5,Medium,5
+9dcd6ae8-299c-4497-bbf2-b7026b8f1d58,e101d456-75be-4dce-881c-06dfcc551adf,survey_279,Uganda,Dorseyberg,Female,45,Tertiary,Self-employed,completed,2026-05-14T10:40:12,field_tool,1,Bad,4,Medium,5
+e99ef369-619f-44c8-8b60-88c905c3f451,4f01b816-3912-4ec9-babe-9a66bed01fdb,survey_843,Uganda,New Pamela,Male,63,Primary,Self-employed,completed,2026-05-14T10:45:03,field_tool,4,Very Good,3,Low,1
+ee24f685-7412-4a32-a9ea-b934f2d1c312,eb05733f-b0d4-4b98-98cd-2d871018898a,survey_310,Uganda,South Samuel,Male,22,Secondary,Employed,completed,2026-05-14T10:43:43,field_tool,2,Bad,4,High,4
+792779e8-ad83-472e-a757-41ac61523f10,2a4e380e-2cb2-436b-b41c-aec7f770e82e,survey_268,Uganda,Jennifertown,Male,41,Primary,Unemployed,completed,2026-05-14T10:40:43,field_tool,4,Neutral,4,High,1
+9bbd352a-42a2-4ba8-9cab-37dd8feaf60f,3faacbdd-9773-4372-b015-f830a86d6c4a,survey_665,Uganda,New Jonathanmouth,Male,29,Secondary,Self-employed,completed,2026-05-14T10:45:45,field_tool,3,Bad,4,High,5
+cd738132-68e0-4567-9d49-bc60bdff94fe,5f3b399a-4d6b-4f14-93ae-976e025db2fe,survey_963,Uganda,Port Eduardo,Male,60,Tertiary,Unemployed,completed,2026-05-14T10:42:32,field_tool,4,Good,1,High,5
+a4f0c488-bf5b-4258-81f9-e60f6db0ce74,d14b77fe-6ba0-4533-8fc0-621d3ba3592c,survey_641,Uganda,Lake Jenniferview,Male,42,Primary,Unemployed,completed,2026-05-14T10:43:59,field_tool,3,Very Good,1,Medium,5
+05da7710-c5f8-434c-8e96-3370b6e340b2,4993a471-8b97-46dc-9360-9f5a690e6cc3,survey_378,Uganda,New Jason,Female,35,Secondary,Employed,completed,2026-05-14T10:44:21,field_tool,4,Very Good,1,High,4
+fa7ad39d-f914-4897-ad84-eb77dd0be752,056c9c6d-31ea-41e7-8cfa-6e3a8d566040,survey_227,Uganda,West Kennethbury,Male,63,Secondary,Unemployed,completed,2026-05-14T10:42:11,field_tool,1,Good,5,Low,5
+ab784847-a3ec-4dfa-b764-c0e33c3fdb1b,226ae8bf-5094-43bc-810a-4cc376b62162,survey_288,Uganda,Jeffreymouth,Male,56,Tertiary,Unemployed,completed,2026-05-14T10:45:29,field_tool,5,Neutral,1,High,1
+4444de89-9e4e-4e84-857e-950f80a2c41c,957c2f99-b096-42fd-bf4a-80cd2af2105c,survey_639,Uganda,South Ann,Male,50,Secondary,Employed,completed,2026-05-14T10:41:39,field_tool,5,Bad,5,Low,2
+d7767301-3147-49ef-b8ca-5c936291022c,d3a669a2-1093-4ea9-906c-d08826dc924d,survey_660,Uganda,Chadbury,Female,55,Secondary,Self-employed,completed,2026-05-14T10:45:15,field_tool,1,Bad,1,Medium,3
+9ad97d56-3150-4592-9182-e8a345abcd7a,ba3d313a-9a78-4ef6-a5d4-ad303c87cbc2,survey_915,Uganda,New Amy,Male,61,Secondary,Unemployed,completed,2026-05-14T10:41:59,field_tool,5,Very Good,4,Medium,4
+8b715372-a3d8-4066-b674-6c50e6e6b647,af10b58d-3308-42b4-8434-a384da465dad,survey_203,Uganda,Blackview,Female,39,Secondary,Unemployed,completed,2026-05-14T10:42:28,field_tool,4,Bad,3,High,4
+ac3b8438-0349-4922-b060-e84637f2478e,ee808594-4c63-4dc4-bb75-ab473f7af116,survey_276,Uganda,Port Kenneth,Female,64,Primary,Self-employed,completed,2026-05-14T10:42:17,field_tool,4,Bad,2,Medium,2
+6cb3d77c-28d5-460e-9724-a969da691933,cf964b60-4a27-4c17-b396-ac4f817b15dd,survey_116,Uganda,Valerieshire,Male,20,Secondary,Unemployed,completed,2026-05-14T10:45:10,field_tool,1,Good,1,High,2
+9568fa89-8ee9-480a-b344-c568269a8e79,4f90cbd1-9e11-4f8b-9886-dacd69400eae,survey_462,Uganda,East Zacharybury,Female,27,Secondary,Unemployed,completed,2026-05-14T10:40:16,field_tool,1,Very Good,5,Low,1
+ae694f73-013c-449e-a49a-82b98af568ce,e93344cb-f725-4ee6-b630-9c79d0bc8562,survey_521,Uganda,North Brandon,Female,59,Primary,Self-employed,completed,2026-05-14T10:43:23,field_tool,2,Bad,3,High,4
+54fff4bc-2e10-4f43-a8cd-37b09f45861d,878215a6-c74d-48af-8e8b-c0b19d5c6a20,survey_183,Uganda,Laurentown,Male,34,Tertiary,Unemployed,completed,2026-05-14T10:43:01,field_tool,5,Good,2,High,3
+43c2fb73-3f90-409e-a430-bda7b97419e0,d53062bd-e273-4a29-9f07-cad479ec32ac,survey_518,Uganda,Jacquelinemouth,Male,71,Primary,Self-employed,completed,2026-05-14T10:43:38,field_tool,4,Neutral,5,Low,4
+e4fa8a8b-d8e2-43e6-b7cf-3bf8f7009c8a,53dafe3b-d114-41a5-8a7d-cd1f6d9ca689,survey_472,Uganda,Port Joseph,Female,32,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,4,Bad,1,Medium,1
+8fe693ab-d9d1-4373-b94a-9eebd2ba23c7,789c0d53-63a5-41ac-8c6e-d6d8f580e05e,survey_198,Uganda,Andreaton,Male,51,Secondary,Self-employed,completed,2026-05-14T10:41:05,field_tool,3,Very Good,1,High,1
+36d055aa-2afc-4b3e-b1da-798306d83d04,58581f87-2721-47ef-afc6-861beed82482,survey_389,Uganda,Newmanmouth,Male,72,Primary,Self-employed,completed,2026-05-14T10:43:06,field_tool,5,Good,2,High,5
+50b18bb5-2af7-499c-8227-9e55f903ec5c,64d4d72c-78a1-40b5-8d08-f4c017bb6b5e,survey_645,Uganda,Shortberg,Male,23,Secondary,Self-employed,completed,2026-05-14T10:41:56,field_tool,3,Neutral,2,Low,2
+bc72b7c1-80e1-4afc-873e-4cc45805eed6,88d33bf3-dc55-4c74-806d-c0d692afa025,survey_921,Uganda,South Samantha,Male,31,Secondary,Unemployed,completed,2026-05-14T10:43:57,field_tool,5,Neutral,4,Medium,1
+9f89f08f-6952-4cb7-9028-afa5b84d59ec,953c14a4-35f8-4ff4-9f97-fbc67be2db95,survey_786,Uganda,New James,Female,72,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,4,Neutral,5,Medium,3
+2e6fdac4-6125-4713-a21e-413991bf864f,4dfa4510-ac20-48a0-8f43-c58336bb0f49,survey_648,Uganda,Peterfort,Male,49,Primary,Self-employed,completed,2026-05-14T10:45:01,field_tool,4,Neutral,2,Low,5
+ee7c658d-1385-47c5-85b0-d2ed7497b8e4,a1769b16-1972-4d8b-a14e-d6341d302d4b,survey_711,Uganda,Marissaberg,Male,67,Tertiary,Employed,completed,2026-05-14T10:42:08,field_tool,5,Neutral,2,High,3
+bbd777e3-645f-42cd-ac71-03e8bb767c24,77feffe2-407c-4449-afd9-0b5aac7bcb60,survey_644,Uganda,Benjamintown,Female,63,Tertiary,Unemployed,completed,2026-05-14T10:42:54,field_tool,1,Good,4,Medium,3
+803cd707-6350-46c3-8c11-0effdc9bbad0,1b70cd6e-67db-481d-99dd-7832689765d5,survey_709,Uganda,Nicholashaven,Female,72,Secondary,Self-employed,completed,2026-05-14T10:43:31,field_tool,5,Bad,5,High,5
+65c5f358-3115-4cc7-8727-e6507d1d694d,7077f2de-abf5-4707-88ea-d65102aeeaac,survey_122,Uganda,South Amyshire,Male,36,Tertiary,Unemployed,completed,2026-05-14T10:43:14,field_tool,2,Good,2,High,3
+01572ba8-ab67-4160-b151-b275935a3f75,5fa98436-87a0-40ac-8b31-4ef1cab35400,survey_195,Uganda,East Jeremy,Female,28,Secondary,Unemployed,completed,2026-05-14T10:44:59,field_tool,5,Bad,1,Medium,1
+fd272493-b77f-4efa-bd0e-1d966bf636a8,2ec99fb0-a6e4-4b24-ad19-1ca9e8eda98a,survey_504,Uganda,West Danielle,Male,27,Secondary,Employed,completed,2026-05-14T10:40:14,field_tool,5,Good,5,High,4
+91bee5fa-68f5-40b8-bd23-1927c5d9c8c6,032c2913-1cb8-4c54-9fb0-9311aee72930,survey_333,Uganda,Reginaldborough,Female,58,Secondary,Unemployed,completed,2026-05-14T10:44:20,field_tool,4,Neutral,2,High,3
+a1c4fb9a-9d53-425a-81fe-5f170fde33a6,bb5a6762-5de7-4af9-843c-c10be4fd0381,survey_331,Uganda,South Michaelton,Male,69,Secondary,Employed,completed,2026-05-14T10:44:55,field_tool,4,Very Good,1,Medium,1
+bf046ef9-e856-463b-b57a-19b98fc55129,07e48df5-10e5-4248-bc45-ced44ace9ae7,survey_749,Uganda,Ochoaton,Female,47,Secondary,Self-employed,completed,2026-05-14T10:42:06,field_tool,5,Good,2,High,4
+b3d1025d-c4d8-498b-bb74-ab620e971d33,31c45518-9080-4b36-a703-d46989a99604,survey_313,Uganda,Timothybury,MALE,39,Tertiary,Unemployed,completed,2026-05-14T10:42:23,field_tool,3,Bad,1,Medium,3
+a2e16afd-f8b8-4920-ae88-d5fa70a06f37,cced4c38-a872-4d96-92a8-a47775d0a125,survey_751,Uganda,Robertsfurt,Female,21,Primary,Self-employed,completed,2026-05-14T10:44:43,field_tool,2,Bad,5,Low,3
+cb5a5545-abf3-4232-9658-f5b48d3c7b30,ed8ee4af-0316-4fba-b979-dd07d4b87968,survey_384,Uganda,Port Christinafort,Female,72,Primary,Unemployed,completed,2026-05-14T10:44:28,field_tool,5,Good,2,High,1
+6c1568b5-d2e7-4219-b049-c5e5b0618574,92f50f76-9168-44a6-b7dd-85275318cbab,survey_326,Uganda,North Jefferyfurt,Female,74,Primary,Self-employed,completed,2026-05-14T10:44:43,field_tool,5,Neutral,1,Medium,1
+3cf802bc-ee9e-43de-9864-55cc2e8630b3,68c06fc2-233d-4406-a72c-bbaa6c329e23,survey_796,Uganda,New Jamesborough,Male,67,Tertiary,Unemployed,completed,2026-05-14T10:41:36,field_tool,3,Very Good,1,Medium,1
+ea9ea975-236c-490f-bac1-99eb3d0cb963,67122fc8-309a-4f6f-b0af-4b2c1b5be50f,survey_105,Uganda,Port Katherineborough,Male,38,Tertiary,Self-employed,completed,2026-05-14T10:43:54,field_tool,2,Bad,2,Medium,5
+25f954d4-cd09-46c4-a6a2-2c865c359323,43363c52-7e1f-4ddc-8210-a538720a1986,survey_243,Uganda,Hardyhaven,Male,59,Primary,Self-employed,completed,2026-05-14T10:43:59,field_tool,5,Neutral,4,Medium,3
+010f6bcb-e6ba-4d94-9f4d-be5710fbe1b6,2ae10457-f11e-4e7e-8133-471223de1b6c,survey_419,Uganda,Victoriamouth,Male,65,Secondary,Employed,completed,2026-05-14T10:44:45,field_tool,2,Neutral,2,Low,4
+5120c3ea-c82f-42c6-b6a5-8be668efdb8d,e4021967-8e08-4482-b320-d2dc56a91a1f,survey_480,Uganda,Isaiahbury,Female,29,Secondary,Unemployed,completed,2026-05-14T10:44:13,field_tool,4,Very Good,2,High,1
+2ccecae1-8743-495a-ab36-7a43e9aa9d9a,6d920537-33b1-4856-acef-52a9b89c6827,survey_785,Uganda,Richardmouth,Female,45,Primary,Self-employed,completed,2026-05-14T10:42:11,field_tool,2,Good,4,Low,1
+f295be6b-65b3-4f35-8d85-a6e8b2caa75b,043d4b49-dc96-4705-8139-fa083c32664c,survey_493,Uganda,Feliciafurt,Female,41,Tertiary,Self-employed,completed,2026-05-14T10:44:16,field_tool,4,Neutral,5,High,3
+07c93ec6-9923-425c-b6c5-1a7e1c0886da,41b12c82-bee9-4eb8-85d1-f32a5ba8568c,survey_709,Uganda,Nicoleburgh,Male,26,Secondary,Employed,completed,2026-05-14T10:45:30,field_tool,1,Very Good,2,High,4
+478f457a-5964-410b-9c0e-1b5ae3205d3b,78302c37-e0bb-49a6-b5cc-211595deeac1,survey_453,Uganda,Andersonhaven,Male,23,Primary,Self-employed,completed,2026-05-14T10:41:40,field_tool,4,Good,4,Medium,2
+8fb86d95-8953-48a1-85af-233e39525d58,7b6b91f4-e12a-4115-b4c8-65aa0b0f0e35,survey_325,Uganda,Meaganfort,Male,71,Primary,Unemployed,completed,2026-05-14T10:42:26,field_tool,1,Very Good,5,High,2
+57ddfd3c-321e-4d4f-bab3-e6d9d97b91d9,47c619db-a0bf-416e-b68b-0c3958853e91,survey_514,Uganda,East Christopherburgh,Female,34,Tertiary,Employed,completed,2026-05-14T10:44:52,field_tool,5,Very Good,3,Low,1
+8225871b-9d27-4cef-b9b4-29364ec45c6c,14622c8d-d77a-4477-a8de-1fd9e8a7c50b,survey_729,Uganda,Michelleton,Female,34,Tertiary,Self-employed,completed,2026-05-14T10:41:34,field_tool,2,Bad,5,Low,1
+f4755d12-9b9a-41ed-8816-99e9bf388e03,96c948a2-2c85-4d0e-ac37-f9ab73138ee7,survey_423,Uganda,Lake Josephmouth,Male,41,Primary,Employed,completed,2026-05-14T10:40:24,field_tool,1,Very Good,2,Low,3
+c508c98f-c52b-4fc3-9e3f-5b845458c844,820120aa-5737-4bed-ae08-484454ac351a,survey_440,Uganda,Mcphersonbury,female,64,Secondary,Unemployed,completed,2026-05-14T10:42:09,field_tool,5,Bad,2,Medium,5
+2a1b7147-323a-4eba-89d2-af8748bf8797,3eb1b7d8-e42f-4468-98cd-58bc649fc760,survey_298,Uganda,New Maria,Male,31,Secondary,Unemployed,completed,2026-05-14T10:44:15,field_tool,3,Very Good,3,Low,4
+ea492cdf-1d47-4892-b3b0-b86b811daa6e,1f529d6b-8b9c-4a4f-aff6-7745ca3456be,survey_144,Uganda,South William,Female,31,Tertiary,Unemployed,completed,2026-05-14T10:41:42,field_tool,4,Good,1,Low,1
+22afe479-199c-4ee6-a3b5-aaacc7ca4efc,5097b036-d544-4468-a3b0-b1a1acb1f05e,survey_924,Uganda,New Aaron,Male,40,Secondary,Self-employed,completed,2026-05-14T10:41:55,field_tool,2,Neutral,1,Low,1
+253a60da-7a68-4d9a-922c-f178c02ef704,5f431748-dd3f-49d9-a50c-f7397c06ca1e,survey_289,Uganda,Sarahtown,Female,51,Tertiary,Employed,completed,2026-05-14T10:40:31,field_tool,3,Very Good,1,Medium,5
+abdfb879-432d-4135-9f5a-e30e4560d330,659a157e-2df3-4655-b942-a65dfa317824,survey_366,Uganda,South Andre,Male,20,Secondary,Self-employed,completed,2026-05-14T10:41:13,field_tool,3,Bad,5,High,2
+97e1d3e7-8d5b-4254-a14f-6f82a2af726c,fea840c8-bacc-4c9a-b7f8-5905d51da044,survey_518,Uganda,Port Karen,Male,75,Primary,Unemployed,completed,2026-05-14T10:45:40,field_tool,3,Good,1,Medium,1
+18b653c4-a80e-498c-b82b-d70fc5b4dc25,4e92f12a-708a-4036-be17-842c1c296683,survey_469,Uganda,Christinefurt,Male,67,Primary,Unemployed,completed,2026-05-14T10:45:34,field_tool,2,Good,1,Medium,2
+b126ca28-6e32-4df8-be61-293c99847964,3a04cf28-4a03-43f0-8896-8c7f27f594f7,survey_131,Uganda,Lake Jessica,Male,38,Primary,Employed,completed,2026-05-14T10:42:08,field_tool,2,Neutral,2,Medium,2
+6a98c7fa-f89d-42a2-8e27-c4de24fc49d3,91ab83b6-9f4e-412f-b5e9-07734e0c9868,survey_629,Uganda,Bethanyfort,Male,44,Secondary,Unemployed,completed,2026-05-14T10:43:34,field_tool,4,Neutral,3,Low,4
+30689d12-23eb-4fcb-93d3-1eac16339e27,1c7f1fc9-6d3b-4682-a40e-7ff0bbc34e9a,survey_175,Uganda,Calderonland,Female,38,Secondary,Unemployed,completed,2026-05-14T10:42:55,field_tool,1,Bad,2,Low,4
+58296d34-ae84-4e87-8974-3e50a861cdb8,fd5ff142-cb76-4658-b5f0-84770da8795d,survey_713,Uganda,Lake Rebeccaburgh,Female,22,Secondary,Unemployed,completed,2026-05-14T10:40:38,field_tool,1,Good,4,Medium,5
+1f22a7a4-e673-4172-8438-b29e9bf3c0d0,247005b2-7dd1-4eb4-9456-c0dede5cf864,survey_317,Uganda,Stephaniestad,Female,57,Primary,Self-employed,completed,2026-05-14T10:43:03,field_tool,3,Good,5,Low,1
+281bf629-dba6-48b6-b573-6d67971d8628,c06647a8-1d0e-40c5-a3d0-b47776779008,survey_778,Uganda,South Gabrielleville,Male,61,Secondary,Unemployed,completed,2026-05-14T10:42:49,field_tool,3,Very Good,2,Low,3
+d8d4a5fc-e87a-4e7a-9521-2bafe178ab2e,f26e8667-8226-4639-85fb-4b4f0e90fcc4,survey_460,Uganda,Lake Daniel,Male,72,Secondary,Self-employed,completed,2026-05-14T10:44:09,field_tool,3,Good,2,High,5
+5fdd75bf-5915-40e3-aada-59f8274d62fb,7134e31c-0492-4f56-9ea7-1d42c92c4316,survey_371,Uganda,Lake Melissashire,Female,67,Primary,Unemployed,completed,2026-05-14T10:45:39,field_tool,3,Neutral,3,High,5
+ba0685ab-7d17-4f5e-af05-8aa4fab0ce2f,6250287b-1971-4e33-aa40-7e89d2f1219d,survey_838,Uganda,West Heatherview,MALE,68,Primary,Self-employed,completed,2026-05-14T10:42:25,field_tool,2,Very Good,2,Low,2
+ab4ed0e8-85b8-4d00-9e8e-8d4e2b4bf45b,172bd59b-6bd9-4842-802d-10347c97a4e1,survey_409,Uganda,New Edwardtown,Male,61,Secondary,Self-employed,completed,2026-05-14T10:44:13,field_tool,3,Bad,4,Low,5
+1d0f3f19-d418-47d1-ba6e-08f9c11317ea,07523ba6-14dd-421c-95ba-2bb2ac58cda5,survey_937,Uganda,South Carla,Male,66,Secondary,Unemployed,completed,2026-05-14T10:45:22,field_tool,3,Very Good,2,Medium,1
+662c646a-9ba1-4210-a9ad-bfaabe8e8f52,9d29d9d6-6988-40f9-b8a9-c2f9608175bc,survey_982,Uganda,New Michael,Female,75,Secondary,Unemployed,completed,2026-05-14T10:41:49,field_tool,3,Bad,4,High,2
+3b5e06c3-818d-4aca-8398-dfb3c79b5ea0,c45797f7-88c6-4379-ad92-4d0291f1fad9,survey_669,Uganda,North Kayla,Female,66,Primary,Unemployed,completed,2026-05-14T10:39:50,field_tool,1,Bad,3,Medium,4
+befcb637-987d-4f90-bb12-cb89efa94e7f,4b60177f-4fc4-49a7-866d-41f52ee66c9c,survey_517,Uganda,North Kristine,Male,38,Primary,Unemployed,completed,2026-05-14T10:41:48,field_tool,2,Bad,5,Low,5
+890f3575-9b94-4416-88a2-0b5e3a86936c,4c05bad2-0acf-49cd-a162-bdd5be8fd3f4,survey_942,Uganda,Wongborough,Male,57,Primary,Employed,completed,2026-05-14T10:41:16,field_tool,2,Bad,5,Medium,1
+ad0c03e4-9a49-493a-86ca-8e8ec9af5748,99cad3f5-3abe-4969-aee8-618347bed49a,survey_547,Uganda,Lake Ray,Male,53,Secondary,Self-employed,completed,2026-05-14T10:43:14,field_tool,2,Very Good,5,Medium,5
+929fad35-04bb-466c-a904-b6f98e3a4ff0,c8821312-6fb5-432d-b8bc-dcdb4d584c5b,survey_762,Uganda,South Andrew,Female,40,Secondary,Employed,completed,2026-05-14T10:43:10,field_tool,4,Bad,2,Medium,4
+8101ef46-146a-41e8-a621-8fa29e20a8cb,bdd7ea90-4265-4a67-8dff-467e0cd2d641,survey_251,Uganda,Lake Michael,Male,28,Tertiary,Employed,completed,2026-05-14T10:40:19,field_tool,1,Very Good,1,High,3
+f54db3d4-ae57-4cbc-8929-5d9077262b3d,e96c65e4-45fe-4259-85db-dcc72a7eee77,survey_419,Uganda,Davischester,Female,41,Primary,Employed,completed,2026-05-14T10:44:47,field_tool,1,Bad,4,Low,4
+3581ee12-88f2-45fa-bdd5-caaef2bcdcde,07377003-d851-4b32-8e82-f495708b4147,survey_778,Uganda,East Karen,Male,60,Tertiary,Self-employed,completed,2026-05-14T10:44:58,field_tool,3,Neutral,5,Medium,3
+d98e3235-555c-4273-9f1a-ea41f5a58e46,56984206-4149-44d9-ae6a-98c94c4c5eb2,survey_816,Uganda,Brandonborough,Male,68,Secondary,Self-employed,completed,2026-05-14T10:43:51,field_tool,1,Bad,4,High,5
+cc1eb7f0-5437-4eb9-8ec6-6f32afc363e8,ca848617-30b4-41eb-ab1a-9d3828117c9d,survey_753,Uganda,Mooreside,Male,30,Primary,Employed,completed,2026-05-14T10:40:51,field_tool,1,Bad,5,High,1
+ef447044-49f5-4b40-a2ae-97f874e920f5,03a9b418-8a14-4677-a885-296912de6ccd,survey_346,Uganda,New Sarahberg,Female,45,Secondary,Self-employed,completed,2026-05-14T10:44:30,field_tool,3,Good,1,High,3
+885534d8-e214-4f26-a667-1318bdcf44e3,77dca808-ce9d-4044-badc-187e9fd8b3bd,survey_255,Uganda,South Stephanie,Female,22,Tertiary,Employed,completed,2026-05-14T10:44:30,field_tool,4,Good,2,High,3
+9a36d20c-7ed7-4385-9d74-cccfa4d469f0,d2317a2a-5f1c-40b7-ba30-52221d2b1dfb,survey_894,Uganda,East Leah,Male,24,Secondary,Self-employed,completed,2026-05-14T10:44:10,field_tool,3,Neutral,1,High,3
+eef582dc-317f-4b42-b87a-baf37124a133,d4d5166f-2906-41fc-8d98-4d28cd6bd3e2,survey_171,Uganda,West Deborahfort,Female,72,Primary,Self-employed,completed,2026-05-14T10:43:52,field_tool,2,Bad,4,Low,4
+749b2e11-9ffd-4f8a-ba14-3c0ff41f0fc1,0d6acaa5-800d-46bd-b41b-869565108643,survey_395,Uganda,East Richardhaven,Male,53,Secondary,Unemployed,completed,2026-05-14T10:41:57,field_tool,4,Bad,2,Low,3
+d10c9416-eb3f-4c5c-b865-310e602ef9ff,5ff072f9-6b05-4f54-842f-a7b7bec12dae,survey_835,Uganda,Dannyfurt,Male,65,Tertiary,Employed,completed,2026-05-14T10:45:04,field_tool,4,Good,3,High,4
+b8c1963f-158d-4c20-9a22-a62f5784da33,752a0fb0-2bb0-43d8-b785-7684222b0b4a,survey_702,Uganda,Melendezview,Female,62,Primary,Employed,completed,2026-05-14T10:40:31,field_tool,4,Bad,3,High,4
+d4dfbcf4-b40f-42ce-8bcc-a5afa336561b,bd31e1e4-ebb3-4d02-b41e-bf3e93a0bd40,survey_116,Uganda,North Ashleyton,Male,29,Tertiary,Unemployed,completed,2026-05-14T10:44:22,field_tool,2,Very Good,3,Low,2
+cf2b5eb9-704a-41a1-ad52-f998a15592ad,acb19c0b-1d92-4031-85cd-a46871683f44,survey_424,Uganda,South Nicole,Female,52,Secondary,Employed,completed,2026-05-14T10:40:41,field_tool,2,Neutral,5,Medium,3
+c712e50f-04b4-4127-b0df-2312491e305b,7a7c643c-9288-4042-83c4-2b9965828bf4,survey_814,Uganda,Lake Benjamin,Female,50,Secondary,Self-employed,completed,2026-05-14T10:40:46,field_tool,1,Neutral,4,High,4
+df0b28f8-cf6d-4bbf-adcd-056f06e793b9,619c1f1c-9740-4d1b-8f35-f1d512f2f2a4,survey_814,Uganda,Port Taylorborough,Female,20,Secondary,Self-employed,completed,2026-05-14T10:43:19,field_tool,3,Very Good,2,High,4
+b2c62efe-a8eb-4a3d-a144-2f02d0d3dc0a,88893002-db5b-40f5-9126-20e3a906e855,survey_724,Uganda,Brendashire,Male,22,Primary,Employed,completed,2026-05-14T10:43:35,field_tool,4,Bad,2,Medium,1
+13685c99-08ae-4ba0-98a2-3ce7343bddc8,c2d4a545-803b-4105-881f-8eb7b715b47c,survey_552,Uganda,North Jonathan,Male,64,Secondary,Employed,completed,2026-05-14T10:40:40,field_tool,2,Good,5,High,5
+f965829f-1293-4946-bd8e-1d7f5bf7eeab,9a1a52c8-4f63-42f5-ba67-d85825c3ebc1,survey_564,Uganda,West Jasmine,Female,42,Primary,Self-employed,completed,2026-05-14T10:43:38,field_tool,4,Very Good,3,High,1
+9137a1aa-de5f-422f-97f5-61660fe20313,c83c0eae-88ef-4c54-85f8-ac211f0f4e25,survey_614,Uganda,North Matthew,Female,35,Tertiary,Unemployed,completed,2026-05-14T10:40:05,field_tool,1,Very Good,1,Medium,3
+0b881c8e-7fd3-4092-8ca5-66168948652a,d9920c0c-44a1-4622-b7b2-bd38dd606d2a,survey_842,Uganda,Michaelchester,Male,71,Tertiary,Employed,completed,2026-05-14T10:43:11,field_tool,2,Very Good,5,Medium,1
+6f2589af-b4fc-46cf-80fd-999e683ea4bb,ee1c4df0-7d0d-4a42-ae38-c187fe09a149,survey_559,Uganda,New Larry,Female,48,Secondary,Unemployed,completed,2026-05-14T10:40:29,field_tool,3,Bad,2,Medium,3
+00209c7b-0d88-45f1-adff-f4edb72ba53a,9c237a0e-bf13-44ce-9da6-b2d3e43cdb18,survey_674,Uganda,Snyderbury,Female,65,Tertiary,Employed,completed,2026-05-14T10:40:21,field_tool,5,Very Good,4,High,2
+4b52f54d-8281-4f6f-86fe-a5e4eebf38c3,79374598-243c-4666-baca-d214218d6ca1,survey_555,Uganda,North Mckenziefort,Male,43,Secondary,Employed,completed,2026-05-14T10:44:51,field_tool,5,Neutral,1,High,3
+8dd2b05f-30fc-4477-a7f0-0c92f76b5ad6,c24f8323-1918-4b9f-9860-efbecb2f2f3f,survey_999,Uganda,Tranville,Male,21,Primary,Employed,completed,2026-05-14T10:41:01,field_tool,5,Neutral,2,High,3
+b2ef2fc4-1fa9-4b48-8f45-5ffd3596bee1,e9189686-85a4-4507-9aae-56c3eb8a9234,survey_919,Uganda,North Austinmouth,Female,28,Tertiary,Self-employed,completed,2026-05-14T10:44:37,field_tool,5,Good,1,Medium,1
+79880488-152e-4bbb-ad80-6336779dd5b1,f1a3f5a9-4c3e-4f8b-9d05-70451af0bf25,survey_119,Uganda,Paulmouth,Male,29,Tertiary,Unemployed,completed,2026-05-14T10:43:00,field_tool,1,Good,5,Low,4
+12f08348-3ca9-44ac-95d6-154ba0729017,cd0e204c-c0bf-42af-8659-9dda823a62b2,survey_102,Uganda,Katrinabury,Female,58,Primary,Employed,completed,2026-05-14T10:44:30,field_tool,3,Neutral,1,Medium,1
+63c1a080-0cf1-40a6-993c-79570133f79c,94947430-5da3-4f0a-9aaa-507f19c9dcd0,survey_955,Uganda,Feliciachester,Male,20,Primary,Self-employed,completed,2026-05-14T10:43:34,field_tool,5,Neutral,5,Medium,2
+7d33fe0c-8090-4eb6-8e00-8e3857277829,1af1e1d5-0b8d-4fb8-9955-4bba2808ec5d,survey_530,Uganda,New Ronnietown,Female,68,Secondary,Self-employed,completed,2026-05-14T10:45:35,field_tool,5,Very Good,2,Medium,3
+eed114f1-b951-4cfe-bf5b-d450301d02a5,035aa840-5f4e-491c-af46-1cd2f9875b7e,survey_587,Uganda,Linville,Male,48,Primary,Unemployed,completed,2026-05-14T10:41:05,field_tool,2,Very Good,4,Medium,5
+24458b08-17d5-49a5-906d-f3e772c6933b,800fad3e-fbe7-42bb-9375-3c17ab540209,survey_246,Uganda,Christinaview,Female,36,Tertiary,Unemployed,completed,2026-05-14T10:40:06,field_tool,3,Neutral,4,Medium,2
+ebdc2fba-b720-4f08-9833-2ad577a36ca7,1fa77af9-31ec-468d-8382-33d3558b1f03,survey_719,Uganda,Lisafurt,Female,45,Primary,Unemployed,completed,2026-05-14T10:44:09,field_tool,1,Neutral,1,High,1
+218b0180-02bb-42cf-8510-e4729c795b63,6985519d-bcc9-4bc6-8b64-b3399af62a6e,survey_358,Uganda,Jeanshire,Female,42,Secondary,Self-employed,completed,2026-05-14T10:40:29,field_tool,4,Neutral,4,Low,3
+64f94530-ca54-4d08-93f3-69f8b011ce64,1cc0e800-3521-468f-be2a-dd6e7c26b3fa,survey_909,Uganda,Sanchezchester,Female,62,Primary,Employed,completed,2026-05-14T10:40:55,field_tool,4,Good,3,Medium,4

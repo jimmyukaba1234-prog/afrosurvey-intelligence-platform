@@ -1,0 +1,56 @@
+dataset: country_survey_kpis_gold
+version: "1.0.0"
+description: "Analytics-ready country-level survey KPI table"
+
+primary_key:
+  - country
+  - report_date
+
+fields:
+  country:
+    type: string
+    required: true
+
+  report_date:
+    type: date
+    required: true
+
+  total_responses:
+    type: integer
+    required: true
+
+  completion_rate:
+    type: float
+    required: true
+
+  duplicate_rate:
+    type: float
+    required: true
+
+  missing_data_rate:
+    type: float
+    required: true
+
+  data_quality_score:
+    type: float
+    required: true
+
+  avg_age:
+    type: float
+    required: false
+
+  male_percentage:
+    type: float
+    required: false
+
+  female_percentage:
+    type: float
+    required: false
+
+  reliability_index:
+    type: float
+    required: true
+
+  created_at:
+    type: timestamp
+    required: true

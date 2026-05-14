@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+f441dad7-be5c-4c27-be00-35777c34c4a3,c6f2a65f-847b-4fec-8bb3-b382553f1cc1,survey_632,Sudan,East Leonard,Male,27.0,Tertiary,Unemployed,completed,2026-05-14T10:42:24,field_tool,5,Bad,3,Low,2
+7e64a5e4-7f94-4610-b42d-9ed0ffff40f1,c3c982f8-860d-4306-9937-b69b2a9552cc,survey_258,Sudan,Heidiborough,Female,20.0,Secondary,Unemployed,completed,2026-05-14T10:45:07,field_tool,4,Neutral,4,High,2
+67962bc7-1541-4890-9826-bee7efe5bb7b,baaa653f-8d8c-45d4-a946-6ed3f5c78f47,survey_135,Sudan,Gordonmouth,Male,65.0,Primary,Unemployed,completed,2026-05-14T10:40:47,field_tool,2,Neutral,1,Low,2
+4acd0202-2eb0-4bdf-abd2-727838f21d6f,baf4162d-0ed1-49fc-9e5b-213a117b1a6e,survey_797,Sudan,Port Diana,Male,24.0,Tertiary,Unemployed,completed,2026-05-14T10:44:33,field_tool,4,Neutral,1,Medium,1
+904279f2-3084-4ed9-8970-98b61a15bbef,d3ddb327-ccf9-420a-b23c-660032173f00,survey_123,Sudan,Richardhaven,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:44:28,field_tool,2,Very Good,5,Low,3
+03892efc-236a-44b8-934e-fe1ae9e19cdd,8a28d3e7-63a2-4a7d-b2f2-694458f2d315,survey_644,Sudan,Johnland,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:44:54,field_tool,4,Good,2,High,2
+55020eed-7ebf-425c-ae1a-576c2a35ce51,ce58997a-3cb3-43e2-b01f-3653b0a0af09,survey_870,Sudan,Samanthachester,Female,57.0,Tertiary,Self-employed,completed,2026-05-14T10:45:20,field_tool,2,Very Good,3,High,2
+fec040ae-c277-4730-9731-6c82f9c99ea9,2b59038d-cfc2-4bec-bd3d-6bd24d439307,survey_527,Sudan,South Tara,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:45:21,field_tool,5,Neutral,2,Low,4
+2dae66cd-5001-4832-ac3a-c42e5f6a5655,32d1d9ee-2dcf-41d1-88b1-408d741eff91,survey_871,Sudan,Spencerbury,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:40:25,field_tool,2,Bad,1,Medium,4
+70902792-8809-407f-9b6e-9714295f8afc,21962752-4fce-49da-be2b-f5b145800613,survey_295,Sudan,West Georgeport,Male,64.0,Primary,Employed,completed,2026-05-14T10:45:00,field_tool,1,Bad,1,High,5
+08b30d70-8eef-4c06-a04d-42dc545373ec,399c6ab9-dae1-475e-a725-1392c1da9c88,survey_217,Sudan,Villarrealchester,Female,39.0,Primary,Employed,completed,2026-05-14T10:44:14,field_tool,2,Bad,2,High,5
+b9596ec2-8c7e-4a36-9c66-bd91ada3176b,e39b77ce-ab93-4da7-a88f-f80a42b0531a,survey_936,Sudan,Cherylton,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:39:52,field_tool,4,Neutral,3,Medium,5
+d07b24a7-a5c3-4987-a3d1-cbcc237e0bc8,0ac551b0-e2cc-4eca-ac3c-745b60355d70,survey_211,Sudan,East Jessica,Female,26.0,Tertiary,Employed,completed,2026-05-14T10:44:57,field_tool,2,Good,3,High,1
+9b6245a4-4415-4a3e-8729-f0cc411f539c,60cfdaa3-df18-4a4c-ad53-333df1d7684e,survey_659,Sudan,Port Molly,Female,74.0,Primary,Unemployed,completed,2026-05-14T10:40:43,field_tool,3,Very Good,4,High,2
+b0e55d8b-ad52-4842-b85a-601d3e2174e7,c4d9f75f-f3f5-4000-9410-65aeb1495e5c,survey_245,Sudan,Mariochester,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:41:04,field_tool,5,Very Good,3,Low,2
+db1b7dd9-a1b7-4d43-9dbc-05f102de26d4,87ce11b4-d523-4a83-af48-e2b252693428,survey_158,Sudan,Lake Olivia,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:42:48,field_tool,5,Bad,3,Low,4
+69f0d1d2-cec9-42ff-bef8-eb9e80b34044,4d7e56e8-61a6-4723-a1e2-4f921a34d0fe,survey_569,Sudan,Hardymouth,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:41:39,field_tool,2,Good,4,Low,1
+87d0810d-91d4-4e26-9be2-c823d800f07e,9d3c14ab-160a-4064-8025-6856a5ed1adb,survey_629,Sudan,New Teresa,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:45:30,field_tool,3,Neutral,2,Low,1
+7f28545d-d43d-49c7-a268-060d9c33e757,ee019ccc-e791-4731-86de-210641b8a40b,survey_251,Sudan,Seanmouth,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,5,Bad,5,High,4
+0bade527-10e9-4fd1-8c21-1d28cc49fab7,b6f6ff69-2b4b-47ae-9c36-a28016db604c,survey_734,Sudan,Vanessafurt,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:17,field_tool,3,Very Good,1,Medium,5
+8146ffea-ac2d-439a-a30d-989b1627c94a,dedf6ec5-50ad-49d8-8441-f0188c2fba67,survey_870,Sudan,West Victoria,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:40:08,field_tool,2,Bad,5,Low,4
+42fa65a3-41cf-43d9-b44b-2d66b9f60725,6863fe5d-16ff-468a-a13d-dd432d6588af,survey_267,Sudan,Leeside,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:39:46,field_tool,1,Good,3,High,4
+f623537f-9997-473a-8112-e6684340415f,69007e81-7312-4bd7-a31d-92144de7223f,survey_808,Sudan,Randallfort,Male,36.0,Primary,Employed,completed,2026-05-14T10:44:22,field_tool,1,Good,2,High,5
+0c82985b-bf48-4c77-82c6-d8ef3346d313,0e01a6ed-9bc3-4ab5-bef4-925aa6303814,survey_388,Sudan,New Jasonhaven,Female,27.0,Primary,Self-employed,completed,2026-05-14T10:42:09,field_tool,4,Bad,4,Low,4
+4b340d5d-a8b9-436b-b960-a00611e0bf3e,3a21d75b-0ec3-41ea-87b7-e442be69eecb,survey_542,Sudan,North Brentport,Male,66.0,Primary,Unemployed,completed,2026-05-14T10:44:59,field_tool,3,Bad,4,Low,1
+559299ae-0f1c-48f6-bc30-6353d00e0dab,ca4a4649-2df0-4c04-aff3-60ed0d45075e,survey_669,Sudan,Matthewton,Female,49.0,Secondary,Unemployed,completed,2026-05-14T10:43:12,field_tool,4,Very Good,1,Low,3
+d0350548-e7c5-4850-8398-38f913dd6621,8e7be602-8696-4523-98bc-889a11384d4c,survey_516,Sudan,Chaseberg,Female,64.0,Primary,Employed,completed,2026-05-14T10:41:34,field_tool,1,Good,3,Low,2
+aeb0a8ac-2f58-4933-8822-093724f51a9c,a765f456-5aff-4dd3-a1f4-883ca3b3963a,survey_879,Sudan,Lake Brandon,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:41:38,field_tool,2,Very Good,5,Medium,3
+7570b200-25ac-4558-b7c6-b551157e1d7d,8c35ee95-9460-4964-bb00-060c69308e1a,survey_543,Sudan,East William,Female,37.0,Primary,Employed,completed,2026-05-14T10:44:35,field_tool,1,Bad,3,Medium,5
+96760d79-11e4-411d-acbf-a88920460f24,6afcc794-6345-4455-9970-0db9f0e7a28d,survey_740,Sudan,East Patrickhaven,Male,63.0,Tertiary,Self-employed,completed,2026-05-14T10:40:40,field_tool,1,Good,2,Low,3
+54fbf88a-50ec-46f5-a226-74960d6f6ce4,884030a8-bf51-4cc5-a082-f6591c07e0fc,survey_502,Sudan,Lake Kurt,Male,54.0,Primary,Employed,completed,2026-05-14T10:45:41,field_tool,5,Good,3,High,5
+0f88ff3f-9053-4ede-90bd-3b6348068746,26ec62a0-b945-47e4-b146-d23bb94174f2,survey_498,Sudan,East Mark,Female,69.0,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,1,Bad,5,Medium,1
+3026dd23-1f32-49e0-ba06-0c861ce4b934,4b5dd9f7-4a96-4647-a8de-e85ea6d480d5,survey_281,Sudan,Matthewchester,Female,70.0,Primary,Unemployed,completed,2026-05-14T10:44:42,field_tool,1,Very Good,1,Low,5
+b31c11cb-cf3d-4bdc-adf4-c3996f59831f,39f6e793-8906-4fe5-9ef4-af323ccd45ac,survey_701,Sudan,Johnton,Female,48.0,Primary,Employed,completed,2026-05-14T10:41:26,field_tool,5,Good,1,High,3
+44788b0e-0f5f-4736-a363-62807c06ecfd,7657c522-6fa5-4663-bbf2-6c392a611cb2,survey_608,Sudan,Yorkchester,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:45:45,field_tool,3,Bad,3,High,4
+a0306b93-0a68-4fae-bcc1-a882a629cfda,3ca9f3f2-1fe0-4c14-9e12-1ad76ba895de,survey_502,Sudan,North Lindseyport,Male,66.0,Primary,Unemployed,completed,2026-05-14T10:42:18,field_tool,3,Bad,1,Medium,4
+c6e70a87-7a74-44e2-bd75-b2ffad5074bb,0c621ad6-e009-4ff4-9d67-b23d4a115b13,survey_405,Sudan,Sarahchester,FEMALE,18.0,Tertiary,Unemployed,completed,2026-05-14T10:44:16,field_tool,3,Bad,4,High,2
+a4d281f5-efea-4deb-86bf-c19474fd4497,6d20806f-0543-4bdb-ae3d-109d9eb242eb,survey_246,Sudan,South Megan,Female,26.0,Tertiary,Unemployed,completed,2026-05-14T10:43:07,field_tool,5,Neutral,1,Low,4
+a20ed2dc-2392-4153-bc72-a0874a64a344,43c99dec-fe04-4c0f-bad7-3ec211cebf00,survey_728,Sudan,Sherryhaven,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:44:48,field_tool,3,Bad,3,Low,5
+917cc746-32bf-4cb8-92ea-7fe2e17c2e70,948cd85f-50ee-4ecc-a3c8-4be80dd00e06,survey_538,Sudan,South Robin,Male,,Primary,Unemployed,completed,2026-05-14T10:41:40,field_tool,5,Good,2,Medium,2
+3817242b-e19b-4891-a914-b8923fc54912,367219de-102b-4557-806d-ad8ad62b653d,survey_691,Sudan,North Matthewmouth,Male,75.0,Tertiary,Unemployed,completed,2026-05-14T10:40:40,field_tool,2,Neutral,1,Low,3
+7488fe1e-d024-4285-8e48-046525fdd59e,9165507c-f651-4661-838f-25f16e4b1489,survey_826,Sudan,Jeffreyland,Male,64.0,Tertiary,Unemployed,completed,2026-05-14T10:44:14,field_tool,4,Neutral,4,Medium,3
+f96e3d6c-4823-48ab-a983-2143b3ac2b64,e2ea5f1d-53d7-4f8f-bb6b-6873c8a18cc6,survey_636,Sudan,Hoffmanfort,Female,67.0,Secondary,Self-employed,completed,2026-05-14T10:42:18,field_tool,2,Neutral,3,High,5
+a070ed34-2ab4-4279-a5c7-5d408ef1db83,48420fbf-a777-4b32-8bf5-f7cea6c0e3e0,survey_388,Sudan,Riddlemouth,Female,59.0,Secondary,Unemployed,completed,2026-05-14T10:44:10,field_tool,2,Very Good,1,Low,1
+ec285977-fd30-4bc7-aa18-946bdd13ecf2,d52aae90-2535-41f9-bb15-1c766416ae3d,survey_189,Sudan,New Travisport,Female,28.0,Primary,Self-employed,completed,2026-05-14T10:45:36,field_tool,2,Neutral,3,Medium,5
+276620f7-5edf-44c6-9537-333225b855b0,6e0894e0-a3e4-43fb-857f-eae5c992d48d,survey_948,Sudan,Toddberg,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:41:03,field_tool,3,Bad,3,Medium,3
+a22a65fe-8e1f-46c1-90fc-568a9df504f1,587236bc-8e29-488f-95f0-e8914b2935f0,survey_216,Sudan,South Tyler,Female,75.0,Primary,Self-employed,completed,2026-05-14T10:40:48,field_tool,3,Good,4,High,1
+7502a679-689c-42e7-ac97-c5c61a2afef9,a63d62ad-036d-421e-bc63-bed8d09923d6,survey_659,Sudan,Samanthafort,Male,55.0,Tertiary,Self-employed,completed,2026-05-14T10:43:23,field_tool,4,Good,2,High,5
+71999d3a-101f-44e6-8ca6-ac8adae5f10b,a7e04769-8ab5-4296-96dd-e1a51bddb5b6,survey_941,Sudan,North Michaelstad,Male,44.0,Primary,Unemployed,completed,2026-05-14T10:40:48,field_tool,4,Neutral,3,Low,3
+54c96f45-576b-4a05-8421-5aff266f1402,4b027391-30a5-400c-b596-a5a8e8656538,survey_833,Sudan,East Jamesland,Female,53.0,Secondary,Unemployed,completed,2026-05-14T10:42:48,field_tool,4,Neutral,2,High,1
+d4cef473-4fbd-486f-be3f-57720f88bfb1,35298346-d552-40fc-ad2b-7be30ce8a8ee,survey_232,Sudan,South Mary,Female,27.0,Primary,Self-employed,completed,2026-05-14T10:43:53,field_tool,4,Neutral,5,Low,4
+2b0604bf-7c32-49e7-bbc1-91d05bff9762,d628fe63-af2f-41fe-aa09-c0c57bd2f3d6,survey_757,Sudan,Pamelafort,Female,47.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,1,Neutral,1,High,5
+6acf7d8a-5179-4310-a7a5-cc5e995b2aeb,6f64acf4-cddb-4519-aa05-aacbf4c05925,survey_896,Sudan,Burchhaven,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:44:55,field_tool,1,Neutral,2,Low,5
+bde36e2c-77ca-4026-84c0-8a1aa1960b23,021d2b7f-0546-40ea-b955-3e356a052552,survey_539,Sudan,East Kimberlyton,Female,33.0,Secondary,Employed,completed,2026-05-14T10:42:57,field_tool,2,Very Good,4,High,3
+2565d928-9bed-4366-8984-401a53ec8ad6,13665637-3ad5-4af7-a503-9587655f1e77,survey_634,Sudan,Phammouth,Female,23.0,Secondary,Self-employed,completed,2026-05-14T10:40:43,field_tool,4,Neutral,4,Medium,2
+22b08b9e-172a-4a12-853d-4b2887d10854,2703a4dd-c981-4d1e-a1f2-4536afe7231a,survey_970,Sudan,West Jenniferberg,FEMALE,43.0,Tertiary,Self-employed,completed,2026-05-14T10:42:08,field_tool,2,Good,3,Medium,2
+20d768c3-1201-4eda-a490-3099f21a1b69,619c8a89-1e45-4d23-a2ae-86fed7dbe362,survey_205,Sudan,Farrellton,Female,33.0,Primary,Employed,completed,2026-05-14T10:43:54,field_tool,1,Neutral,1,Medium,2
+44a47f38-b027-4a94-98cf-bac65527f69b,b7ff1125-d50c-4835-98bc-20782bddbb14,survey_237,Sudan,Matthewport,Male,47.0,Primary,Unemployed,completed,2026-05-14T10:42:33,field_tool,3,Bad,2,Low,5
+4837854b-eb1b-4016-91af-06a03a4ec2ed,8795f716-65c4-450f-98e6-c4d87d192353,survey_542,Sudan,West Madison,Male,39.0,Primary,Self-employed,completed,2026-05-14T10:41:17,field_tool,3,Neutral,1,Medium,2
+df32ab07-e751-47b1-b7ae-d0f625bcba42,7a3a9867-7268-46d7-a483-c444a5d6517c,survey_234,Sudan,West Nichole,Male,50.0,Secondary,Employed,completed,2026-05-14T10:41:53,field_tool,2,Good,4,Medium,3
+0e388f47-b2ac-44b7-91f5-788b9e171039,e25fc7fa-3332-478e-ba8b-5578a37074b4,survey_174,Sudan,East Richard,Male,60.0,Tertiary,Self-employed,completed,2026-05-14T10:42:01,field_tool,5,Neutral,5,High,4
+6374ad44-5c07-4f35-a78e-f8d43306c8a2,f8c8f692-8225-4a8d-855f-673bf0685f14,survey_430,Sudan,Port Adamville,Female,69.0,Tertiary,Employed,completed,2026-05-14T10:44:49,field_tool,3,Very Good,1,Medium,4
+cd881b36-5665-45d8-a641-b4bbcf2f36f8,349bfe4f-ef75-443d-939d-49830762bd99,survey_787,Sudan,Stokeschester,Male,57.0,Primary,Employed,completed,2026-05-14T10:45:30,field_tool,3,Good,4,High,1
+ab8d7751-ed34-426f-ad48-297350601f58,a0c53f7f-1574-483a-a67f-92bca8fd0188,survey_289,Sudan,Stevenborough,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:41:18,field_tool,2,Bad,3,High,1
+15452f1c-fc0e-4c9b-999c-64b0edc3f862,2022fdea-b360-4832-9dbf-53aefec86210,survey_743,Sudan,Lake Ricardoborough,Male,30.0,Tertiary,Unemployed,completed,2026-05-14T10:45:11,field_tool,2,Bad,2,High,3
+1ffcceed-798a-4af2-bdaf-44f4a40b51cc,9c2eaac0-928d-4599-ac81-c4ad39659120,survey_677,Sudan,Donnaview,Female,66.0,Tertiary,Unemployed,completed,2026-05-14T10:40:38,field_tool,2,Bad,4,Low,2
+b9ae5660-0bff-4574-b072-ac95808e0489,d5fb5858-cae3-49cf-bc51-698d01cb7972,survey_260,Sudan,Jenniferstad,Female,27.0,Primary,Unemployed,completed,2026-05-14T10:42:43,field_tool,1,Very Good,4,High,4
+6ebeeefc-a3c0-4148-a81a-4fad14b13e7d,ec731a41-b8a1-46c6-b14c-2bfff49a2bc0,survey_471,Sudan,Brianview,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:42:37,field_tool,3,Neutral,4,Medium,1
+fc62d5af-7a23-4bd0-a348-8dfa8053aa81,cc36afc5-ad53-4a54-8e75-855f34554499,survey_394,Sudan,Alvaradoborough,Female,56.0,Primary,Employed,completed,2026-05-14T10:40:11,field_tool,5,Bad,2,Low,2
+51ab76a8-c538-467e-acd8-59fcceb7171a,d669074f-2263-4ff4-aca3-d419079ee8e6,survey_599,Sudan,North Emilymouth,Female,31.0,Secondary,Employed,completed,2026-05-14T10:41:49,field_tool,2,Very Good,4,Medium,5
+4e6457d8-7694-4397-9432-a2b47308cc32,cc4110a5-a8d4-4473-a8d5-ed6f7ac157e9,survey_181,Sudan,Murphystad,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:40:03,field_tool,2,Bad,1,High,3
+ddd44f93-88ed-4e84-b803-b55c95a96d56,4e526717-e32f-4529-89c3-b773c27443a1,survey_215,Sudan,Gallagherburgh,Male,43.0,Secondary,Employed,completed,2026-05-14T10:39:51,field_tool,4,Very Good,4,Medium,1
+7fcb0d3d-5c7d-4e48-8c5a-2dffdc4ca4da,665c7310-3174-4532-adaf-0a17c2b5f8c4,survey_827,Sudan,Thomasstad,Male,18.0,Secondary,Self-employed,completed,2026-05-14T10:41:50,field_tool,3,Bad,5,Medium,1
+68b80dd4-46cc-46df-b41d-dae0c5cc8a6c,ed25e15e-0b42-4937-842b-a101d5e3c1a8,survey_200,Sudan,New Breanna,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:44:48,field_tool,5,Good,5,Medium,5
+0f926a28-9261-4c05-ba86-f2fe5cf6ac62,dc775e63-c9bc-4074-b884-fef11aaaa92b,survey_374,Sudan,Lake Andrew,Male,25.0,Secondary,Self-employed,completed,2026-05-14T10:44:12,field_tool,4,Very Good,5,Medium,1
+26557760-9d7a-4cc8-9569-c06087e572fe,123e79b8-2931-4802-8d39-c7dbdbd67744,survey_719,Sudan,East Gabrielle,Female,72.0,Primary,Unemployed,completed,2026-05-14T10:42:05,field_tool,1,Good,4,Low,4
+f5dc7100-bb80-4a1f-af5a-e89dacb4b6a0,b9bc7984-147f-42df-81c5-9badb42a5915,survey_862,Sudan,South Sarahberg,Female,52.0,Primary,Employed,completed,2026-05-14T10:44:08,field_tool,4,Good,5,High,4
+4c5d06e8-0ac4-42af-81b1-124626cd5a27,713fbd71-268f-4cfe-864b-04d39e344fcb,survey_928,Sudan,Lake Bryan,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,5,Bad,4,High,4
+d353c0b9-25e7-4dcb-a178-18038e6fe4c5,ad7b7ec6-cd44-48c2-8bf6-5e6717e4640f,survey_456,Sudan,Shelleystad,Female,23.0,Primary,Employed,completed,2026-05-14T10:40:01,field_tool,4,Good,4,Low,3
+21556878-83d6-4a37-8bd7-9b3036992e5f,c56d538a-f02b-4523-8e07-047877e7ed83,survey_678,Sudan,Davisbury,Male,67.0,Tertiary,Employed,completed,2026-05-14T10:45:32,field_tool,4,Very Good,2,Low,2
+b8c10314-8982-4602-a0e0-4d7551dbdd29,837bd6cf-53ad-41ec-87b8-9a6c0c63ad6b,survey_468,Sudan,Andrewton,Female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:40:44,field_tool,5,Bad,4,High,5
+cdfe6da5-4223-48fb-a10d-e592d67fdab7,6d093633-726f-493c-a1b1-50faafa70f15,survey_861,Sudan,North Heather,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,5,Very Good,3,High,2
+8d31b80d-8864-438b-abdf-d67fdaca6b68,0b6ddda4-bfe8-44bd-8fb8-36009ea54a0e,survey_548,Sudan,Mooremouth,Male,36.0,Primary,Unemployed,completed,2026-05-14T10:44:24,field_tool,5,Neutral,2,Medium,5
+4228e6e5-960a-4fbb-ae45-45ae593931de,9ff78f9a-e718-4c49-807e-f8b4ebfb9cde,survey_480,Sudan,Port Deannastad,Female,61.0,Secondary,Self-employed,completed,2026-05-14T10:40:57,field_tool,1,Good,1,High,5
+77aa6df5-b0a4-4e24-9786-d971655636a4,909259cf-c640-4ab6-9eab-7637577cadb5,survey_521,Sudan,Robertton,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:44:16,field_tool,1,Bad,5,Medium,1
+ecb0a51b-76a4-4008-ad3d-908715e266d6,6d9eb33b-fe2e-48b7-92cf-4d5ce3a8c417,survey_717,Sudan,Ryanfurt,Male,63.0,Primary,Self-employed,completed,2026-05-14T10:41:19,field_tool,3,Bad,5,Medium,3
+77007de0-7381-4041-8ab5-eef842bb8c8a,302ce608-d911-4c6d-89f6-487eda3e56b0,survey_461,Sudan,Danielview,Female,75.0,Primary,Employed,completed,2026-05-14T10:45:02,field_tool,1,Bad,5,Medium,2
+837c5c76-f7db-4695-822a-dc45f4df890f,bf7c54be-9b1a-4d94-9035-70c4f6551ace,survey_248,Sudan,West Michael,Female,55.0,Tertiary,Employed,completed,2026-05-14T10:44:45,field_tool,3,Bad,4,Medium,3
+9945c756-6218-4b60-8c8b-3538f2fcbf6a,5ecab80d-9216-4784-bd82-c1f65ad05760,survey_148,Sudan,New Marissa,Male,47.0,Secondary,Employed,completed,2026-05-14T10:41:04,field_tool,1,Bad,3,Low,5
+62630e88-47b4-4e5c-b162-559d731feac0,7d46fe99-b996-4967-ae05-b74817722443,survey_455,Sudan,East Nichole,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:41:50,field_tool,1,Neutral,3,Low,4
+08cd198c-8c7e-45ea-bda8-60d6cbf7096c,cbacb977-2d94-4e7d-87f0-4d2d4dc988e2,survey_258,Sudan,Lawrencestad,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:43:39,field_tool,2,Very Good,5,Medium,2
+3b5c7eb1-091d-49dd-88d7-2ac93460c9dc,3d35a9a8-e6eb-45a2-acc6-2ddd30b7244f,survey_795,Sudan,Edwardsshire,Female,38.0,Tertiary,Employed,completed,2026-05-14T10:42:31,field_tool,2,Neutral,1,High,5
+aec77c57-7e34-4188-b74b-db51d8091c7b,c094bef7-452c-4d57-a234-251438695b3a,survey_221,Sudan,Cruzshire,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:43:10,field_tool,1,Neutral,3,High,1
+d5001f69-ed28-4ddc-836a-0091e4c132aa,c27ffb2b-b1f7-42f9-a182-15b67e7151c6,survey_894,Sudan,Port Javierland,Male,71.0,Primary,Self-employed,completed,2026-05-14T10:43:39,field_tool,3,Very Good,3,High,1
+0e41b29c-1fe0-4e74-b1da-cce23c76f307,d24b216d-c445-4a51-a81b-08853a035fcb,survey_419,Sudan,Rogerston,Female,32.0,Primary,Employed,completed,2026-05-14T10:45:07,field_tool,4,Bad,1,Medium,4
+d79266fa-efd0-4bc2-9d91-62a318187d54,6e24dbc5-5259-4c62-b35d-3dc5f2eca201,survey_703,Sudan,Christensenberg,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:45:00,field_tool,2,Very Good,2,Medium,2
+e03499df-e2f0-4fc7-820f-77e68dcee1aa,94e3d401-23af-41af-93d5-8a7bf6d4d1cc,survey_242,Sudan,North Kelly,Male,42.0,Primary,Unemployed,completed,2026-05-14T10:40:29,field_tool,1,Good,4,Medium,3
+1c46f801-085e-4c11-9422-6f32732fbc9c,3b3f8721-b0bb-4e36-adfc-c17d14d27d3c,survey_294,Sudan,North Veronicaland,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,2,Good,3,Low,4
+20af743d-6fb0-4b14-9377-4890b89bd52e,0910fb47-0b43-44ba-ac47-5eed5d36426e,survey_489,Sudan,South Crystalshire,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:41:08,field_tool,3,Good,1,Medium,4
+ead8c40e-3bfd-4320-a8a7-21277cad20e2,c68b1f67-d37a-46c3-9346-c8bd235f9dfe,survey_959,Sudan,Gutierrezview,Female,59.0,Secondary,Employed,completed,2026-05-14T10:40:24,field_tool,2,Bad,4,Low,4
+fe8045c0-0b5d-46e9-8dd7-6f37812fcae5,e539f46a-fa65-4566-ba78-927b86c819ee,survey_717,Sudan,Edwinview,Female,34.0,Primary,Unemployed,completed,2026-05-14T10:44:26,field_tool,2,Very Good,3,Low,2
+9a945d00-70f3-442b-82ca-9db535fd45c7,d6ca20c8-8c6f-4517-8f62-8bf0c9c0ea42,survey_130,Sudan,South Juanton,Female,49.0,Tertiary,Unemployed,completed,2026-05-14T10:43:06,field_tool,5,Very Good,1,High,2
+1f7d8194-a76d-48f1-a2c4-044125ec7705,8bf0f8f9-53f1-4f3f-83a3-ef3584ed46a1,survey_436,Sudan,Lake Crystalfurt,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:45:39,field_tool,4,Bad,3,Medium,2
+95e248e6-add6-47a2-a8ef-af27b96cb02f,c202977f-8ff2-4018-9eb4-b160989860cd,survey_414,Sudan,Joelport,Female,55.0,Primary,Employed,completed,2026-05-14T10:45:11,field_tool,3,Very Good,1,High,2
+77621a47-e58b-4684-8f3d-5f0493e9fafc,fc99c4ff-df52-413c-9e97-5c88965ec214,survey_566,Sudan,Carriefort,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:44:50,field_tool,2,Good,2,High,1
+7e7cc735-599a-4e14-9ec1-c00f8be64676,2ab81cf2-c4cf-4a73-8435-bda85ac9e5a4,survey_336,Sudan,East Madison,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:43:45,field_tool,4,Neutral,5,Low,5
+19fedb5d-57f5-435e-880b-696ea7b56fb0,ec928b55-17b3-4131-91a2-3dcbfd899787,survey_621,Sudan,Samuelmouth,Female,20.0,Tertiary,Employed,completed,2026-05-14T10:43:47,field_tool,1,Neutral,5,High,3
+bc10501f-a201-404a-ad77-05f1d7239a59,0032e043-f0b1-40c6-94b1-234724f87dc6,survey_186,Sudan,South Deborahport,Male,,Tertiary,Unemployed,completed,2026-05-14T10:44:24,field_tool,2,Very Good,3,Medium,5
+c7a095c3-7e30-4e24-b7f9-367e9b610e91,fa42c677-51c3-456f-b26f-9d4dcc35b61a,survey_178,Sudan,Jamesside,Male,52.0,Primary,Unemployed,completed,2026-05-14T10:40:25,field_tool,4,Neutral,3,Low,5
+41a4d6d5-d9ea-4bf7-8c4c-1d9ddc492df0,e674175f-6e73-4f67-a51f-a5eb03c1df61,survey_777,Sudan,Millerside,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:40:38,field_tool,3,Neutral,5,High,4
+630c5aec-6a48-4bcf-ab89-0b987011566c,1f4c2b21-46a5-4980-a12d-e239dd0bbdec,survey_724,Sudan,East Monica,Male,31.0,Primary,Employed,completed,2026-05-14T10:39:58,field_tool,4,Neutral,3,Medium,3
+f96904d5-bd25-4794-b5a6-5385601ae0cb,cf940d2e-ae50-4dbc-b250-1e779158e477,survey_937,Sudan,Harrismouth,Female,65.0,Secondary,Employed,completed,2026-05-14T10:44:23,field_tool,1,Bad,3,High,3
+bb18abef-6f74-4712-9ae1-adce913671cc,c352be68-b01e-407f-913f-bcf9f5ee7244,survey_642,Sudan,Hannashire,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:41:03,field_tool,4,Bad,2,Medium,3
+ddc15e5d-9eee-4011-bf92-d80c2c9a067c,9e1dbd3c-2482-4d97-92cf-10a0d5201790,survey_167,Sudan,Christinachester,Male,29.0,Tertiary,Self-employed,completed,2026-05-14T10:39:52,field_tool,3,Good,3,High,3
+81406fe5-d1ef-4ea3-b955-fa209e536ab8,e1df6ec8-d5e9-4c8d-bbf1-7042d60c82f7,survey_736,Sudan,West Dawnville,Female,44.0,Primary,Employed,completed,2026-05-14T10:42:38,field_tool,3,Very Good,4,Medium,4
+cc721d0d-064c-4e4d-a47a-50ca17ab25c5,b9197a31-5f3a-4c17-a22f-12c0fe518462,survey_228,Sudan,Richport,Male,50.0,Secondary,Self-employed,completed,2026-05-14T10:40:42,field_tool,3,Very Good,5,High,4
+4eaf0f54-02bb-455d-a14d-16dfd760257e,e2eeeb75-2686-4148-aec6-42c69ca8c530,survey_190,Sudan,West Jamesview,Male,53.0,Secondary,Employed,completed,2026-05-14T10:45:05,field_tool,4,Good,5,Low,5
+65f78fe1-e787-4835-a2f0-6e6128a6bd14,1656b872-9d2c-48bd-95bd-0b806f0dce9d,survey_284,Sudan,Rosemouth,Female,22.0,Primary,Employed,completed,2026-05-14T10:44:30,field_tool,2,Neutral,5,Medium,2
+d78ed82f-bf7c-4877-b1e2-e618778ac8d2,722c839d-cd81-41ba-afe4-b71c21e3d97d,survey_838,Sudan,West Grace,Female,70.0,Primary,Unemployed,completed,2026-05-14T10:41:16,field_tool,3,Very Good,1,Medium,4
+40bc5c0e-6a8c-40a2-8057-33d0919cc1d5,1ca1c718-6363-4288-ac66-463034666cc6,survey_298,Sudan,North Hunterton,Female,51.0,Secondary,Unemployed,completed,2026-05-14T10:41:27,field_tool,4,Good,1,High,3
+6f78b965-4fb4-4650-b875-619dbaca91a5,4e1fe48e-e2df-40c2-b0dd-04551f165df5,survey_505,Sudan,Karastad,Male,65.0,Secondary,Employed,completed,2026-05-14T10:40:41,field_tool,1,Bad,1,Low,4
+b91f7242-51e8-4e87-9b2a-315c5face0da,1c07276d-ffe9-43ca-bd3f-94c60e8099eb,survey_711,Sudan,North Lisatown,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:39:46,field_tool,4,Neutral,4,High,1
+2c8a1089-b385-4656-b9e6-c3d0cf18ed8e,a0241f3a-34f2-4544-9d62-cd19dfbb5d6b,survey_496,Sudan,Williamsshire,FEMALE,70.0,Secondary,Employed,completed,2026-05-14T10:44:05,field_tool,4,Neutral,5,Medium,1
+28b0a968-41d8-4580-b734-3e28d58db18d,ee84398f-aceb-4ae7-a1b1-e912ab0d2172,survey_694,Sudan,Port Timothyburgh,Male,72.0,Tertiary,Self-employed,completed,2026-05-14T10:44:23,field_tool,5,Neutral,4,Low,4
+ae9812fd-38c4-41ac-b35d-79837c9f825a,218af76a-234d-4693-b6c0-58968403341c,survey_144,Sudan,Port Tracy,Male,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:20,field_tool,2,Very Good,3,Low,4
+5d780ebe-2a54-4333-a800-d0a13fa0974c,063e4455-2b6f-412b-ac06-d79113db1de5,survey_832,Sudan,Brownborough,Female,52.0,Tertiary,Unemployed,completed,2026-05-14T10:40:22,field_tool,3,Good,1,Low,5
+a7a69055-7dc9-4cff-9025-b71fe8f852ae,1088ecd7-7d15-4ae9-9f5a-a434ed5349a6,survey_861,Sudan,Morrismouth,Female,64.0,Secondary,Employed,completed,2026-05-14T10:43:08,field_tool,1,Neutral,1,Low,4
+b35a9d2c-28ae-4f3a-a06c-554262512a80,7072c8f1-373b-4c79-83c6-5d2e2ec8466e,survey_620,Sudan,Simpsonfurt,Male,67.0,Primary,Employed,completed,2026-05-14T10:43:09,field_tool,5,Good,1,High,5
+bc753df7-ca94-4f54-ab08-b947050f77c0,65145371-7459-4a80-b387-fed4386ba73a,survey_427,Sudan,Lake Meredith,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:43:35,field_tool,1,Very Good,1,Low,2
+c70491b6-267d-4b83-8b92-4d979ac42e15,df7f83a8-31df-4fcf-87ea-d9a933284be4,survey_241,Sudan,Tamaramouth,Male,67.0,Primary,Unemployed,completed,2026-05-14T10:40:57,field_tool,3,Bad,2,Low,1
+1551050e-d10d-451a-a3b4-daacc68fad9f,07d40069-474b-44d9-bc5b-4526c34e71cb,survey_204,Sudan,New Carolstad,Female,32.0,Primary,Unemployed,completed,2026-05-14T10:45:04,field_tool,5,Bad,3,Low,5
+e7a54582-50d5-435b-a57a-d8255bb01222,0234bed9-1978-4303-9e43-430ab5cdfdc8,survey_628,Sudan,Robertside,Female,63.0,Secondary,Self-employed,completed,2026-05-14T10:44:09,field_tool,3,Good,1,Medium,1
+60992189-dd94-4479-97f3-9fe3dfccfbd4,54654df8-1cfc-4ea9-ab76-b8b761ab60a2,survey_938,Sudan,Mikeborough,Female,36.0,Tertiary,Self-employed,completed,2026-05-14T10:42:26,field_tool,4,Bad,2,Medium,5
+9261665d-fe13-426b-b985-cca8643406dc,fc4d3d2e-bf85-43ea-935c-a9f9ef342aae,survey_767,Sudan,West Erica,Male,60.0,Secondary,Self-employed,completed,2026-05-14T10:44:37,field_tool,1,Bad,1,High,1
+1e98ad99-09ca-4036-96ef-57374e2cf1c6,0f4069fd-e085-4233-9fd6-578929f46854,survey_567,Sudan,Fosterfort,MALE,34.0,Primary,Employed,completed,2026-05-14T10:44:49,field_tool,5,Very Good,1,Medium,3
+452e6a68-0122-4171-b0eb-72fef9d6b88d,9fd2bc6b-858c-4603-b184-56728531f354,survey_899,Sudan,Romeroberg,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:43:58,field_tool,1,Bad,1,High,3
+0920f73b-cadb-4dae-a0d5-ddebbb6f7bc7,8ee69216-eb2a-474e-bf95-f66d542814d3,survey_250,Sudan,Emmafurt,Female,63.0,Secondary,Employed,completed,2026-05-14T10:43:06,field_tool,3,Bad,3,Medium,2
+2896f660-df55-4816-ad5e-bb986e562505,4dc7fc87-3276-4cb7-a0a4-464aa268ec3c,survey_371,Sudan,Carmenburgh,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:40:53,field_tool,2,Neutral,5,Medium,3
+f9c1362e-c96e-4818-b272-6ef4fa73873a,6332e392-7897-439c-8b66-21b075ce96a9,survey_288,Sudan,Port Abigailfort,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:39:48,field_tool,2,Neutral,2,High,2
+82ed6aa2-fc12-4f57-8884-ed262b126b41,865794a3-07b8-4356-ba26-b75459d1e3bf,survey_812,Sudan,North Bethborough,Female,37.0,Primary,Unemployed,completed,2026-05-14T10:42:20,field_tool,2,Neutral,3,Medium,1
+3cd124e7-e50d-41f7-a719-28ac3586e46c,4dab1998-ced0-44f2-b2f9-8cdbca10f29a,survey_942,Sudan,New Robert,Female,20.0,Secondary,Unemployed,completed,2026-05-14T10:42:23,field_tool,3,Very Good,2,Low,4
+9dcd690d-079f-4a7a-b1bd-a7a9a5aef338,1deeea94-2744-42b2-981c-89f536393f2d,survey_613,Sudan,Danielberg,Female,28.0,Tertiary,Unemployed,completed,2026-05-14T10:40:29,field_tool,5,Neutral,1,High,2
+d2088d18-9387-4d9d-a9c6-87d787e5fed4,43b78860-6761-4256-a813-78ffbdaec327,survey_884,Sudan,North Margaret,Male,42.0,Tertiary,Unemployed,completed,2026-05-14T10:40:11,field_tool,3,Good,2,Low,4
+95d3eee2-c990-4f60-81c1-f23ec1deca7d,f8806658-0072-4cbe-b425-4efc9ad4ab4a,survey_807,Sudan,Powersside,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:42:59,field_tool,2,Good,1,Low,5
+1529df6a-a236-4099-9ee6-8342494cb9d1,28863470-70ea-4219-9975-c86ccbc8aae6,survey_268,Sudan,New Veronicastad,Male,43.0,Primary,Employed,completed,2026-05-14T10:43:36,field_tool,3,Good,3,Low,4
+6f64da46-595e-4683-ad19-a2f9b20b395a,1d0db10f-af44-4914-8730-09ebef9dab24,survey_272,Sudan,North Morganbury,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:42:54,field_tool,2,Very Good,1,High,1
+172c9a79-716f-47c2-bb2e-da123e73e0d7,4315b7bf-0feb-4e41-a472-cb053f872a7a,survey_764,Sudan,Timothyshire,Male,59.0,Tertiary,Self-employed,completed,2026-05-14T10:44:00,field_tool,1,Very Good,2,High,1
+c38a4fd4-8b44-4680-a858-9d0339215d76,b5b617ab-d5db-42f4-b0fa-f471d0977b8f,survey_764,Sudan,New Timothy,Male,,Secondary,Unemployed,completed,2026-05-14T10:43:12,field_tool,4,Bad,3,Low,5
+8331de81-660d-4b6d-8584-4fc7c492de59,cb33aab5-9ed2-459a-bc33-bb004ab42e4f,survey_455,Sudan,New Trevorberg,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:45:44,field_tool,1,Bad,2,High,1
+1e266f26-32fd-4acc-bceb-68455807b4d0,e07e57f6-3eaa-4f01-a40c-6a50b5ccf6ae,survey_413,Sudan,Barryshire,Male,19.0,Primary,Employed,completed,2026-05-14T10:40:46,field_tool,5,Bad,3,Low,3
+7cbd1c54-e189-4182-9cb3-b491b4c079fb,3992d158-9fca-436b-a0cc-dc4031ad59da,survey_449,Sudan,East Laurenborough,Male,45.0,Primary,Self-employed,completed,2026-05-14T10:44:41,field_tool,3,Neutral,3,Low,5
+e00a527e-d701-432e-bd8c-24dae6a7868a,91bf40d5-d073-4728-b579-37842918b495,survey_465,Sudan,West Ashleymouth,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:41:45,field_tool,5,Bad,2,High,5
+ea3fe8f3-6d07-4a62-b151-fc7a8193ba4a,16743bf0-f427-47fe-b6e0-253ee9f02723,survey_902,Sudan,South Andrewshire,Male,30.0,Secondary,Employed,completed,2026-05-14T10:43:08,field_tool,5,Neutral,1,Low,2
+0d121e0b-b811-4cdd-b152-e9c1833a6158,952ebdc6-5cb3-4307-96bf-912027ee5a68,survey_479,Sudan,Katherineton,Male,19.0,Secondary,Self-employed,completed,2026-05-14T10:42:29,field_tool,2,Neutral,1,Medium,3
+5840ba75-f5a1-4694-8ddf-9a2048e5ed8a,ff7a8c56-cafe-4d9b-af5e-bb8184917928,survey_686,Sudan,Lake Tammiemouth,Male,29.0,Primary,Employed,completed,2026-05-14T10:42:58,field_tool,4,Neutral,2,High,5
+19d0db93-b981-45ac-8b99-4d14b2f99503,cca7d3a9-c329-4d09-92b7-b7d93d9e3149,survey_552,Sudan,Port Cynthia,Male,59.0,Primary,Self-employed,completed,2026-05-14T10:44:02,field_tool,3,Good,5,Medium,4
+e0f9f4f8-5866-4d94-a437-9d0c1d982693,1b69b9bc-576e-4154-a917-3eeca7f147c2,survey_719,Sudan,Johnsonside,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,4,Bad,3,Low,5
+21ff1dca-5238-4957-bca3-1eedcb83ed4c,1d03e689-c126-4091-93f7-38b8675ce6c4,survey_881,Sudan,New Brett,Male,70.0,Primary,Employed,completed,2026-05-14T10:42:33,field_tool,3,Neutral,1,High,2
+3662ee0e-65b2-4fe5-b174-8f51e316cc15,89e7e2d7-b2e3-4f44-b057-a3c0fec76321,survey_647,Sudan,New Henry,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:40:35,field_tool,5,Good,5,Low,4
+b40b0769-98fe-4eb2-b8a9-ce1d3d132dc4,f5ed4f13-5a45-4dc8-b8ca-32d6ef464e55,survey_747,Sudan,Lake Raymondborough,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:43:12,field_tool,2,Good,2,Medium,3
+7aba3320-5b71-48a2-a5cf-9dba07414ef4,7d44de2c-5891-4930-8501-8710d48049ae,survey_801,Sudan,West Kathrynport,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:45:41,field_tool,5,Good,5,Low,5
+d022c963-867f-4e9c-be75-bd77810c641e,c8235dc5-b016-4502-abae-5ef48c6519d4,survey_555,Sudan,New Alexandra,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:43:37,field_tool,3,Bad,2,High,3
+4738c205-d853-4fd7-a0bb-c745637b4b34,025e9ed9-579e-45fb-b1b8-4ba58ce90e60,survey_460,Sudan,South Sarahbury,Female,51.0,Primary,Unemployed,completed,2026-05-14T10:44:53,field_tool,5,Good,2,High,4
+ae01dd83-f5ef-4a9d-bfa6-51c53932cf02,33c8765b-3dd0-49eb-9aba-0c9dac846424,survey_897,Sudan,Garciashire,Female,24.0,Secondary,Employed,completed,2026-05-14T10:40:08,field_tool,4,Good,2,Medium,5
+34ae8693-b36c-492d-816e-20cfec1c225e,2e3a1a0f-75b0-412c-bf1b-2e20f3bf1db3,survey_880,Sudan,Odomfort,Female,38.0,Secondary,Employed,completed,2026-05-14T10:40:20,field_tool,3,Bad,1,Low,1
+69f0fca9-a42b-42f5-a626-1d172466cbc7,d6e7882b-abb0-448d-a2f4-d5ab697780a6,survey_669,Sudan,Paulfurt,Female,,Primary,Self-employed,completed,2026-05-14T10:43:26,field_tool,5,Bad,3,Low,3

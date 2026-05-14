@@ -19,10 +19,10 @@ CREATE TABLE IF NOT EXISTS pipeline_runs (
     duration_seconds    FLOAT,
     status              VARCHAR(20)  NOT NULL,           
     rows_processed      INTEGER,
-    trigger_type VARCHAR(50)
+    trigger_type VARCHAR(50),
     rows_failed         INTEGER DEFAULT 0,
     validation_pass_rate FLOAT,
-    environment VARCHAR(20)
+    environment VARCHAR(20),
     error_message       TEXT,
     created_at          TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     
@@ -32,7 +32,6 @@ CREATE TABLE IF NOT EXISTS pipeline_runs (
 -- Index for fast lookup by DAG and time
 CREATE INDEX IF NOT EXISTS idx_pipeline_runs_dag_time ON pipeline_runs(dag_id, start_time);
 CREATE INDEX IF NOT EXISTS idx_pipeline_runs_status ON pipeline_runs(status);
-
 
 -- 2. Processed Files - Core Idempotency Table
 CREATE TABLE IF NOT EXISTS processed_files (
@@ -52,7 +51,6 @@ CREATE TABLE IF NOT EXISTS processed_files (
 CREATE INDEX IF NOT EXISTS idx_processed_files_name ON processed_files(file_name);
 CREATE INDEX IF NOT EXISTS idx_processed_files_country ON processed_files(country);
 
-
 -- 3. Data Quality Metrics - Detailed Quality Tracking
 CREATE TABLE IF NOT EXISTS data_quality_metrics (
     metric_id           UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -69,7 +67,6 @@ CREATE TABLE IF NOT EXISTS data_quality_metrics (
 
 CREATE INDEX IF NOT EXISTS idx_dq_metrics_run ON data_quality_metrics(run_id);
 CREATE INDEX IF NOT EXISTS idx_dq_metrics_country ON data_quality_metrics(country);
-
 
 -- 4. Incremental State - Critical for Incremental Pipelines
 CREATE TABLE IF NOT EXISTS incremental_state (

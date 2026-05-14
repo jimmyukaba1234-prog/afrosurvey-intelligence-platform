@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+bcc5971b-55bd-4e25-b892-b42d6ab03e34,f0884723-88d7-4802-beb4-10ff8990644e,survey_742,Mali,West Andrew,Male,73.0,Secondary,Unemployed,completed,2026-05-14T10:42:24,field_tool,1,Bad,3,Medium,3
+c8980e64-0f38-4d22-ac11-d45c4aed397f,5c936fad-4b90-4a28-ac0c-61f94d086f38,survey_776,Mali,North Amy,Male,57.0,Primary,Employed,completed,2026-05-14T10:41:34,field_tool,3,Good,3,High,5
+98529ccb-1a65-4b91-8d4e-c387a07fa8b7,5be837b9-260c-4381-9859-c275f8f2390d,survey_517,Mali,Racheltown,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:44:36,field_tool,5,Bad,3,High,4
+81463558-b232-4c16-adb9-38cbece09348,418352c2-316e-46d3-bfe7-a5b494860781,survey_111,Mali,East Michaeltown,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:42:36,field_tool,3,Very Good,2,Medium,1
+84b8b7cc-0c6f-47a3-a8f3-78f46c046c43,73178c5e-019c-44e1-b146-9bb9473ea95f,survey_821,Mali,Kingfort,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:40:37,field_tool,4,Very Good,2,High,4
+aba99aa6-755b-4ea1-84d5-edb988380bcb,ae858270-d60b-49da-8e7a-d444a656f2e3,survey_338,Mali,Holtshire,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:41:59,field_tool,4,Bad,2,High,2
+009ff3f8-32e2-492b-9106-7eff5358d585,b0a0bf90-8c5f-41dd-a8b6-aac2311e6f27,survey_320,Mali,East Christophermouth,Female,74.0,Tertiary,Employed,completed,2026-05-14T10:41:40,field_tool,5,Very Good,4,Low,1
+a3c993e3-b5ca-4f95-aa30-2b5c091b13d9,8d84e535-480d-4394-9d9b-038bc0f1b5d2,survey_871,Mali,Port Taylorberg,Male,60.0,Tertiary,Unemployed,completed,2026-05-14T10:39:52,field_tool,5,Good,3,High,1
+e471ad88-583c-46df-8563-b40850b59f14,c3b63b2d-70cd-4043-93c1-2594d1860cc5,survey_908,Mali,Jessicastad,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:45:22,field_tool,2,Very Good,4,Low,3
+5ed8a1da-b5eb-4ace-a705-754d18acf623,544a2c1f-46ea-4920-849d-da7cfdefbebe,survey_732,Mali,Brianberg,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:41:03,field_tool,5,Neutral,5,Medium,4
+2e4695da-7de6-4a17-9c7c-607c4dbde7e8,fabc45ed-7bc4-4a3c-b843-0fd571882238,survey_656,Mali,Parksberg,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:30,field_tool,1,Bad,1,High,2
+94b1f240-e640-4ea0-acc0-970b67ae109a,6c6e475a-0deb-49b9-bbc8-77468dd36aa5,survey_460,Mali,Sawyerberg,Female,71.0,Tertiary,Self-employed,completed,2026-05-14T10:42:32,field_tool,2,Bad,1,Medium,2
+ece98932-bb74-4aec-b022-670917dfb34d,31237ee4-9733-45d2-b2df-95ff2d455678,survey_250,Mali,Jonathanview,Female,73.0,Secondary,Employed,completed,2026-05-14T10:42:40,field_tool,5,Neutral,4,High,2
+d9c73731-f146-4840-b14b-f367ace5e34d,b65043b0-1f77-493a-b059-1038e38abca5,survey_729,Mali,South Scottport,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:45:09,field_tool,4,Neutral,3,Low,3
+d44630fd-e1c1-41f6-ae5c-f0c725138fc6,d59b9a4d-bb89-43ee-90ba-0b7f24cc2319,survey_111,Mali,Port Katherineside,Male,66.0,Primary,Employed,completed,2026-05-14T10:41:19,field_tool,2,Neutral,1,Low,3
+9665b499-faf8-43f0-b879-b662ccf4af73,b94a55b5-3566-4f5b-aa77-5e3f03cf13fd,survey_625,Mali,Kennethfort,Female,54.0,Secondary,Employed,completed,2026-05-14T10:40:33,field_tool,2,Very Good,5,Medium,1
+f3ee4865-32aa-4451-a7de-8865e6bd83e5,84d21b65-ab94-47e3-aed2-034204f6d028,survey_208,Mali,Garymouth,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:42:38,field_tool,4,Good,1,Medium,1
+37f1c871-4f88-494d-8752-4b7ba8d9a1a3,cfae89a2-2f6f-481a-8502-cff1ff5ea3e5,survey_311,Mali,South Tonya,Female,67.0,Secondary,Unemployed,completed,2026-05-14T10:42:33,field_tool,1,Bad,4,Medium,4
+ae2f3aee-051a-43d3-8920-5834609d311f,90c58a4a-4212-4fad-b037-2c9235f3e7dd,survey_452,Mali,Martinezport,Male,42.0,Secondary,Employed,completed,2026-05-14T10:44:08,field_tool,1,Neutral,4,High,2
+c66c6d49-3b88-4916-b1c3-a813846a5a72,f7579f30-9e62-4c4f-852b-e3676b5daf60,survey_930,Mali,East Evan,female,37.0,Secondary,Self-employed,completed,2026-05-14T10:42:31,field_tool,4,Neutral,3,Medium,1
+097a3ff3-92e2-4b32-a102-e2b9dd98f124,c7f9ddef-de45-4ba6-98f1-ebd4d944c6ca,survey_171,Mali,West Anthony,Male,20.0,Primary,Unemployed,completed,2026-05-14T10:41:14,field_tool,5,Bad,4,Medium,1
+c82d4c8c-cc34-422c-8b8a-96d2dd358b34,42f5716e-7229-49b5-af21-c6987281127d,survey_193,Mali,Bowmantown,Female,45.0,Tertiary,Self-employed,completed,2026-05-14T10:41:19,field_tool,3,Very Good,2,High,3
+2cdd216c-0f86-41ae-bebe-593089b499fb,7dfd9faf-413a-4821-8490-01423ae4e9b9,survey_554,Mali,East Sarahtown,Female,25.0,Secondary,Unemployed,completed,2026-05-14T10:42:34,field_tool,3,Neutral,1,Medium,2
+6f82a434-47e4-480a-b3aa-697f083dd000,e139616f-7e7d-4330-a1b9-70f88721b0b3,survey_580,Mali,Chandlerberg,Male,23.0,Primary,Employed,completed,2026-05-14T10:41:04,field_tool,1,Very Good,3,Low,2
+2f1b1d2a-01dd-4257-9748-0c45063fe995,d96a9e1e-151f-49e3-89e1-56542eb3795c,survey_783,Mali,Lake Rebecca,Female,46.0,Primary,Self-employed,completed,2026-05-14T10:39:58,field_tool,2,Very Good,3,Low,3
+ea2c98c9-1e88-468c-8c6c-cad0e78410a8,a246f649-0320-4553-8e2d-e816bbe32556,survey_267,Mali,East Dorothy,Female,26.0,Tertiary,Unemployed,completed,2026-05-14T10:42:04,field_tool,3,Good,5,Low,5
+5e0ac386-fb94-419b-8508-8ce9746e80b3,ffeed1fe-ede5-4b18-b72f-8ddf2203247b,survey_387,Mali,East Jeremyside,Female,62.0,Secondary,Unemployed,completed,2026-05-14T10:43:46,field_tool,3,Good,5,Medium,4
+34e001bb-1be9-4076-ad10-e2a7b2dd890b,4d3ceb13-8d92-4eea-b5f7-df32a3fdaa7a,survey_780,Mali,Samanthaborough,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:42:44,field_tool,4,Neutral,1,Medium,4
+650920c1-e6f2-4031-925c-592fb6e8d4e7,0de8bb3f-cb38-4dda-886a-e1cdd5ec5cd5,survey_562,Mali,North Lee,Male,28.0,Secondary,Employed,completed,2026-05-14T10:43:11,field_tool,1,Neutral,4,Low,1
+f3f60b3e-e3a9-4604-a845-4abfdf7f2402,6725b98c-32c1-43ff-8b04-9bbf3d690065,survey_650,Mali,Perryview,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:45:08,field_tool,1,Neutral,5,Low,1
+ee0ff8a2-04b1-430a-b8e2-464197d2742b,df155411-6837-4668-b050-3e38c1669242,survey_533,Mali,Williamport,Male,50.0,Secondary,Unemployed,completed,2026-05-14T10:44:56,field_tool,4,Neutral,1,High,4
+93010ff0-cb27-4b5e-8c8c-b4f13d903074,7ac92224-93b6-4c15-9b12-cf221226aece,survey_874,Mali,Melissaville,Male,68.0,Primary,Self-employed,completed,2026-05-14T10:41:33,field_tool,1,Neutral,2,Low,2
+f5560547-7a21-4be5-8f7b-b12b707a343a,4f40c7fd-e56b-4be9-a4ad-a718b5b18f50,survey_679,Mali,Lauriemouth,Female,27.0,Secondary,Employed,completed,2026-05-14T10:41:47,field_tool,1,Neutral,2,Medium,5
+c5bc2921-e8e9-44f9-ade4-b5f6897a5d57,63ced67c-98b2-40f8-a95f-533fb23e13c9,survey_202,Mali,Crawfordfort,Female,30.0,Tertiary,Employed,completed,2026-05-14T10:42:22,field_tool,5,Very Good,4,Medium,4
+844053d0-82b2-4fff-bf06-953ef5bca303,e364b332-df27-48ac-8fc5-e0a694dfe716,survey_680,Mali,New Jason,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:43:58,field_tool,3,Very Good,1,High,3
+71412ddc-6679-40f4-9547-82c72a976fca,a8478e7d-867d-42a6-8b2b-0a82a5b6e363,survey_161,Mali,Rodriguezchester,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:43:05,field_tool,1,Bad,1,Medium,3
+8e75b4ce-b144-448c-b69a-ee8529462bb7,4ca666f2-d043-4d90-be6d-99843ac5b757,survey_436,Mali,Port William,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:39:58,field_tool,2,Good,1,Medium,1
+dbbf8ab3-ea21-4d2f-be8d-0918f3be27b0,56d3c165-18ef-47f1-94eb-391f9a6cb085,survey_902,Mali,Jessicafurt,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:44:02,field_tool,2,Very Good,4,Medium,3
+74ff8638-a082-4b73-87a2-26a436168a64,cb2c7a72-9b08-421f-8b9a-81de2c179a11,survey_467,Mali,Bryantstad,Female,56.0,Secondary,Employed,completed,2026-05-14T10:45:27,field_tool,4,Bad,3,Low,5
+50f32985-e8de-4cab-81b2-5bc909c0997b,92e916a1-aab7-44be-8257-ee34fc852065,survey_262,Mali,North Sandraview,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:39:57,field_tool,2,Neutral,5,Low,2
+db1f7c76-bb74-4bed-afcc-ca3952d119fb,5f09f3f3-6dba-40f5-9f0d-e66df18f94e5,survey_202,Mali,Vanessafurt,Male,60.0,Secondary,Employed,completed,2026-05-14T10:42:41,field_tool,1,Good,4,Low,4
+0497733d-73df-45f8-8692-0548bf6188c4,eda02c98-2e76-4f9c-ba2b-8231187b88da,survey_192,Mali,Olsonview,Male,67.0,Primary,Employed,completed,2026-05-14T10:44:46,field_tool,1,Very Good,4,Low,4
+4ff67f41-16ce-45a2-8cc6-5adeb977081f,5b415586-7541-43a8-847e-d8e7e4290f62,survey_507,Mali,West Craig,Male,41.0,Secondary,Employed,completed,2026-05-14T10:44:03,field_tool,3,Very Good,4,Medium,3
+f8b90313-bdb7-4705-b9d0-a7c96ab34914,5d9e544f-ef9f-4a4f-82bd-4edf3f8eac41,survey_451,Mali,Martinshire,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:41:31,field_tool,2,Neutral,4,Low,3
+9cd370f9-a438-47df-ae8a-811f8050f2f8,99c0ba3a-aaad-42a7-8d4e-715f38955f64,survey_677,Mali,Robertmouth,female,33.0,Primary,Unemployed,completed,2026-05-14T10:40:36,field_tool,4,Very Good,1,Low,3
+6acc8574-31e5-4c7e-9b69-44ee7240988c,274d8fd1-882a-4b7b-b140-055755ac002a,survey_756,Mali,Lake Stephanie,Female,38.0,Tertiary,Self-employed,completed,2026-05-14T10:41:30,field_tool,2,Neutral,2,Medium,5
+827e9e65-5252-4ec8-82f9-7a6f852b2450,d28bcdb0-980b-43f9-8d7e-a6a9d88bae77,survey_886,Mali,Tonyton,Female,52.0,Secondary,Self-employed,completed,2026-05-14T10:42:36,field_tool,2,Very Good,4,High,1
+65dacbf3-0a43-42d6-a1fa-62818ac1d5d5,68857196-728d-491e-ad49-98ea914c59dc,survey_544,Mali,Elizabethchester,Male,25.0,Secondary,Self-employed,completed,2026-05-14T10:40:23,field_tool,5,Neutral,2,Medium,3
+a74a94e6-c809-459b-9439-00003b4fd6a9,ea547b7e-9087-4bbf-85ed-e6802af3296b,survey_460,Mali,East Kim,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:42:13,field_tool,2,Good,1,Low,5
+ab79dea6-6804-4901-94fb-198fe1a9c7db,61c39c13-4ff0-462f-98fd-c0d4421c1c0e,survey_887,Mali,Lindseyfurt,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:44:38,field_tool,4,Very Good,5,Medium,1
+3423a3df-608a-4c18-8e8c-867d92bda9a7,346683ad-c68f-4f12-bd02-c8fbbb6329e8,survey_921,Mali,West Emily,Female,33.0,Tertiary,Unemployed,completed,2026-05-14T10:44:55,field_tool,2,Neutral,5,Medium,4
+5a9bff7f-91c6-4b8c-8c5a-7a409f277bd8,a48258b9-4948-49b4-8eb4-489319d60226,survey_620,Mali,South Stephanie,Female,19.0,Secondary,Employed,completed,2026-05-14T10:42:34,field_tool,4,Very Good,5,Medium,2
+d0a72f19-9718-4194-bdbd-a025366efa3c,28d8c539-a867-42b0-a6f0-3ec4a3a0ef5b,survey_845,Mali,New Sarahland,Male,59.0,Secondary,Unemployed,completed,2026-05-14T10:40:22,field_tool,2,Neutral,2,High,3
+88b0b398-3292-4271-b40d-39263b18b420,a8c8267a-b03b-4bb7-a40a-9390b3a8df5e,survey_166,Mali,Westview,Female,20.0,Secondary,Employed,completed,2026-05-14T10:41:55,field_tool,2,Good,5,High,2
+a3613b17-83b0-45c4-8547-a52d47df32be,86302ad7-72b1-48d2-91da-b0ffc7555403,survey_516,Mali,Bassmouth,Female,50.0,Primary,Employed,completed,2026-05-14T10:41:23,field_tool,4,Good,5,Medium,4
+b1edb1b7-6002-435d-92a8-1a3b043067b5,10351edf-751f-4804-80d4-daf42193657e,survey_364,Mali,North Richardview,Male,48.0,Tertiary,Employed,completed,2026-05-14T10:41:49,field_tool,1,Neutral,4,Medium,2
+b8b67b36-7adb-44c1-8cba-bb6f04b7ce4b,8c6f36d7-a9c5-435f-9d59-1d58d64e1e61,survey_838,Mali,South Karen,Male,45.0,Primary,Employed,completed,2026-05-14T10:43:56,field_tool,4,Bad,4,Medium,1
+c255bc7c-10a1-4244-83a6-b9e2e185c874,15056dc8-ab54-4126-b390-52a6f12b68ff,survey_387,Mali,Parksville,Male,39.0,Tertiary,Unemployed,completed,2026-05-14T10:42:36,field_tool,3,Neutral,3,High,2
+641eb341-687c-4167-b7a7-89f5cf2077e6,8e5cb9f2-924d-4581-b857-3d943a70cd9d,survey_909,Mali,Adamstown,Male,53.0,Primary,Employed,completed,2026-05-14T10:42:40,field_tool,5,Bad,4,Low,3
+7caa8ff9-9c02-4f2a-921c-725259cba80e,93e1d7a5-13c6-43c9-8599-08d4c06458cd,survey_253,Mali,New Lindashire,Female,58.0,Primary,Employed,completed,2026-05-14T10:44:39,field_tool,4,Good,3,Medium,5
+0232d01c-d3e8-44c0-bc3d-034e1212abb2,b2c1b2e1-e33c-4a03-b7c1-394a4c9a6275,survey_796,Mali,Dianeville,Male,40.0,Primary,Employed,completed,2026-05-14T10:40:43,field_tool,1,Very Good,2,Low,4
+5a5da65e-b8f0-4a5f-a82d-ad3e3144d498,2b2e4894-49e5-47f2-bb25-3660ea4689ca,survey_985,Mali,Millerberg,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:40:53,field_tool,1,Bad,4,Low,4
+2c86fec0-b1ab-405e-acd7-1e67586020aa,07487bc3-4f6f-4b31-b1a2-ae61e4dd5b35,survey_911,Mali,Michaelburgh,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:41:06,field_tool,4,Good,4,Medium,1
+87acaf09-422f-4a62-b0a3-9747322afbe8,da288ccb-543d-4024-ae00-bf9d861b4490,survey_652,Mali,Lake Steve,Female,34.0,Primary,Self-employed,completed,2026-05-14T10:44:27,field_tool,4,Very Good,2,High,4
+12f58f22-cc90-48d7-a70d-bf949d8714f7,3c63dfca-be48-44fc-8ca9-0fd21d827153,survey_782,Mali,Shawnview,Female,58.0,Secondary,Self-employed,completed,2026-05-14T10:41:35,field_tool,2,Good,2,Medium,1
+1a7f8fa9-6bf8-4bcb-8690-a9a1bab555bf,91077679-8e7b-4c2c-965a-d69ee89f396f,survey_561,Mali,North Anthonyshire,Male,46.0,Primary,Unemployed,completed,2026-05-14T10:41:12,field_tool,3,Good,3,Medium,5
+0d19b7a2-064a-4d90-bd0c-6202b18cb64c,d589985c-0958-4cee-a6ea-a7974155f44b,survey_141,Mali,Port Tabithaside,Male,73.0,Secondary,Employed,completed,2026-05-14T10:45:01,field_tool,2,Bad,4,Medium,1
+f01d3eb5-91e3-4df8-b915-421429063753,a79f5545-aae2-4e1f-8272-341e5bd85310,survey_825,Mali,Santanafurt,Male,47.0,Secondary,Unemployed,completed,2026-05-14T10:41:37,field_tool,5,Bad,3,Low,4
+38f9dba7-c1e6-4208-bf28-3bc3a9f89188,0d7653fe-55bf-403f-a6ff-aa6219a7c4b1,survey_831,Mali,North Angelachester,Female,23.0,Primary,Unemployed,completed,2026-05-14T10:43:27,field_tool,3,Neutral,5,High,4
+f66741da-13d0-45c6-82d8-3bf14330b223,edad586b-44bf-4e4a-8d83-689fd73ad9bc,survey_949,Mali,Lake Belinda,Female,48.0,Tertiary,Unemployed,completed,2026-05-14T10:45:32,field_tool,4,Bad,4,Low,4
+c502b5c8-2476-4f63-af1d-f2972ff8b73b,f8fa31fb-04b9-4633-9949-135d72eeac07,survey_924,Mali,West Joshua,female,21.0,Secondary,Self-employed,completed,2026-05-14T10:40:04,field_tool,2,Very Good,4,Low,3
+5578803b-4123-4979-9e1c-39b35f0e8106,455715bc-6329-4fd9-95a1-9fbcd4899b95,survey_820,Mali,Lake Denise,Female,70.0,Primary,Employed,completed,2026-05-14T10:41:02,field_tool,4,Good,3,High,1
+c9416b4a-8255-4784-a6bb-45bfcc9b73f9,91888926-5c22-4b84-9a2d-d7e338e30dca,survey_664,Mali,Lindseyhaven,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:43:49,field_tool,3,Bad,1,Low,3
+697b4b68-0ea4-4cff-8f6a-4fbd55ad9dba,a9af3a05-9f7c-4651-b2af-f20365fdd025,survey_409,Mali,New Jenniferchester,Male,43.0,Primary,Employed,completed,2026-05-14T10:42:05,field_tool,2,Good,5,Medium,1
+14e10840-3dd4-487d-b55f-fd4cf621edf3,84b57bb8-f37b-4d86-83d8-1f1cf74e0d09,survey_786,Mali,Charlesburgh,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:40:22,field_tool,4,Neutral,3,Low,5
+352c2585-47ab-45f6-b4a6-0d5098bc5f6e,91c9d64a-481e-4b30-bce4-6a91260ba739,survey_269,Mali,Johnsonborough,Female,36.0,Tertiary,Unemployed,completed,2026-05-14T10:43:56,field_tool,5,Very Good,1,High,4
+120fcfea-a21e-4123-9161-ea7480a82e3a,256e5aef-6451-4ba0-b4bf-d7510ad75fea,survey_528,Mali,Thomasmouth,Male,36.0,Secondary,Employed,completed,2026-05-14T10:40:52,field_tool,3,Neutral,4,High,3
+2feacd23-49f9-4e45-9708-7fa59224724f,f6b61724-b647-498e-8536-81d9642ff652,survey_516,Mali,South Christopher,Male,72.0,Secondary,Employed,completed,2026-05-14T10:41:46,field_tool,1,Neutral,5,High,1
+44480976-0d4f-4171-9665-1ff100786b5b,84ad6c24-fc84-4218-b427-7ab2d89a8c5f,survey_130,Mali,Brownmouth,Female,36.0,Primary,Self-employed,completed,2026-05-14T10:43:41,field_tool,3,Bad,1,Medium,2
+b1114a92-e19f-498b-b6c5-ccc9dafd6be8,6eb53a06-d82c-49bc-a536-96d81a4673ec,survey_143,Mali,Port Christine,Female,62.0,Tertiary,Employed,completed,2026-05-14T10:42:04,field_tool,4,Good,4,Medium,1
+31ffd40c-2174-42d6-8056-71f24440cf3c,ea905ba4-5fac-409e-bb99-7da47f5be781,survey_305,Mali,Williamton,Female,68.0,Secondary,Self-employed,completed,2026-05-14T10:40:07,field_tool,1,Good,3,Low,4
+4f31235f-4e02-40ad-800f-df780e66dc50,696f98a4-4145-4d23-ae3d-e4eb91977238,survey_489,Mali,West Nicholasview,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:44:04,field_tool,1,Bad,1,Medium,1
+2378b802-9405-4175-b834-f1964c42eec7,caa8c484-ce0d-4b62-bbe5-774d3eabfda2,survey_412,Mali,Richardton,Female,22.0,Tertiary,Employed,completed,2026-05-14T10:40:43,field_tool,4,Good,4,High,3
+9c75420c-f36d-4147-9da8-b150c9a201f2,80c8b178-6c37-44ee-8e5e-9e606f43cd77,survey_197,Mali,Angelachester,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:43:33,field_tool,5,Good,5,Medium,2
+635293be-8bdd-41f3-b117-81b8b51b7a0e,86d6dc2f-7080-420d-88fb-a112fac5f845,survey_423,Mali,Jerryberg,Male,59.0,Secondary,Unemployed,completed,2026-05-14T10:42:18,field_tool,1,Very Good,5,Low,3
+709e8fb0-eea2-46c6-adbf-38652119a389,5609ee46-c426-4d17-b355-24019e3c5f31,survey_350,Mali,New Jason,Male,38.0,Primary,Unemployed,completed,2026-05-14T10:41:37,field_tool,2,Neutral,4,Low,1
+7de68bba-e867-472e-af25-ed7b72a04d3f,13692b61-eea1-4f8c-a407-86c2a4352372,survey_744,Mali,East Nicholas,Male,39.0,Primary,Self-employed,completed,2026-05-14T10:39:52,field_tool,2,Very Good,4,Medium,2
+ba210271-40b1-42f7-87cc-0ba74b01d0be,ecea9809-8ab0-46e9-88de-3d953f764b41,survey_205,Mali,Joycestad,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:43:25,field_tool,1,Neutral,2,Medium,2
+b9d29497-039c-4252-83be-775db4d0f936,fe990bb5-cb37-43bd-a460-7a75e103f40a,survey_817,Mali,Traceyborough,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:43:02,field_tool,5,Good,4,Low,3
+9c9d30c5-8494-44f7-a783-e14434476133,bc8b6970-730d-4c44-b31f-6e0e88f9a694,survey_233,Mali,Lake Jefferyland,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:43:40,field_tool,1,Very Good,1,High,5
+eaad3ef5-d03b-4699-ba5c-83bedd58ab7a,526af5bc-6eed-492b-8cc2-b0c512a19abf,survey_696,Mali,South Justinfurt,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:40:40,field_tool,3,Bad,3,Low,1
+a81c18e5-d899-403b-bb40-1d97b7a6415c,4057ac62-0a10-4b4d-a586-c05fb0b59f70,survey_839,Mali,Morganmouth,Female,55.0,Primary,Employed,completed,2026-05-14T10:42:54,field_tool,1,Good,2,Medium,3
+3ae27084-b7b6-4e1f-9307-b3c2605fcc7b,3898e9db-63cc-4716-af21-6d4d5148d3bf,survey_367,Mali,Curryborough,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:43:01,field_tool,2,Bad,3,High,1
+2daa643b-fd76-4bbc-b2d1-dd9485cddb28,8d487c32-b4be-44d0-b9b0-9bff31ed5e54,survey_200,Mali,East Sabrinaberg,Female,37.0,Tertiary,Self-employed,completed,2026-05-14T10:45:18,field_tool,3,Good,2,Medium,2
+25a50eae-d9e7-44d6-a0a1-141593f5f2cb,2d0dac8c-e271-4a74-a3fa-0420cf97dc91,survey_404,Mali,Port Brian,Female,38.0,Primary,Unemployed,completed,2026-05-14T10:42:06,field_tool,5,Bad,1,Medium,1
+44a26112-ee09-4971-b0d9-be1c168bd0f1,18ca6fea-2ede-4422-8162-ee8ef7d3534d,survey_581,Mali,East Travisshire,Male,74.0,Primary,Employed,completed,2026-05-14T10:44:22,field_tool,3,Bad,5,Medium,2
+f95dfc09-e6c5-41ad-9b98-d7c225c228e9,07d9b67d-e75a-4e40-af9c-95b0d0a8368d,survey_466,Mali,Dawnmouth,Male,48.0,Primary,Unemployed,completed,2026-05-14T10:44:29,field_tool,4,Good,3,Medium,1
+491d8998-f945-4ade-9409-5a897ecc440a,37044da5-bcb7-4391-b769-5c70f02a2faa,survey_300,Mali,Sharpland,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:41:10,field_tool,3,Good,4,Medium,1
+0eefa9c0-c814-4e0f-8889-0b4804dfa0f4,c5a746f3-55cc-4948-b36d-24493b53e59c,survey_402,Mali,Bassshire,Male,29.0,Secondary,Unemployed,completed,2026-05-14T10:41:32,field_tool,3,Good,1,High,2
+f6cd1cbb-23d9-47fb-bbf8-8a5a3f4d4142,789d55f9-a13a-45bb-be8b-dab5bd7aff93,survey_950,Mali,Carlaland,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:41:12,field_tool,5,Neutral,2,Low,3
+8d12aa13-397c-41d2-9186-2422b8dfe895,d538e8db-96f3-409f-a13d-1f0199b08733,survey_168,Mali,New Eric,Female,29.0,Tertiary,Unemployed,completed,2026-05-14T10:39:53,field_tool,4,Bad,1,Medium,2
+876a32fa-44c7-4f07-94df-0cd47b8773ff,71a60d72-3589-4481-bbff-cf891163bec0,survey_425,Mali,Lake Justinfort,Female,43.0,Primary,Employed,completed,2026-05-14T10:41:57,field_tool,2,Neutral,4,Medium,4
+6bbfa67a-3ea3-4342-8b98-d9769a3cd1c5,8d65696d-a97c-4a20-81cd-9765b6a5e2c3,survey_124,Mali,Brandonfort,Male,51.0,Secondary,Employed,completed,2026-05-14T10:42:12,field_tool,1,Good,2,Low,4
+598b6c23-e3d7-4e4c-9bbf-51a58b41cd57,ecda2ea8-140a-421f-a375-72589a17d850,survey_654,Mali,East Cassandraside,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:40:49,field_tool,4,Good,3,Medium,4
+5023d812-10e7-41d8-9755-9d99ef3f8a88,69571f0e-fba5-4661-9f81-253c3240d019,survey_195,Mali,Goodmanbury,Male,41.0,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,2,Bad,4,Low,5
+11087f0c-6843-4b46-a6a1-7a354e19d7ad,6ec1f3a9-c5ec-4f2e-a5d4-9b63d71592b2,survey_134,Mali,North John,Male,49.0,Secondary,Employed,completed,2026-05-14T10:39:48,field_tool,2,Bad,4,High,3
+10ca5ee0-73d1-4949-b3c1-78cab7d032a7,af68949f-b6d9-44d4-84ef-166db00da0bc,survey_539,Mali,East Anna,female,29.0,Primary,Unemployed,completed,2026-05-14T10:41:41,field_tool,5,Very Good,1,Medium,1
+b3cdead2-076a-4303-8f01-da0235ee76f8,74bb89c5-bfe2-4249-af07-b1c4eaf6d28e,survey_271,Mali,Lake Richard,Female,37.0,Primary,Employed,completed,2026-05-14T10:42:14,field_tool,2,Bad,3,Medium,2
+b6b7cdf2-8446-490b-99d7-5af24ee21822,48aacd0a-0ffd-4b65-b12e-608bb82b97c2,survey_886,Mali,Nunezland,Male,25.0,Tertiary,Employed,completed,2026-05-14T10:44:51,field_tool,5,Neutral,1,High,2
+8944537f-534b-4b13-ae8d-656c9c1da13e,e3852f22-5d63-4713-a29d-9f4f49de739e,survey_718,Mali,Millermouth,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:44:15,field_tool,3,Neutral,5,Low,1
+eb7dad41-d942-4ca8-9c84-e392361f0a09,a52c745d-1c78-42f6-814f-cc5e1b917589,survey_760,Mali,North Raymondport,Male,,Primary,Employed,completed,2026-05-14T10:45:19,field_tool,4,Bad,4,High,2
+5e7750ed-4dfa-4eb1-8185-94d239db6560,f3376449-cc7a-4319-a6b0-4819e5eade18,survey_694,Mali,East Sarah,Female,18.0,Tertiary,Self-employed,completed,2026-05-14T10:40:13,field_tool,2,Bad,5,Medium,3
+a526c801-1920-488b-9926-a747fd67a54d,be46aa49-7d8c-4457-9ed4-3990be12e714,survey_794,Mali,Jenniferhaven,Male,19.0,Primary,Employed,completed,2026-05-14T10:44:38,field_tool,3,Neutral,5,Medium,2
+6acb205b-1865-473a-a415-8a64dd9064b5,25ae006c-a648-462e-a4ed-87f135d9731d,survey_313,Mali,North Rebeccaton,Female,34.0,Primary,Self-employed,completed,2026-05-14T10:45:29,field_tool,4,Bad,3,High,5
+2e0c2fbf-e186-41a7-9db7-8040150e1617,8493192b-cb1d-44d4-9963-98e88f3e3c81,survey_139,Mali,North Timothybury,Male,53.0,Primary,Employed,completed,2026-05-14T10:40:56,field_tool,2,Bad,1,High,5
+e7762404-4f85-4b4e-9f0b-32046c99633e,a7660562-2444-407c-8c26-9780ba32211e,survey_191,Mali,Evansmouth,Male,48.0,Primary,Self-employed,completed,2026-05-14T10:44:06,field_tool,5,Good,4,Medium,4
+b8a1e3e2-7249-4a19-905a-1652e0e91f03,1734ef9b-08dc-4558-8d08-d29b3cac9377,survey_317,Mali,Josephtown,Male,49.0,Tertiary,Employed,completed,2026-05-14T10:44:01,field_tool,2,Neutral,4,Low,5
+b23264fd-de2f-4803-aaee-01ac017a9fdd,4e9a4061-3415-4cc0-8936-47e6f24ed127,survey_541,Mali,Johnmouth,Male,59.0,Tertiary,Self-employed,completed,2026-05-14T10:41:48,field_tool,5,Very Good,3,Medium,1
+f4f5089e-583e-45bb-bcc3-0ed010a0b033,444781be-237f-44da-8aa5-cdd37c5aa5dd,survey_386,Mali,Christopherfort,Female,34.0,Secondary,Self-employed,completed,2026-05-14T10:43:57,field_tool,2,Neutral,4,Medium,1
+c91d080e-d36f-49d1-9e2c-ef9fb94d66db,79bd7668-434f-43ee-8c86-cb3e54e06cf4,survey_369,Mali,Williamsborough,Male,72.0,Primary,Employed,completed,2026-05-14T10:44:39,field_tool,4,Bad,3,Low,5
+27431ff6-ab7d-4a03-ace6-ab4067d09b91,a3e28542-ab9b-4ef5-81c3-af50216e5cd6,survey_886,Mali,North Brian,Male,68.0,Tertiary,Employed,completed,2026-05-14T10:40:14,field_tool,1,Neutral,2,Low,4
+50448bb7-9d16-410c-8f66-e01aa99c0f24,118a4dd2-e9ab-46d4-b06d-9e735fca8e12,survey_105,Mali,North Kellybury,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:44:44,field_tool,2,Good,4,High,3
+7c02fee1-e922-4a87-8b37-f7bfd9986cdc,b4395924-93fe-47b1-84ee-933a71d3a385,survey_820,Mali,East Tara,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:40:27,field_tool,5,Bad,5,High,4
+84c6f6b1-29a9-409e-b018-918a52850827,dd759a71-bf58-40b1-ab64-e5870734bba0,survey_676,Mali,Port Kevin,Male,68.0,Tertiary,Employed,completed,2026-05-14T10:42:39,field_tool,4,Neutral,5,Medium,1
+2abe0a75-a85c-4ae4-9fd3-87cc17a2f1d1,afd66de4-9b5f-4127-9270-481c0bcafa10,survey_440,Mali,Harriston,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:42:53,field_tool,4,Neutral,1,Medium,5
+a019ecb4-fb26-42d7-b89e-4396ebad419e,d6ecd10f-6c7d-454b-a85c-f32cc33884ad,survey_390,Mali,Juanland,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:44:21,field_tool,1,Good,5,Medium,4
+5bc76b2f-cf00-4a12-9303-6db5a29e6be5,77d05d73-c8b9-400d-8b14-211a77f2bb60,survey_794,Mali,Flowersside,Female,42.0,Tertiary,Employed,completed,2026-05-14T10:44:53,field_tool,4,Neutral,2,High,1
+19907073-a223-40ec-8f65-dae8f0b5b8e3,781240c6-b095-4c35-9660-73f36a3eda90,survey_903,Mali,Schultzmouth,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:45:40,field_tool,4,Very Good,1,Low,2
+9ced340a-ee3b-4893-843d-58d3dc34c1b4,6ac34342-f504-47ca-9021-52f52fdd4383,survey_981,Mali,Lake Misty,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:42:15,field_tool,1,Bad,3,Medium,1
+5e22ad2f-2b9d-441c-9e45-bd61ca4238cf,7e0e82a4-9632-4dcd-84b5-73622b8e6963,survey_119,Mali,Lauraside,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:45:02,field_tool,5,Very Good,1,High,2
+566cd582-14c7-432b-ba7a-fbb866422ec8,17eed41c-f2ff-4a3b-8edc-1761168e80f1,survey_362,Mali,Bryantown,Male,65.0,Secondary,Self-employed,completed,2026-05-14T10:44:10,field_tool,5,Very Good,5,High,4
+8fb3ca9c-50e9-411e-91a3-f01241ba7138,5816002d-2669-4a5c-b2a9-7aa4ba3b4112,survey_410,Mali,East Brandon,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:42:37,field_tool,1,Good,1,High,1
+1fa25bfe-f324-4c52-8ae8-0926b1ada6cb,69dfb986-7a8f-4407-9da5-627a18c0013d,survey_526,Mali,Port Mary,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:40:41,field_tool,3,Very Good,4,High,1
+1984a75a-f12d-4268-96d8-e16f3cb63c92,e46a92b1-26e8-415e-a331-0e4351ea7701,survey_118,Mali,North Kylechester,Male,19.0,Tertiary,Self-employed,completed,2026-05-14T10:39:53,field_tool,1,Good,3,Low,5
+8ec12a6f-5b4c-4630-9558-7d5bd75aad42,6b3dae08-4638-4157-9d5c-d20ed2ff259b,survey_318,Mali,West Meganhaven,Female,50.0,Primary,Unemployed,completed,2026-05-14T10:42:14,field_tool,5,Neutral,2,High,3
+e9ee05db-8c55-42a1-b9ca-3a5ed675d8d3,bd94776b-963c-4bb0-a4c0-9b48a4a9a9b1,survey_649,Mali,Dominiqueland,Male,55.0,Secondary,Unemployed,completed,2026-05-14T10:43:44,field_tool,4,Bad,4,High,1
+33c70452-8628-4fca-b68d-f9b4433341ce,ea1403f5-03ad-4b23-aa9f-c997bf8695ec,survey_452,Mali,Davidton,Male,37.0,Primary,Self-employed,completed,2026-05-14T10:42:05,field_tool,5,Good,3,Low,5
+5c073744-2784-4a12-a834-193c4dd31359,05986daa-d6f6-43e7-b5ef-7ab17ab7dba3,survey_466,Mali,Hansenmouth,Male,48.0,Secondary,Employed,completed,2026-05-14T10:42:30,field_tool,5,Good,4,High,1
+246f39f8-f8a9-43e3-afda-172ae8426822,396f0d03-62f4-48f7-a07b-1217edbbf017,survey_105,Mali,East Monica,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:44:08,field_tool,4,Very Good,4,Low,4
+6baa46c9-0cda-4720-9226-726386b73140,1d9be01e-4ba9-484e-811b-5175df668c99,survey_294,Mali,East Erika,Female,51.0,Tertiary,Employed,completed,2026-05-14T10:42:25,field_tool,3,Neutral,2,Medium,2
+6d20f7d5-3247-44d5-ad91-2a6bc91c668f,dc985994-0df3-4203-a6f0-f9448d4ffd42,survey_667,Mali,Lake Sandra,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:40:11,field_tool,4,Bad,3,High,5
+dcb421e5-b3a7-4929-a69e-6875dee4b3c0,7a02d643-bf8a-47b0-baf6-27ec373efa41,survey_714,Mali,North Donaldborough,Female,21.0,Tertiary,Self-employed,completed,2026-05-14T10:42:23,field_tool,1,Very Good,4,Medium,3
+4310b8be-71d8-45fe-824d-9f44eb6b1e5b,54a4c4c2-32c4-41b9-a3af-74148aef2323,survey_866,Mali,South Gordonport,Male,21.0,Primary,Unemployed,completed,2026-05-14T10:45:23,field_tool,2,Good,5,Medium,4
+9777e6c2-3da8-40a4-8737-9fdc833e5319,d51dc4b1-cfb5-4bb7-bddb-927a152a8638,survey_447,Mali,Thomaston,Female,20.0,Tertiary,Self-employed,completed,2026-05-14T10:44:01,field_tool,4,Bad,3,High,2
+ecee7495-647b-4b3d-87c7-6d8b948848be,d0f88c1e-dfec-4d7e-9bbf-300bf053526e,survey_581,Mali,East William,Male,23.0,Primary,Self-employed,completed,2026-05-14T10:43:02,field_tool,2,Neutral,4,Low,1
+6324a041-fe2b-4627-81f4-a4cf8bfaee70,18821089-438c-4bba-8924-a44ada5780de,survey_293,Mali,Garciabury,Male,,Tertiary,Unemployed,completed,2026-05-14T10:42:35,field_tool,2,Very Good,5,High,3
+6daba608-6483-48ad-af79-35ba1a694919,cf028be2-3847-4b9f-8796-ccf4d6d76a36,survey_345,Mali,Brendaville,Female,61.0,Secondary,Employed,completed,2026-05-14T10:45:12,field_tool,3,Good,5,Medium,1
+926ca138-8342-4f0d-8315-36ef74dc9fe1,26b71b11-9283-40a8-80c4-8aa6b48b014a,survey_884,Mali,Makaylamouth,Male,50.0,Tertiary,Self-employed,completed,2026-05-14T10:43:32,field_tool,3,Bad,2,Medium,3
+53c021fb-200b-4557-be4c-4723a12241d6,6bb423fb-a6a5-47bc-894e-5ac2baabd1d2,survey_501,Mali,Jenniferborough,Female,63.0,Secondary,Self-employed,completed,2026-05-14T10:41:39,field_tool,2,Very Good,1,High,5
+faf91f4d-343c-4a85-b069-26de3b5ae364,041d45f5-d10f-40a5-85b0-bb740e73d29d,survey_604,Mali,North Elizabeth,Male,42.0,Tertiary,Unemployed,completed,2026-05-14T10:45:40,field_tool,4,Bad,2,High,2
+72600499-b9de-4c17-9510-bd6a9d4947c3,14d215c3-c706-4073-8c2a-83f656c317a7,survey_137,Mali,West Elainestad,Female,26.0,Primary,Self-employed,completed,2026-05-14T10:41:41,field_tool,1,Very Good,3,High,3
+1ff27cda-4ce7-4e46-9fb1-fd37fd8745d3,df80aa13-dac9-43af-80d2-7cc457db3d2d,survey_536,Mali,Martinezberg,Female,75.0,Primary,Unemployed,completed,2026-05-14T10:42:45,field_tool,5,Bad,2,Low,5
+be36a870-eaa0-48bf-8410-f08c47e02ab5,a9dff239-890e-4799-9697-27e7f376ecfa,survey_853,Mali,Lake Karaview,Male,74.0,Tertiary,Employed,completed,2026-05-14T10:44:54,field_tool,4,Bad,3,Low,5
+06d7ed76-9609-4802-a1c0-d5c53d393936,a79bc6b0-91c4-485d-b710-a7a01021745d,survey_700,Mali,Kimmouth,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:41:21,field_tool,3,Bad,1,High,5
+4197ab59-5a28-4d0a-95c5-de642085389a,2d195bf4-1134-4dfe-b6b7-c25e3cfb3504,survey_981,Mali,Lake Alyssa,Male,52.0,Secondary,Employed,completed,2026-05-14T10:42:41,field_tool,3,Very Good,1,Low,1
+305bb3a9-a4f3-4d16-9bce-f24aace50285,8d296b30-c696-4f69-a729-929356155253,survey_461,Mali,Mikaylaton,Male,24.0,Tertiary,Self-employed,completed,2026-05-14T10:41:01,field_tool,2,Very Good,3,Medium,5
+83addf32-1c72-4f83-ad87-c3dba316d3ff,a373ff1b-027f-45f3-a303-64bee43554f2,survey_631,Mali,West Jamesport,Male,18.0,Tertiary,Self-employed,completed,2026-05-14T10:43:54,field_tool,2,Very Good,1,Medium,4
+a0060d74-ec7d-4bfc-8b39-a64562f8ce67,ace0a734-ac97-4f70-911a-68edf4214026,survey_879,Mali,South Brooke,female,35.0,Secondary,Unemployed,completed,2026-05-14T10:40:14,field_tool,1,Bad,2,High,3
+90b84207-5559-4855-992d-f4e53ad9078f,f4a2544d-2f25-433d-9bc2-ae49365cb638,survey_603,Mali,Randyland,Male,39.0,Primary,Unemployed,completed,2026-05-14T10:44:20,field_tool,3,Neutral,4,Medium,2
+0aef6d01-d31b-41b0-8d4b-91ec8256c485,e0e225fd-5ea5-4ff6-aeea-ff143059db61,survey_478,Mali,West Ryanburgh,Male,22.0,Tertiary,Unemployed,completed,2026-05-14T10:40:03,field_tool,4,Bad,3,Low,5
+5a673a5a-bdd5-4def-b80d-20039fad1a5b,0a66c4f7-43ee-41cc-baec-45221d4542c0,survey_763,Mali,Lawrencehaven,Male,40.0,Tertiary,Unemployed,completed,2026-05-14T10:41:36,field_tool,1,Very Good,4,Medium,3
+f04d40e9-e179-43a8-a162-69254ba6976f,73206cd9-016b-46c2-84aa-6e0646488027,survey_647,Mali,Kramerchester,Male,45.0,Secondary,Unemployed,completed,2026-05-14T10:45:04,field_tool,4,Bad,2,Medium,1
+c16875d2-c0c8-4241-9a5a-cf2b108b8ea5,07fb089a-bc69-4fad-9999-5b040f561d30,survey_357,Mali,Port Daniel,Male,53.0,Secondary,Unemployed,completed,2026-05-14T10:43:26,field_tool,2,Very Good,5,Low,3
+85f7197f-92b5-4e3d-ae74-9e34468243e5,d515e880-4f1a-4d59-bdd9-2173ce1de4b8,survey_869,Mali,Harrisville,Female,21.0,Tertiary,Self-employed,completed,2026-05-14T10:42:49,field_tool,4,Neutral,3,Low,3
+2e6e4bee-42ec-4df8-ae89-172556236650,c2dc985c-a688-400f-b8b7-aa215c01b4f4,survey_772,Mali,Port Christina,Male,20.0,Tertiary,Unemployed,completed,2026-05-14T10:43:38,field_tool,2,Very Good,4,High,3
+ec29d6c8-f30a-49a5-82dc-af6d1d8a4322,33b9041a-5209-41cf-ad3d-a93bdd1be142,survey_265,Mali,South Tinaberg,Male,56.0,Tertiary,Self-employed,completed,2026-05-14T10:44:20,field_tool,1,Good,4,Low,4

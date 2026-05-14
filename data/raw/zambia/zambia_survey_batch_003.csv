@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+8e914b2e-ee59-413c-9bb2-3b42351dd92e,fa61396d-c54d-4bd6-bc00-99a0f16b2fd3,survey_168,Zambia,New John,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:44:39,field_tool,5,Very Good,5,Medium,2
+da77ad9a-e329-4e38-8ac7-b6946c1c7665,dbfa0f1d-97d3-423b-97e4-e3f502b8ecd8,survey_575,Zambia,East Charlesville,Male,73.0,Tertiary,Self-employed,completed,2026-05-14T10:42:15,field_tool,1,Very Good,1,High,4
+0af2c28a-96b7-4a34-b880-895c672365e9,ba6618e9-2150-4d97-931c-7000986e42f6,survey_397,Zambia,West Eric,Female,66.0,Tertiary,Unemployed,completed,2026-05-14T10:45:03,field_tool,5,Very Good,4,Medium,2
+9d1dfa4a-abb6-4e85-81e7-a47817893f0d,fa2fdeb1-f62e-445a-9767-e02184c26eb2,survey_654,Zambia,New Courtneyport,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:40:29,field_tool,1,Very Good,2,High,1
+3c607555-258e-41b0-bfb4-520b4f1f75ff,f5dc0004-d625-4d6e-ac04-64af2b4f1ee4,survey_622,Zambia,Steventown,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:43:22,field_tool,2,Very Good,1,Medium,3
+6e62a099-c8ad-4a4e-83f1-91542b2eb72b,a94dbe6a-4854-43b7-8404-119025233ff4,survey_646,Zambia,West Christopher,Female,45.0,Secondary,Employed,completed,2026-05-14T10:43:52,field_tool,3,Bad,2,High,5
+7b133bd8-c60c-4801-8fcf-eb726c4eb783,f9282c9e-44dd-4295-846b-d2784a1cdff8,survey_253,Zambia,Houstonchester,Female,51.0,Tertiary,Unemployed,completed,2026-05-14T10:44:12,field_tool,2,Very Good,1,Medium,4
+a2a46929-4ea6-491e-a078-71b4d84f32ad,2d091315-de14-4448-9616-1689a3fb443d,survey_752,Zambia,Jocelynmouth,Female,52.0,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,1,Very Good,1,Medium,5
+995d719c-55b0-4b15-9e91-af37554b6071,d04f13f1-81b4-403f-bfd5-796e681d7cf4,survey_354,Zambia,Matthewhaven,female,46.0,Primary,Self-employed,completed,2026-05-14T10:41:38,field_tool,3,Bad,3,Low,5
+fadf0602-1b84-4511-abaa-1c224e461e32,29a6467d-2e7f-445a-8e15-a0c53b4cd64f,survey_688,Zambia,Jimmyton,Male,31.0,Secondary,Unemployed,completed,2026-05-14T10:42:02,field_tool,3,Bad,5,High,3
+467e5d5f-e68d-4863-92a2-0898303ef861,8202f1f1-8817-4f7f-bca8-5c4b1161a298,survey_438,Zambia,North Michaelburgh,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:42:20,field_tool,3,Bad,3,High,1
+2c4a09a4-0e50-4458-8611-d5ffa0b9993e,36303d22-44d3-461b-80a8-71219392936a,survey_394,Zambia,Timothyshire,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:44:21,field_tool,5,Very Good,5,Low,2
+b8087a3c-ab69-463f-b405-9b17c32a253d,8ee95a0c-8d7d-4733-b080-a0872b9989e6,survey_437,Zambia,Davidport,Male,52.0,Primary,Employed,completed,2026-05-14T10:42:45,field_tool,4,Bad,2,High,5
+c521db0a-1a47-41f5-b2db-11a477a4e36d,787720ac-b7c4-4686-8002-d3d77d9a22b8,survey_987,Zambia,Geraldshire,Male,41.0,Secondary,Employed,completed,2026-05-14T10:44:25,field_tool,1,Good,5,Low,3
+b89045a5-f8d5-4850-b2b5-dd2aecffc241,41eb0fc5-af80-4d38-9c46-80a105d28431,survey_333,Zambia,East Thomasborough,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:45:41,field_tool,4,Very Good,3,Low,1
+001f1ad9-9cc5-42cd-90bb-5beb03958971,0a13c195-0be7-4750-90de-22dc276820ca,survey_468,Zambia,Taylorborough,Male,39.0,Tertiary,Unemployed,completed,2026-05-14T10:43:30,field_tool,3,Very Good,2,Medium,3
+0986ae3c-2ac7-4163-9f24-c5552085e888,7ee480e8-c4e3-4570-b548-c423820ae521,survey_912,Zambia,Lake Marieville,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:41:27,field_tool,5,Neutral,1,Medium,1
+2ab14514-366d-45bd-b64d-967cecb43478,804e89da-a88f-431d-bc9f-76259bbec298,survey_399,Zambia,South Mariabury,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:41:58,field_tool,4,Neutral,3,Low,1
+5c7b48a6-07e2-4dc2-9744-c4db2be0037c,59707163-c3fd-43e6-a0da-20b23ebeb276,survey_965,Zambia,New Monicaport,Female,46.0,Secondary,Unemployed,completed,2026-05-14T10:45:45,field_tool,1,Neutral,2,High,2
+8fd018ab-645d-45e4-98c0-5aa3a451e739,d5994654-7fa7-40bc-845c-f871458d26b5,survey_344,Zambia,Davidhaven,Female,58.0,Primary,Unemployed,completed,2026-05-14T10:43:29,field_tool,2,Bad,4,Medium,5
+4f2650ac-0f4a-4096-871c-f8a8ed8a0cf7,29e3ff1f-d938-43db-90e1-49bbae0f42cb,survey_194,Zambia,New Elizabethmouth,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:44:28,field_tool,3,Good,2,High,3
+fe8bcc81-9615-4be5-88d9-10f7df490ce0,9d275cb6-a9ad-4d8f-9506-7969be9e9ab2,survey_246,Zambia,East Jacob,Male,,Secondary,Self-employed,completed,2026-05-14T10:45:31,field_tool,2,Neutral,4,High,3
+696879e9-93e3-48cb-9153-942cf371ebf3,85190032-06d0-48a6-8444-bb348e3e38c9,survey_441,Zambia,Amandatown,Female,42.0,Secondary,Employed,completed,2026-05-14T10:42:39,field_tool,3,Very Good,1,High,5
+587d44e4-844b-4d02-a51c-78b89b5012b4,65406edc-05e4-4da5-a11d-2121e6c3b25c,survey_508,Zambia,Greenburgh,Female,54.0,Primary,Employed,completed,2026-05-14T10:41:45,field_tool,3,Good,3,High,2
+3bfd6947-65d1-4ff3-828a-d99e80e8306d,b89b78b3-82d0-431b-a1a4-55414f241c2f,survey_538,Zambia,Port John,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:42:27,field_tool,4,Good,1,High,3
+372cfd1c-bc1a-406a-ab28-422a1c3c3af5,64eee3b0-ee46-4d8d-a020-645584c6b05d,survey_502,Zambia,Stanleyport,Male,34.0,Tertiary,Unemployed,completed,2026-05-14T10:41:59,field_tool,5,Bad,3,Low,1
+dfdd7cca-3f3f-479d-8446-3f093acac55f,1330fa10-48a9-438d-9f40-9d06327a9457,survey_785,Zambia,New Markside,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,4,Bad,4,Medium,4
+28b9c727-9cd5-472b-b14e-8a78891eab7e,7d0d6391-de58-464f-a326-99e66ed1ab7d,survey_419,Zambia,Moraleschester,Male,65.0,Tertiary,Employed,completed,2026-05-14T10:42:09,field_tool,1,Neutral,1,Low,3
+fbb4111a-a880-4e26-9dba-6219c83a84d3,78863733-68e8-4e1c-baf1-167b1d51bf05,survey_676,Zambia,Molinachester,Male,37.0,Primary,Unemployed,completed,2026-05-14T10:45:44,field_tool,2,Very Good,4,Low,5
+56f73774-888e-4071-81be-0361be8074aa,f29a1e8b-281f-4583-b26c-7dc488957571,survey_105,Zambia,Lake Kimberly,Female,52.0,Secondary,Unemployed,completed,2026-05-14T10:43:56,field_tool,5,Bad,5,Medium,2
+d1ba212f-b68f-4c62-9d2c-689521dace09,c6dc5ab1-2163-4128-be8a-b068c8efc494,survey_786,Zambia,Billfurt,Female,24.0,Primary,Self-employed,completed,2026-05-14T10:42:33,field_tool,4,Bad,5,High,5
+ec0c96db-af4a-4b1e-8c09-928bc0a1413d,e32e4ba2-bfe9-4a03-b057-c8c9f0e16616,survey_528,Zambia,Christinafort,Male,51.0,Tertiary,Unemployed,completed,2026-05-14T10:40:53,field_tool,3,Bad,4,Medium,2
+03b7fdd4-d86a-4a05-8346-bb02f2082de0,937f5be7-e881-451a-a7b8-004c7288e08f,survey_562,Zambia,New Gregoryberg,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:44:48,field_tool,3,Good,1,Medium,3
+e8d377b4-7b92-43b8-8265-e2b35c92f974,2d515988-4348-4490-9b5f-7a8e9ac0c094,survey_402,Zambia,New Vickiehaven,Male,67.0,Primary,Employed,completed,2026-05-14T10:41:46,field_tool,1,Good,1,Medium,2
+8b688839-7da7-4914-8afc-ea8bb4ea37f2,854ed751-7fe7-4a61-979a-38cf76f4fb1f,survey_446,Zambia,Josephstad,Female,61.0,Primary,Self-employed,completed,2026-05-14T10:39:56,field_tool,1,Very Good,4,High,1
+a5552e02-381f-4685-aaf5-4c91bcece7ef,cab0a6ba-29ca-4fd8-a802-581f9a22a21d,survey_746,Zambia,North Lisa,Female,32.0,Primary,Unemployed,completed,2026-05-14T10:42:59,field_tool,1,Bad,1,Medium,2
+7fb02ce1-b695-4e2e-933a-42ceae8b34eb,08bc43db-eca4-4efa-ab63-0b7e3e6e5a21,survey_778,Zambia,Coryport,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:42:21,field_tool,4,Neutral,2,High,5
+aac145c0-71a9-440f-9a83-0eccfd909524,a28bfdbb-943c-4b98-bda8-7e39fc661842,survey_471,Zambia,Port Krista,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:40:08,field_tool,5,Good,2,High,5
+dcdda6ad-e15e-4010-b11a-cc54bb6f7495,4d2a43c5-d5a4-4906-8b4f-370208c9c3c5,survey_672,Zambia,Lake Michael,Female,67.0,Primary,Employed,completed,2026-05-14T10:41:43,field_tool,2,Good,2,Low,4
+7cb987f8-a0a2-4f9c-8cd7-279d61978374,55c7a546-a3d5-410b-a91b-663290b7575e,survey_676,Zambia,Lake Roy,Female,57.0,Primary,Self-employed,completed,2026-05-14T10:45:17,field_tool,1,Bad,1,High,2
+9d84f994-02ef-4860-9477-580095ae7af6,2c07b488-fca3-470e-9717-400c36308ae1,survey_489,Zambia,New Ross,MALE,51.0,Primary,Unemployed,completed,2026-05-14T10:44:26,field_tool,5,Bad,1,Low,1
+fbdb0146-0fbe-410f-b334-e36a738b2b5b,553727d8-88e4-40ab-9296-40ed8a349655,survey_404,Zambia,West Cassandra,Female,,Tertiary,Unemployed,completed,2026-05-14T10:42:18,field_tool,1,Bad,4,Medium,2
+21f87a82-67cd-4cfd-b9b5-317396bbf4a9,46f750b6-c544-498b-82f7-9f08dafc1e2f,survey_459,Zambia,East Leslieshire,Male,44.0,Primary,Unemployed,completed,2026-05-14T10:43:28,field_tool,4,Neutral,1,Low,5
+25702495-acc7-4000-b0f1-ecb73ce7b8d1,15618866-a648-40f3-865d-a65d6b560ff2,survey_942,Zambia,Normanport,Female,64.0,Primary,Employed,completed,2026-05-14T10:40:41,field_tool,5,Neutral,2,High,4
+e8e065d9-de4c-4c19-ae34-4f7b4a632bd8,c44285de-1356-4400-8b36-5e4c18e020ef,survey_133,Zambia,Paulside,Female,51.0,Secondary,Employed,completed,2026-05-14T10:43:11,field_tool,1,Bad,4,Medium,4
+d5646356-9cb6-42b5-8bbd-33021f65c20a,a96d699c-53c4-453f-9cb5-614fd6169973,survey_481,Zambia,West Wendy,Female,27.0,Secondary,Self-employed,completed,2026-05-14T10:41:54,field_tool,3,Very Good,4,Medium,3
+f4f58c3b-d1d1-477f-b133-a4d407f5a42c,bae7b635-1f9b-451d-b196-4e6fa7a4ccb8,survey_153,Zambia,Johnmouth,Female,22.0,Primary,Employed,completed,2026-05-14T10:40:50,field_tool,4,Good,4,High,1
+3d507d06-a084-4dd8-8b19-230e15bfed12,370dac93-9d53-44fd-a4b5-81f6f5d6413b,survey_237,Zambia,Nicholaschester,Female,,Secondary,Employed,completed,2026-05-14T10:44:23,field_tool,2,Good,5,High,5
+fdc58e70-ee8c-40db-934d-07b24b3635b4,3416c6ec-0ae9-469d-8606-68d0f5f49361,survey_969,Zambia,Millerland,Male,53.0,Secondary,Unemployed,completed,2026-05-14T10:45:44,field_tool,4,Neutral,3,High,3
+02af7e6a-eb8d-498c-a3f7-c1135d298d0a,de02b7e9-f91a-423a-a497-a739b553bfb9,survey_860,Zambia,Cunninghamtown,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:44:01,field_tool,2,Neutral,2,High,2
+0b711e8b-47a0-450a-9fec-bbee052a921d,42b51f10-e106-4671-8cd7-89ec304d2950,survey_735,Zambia,Thomasborough,Female,37.0,Tertiary,Self-employed,completed,2026-05-14T10:45:34,field_tool,3,Neutral,3,Low,2
+b001a4d1-b876-4136-abfe-9d5141fc6477,cb2a5eef-88ce-47cb-85de-bdd28bad0c47,survey_145,Zambia,Garrisonport,Male,47.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,1,Very Good,1,Medium,1
+00fcdc06-bcc2-4273-b7db-2f64f2225572,b1df4e87-040f-4c81-90e6-58836e3a0e93,survey_265,Zambia,Port Carrie,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:44:25,field_tool,3,Very Good,4,Low,5
+cd53e720-9411-479e-8fb4-45ad43cb76d7,7dc975f3-1163-47b2-98e2-f93f2df028f6,survey_391,Zambia,Olsonchester,Female,54.0,Primary,Employed,completed,2026-05-14T10:44:58,field_tool,4,Good,4,Low,2
+8f2519a2-942e-4d06-bc2e-6e7cdecf90c3,e9c5d231-6fd8-41b6-bd42-c5b95322bc7d,survey_671,Zambia,Jessicaview,Female,,Primary,Self-employed,completed,2026-05-14T10:45:40,field_tool,1,Bad,1,Low,1
+acc26eff-758c-454f-8ea0-63d72f43fdb0,30667757-9b2b-4356-aa2b-39cf7bdc58b0,survey_532,Zambia,Johnsonfurt,FEMALE,48.0,Tertiary,Unemployed,completed,2026-05-14T10:41:45,field_tool,4,Bad,2,High,1
+1e185dcc-7b70-4ea6-b672-3d357195d4c5,bb178e77-ba98-4ed5-a275-b92e5f0ee074,survey_120,Zambia,Williamsview,Male,30.0,Tertiary,Unemployed,completed,2026-05-14T10:40:10,field_tool,5,Very Good,5,Low,5
+8a908ae6-7a84-40e3-8237-239760c2bb81,cbe75a08-1c14-4790-82f7-cddffdef51b4,survey_406,Zambia,Jasonstad,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:45:11,field_tool,5,Good,5,High,5
+92aebf5c-9cf4-4ab8-b5df-00d245f473b4,4b9cafbf-0674-49e5-98dd-37fbf9de6088,survey_148,Zambia,South Christineville,Male,35.0,Primary,Employed,completed,2026-05-14T10:42:53,field_tool,5,Neutral,4,High,5
+3342e17b-d5c9-4f8f-abcb-1c13635f3f14,bbcabce1-5393-4b21-a838-59a44dfbf40f,survey_707,Zambia,Port Williammouth,Female,21.0,Secondary,Self-employed,completed,2026-05-14T10:40:44,field_tool,1,Good,5,Medium,5
+3816cb80-3e0c-4978-8533-cd5d785b1c5c,712d991c-99a9-4448-8a9d-fa72e527ccfd,survey_295,Zambia,Steelefort,Female,52.0,Primary,Unemployed,completed,2026-05-14T10:44:48,field_tool,5,Very Good,3,Medium,3
+2aed7e65-61e4-48e7-9bf4-5ccd60b96d9c,9c2c2264-97b2-4a07-a382-d15cfdf8b562,survey_542,Zambia,Millerland,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:41:48,field_tool,3,Good,5,High,1
+452ab8af-aa68-4a16-8fc3-0cec0a992aa2,c53b28ad-0d30-43ad-953d-d3537f22de0b,survey_356,Zambia,North Samanthamouth,Female,19.0,Primary,Employed,completed,2026-05-14T10:42:59,field_tool,3,Very Good,5,Low,5
+7ce06d1e-73fa-444b-abe8-1c3de94f8a3c,445c1399-279a-4f20-a2a4-3b2fe96e37ac,survey_965,Zambia,South Michael,Male,39.0,Primary,Unemployed,completed,2026-05-14T10:41:09,field_tool,5,Neutral,2,High,2
+404a6265-9823-40a5-9b43-a57dfb861c5d,fff96f5d-97f1-4af7-ba9c-869b4a8c0afb,survey_658,Zambia,Johnsontown,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:44:07,field_tool,2,Very Good,4,Low,3
+c3b7a0cb-9f8c-4a75-8e7a-9c95ae1b6de1,ad30a983-a009-437e-8779-eba150a8c955,survey_691,Zambia,South Caroline,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:42:02,field_tool,2,Good,2,Medium,5
+dee167c0-462e-4175-bb95-80c527fec764,d5e233e1-ac11-4ca8-907e-3c516a0afad2,survey_675,Zambia,Collinsberg,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:41:16,field_tool,2,Good,3,Medium,2
+d6810851-df68-498f-bd68-3e751f8ab26b,32619818-59f0-4d3c-a7d7-201617177232,survey_872,Zambia,South James,Male,39.0,Secondary,Self-employed,completed,2026-05-14T10:45:04,field_tool,2,Neutral,3,Medium,3
+fb508a01-930b-4cd0-ac58-0f7d584708a2,54617b83-8061-44e8-bdec-085a55ac5bd1,survey_136,Zambia,Kimberlyville,Female,29.0,Secondary,Unemployed,completed,2026-05-14T10:41:51,field_tool,5,Very Good,5,Medium,2
+f6670f52-84dc-4146-b925-a932f4365916,091e469e-788e-4946-85d9-7aa084e421dc,survey_938,Zambia,North Lori,Male,,Secondary,Self-employed,completed,2026-05-14T10:45:36,field_tool,2,Good,3,Medium,3
+aa49ffc1-431f-4fa3-bfd3-f55a7e9d474b,f960dc2a-a3b7-47b2-be42-655f382700d2,survey_217,Zambia,East Angela,Female,19.0,Tertiary,Employed,completed,2026-05-14T10:44:41,field_tool,5,Very Good,2,High,4
+00644336-9159-4442-8f5a-6315e75b3373,f9774b9f-2012-4659-bf4b-b7501ffb9f71,survey_728,Zambia,Port Meganport,Male,59.0,Tertiary,Self-employed,completed,2026-05-14T10:44:48,field_tool,4,Very Good,4,Medium,2
+1027dfe6-4793-451c-abac-ccc5c3464de5,fd03c1ad-3c0d-4d07-82eb-397b4f745311,survey_832,Zambia,Lake Linda,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:44:25,field_tool,5,Bad,1,Medium,1
+bfbabc47-cdcf-48ed-9d4a-8ad54c9cc8e9,acb9efa7-9f40-4151-8a67-6154abbc8d1d,survey_855,Zambia,North Markburgh,Male,38.0,Primary,Self-employed,completed,2026-05-14T10:45:27,field_tool,2,Bad,2,High,4
+eedd7d17-90dc-4807-ac2a-96c89c57b889,16304ff8-680c-4b8d-be9f-466658a8ebdc,survey_831,Zambia,North Tonya,Female,,Secondary,Self-employed,completed,2026-05-14T10:43:46,field_tool,5,Bad,2,Low,1
+f2e58026-4024-47e3-ac66-2ed47e2dec5d,2cb1fd18-310b-44c0-8f58-2b4736a21dc8,survey_677,Zambia,Port Stephenview,Male,34.0,Tertiary,Unemployed,completed,2026-05-14T10:40:00,field_tool,3,Good,5,Low,1
+a825e1d2-f389-4ef3-bef9-b4c179c817bb,d031d917-6944-490f-aa18-6a09ecee6b09,survey_778,Zambia,Scottmouth,Male,42.0,Primary,Employed,completed,2026-05-14T10:43:19,field_tool,2,Good,1,Low,5
+84d5ce95-6025-4382-a71e-3c21380e0a76,eb1e4e03-673e-4f56-b8e0-059b1b2a6453,survey_352,Zambia,Hesterberg,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:41:15,field_tool,2,Good,1,Medium,1
+2db435b0-da18-400a-b34e-3cbdc8d625c3,ba86d843-df86-4836-b55d-421eec5a5bfe,survey_666,Zambia,Lake Marthaport,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:44:02,field_tool,2,Very Good,2,Medium,3
+a197fc2d-36f9-4d20-a345-2a2ffe0921d2,102092ae-f50f-4d60-9d5f-94124ed0534b,survey_755,Zambia,Lake Cynthia,Female,34.0,Primary,Employed,completed,2026-05-14T10:40:57,field_tool,3,Neutral,3,High,2
+5d1634eb-1a50-49f2-8315-1bf88125cdbd,25a9fe61-3eca-4a0c-bb12-ce3ad18dc5d3,survey_292,Zambia,Kimberlyberg,Male,23.0,Secondary,Employed,completed,2026-05-14T10:45:36,field_tool,4,Good,2,Low,3
+c61fc460-6c0c-407b-9ad9-01cc78fc1ebd,83ddaf13-aed2-4532-8ed3-ffa57f98da2c,survey_161,Zambia,New Coreymouth,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:42:26,field_tool,5,Very Good,1,Low,4
+f0971fd1-c5ed-4e1e-8753-fbc6b3eb77a5,25fb9e58-9b4f-416d-b69a-5cc91a8fb64b,survey_782,Zambia,Brianshire,Female,60.0,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,2,Bad,4,Medium,3
+dc7336d1-fc7e-4e74-8697-71648e9583e1,1f606968-7d5b-4b17-9887-7ae4de79f552,survey_775,Zambia,Robertshire,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:42:33,field_tool,3,Bad,3,Low,1
+8428396e-706c-4bc7-b1c3-05acf59aaa51,5961ca32-3e90-4012-b257-887b1853cdc9,survey_573,Zambia,South Derek,Female,21.0,Primary,Self-employed,completed,2026-05-14T10:43:46,field_tool,5,Bad,2,High,4
+9837c86c-1c20-43f6-9640-f26a322571c0,de030ca3-37d3-44fa-be01-dcdeb1aa419e,survey_968,Zambia,North Brentmouth,Male,74.0,Primary,Employed,completed,2026-05-14T10:42:32,field_tool,3,Bad,5,Low,5
+6275b4a0-b8a0-4fe3-8500-0ffc18338c83,ec7e4b43-35df-4c68-8992-253fbd8fd52c,survey_306,Zambia,Cherylburgh,Male,68.0,Secondary,Unemployed,completed,2026-05-14T10:44:02,field_tool,2,Very Good,4,High,2
+2ff7f5fb-abd4-4b47-93b0-441d8acbe243,504f1b83-9b43-4b3d-989f-56a000648e70,survey_136,Zambia,Alexanderborough,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:43:23,field_tool,2,Very Good,1,High,2
+4fb68807-97e3-4cf5-9fda-5c214eca9f06,1968d5c8-6df9-4671-a8b4-a2682758cbec,survey_431,Zambia,Davisshire,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:41:24,field_tool,5,Neutral,1,High,2
+7a1de26e-dcff-41d3-b58b-ff9fe585878f,dfc332bf-55cd-47fd-b445-c45a13664f7c,survey_552,Zambia,South Connieport,Male,69.0,Primary,Employed,completed,2026-05-14T10:39:57,field_tool,2,Very Good,4,Low,1
+3b899b34-613e-44f9-a8fd-ad88c4030fc4,ad3f9c0a-161f-4cb6-8177-2fda638b4f51,survey_195,Zambia,East Robert,Female,24.0,Secondary,Self-employed,completed,2026-05-14T10:43:47,field_tool,4,Good,5,High,1
+4c91db42-1a28-419f-98c4-c55cf3ea9109,75aec373-ad98-4da3-abd6-9fa29e79e79a,survey_597,Zambia,Lake Todd,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:42:11,field_tool,4,Bad,3,Medium,3
+9bccd7a5-b021-4ad4-9ddb-25f4f899617e,13d4d8bc-f29d-4a38-9b11-b750371ab21e,survey_725,Zambia,East Debraville,Male,63.0,Primary,Unemployed,completed,2026-05-14T10:44:36,field_tool,5,Good,2,Low,2
+332aa766-a325-45f9-b142-b5751a73e3d9,27913cea-6cee-4c72-b37f-01f60631fc10,survey_168,Zambia,Kyleview,Female,52.0,Tertiary,Self-employed,completed,2026-05-14T10:41:47,field_tool,1,Bad,2,Medium,2
+7be2fdd8-4de5-409d-aad8-9f0f494f126b,89febc6d-39f1-4ba6-b493-9df8a4a80926,survey_649,Zambia,South Deannabury,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:43:44,field_tool,3,Very Good,4,Low,1
+1194e51d-0d0b-4fc2-a751-99573fccf018,a199e58f-71a4-4a5f-ac97-c4502eee55c4,survey_143,Zambia,West Juanberg,Female,61.0,Secondary,Self-employed,completed,2026-05-14T10:45:18,field_tool,3,Good,1,Low,2
+0cee3591-967e-4353-b56e-d4ff5c897c0d,bd79248e-070e-4ad9-982f-9cf4f65a13d4,survey_141,Zambia,West Cindyside,Male,50.0,Primary,Self-employed,completed,2026-05-14T10:39:52,field_tool,2,Good,3,High,5
+4dbd4841-db9b-4982-98b0-75cddece583b,fdcdc5e0-9539-4865-8e35-8e8c066136b2,survey_478,Zambia,Lake Heatherfurt,Male,39.0,Primary,Employed,completed,2026-05-14T10:43:17,field_tool,5,Very Good,3,Low,4
+3c9a445b-1213-4a38-a365-aff4bacd411c,d1a362e5-6eb9-462c-ab81-fc04002d966b,survey_753,Zambia,Marytown,Male,24.0,Tertiary,Self-employed,completed,2026-05-14T10:44:15,field_tool,4,Bad,5,High,5
+0c9bfd4a-4e4c-4316-b2de-1f3b7454b390,1bf31c4e-411b-47d3-8db8-598686b0e3b2,survey_834,Zambia,Lake Lisa,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:40:36,field_tool,5,Very Good,4,Medium,5
+4273826f-c070-4e64-9457-799ca3c8876b,e3623021-9f0f-4c9a-9b07-574d0d6b83e0,survey_699,Zambia,East Allisonberg,Female,18.0,Tertiary,Employed,completed,2026-05-14T10:42:02,field_tool,3,Bad,4,High,5
+16f7f96d-b39d-48a7-9171-91b66f70d8ea,575f3187-9524-47d3-98f9-0f210a0a4db0,survey_194,Zambia,West Zacharyville,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:44:50,field_tool,5,Good,2,Medium,4
+63a15dbe-a025-4c25-b86e-92385112231f,785a2abe-69c8-4466-b181-f22447366991,survey_172,Zambia,Connerton,Male,45.0,Secondary,Employed,completed,2026-05-14T10:43:15,field_tool,3,Good,3,Medium,4
+1fb91964-38e0-49d9-9236-1ef67591b275,8aefa450-bcfb-4158-be27-82433562e1d4,survey_537,Zambia,Lindseyburgh,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:42:37,field_tool,3,Very Good,1,Low,4
+bfa9d71c-7c02-4eb7-81a2-ff4ce110fc63,63347bc4-7b81-4f54-859f-a9e2220341ea,survey_356,Zambia,Mooreland,Male,40.0,Secondary,Employed,completed,2026-05-14T10:39:55,field_tool,2,Very Good,5,Medium,4
+4e1bb955-becb-4594-832d-83ae7a2b2beb,5ff85a88-d615-463f-a8f3-3dd164b8a616,survey_949,Zambia,Jesusburgh,Female,74.0,Primary,Employed,completed,2026-05-14T10:42:10,field_tool,1,Good,4,High,2
+05e80022-58a4-4ace-ad3e-e837002758b6,dfa48664-464f-431b-b39b-39a27929188d,survey_741,Zambia,Anthonyville,Female,21.0,Tertiary,Employed,completed,2026-05-14T10:40:16,field_tool,3,Good,4,Low,5
+a08230c2-4741-4213-a8ea-95d590e71461,fd337a26-9670-4ff7-ad3c-94c23c06437f,survey_411,Zambia,West Kimberly,Male,33.0,Secondary,Employed,completed,2026-05-14T10:41:41,field_tool,2,Very Good,4,High,1
+aa805190-fb3a-432f-862f-352a589c5443,5e764cbf-3708-4054-9152-b737ff454727,survey_969,Zambia,Elizabethland,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:44:35,field_tool,5,Bad,1,Low,5
+92e22a9d-c089-4562-b82a-eb9769086218,7b51d3a7-8dab-4d56-ae4a-596672966a03,survey_581,Zambia,Lake Valerie,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:45:39,field_tool,2,Neutral,2,Medium,4
+400b2094-1f51-4f41-b9d6-0d1861fd1949,509736ff-3cac-420c-8b27-0c2dfb0ebdcd,survey_604,Zambia,West Michaelmouth,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:42:21,field_tool,3,Bad,2,Low,1
+5f953cc4-7195-4b22-b073-4244c7d0d5cf,829f69ba-e3c0-44e2-9949-9d45a64eab75,survey_543,Zambia,Gonzaleston,Female,28.0,Primary,Self-employed,completed,2026-05-14T10:42:09,field_tool,3,Very Good,3,Medium,1
+6068d23f-9d21-4da6-93b3-503274e07c95,fa5871f1-d0ef-436e-9e70-529b4b58ad4c,survey_467,Zambia,Carrollmouth,Female,26.0,Primary,Self-employed,completed,2026-05-14T10:44:35,field_tool,1,Neutral,1,Medium,3
+d3ec9af5-5101-4147-9b1c-cfc7be767efc,59b0d41f-2e91-4002-a35e-dc1ba53b1c70,survey_315,Zambia,Michaelborough,Female,,Tertiary,Unemployed,completed,2026-05-14T10:40:50,field_tool,2,Good,4,Medium,1
+5827eca8-cfa7-4bb0-a075-868c846d314b,afbc7663-8b31-4744-8cfd-e6f99041ab2b,survey_470,Zambia,Cruztown,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:40:49,field_tool,5,Neutral,2,Low,1
+de91d7be-d5b6-4d54-a682-5d2048ed7f2e,123ae438-8f41-4659-942c-16f029503cf8,survey_279,Zambia,Smithstad,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:45:12,field_tool,5,Neutral,2,Medium,3
+b1155fb3-3aec-43d8-8fd6-47c031e82ffd,5ed42695-4467-4555-9d73-3d3bd43357da,survey_393,Zambia,Nelsonmouth,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:42:39,field_tool,5,Very Good,3,Medium,3
+ef2644c6-e5a4-4ed0-b285-2f1a09b2b8ca,889bd7bb-eb12-4b7c-bb6b-b2e1da37202b,survey_794,Zambia,Chavezshire,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:43:43,field_tool,3,Neutral,2,High,3
+72b4bfa8-4648-4baf-be99-396e20c3f17d,d7d15257-9771-4d4c-b6d7-bde2823b6292,survey_175,Zambia,Ashleyborough,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:42:03,field_tool,3,Good,4,Low,5
+5d8889aa-9882-4da2-bb31-0a4365909912,2d86159b-aaca-4c3e-9acc-ebcc9622907a,survey_963,Zambia,New Stephenhaven,Female,53.0,Secondary,Employed,completed,2026-05-14T10:40:59,field_tool,1,Neutral,2,High,4
+a967397e-8a28-42eb-b8ff-5e051e2a21e8,0ece4fc7-b65e-46fc-9f8d-4602433d38f1,survey_909,Zambia,Heatherport,Male,68.0,Tertiary,Self-employed,completed,2026-05-14T10:44:39,field_tool,4,Bad,5,Low,4
+0baf324b-2a87-4dfc-8669-b6fe2750677a,0a38ed37-c5ad-4efa-91cd-cac835321a7b,survey_954,Zambia,East Rebecca,Female,22.0,Primary,Employed,completed,2026-05-14T10:39:51,field_tool,4,Neutral,5,High,3
+682d59c7-d672-40ab-a3fc-e14a7841c960,17ccd0dc-42bc-4c82-ad2c-b8d093eb3046,survey_759,Zambia,Oconnellfurt,Female,36.0,Primary,Employed,completed,2026-05-14T10:43:36,field_tool,5,Bad,1,High,5
+fb03f9e8-1e74-4332-9f6d-63ed82ade227,f772a8c5-702b-4c2f-b41f-0780cea6019f,survey_335,Zambia,Berrystad,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:42:14,field_tool,3,Bad,3,High,2
+71af231e-7f1f-4cd4-984d-a13cc3265942,047a243a-3fbd-4635-94b0-00fe8b5ac66c,survey_336,Zambia,Smithtown,Male,44.0,Tertiary,Self-employed,completed,2026-05-14T10:45:09,field_tool,3,Very Good,5,Medium,4
+ccc7d71f-2bc7-4f26-94b5-b45a01bb57c1,c7acb6ed-ef35-42af-a3b3-2c61002fc956,survey_592,Zambia,Candaceburgh,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:42:02,field_tool,4,Bad,2,Low,4
+ecae6a14-3ae9-480b-9067-36dab013e885,86227e06-a347-4cd2-a786-60bc1cd70fe0,survey_649,Zambia,West Michelleshire,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:42:34,field_tool,5,Neutral,5,High,1
+ec93bfe8-2606-444d-8a02-d46d36494c32,c6fd98a3-85e2-4a5c-b7e8-e8a8e2d3db79,survey_155,Zambia,North Phillip,Female,27.0,Tertiary,Unemployed,completed,2026-05-14T10:43:42,field_tool,4,Neutral,2,High,4
+a5efd71f-6a25-42b5-8abb-069f4542792d,aac6cc2e-ccaf-4899-956e-e6ac92a799fd,survey_618,Zambia,East John,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:44:01,field_tool,4,Neutral,3,High,4
+cffac167-7c54-41c7-b5ce-796b96209d64,6f909774-cbaf-41c3-a733-de875671ca2b,survey_956,Zambia,Shelbyberg,Female,21.0,Secondary,Unemployed,completed,2026-05-14T10:40:54,field_tool,5,Bad,4,Low,1
+6b802991-5fb1-4312-b81b-90d212286a2c,6d1e2ef9-0b6f-4270-8535-7586a7cd169f,survey_190,Zambia,Monicaburgh,Male,66.0,Secondary,Self-employed,completed,2026-05-14T10:39:57,field_tool,1,Very Good,2,Medium,3
+c7bf59b6-a2a9-4056-a6c7-757ee64fd61f,3fdbf151-3116-47e5-8ba2-6c924f918591,survey_356,Zambia,Calhounberg,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:40:38,field_tool,1,Neutral,1,High,1
+138da8ae-df4c-4cba-9433-4b9cfbe1fe3c,efa220f9-eba5-40e1-9c1e-50d146cc9b5d,survey_165,Zambia,Benjaminshire,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:44:27,field_tool,4,Good,3,Low,5
+79674644-de37-4449-99df-557c29e3bd24,e27738a3-8408-4703-a492-47f6d344b006,survey_620,Zambia,West David,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:39:58,field_tool,5,Neutral,1,Medium,1
+407cbc70-45d3-4a13-9297-b55964dc69bd,8ba23642-764c-4c4e-a112-3876af42a2af,survey_834,Zambia,Holmesburgh,Female,68.0,Tertiary,Unemployed,completed,2026-05-14T10:40:04,field_tool,2,Very Good,2,High,3
+cc094eb3-029f-402d-95ad-36b6f76641b5,d29c69fb-ef71-4554-aae1-79c639d24e2d,survey_305,Zambia,West Mariastad,Female,20.0,Primary,Unemployed,completed,2026-05-14T10:45:08,field_tool,3,Bad,2,Medium,3
+bebb39f8-6805-43b4-aebd-5639d5260b0f,13a4053a-57ea-46b4-9fcd-5fc6557d54e8,survey_584,Zambia,East Bryan,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:45:09,field_tool,3,Good,2,Medium,5
+eec32912-88b5-4512-b835-df618b968e84,7ff1ad5d-e370-4493-a43c-8d6d6c82dcc9,survey_456,Zambia,South Patricia,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:45:26,field_tool,1,Good,5,Medium,1
+d924c94c-d4b4-4aa8-b08a-026dca4e0f25,0eb1741e-5229-4d35-88ae-7b9b268c2782,survey_330,Zambia,East Lawrence,Male,30.0,Tertiary,Self-employed,completed,2026-05-14T10:43:54,field_tool,1,Bad,4,Medium,1
+0b26dcb5-d53a-4a34-94c3-f4ef51a62735,7ce4a8d0-e9b9-4662-bd8c-b3402dd3cbd4,survey_835,Zambia,New Austinshire,Female,61.0,Tertiary,Self-employed,completed,2026-05-14T10:44:16,field_tool,1,Very Good,4,Medium,4
+241873ed-3b0f-4ad9-8251-fd59e34c615c,6b5dff72-dd1b-4491-9642-895a4193ba22,survey_650,Zambia,Middletonborough,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:45:01,field_tool,2,Neutral,1,High,3
+a9bb4b0c-96fe-4942-8dd4-50c623814c4c,d55851c4-257f-4464-840c-2f2e8985b674,survey_332,Zambia,East Markberg,Female,51.0,Primary,Employed,completed,2026-05-14T10:43:10,field_tool,3,Good,5,Low,4
+e7df81f1-63de-4598-a620-023ee6f5da93,ccc33473-b7fc-4a7e-ba4d-556d2075626f,survey_609,Zambia,Sandersburgh,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:44:41,field_tool,2,Good,4,High,2
+f9eeacaf-b521-4af0-a899-783c255c07fd,52a98c91-d53c-4a5a-a05f-468eace5e100,survey_781,Zambia,Alexandriafort,Female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:42:13,field_tool,5,Very Good,3,Medium,5
+2a02fb6d-ffa4-4a90-b53d-84e60617ca17,d66d460c-e21f-45ff-954f-2297b3cd26e5,survey_368,Zambia,West Susan,Female,42.0,Secondary,Employed,completed,2026-05-14T10:41:59,field_tool,4,Bad,3,High,2
+c2b6d8b6-99c5-4413-a617-c2b6c52fdd0c,faf09ebb-5da9-4d1f-a6f6-9f6b1dbc70a1,survey_580,Zambia,Wrightport,Female,61.0,Primary,Employed,completed,2026-05-14T10:42:05,field_tool,1,Bad,4,Low,4
+fe7b85ca-6a56-4961-b7e6-643a327a342d,bd054955-7d7c-4349-b88f-ecd3bef595c1,survey_847,Zambia,East Richard,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:41:13,field_tool,4,Neutral,4,High,3
+7d61b490-b127-4e40-af2d-3b3df0db730e,1040bbd6-997f-413b-9a63-e32d424d5e9d,survey_433,Zambia,Tammyborough,Female,43.0,Secondary,Employed,completed,2026-05-14T10:40:16,field_tool,3,Good,3,Low,4
+afcac989-5f41-45ec-8fc2-6d04750af5ee,312678cc-d19e-4a0a-8e9c-773513bcab7c,survey_396,Zambia,Charlesbury,Male,50.0,Secondary,Employed,completed,2026-05-14T10:43:10,field_tool,2,Good,5,Low,5
+01f304d5-e868-4ade-90b5-1778a4210019,6bc740cc-7590-4f54-8dd6-9260d418e87b,survey_665,Zambia,Terrishire,Female,38.0,Primary,Employed,completed,2026-05-14T10:39:52,field_tool,2,Neutral,1,Medium,1
+b86d3063-b9a6-45de-85a2-bbc23b85910f,a092afae-4ffb-4c4f-bded-5b9154b2eb18,survey_758,Zambia,Michaelburgh,Female,46.0,Secondary,Employed,completed,2026-05-14T10:41:23,field_tool,4,Very Good,5,Medium,4
+f51d09ec-bf5b-461e-807c-f70c8fcabb7f,6f85822d-3a3b-468f-b6db-9b63aeee85b0,survey_416,Zambia,Jillianland,Male,19.0,Secondary,Unemployed,completed,2026-05-14T10:44:48,field_tool,5,Good,1,High,5
+0a496400-d002-41f3-bb1e-34cbf860c26b,74f96d49-3554-44bc-9b6b-8d3009ad08e3,survey_750,Zambia,East Adamtown,Female,28.0,Primary,Unemployed,completed,2026-05-14T10:40:28,field_tool,2,Good,4,High,3
+c6b3291e-68e3-4428-8d68-f3f8ed0c1d04,647d6191-fb9e-4ce4-8a46-353babb67382,survey_815,Zambia,North Gregorymouth,Female,23.0,Tertiary,Employed,completed,2026-05-14T10:40:34,field_tool,4,Neutral,1,Medium,4
+39524660-8e51-4b25-a58b-08f56364f79a,757e2025-d4f9-4f22-9253-83006076beb8,survey_889,Zambia,South Williamport,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:43:44,field_tool,2,Very Good,4,Medium,1
+f649ca5d-f3aa-4ff8-a033-9211923f60ec,8b98af68-e51f-4feb-8bd4-30a9220c214f,survey_120,Zambia,South Sierraberg,Female,44.0,Secondary,Employed,completed,2026-05-14T10:41:11,field_tool,1,Very Good,3,Low,5
+c73c2892-c087-460a-898d-8490f1db0348,5dd3c276-17ab-4d01-b4cb-2744f4195217,survey_873,Zambia,Holmesfort,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:42:21,field_tool,4,Good,2,Low,3
+4be8b3e7-794f-47be-8618-d00021c0ccda,d5e2b7b4-c854-4aeb-b3b5-001c2058f28d,survey_713,Zambia,New Danny,Male,29.0,Primary,Unemployed,completed,2026-05-14T10:44:13,field_tool,4,Bad,5,Low,1
+e4208f09-ff0c-44c2-b852-0f1eeb222d22,d1d560ac-1ab2-4374-8a23-0cb53073bb19,survey_297,Zambia,Kennethfurt,Male,49.0,Primary,Employed,completed,2026-05-14T10:44:36,field_tool,4,Very Good,1,Low,3
+35c96017-6175-4927-9702-7bc39eda2494,d320321a-f5e1-4f12-8f7d-85d7fc2d3687,survey_948,Zambia,Douglasstad,Male,35.0,Secondary,Unemployed,completed,2026-05-14T10:44:04,field_tool,2,Neutral,2,High,5
+9eff1681-28d3-4bf2-8c25-8154a46a06db,aa54adf0-201f-4992-ae8a-04dffa19f25f,survey_291,Zambia,Parkermouth,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:45:41,field_tool,5,Neutral,2,Medium,4
+2be47524-cbab-43b6-b0c1-9ec613851eed,daf6ad3d-1314-4f24-b3ef-7285af17fb3b,survey_960,Zambia,Lake Virginiamouth,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:40:27,field_tool,5,Bad,5,Medium,1
+e406ef94-42a5-4cda-9564-5027dca17460,77afca1c-1dab-4701-ad67-3f184c549718,survey_864,Zambia,Port Williamville,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:42:51,field_tool,5,Bad,4,Medium,1
+0e04c738-41ea-4242-9958-4e31993a7b0c,c43243bd-b32e-48a4-8fdc-7922266270fa,survey_845,Zambia,Charlesside,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:40:20,field_tool,2,Neutral,5,Medium,5
+afee3226-c586-4ee4-937f-81f6753d4200,8e13d8da-748b-4a71-8090-4fbf8368c496,survey_813,Zambia,Thomashaven,Female,72.0,Primary,Unemployed,completed,2026-05-14T10:40:01,field_tool,2,Neutral,5,Low,5
+788b7059-3599-4c72-bffe-1f30b7683994,33321ce0-f69c-4e70-9b87-4cf83537f34b,survey_598,Zambia,South Amystad,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:43:51,field_tool,4,Bad,2,Low,3

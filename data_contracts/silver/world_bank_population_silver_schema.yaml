@@ -1,0 +1,48 @@
+dataset: world_bank_population_silver
+version: "1.0.0"
+description: "Cleaned World Bank population data"
+
+fields:
+  country:
+    type: string
+    required: true
+
+  country_code:
+    type: string
+    required: true
+
+  year:
+    type: integer
+    required: true
+
+  population:
+    type: long
+    required: false
+
+  indicator:
+    type: string
+    required: true
+
+  obs_status:
+    type: string
+    required: false
+
+  unit:
+    type: string
+    required: false
+
+  decimal:
+    type: long
+    required: false
+
+  silver_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

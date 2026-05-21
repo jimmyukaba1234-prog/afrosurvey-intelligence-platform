@@ -66,14 +66,7 @@ def get_api_sources() -> List[Dict]:
             "endpoint": "/all?fields=name,region,subregion,population,area",
             "params": {}
         },
-        {
-            "name": "who_gho",
-                        
-            "base_url":"https://ghoapi.azureedge.net/api",
-            "description": "WHO Global Health Observatory OData API",
-            "endpoint": "/Indicator",
-            "params": {}
-        }
+    
     ]
 
 
@@ -143,13 +136,9 @@ def normalize_world_bank_data(raw_data: Dict) -> pd.DataFrame:
     Normalize World Bank API response into a clean tabular DataFrame.
     """
     try:
-        if isinstance(raw_data, list) and len(raw_data) > 1:
-            records = raw_data[1]
-        else:
-            records = raw_data
-
+        
+        records = raw_data
         normalized_rows = []
-
         for row in records:
             normalized_rows.append({
                 "country": row.get("country", {}).get("value"),
@@ -236,43 +225,7 @@ def normalize_restcountries_data(raw_data: Dict) -> pd.DataFrame:
 
         return pd.DataFrame()
 
-# 5. WHO GHO NORMALIZER
-def normalize_who_gho_data(raw_data: Dict) -> pd.DataFrame:
-    """
-    Normalize WHO GHO API response into clean tabular format.
-    """
 
-    try:
-        # WHO OData APIs usually store records under "value"
-        if isinstance(raw_data, dict) and "value" in raw_data:
-            data = raw_data["value"]
-        else:
-            data = raw_data
-
-        df = pd.DataFrame(data)
-        if not df.empty:
-            # Add metadata columns
-            df["source_system"] = "who_gho"
-            df["ingestion_timestamp"] = datetime.utcnow()
-            # Keep only required schema columns
-            df = df[
-                [
-                    "IndicatorCode",
-                    "IndicatorName",
-                    "Language",
-                    "source_system",
-                    "ingestion_timestamp"
-                ]
-            ].copy()
-
-        log_structured(logger,"info","Normalized WHO GHO data",
-            rows=len(df))
-
-        return df
-    except Exception as e:
-        log_structured(logger,"error","Failed to normalize WHO GHO data",
-            error=str(e))
-        return pd.DataFrame()
 
 
 # 6. SCHEMA VALIDATION
@@ -402,19 +355,39 @@ def process_single_api_source(source_config: Dict) -> bool:
             status="running"
         )
 
+    
         # 2. Build URL with special handling for World Bank
         if source_name == "world_bank":
-            country_code = source_config.get("countries", ["NG"])[0]  # take first country
             indicator = source_config.get("indicator")
-            url = (
-                f"{source_config['base_url']}/country/"
-                f"{country_code}/indicator/{indicator}"
-            )
-        else:
-            url = source_config["base_url"] + source_config.get("endpoint", "")
 
-        
-        raw_data = fetch_api_data(url, params=source_config.get("params", {}))
+            url = (f"{source_config['base_url']}/country/all/"
+                f"indicator/{indicator}")
+            params = {"format": "json","per_page": 20000}
+        else:
+            url = (source_config["base_url"]
+                + source_config.get("endpoint", ""))
+            params = source_config.get("params", {})
+
+        raw_data = fetch_api_data(
+            url,
+            params=params)
+
+        if source_name == "world_bank":
+           
+            if (
+                isinstance(raw_data, list)
+                and len(raw_data) > 1
+                and isinstance(raw_data[1], list)
+            ):
+                raw_data = raw_data[1]
+            else:
+                log_structured(logger,"error",
+                    "Unexpected World Bank API response format",
+                    source=source_name,
+                    raw_data_preview=str(raw_data)[:500])
+                update_pipeline_run(run_id=run_id, status="failed")
+                return False
+
         # 3. Save raw JSON for audit & reproducibility
         local_file = save_raw_api_response(raw_data, source_name)
 
@@ -431,8 +404,6 @@ def process_single_api_source(source_config: Dict) -> bool:
             df = normalize_world_bank_data(raw_data)
         elif source_name == "restcountries":
             df = normalize_restcountries_data(raw_data)
-        elif source_name == "who_gho":
-            df = normalize_who_gho_data(raw_data)
         else:
             df = pd.DataFrame()  # fallback
 
@@ -487,8 +458,7 @@ def process_single_api_source(source_config: Dict) -> bool:
                 run_id=run_id,
                 status="failed",
                 error_message=str(e),
-                duration_seconds=round(duration, 2)
-            )
+                duration_seconds=round(duration, 2))
         return False
     
 
@@ -519,8 +489,7 @@ def process_api_batch(sources: List[Dict]) -> int:
         logger,"info","API batch processing completed",
         total_sources=len(sources),
         successful=processed_count,
-        failed=failed_count
-    )
+        failed=failed_count)
     return processed_count
 
 # 9. MAIN PIPELINE RUNNER (Full Orchestrator)
@@ -539,8 +508,7 @@ def run_api_ingestion_pipeline() -> int:
             dag_id="api_ingestion",
             pipeline_name="api_ingestion",
             run_type="full",
-            status="running"
-        )
+            status="running")
 
         log_structured(logger,"info","Starting full API ingestion pipeline",run_id=run_id)
 
@@ -562,8 +530,7 @@ def run_api_ingestion_pipeline() -> int:
             run_id=run_id,
             status="success",
             rows_processed=processed_count,
-            duration_seconds=round(duration, 2)
-        )
+            duration_seconds=round(duration, 2))
 
         log_structured(logger,"info",
             "API ingestion pipeline completed successfully",

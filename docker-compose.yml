@@ -33,7 +33,9 @@ services:
   
   # Airflow Initialization
   airflow-init:
-    image: apache/airflow:2.10.0
+    build:
+      context: .
+      dockerfile: Dockerfile.airflow
     container_name: afrosurvey-airflow-init
     env_file:
     - .env
@@ -74,7 +76,9 @@ services:
 
   # Airflow Webserver
   airflow-webserver:
-    image: apache/airflow:2.10.0
+    build:
+      context: .
+      dockerfile: Dockerfile.airflow
     env_file:
     - .env
     container_name: afrosurvey-airflow-webserver
@@ -102,13 +106,16 @@ services:
       - ./utils:/opt/airflow/utils
       - ./config:/opt/airflow/config
       - ./data:/opt/airflow/data
-      - ./data_contracts:/opt/airflow/
-    command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow webserver"
-    
+      - ./data_contracts:/opt/airflow/data_contracts
+      - /var/run/docker.sock:/var/run/docker.sock
+    #command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow webserver"
+    command: airflow webserver
 
   # Airflow Scheduler
   airflow-scheduler:
-    image: apache/airflow:2.10.0
+    build:
+      context: .
+      dockerfile: Dockerfile.airflow
     container_name: afrosurvey-airflow-scheduler
     env_file:
     - .env
@@ -134,8 +141,63 @@ services:
       - ./config:/opt/airflow/config
       - ./data:/opt/airflow/data
       - ./data_contracts:/opt/airflow/data_contracts
-    command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow scheduler"
-  
+      - /var/run/docker.sock:/var/run/docker.sock
+    #command: bash -c "pip install pandas sqlalchemy psycopg2-binary minio requests pyyaml python-dotenv faker pyreadstat && airflow scheduler"
+    command: airflow scheduler
+
+  spark-submit:
+    image: apache/spark:3.5.1
+    container_name: afrosurvey-spark-submit
+    depends_on:
+      - spark
+      - minio
+    environment:
+      HOME: /tmp
+      PYTHONPATH: /opt/afrosurvey
+    volumes:
+      - ./spark_jobs:/opt/afrosurvey/spark_jobs
+      - ./utils:/opt/afrosurvey/utils
+      - ./config:/opt/afrosurvey/config
+      - ./data_contracts:/opt/afrosurvey/data_contracts
+      - ./.env:/opt/afrosurvey/.env
+    working_dir: /opt/afrosurvey
+    command: >
+      bash -c "pip install python-dotenv pyyaml &&
+      /opt/spark/bin/spark-submit
+      --master spark://spark:7077
+      --conf spark.jars.ivy=/tmp/.ivy2
+      --conf spark.executorEnv.PYTHONPATH=/opt/afrosurvey
+      --conf spark.driverEnv.PYTHONPATH=/opt/afrosurvey
+      --packages org.apache.hadoop:hadoop-aws:3.3.4,com.amazonaws:aws-java-sdk-bundle:1.12.262
+      /opt/afrosurvey/spark_jobs/bronze_to_silver.py"
+    profiles:
+      - spark-job
+
+
+  spark:
+    image: apache/spark:3.5.1
+    container_name: afrosurvey-spark
+    restart: unless-stopped
+    depends_on:
+      - minio
+      - postgres
+    ports:
+      - "7077:7077"
+      - "8081:8081"
+    volumes:
+      - ./spark_jobs:/opt/afrosurvey/spark_jobs
+      - ./utils:/opt/afrosurvey/utils
+      - ./config:/opt/afrosurvey/config
+      - ./data_contracts:/opt/afrosurvey/data_contracts
+      - ./.env:/opt/afrosurvey/.env
+    working_dir: /opt/afrosurvey
+    command: >
+      /opt/spark/bin/spark-class
+      org.apache.spark.deploy.master.Master
+      --host 0.0.0.0
+      --port 7077
+      --webui-port 8081
+
 # Persistent Volumes
 volumes:
   postgres_data:

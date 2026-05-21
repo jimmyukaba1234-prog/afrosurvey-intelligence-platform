@@ -99,7 +99,7 @@ airflow:
 # PySpark Processing Configuration
 spark:
   app_name: "AfroSurvey_Pipeline"
-  master: "local[*]"                # Change to spark://... in production
+  master: "spark://spark:7077"
   driver_memory: "4g"
   executor_memory: "4g"
   executor_cores: 4
@@ -133,8 +133,8 @@ data_quality:
 # Logging & Monitoring
 logging:
   level: "INFO"                     
-  format: "json"                    
-  file: "./logs/afrosurvey.log"
+  format: "json"          
+  file: "/tmp/afrosurvey.log"          
   console: true
 
 

@@ -1,0 +1,48 @@
+dataset: population_coverage_gold
+version: "1.0.0"
+description: "Survey population coverage analysis by country"
+
+primary_key:
+  - country
+  - year
+
+fields:
+  country:
+    type: string
+    required: true
+
+  country_code:
+    type: string
+    required: true
+
+  year:
+    type: integer
+    required: true
+
+  population:
+    type: long
+    required: false
+
+  total_responses:
+    type: long
+    required: true
+
+  responses_per_million:
+    type: double
+    required: false
+
+  coverage_band:
+    type: string
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

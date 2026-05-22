@@ -50,6 +50,26 @@ fields:
     type: string
     required: false
 
+  q1_democracy:
+    type: integer
+    required: false
+
+  q2_economy:
+    type: string
+    required: false
+
+  q3_trust_govt:
+    type: integer
+    required: false
+
+  q4_corruption:
+    type: string
+    required: false
+
+  q5_election_fairness:
+    type: integer
+    required: false
+
   completion_status:
     type: string
     required: true

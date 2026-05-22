@@ -1,0 +1,71 @@
+dataset: country_survey_kpis_gold
+version: "1.0.0"
+description: "Country-level survey KPIs enriched with country reference and population data"
+
+primary_key:
+  - country
+
+fields:
+  country:
+    type: string
+    required: true
+
+  country_code:
+    type: string
+    required: false
+
+  region:
+    type: string
+    required: false
+
+  subregion:
+    type: string
+    required: false
+
+  total_responses:
+    type: long
+    required: true
+
+  completed_responses:
+    type: long
+    required: true
+
+  incomplete_responses:
+    type: long
+    required: true
+
+  completion_rate:
+    type: double
+    required: true
+
+  valid_responses:
+    type: long
+    required: true
+
+  invalid_responses:
+    type: long
+    required: true
+
+  duplicate_responses:
+    type: long
+    required: true
+
+  country_population:
+    type: long
+    required: false
+
+  response_rate_per_million:
+    type: double
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

@@ -1,0 +1,48 @@
+dataset: democracy_perception_gold
+version: "1.0.0"
+description: "Democracy perception analysis based on survey response scores"
+
+fields:
+  country:
+    type: string
+    required: true
+
+  region:
+    type: string
+    required: false
+
+  total_responses:
+    type: long
+    required: true
+
+  average_democracy_score:
+    type: double
+    required: false
+
+  negative_perception_count:
+    type: long
+    required: true
+
+  neutral_perception_count:
+    type: long
+    required: true
+
+  positive_perception_count:
+    type: long
+    required: true
+
+  democracy_index:
+    type: double
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

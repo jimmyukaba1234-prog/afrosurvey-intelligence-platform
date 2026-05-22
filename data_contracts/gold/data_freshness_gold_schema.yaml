@@ -1,0 +1,32 @@
+dataset: data_freshness_gold
+version: "1.0.0"
+description: "Dataset freshness monitoring metrics"
+
+fields:
+  dataset_name:
+    type: string
+    required: true
+
+  last_ingestion_timestamp:
+    type: timestamp
+    required: true
+
+  last_update_timestamp:
+    type: timestamp
+    required: true
+
+  freshness_hours:
+    type: double
+    required: true
+
+  freshness_status:
+    type: string
+    required: true
+
+  expected_refresh_frequency:
+    type: string
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true

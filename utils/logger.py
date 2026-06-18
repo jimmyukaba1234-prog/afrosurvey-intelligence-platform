@@ -48,7 +48,7 @@ class JsonFormatter(logging.Formatter):
             "function": record.funcName,
             "line": record.lineno,
         }
-
+        
         # Add only whitelisted custom fields
         for key in CUSTOM_FIELDS:
             if hasattr(record, key):
@@ -56,13 +56,9 @@ class JsonFormatter(logging.Formatter):
 
         return json.dumps(log_record, ensure_ascii=False)
 
-
 def get_logger(name: str = "afrosurvey") -> logging.Logger:
     """Return a properly configured structured logger"""
-    
     logger = logging.getLogger(name)
-
-    # Prevent duplicate handlers
     if logger.hasHandlers():
         return logger
 
@@ -104,7 +100,7 @@ def log_structured(logger: logging.Logger, level: str, message: str, **kwargs):
 
 # Quick test when running the file directly
 if __name__ == "__main__":
-    logger = get_logger(__name__)   # Recommended pattern for future modules
+    logger = get_logger(__name__)   
 
     log_structured(logger,"info","Pipeline started",pipeline="ingestion",country="Nigeria",run_id="run_001")
     log_structured(logger,"info","Records processed",rows_processed=45230,duration_seconds=12.7,status="success")

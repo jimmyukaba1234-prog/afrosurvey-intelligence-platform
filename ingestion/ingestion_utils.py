@@ -318,10 +318,7 @@ def log_ingestion_event(
         duration_seconds=duration_seconds,
         run_id=run_id,
         error_message=error_message,
-        **extra
-    )
-
-
+        **extra)
 
 def insert_pipeline_run(
     dag_id: str,

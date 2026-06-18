@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+745c4f38-b90d-4f9b-b487-d3b1f98a5ea5,4a9313ba-850e-4e3a-9d30-58481dc06c56,survey_990,Eswatini,South Andrewbury,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:45:12,field_tool,2,Very Good,3,Low,2
+1b9b95e0-010e-435e-8ee3-70a1aa82a771,17f6a4cf-224a-4577-879a-67ac9c68253f,survey_831,Eswatini,Shawnberg,Male,38.0,Primary,Unemployed,completed,2026-05-14T10:41:44,field_tool,5,Very Good,2,High,4
+da24acac-ee22-4bae-92bb-0a1077419569,bb2bc475-a525-46d1-b1d8-57b8316ce558,survey_482,Eswatini,Lake Brian,Male,44.0,Secondary,Self-employed,completed,2026-05-14T10:44:30,field_tool,1,Bad,4,High,5
+d2d554f1-8379-4e4c-a60e-c10561eb88f7,51106091-450c-4687-b402-4e90b2df1a53,survey_933,Eswatini,Lake Sandrafort,Female,22.0,Secondary,Employed,completed,2026-05-14T10:43:04,field_tool,2,Good,1,Low,2
+87560683-c298-4847-b79b-0883e82c21f9,03021844-71fd-453b-bad7-0c04c414777b,survey_280,Eswatini,Gonzalezbury,Female,19.0,Primary,Unemployed,completed,2026-05-14T10:45:23,field_tool,4,Good,2,Medium,5
+1999cde4-ce75-4f88-a71c-ff91cd0ee2be,c8a8a522-dce6-43a6-9944-8ec923fffc04,survey_541,Eswatini,Gonzalezville,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:40:14,field_tool,3,Bad,3,High,3
+a8324016-ea9c-46ae-989e-579b63fe56e4,cb34dc5e-e21e-419b-a368-d3c1fd0a5f40,survey_181,Eswatini,North Lorraine,Female,61.0,Primary,Unemployed,completed,2026-05-14T10:40:05,field_tool,1,Neutral,5,Medium,5
+6d3979fc-9217-4da6-b6bd-d09ab59da363,ad071055-b854-4254-a35b-8688e42ef1b2,survey_662,Eswatini,Wesleyview,Female,71.0,Tertiary,Self-employed,completed,2026-05-14T10:40:44,field_tool,4,Good,3,Low,5
+a6835e5c-7934-4125-9399-88cce02b8a5a,c5f2b7ac-40cc-42e8-912d-e8e263403148,survey_291,Eswatini,East Victoria,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:41:28,field_tool,1,Good,3,High,5
+cb8f1699-ad96-425d-afdd-4c08e1f672da,acfa5a70-738c-410c-995f-9ea06c4086e2,survey_201,Eswatini,Johnsonhaven,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:41:05,field_tool,2,Bad,2,Low,2
+ab235855-a6e0-47a6-b09b-69230de8f5e0,8a4e4e3f-b0fb-443c-ba31-346bf041d961,survey_893,Eswatini,Jimenezland,Female,35.0,Secondary,Employed,completed,2026-05-14T10:45:37,field_tool,2,Neutral,5,Low,3
+76bef69b-3e8e-448b-b682-24a9940f9465,da10f64f-023b-4fcb-a195-b4ec34f3d38d,survey_610,Eswatini,Danielleview,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:44:50,field_tool,3,Bad,3,Medium,4
+351f3672-96f1-480b-9b08-fedb39c38c72,6f535f89-e401-4e0f-8939-ef9bead7bec5,survey_836,Eswatini,North Anna,Male,58.0,Secondary,Self-employed,completed,2026-05-14T10:42:49,field_tool,4,Neutral,5,High,3
+56643dd3-b268-4906-bba6-8b4664439ddc,9179703b-47a9-4b30-ab57-abeceacf6180,survey_742,Eswatini,North Michelleberg,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:41:53,field_tool,1,Bad,5,Low,4
+35c9f152-43c3-4dd4-ab02-1b21cf17b67b,ddfe9121-c37b-4471-9e9d-870c9f23403a,survey_269,Eswatini,New Sarahstad,Female,29.0,Tertiary,Self-employed,completed,2026-05-14T10:40:05,field_tool,2,Bad,4,Low,3
+6e2252e7-446e-457d-a18a-2f6bd2002ddc,e3d6f86e-f818-4871-a730-8128d32ab0f6,survey_464,Eswatini,North Danielmouth,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:42:09,field_tool,5,Very Good,1,High,3
+7b0e4e9b-6272-478b-8511-479f8bcbef89,5850a652-79a6-470c-9c16-e6a26439a29b,survey_580,Eswatini,New Natalieborough,Male,,Tertiary,Self-employed,completed,2026-05-14T10:44:08,field_tool,5,Bad,3,Low,3
+ea8b18ac-fd06-405b-9a9b-72f103a90d4c,a39069f4-93bb-42ab-8273-400cbbd6ef33,survey_458,Eswatini,West Jonathanland,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:40:11,field_tool,2,Neutral,3,High,3
+3a3db4ba-723b-4171-ac3f-98914fbfcefa,3df31349-459d-4fb5-8fba-42444827075f,survey_127,Eswatini,West Richardhaven,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:42:34,field_tool,4,Neutral,1,Low,2
+e88b613b-1247-449c-bad1-e613460ecb76,d5694a38-36ac-4970-afe6-052b136ac2c8,survey_560,Eswatini,Jamesville,Female,36.0,Tertiary,Self-employed,completed,2026-05-14T10:42:00,field_tool,3,Good,5,High,4
+5b5619f7-6089-47bc-b8f0-de443488fe8c,7a311b7e-379d-4349-a54e-507383da6bc6,survey_259,Eswatini,Stephenstad,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:43:58,field_tool,1,Bad,1,High,4
+09a67a09-dbcc-4321-8b01-e3e1a618fbf3,9fdcf6ea-0ac4-407c-b274-29910cc8c807,survey_623,Eswatini,North Sandrahaven,Female,24.0,Primary,Unemployed,completed,2026-05-14T10:42:22,field_tool,3,Good,4,Low,5
+683b11ae-7069-4a46-9297-08435d24cb0a,1c284b82-7287-48d1-8826-284661a59adc,survey_153,Eswatini,Randallmouth,Male,58.0,Secondary,Employed,completed,2026-05-14T10:44:21,field_tool,3,Bad,4,High,5
+31225467-d7ee-4b8b-844b-27e998ebcbeb,f649ff09-1759-41ea-893d-4e374323bc6a,survey_233,Eswatini,East Pamelaville,FEMALE,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:07,field_tool,2,Neutral,4,Medium,2
+8ed25ede-2900-42e7-ab25-10a58ed517f1,b1a4675d-86f1-46d9-9b37-16cfe5bfca33,survey_307,Eswatini,South Jacqueline,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:43:23,field_tool,3,Very Good,2,High,4
+6f6c1b86-955e-4512-aa07-289a4b17bcaa,8415c038-5da5-4675-9b50-e4d617e9a413,survey_625,Eswatini,Colemanhaven,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:43:16,field_tool,2,Very Good,5,Low,4
+1c62cc8d-e55e-49b0-b05c-b5c161a22fd5,923fd0d7-9199-4d5f-95ce-d8491ce1f3af,survey_767,Eswatini,Serranofurt,Female,28.0,Primary,Self-employed,completed,2026-05-14T10:43:24,field_tool,5,Very Good,2,Medium,5
+0f7376cd-fc2b-413a-8991-ed6ac9d3f19b,b67a8172-bc60-4788-9442-ae6b5b330f17,survey_374,Eswatini,Lake James,Male,37.0,Primary,Self-employed,completed,2026-05-14T10:43:11,field_tool,5,Neutral,5,Medium,4
+2aa10d4c-8717-4865-9cbc-a63e01bfdfcb,0aabd482-deaa-4d09-b9fb-464e10cff03f,survey_860,Eswatini,Michellemouth,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:44:14,field_tool,1,Very Good,3,High,3
+3d73320a-2527-484d-98bb-67ddc72a8ef0,416dea26-3089-4e76-9ffb-04563516d066,survey_920,Eswatini,Dawnland,Female,36.0,Tertiary,Self-employed,completed,2026-05-14T10:44:41,field_tool,4,Bad,3,Low,3
+21658d8e-8790-4aaa-9f6c-75615c27b4c9,709240bc-53c0-4a59-ac07-03795907f268,survey_763,Eswatini,New Mike,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:42:46,field_tool,2,Bad,2,Low,3
+e0ef4f59-cc9b-4285-a608-c7c713064565,3f59dfa0-fcc5-44be-bd4a-5466f3acca68,survey_731,Eswatini,West Erik,Female,42.0,Secondary,Self-employed,completed,2026-05-14T10:43:04,field_tool,1,Very Good,4,Medium,1
+881ee433-628e-45dd-825f-cab95c734189,77d70311-1821-4551-a45b-d570a8d23fe2,survey_904,Eswatini,Rogerston,Male,19.0,Primary,Employed,completed,2026-05-14T10:40:14,field_tool,4,Very Good,3,Low,5
+86f2a6a2-49a5-4bbb-a1a5-77738bfee055,d07b7724-8a17-400a-948b-525aae6af388,survey_873,Eswatini,Sarahchester,Female,70.0,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,1,Good,1,Low,2
+256b2cb2-faf9-4821-bb19-9b5750381a81,3540a26d-de77-4d4f-9ad1-0cac7c20ecf5,survey_995,Eswatini,Port Nancyborough,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:39:43,field_tool,2,Bad,5,Low,1
+eef4df89-99ef-4fb7-b6e0-59443367140b,5749f77e-83f3-4616-89e7-cab326d0e3c4,survey_492,Eswatini,East Rachel,Female,74.0,Tertiary,Employed,completed,2026-05-14T10:43:36,field_tool,2,Very Good,5,Low,2
+1fc159e2-12e3-4734-b964-996fdd1629e7,625e1ea8-c102-4a6e-ba9f-143b2dc3d6a2,survey_893,Eswatini,Watkinsbury,Female,71.0,Primary,Employed,completed,2026-05-14T10:41:50,field_tool,4,Very Good,3,High,1
+362b8802-5595-49a9-ac79-a3226994d224,5ef83d15-a352-4701-91d3-6d4051105a80,survey_366,Eswatini,East Luishaven,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:42:49,field_tool,4,Neutral,1,Medium,3
+26c24463-8b40-4079-86da-8ebed9701487,1b434750-6d2d-4441-8cc1-47aff181dd0c,survey_981,Eswatini,North Linda,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:43:39,field_tool,3,Good,1,Low,5
+cf9b3a47-f03f-4edc-b5e0-77f8bcbdfab3,ea4ee2dd-f0fe-4354-b0c0-e64ad1748912,survey_688,Eswatini,New Sabrinafort,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:40:44,field_tool,2,Good,2,Low,3
+af081ee1-6907-42c9-b804-478beca9bee8,020a80ac-d7a5-414a-b8d8-f1abe2d0f788,survey_885,Eswatini,Cannonbury,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:44:24,field_tool,1,Good,4,High,4
+4ed90d22-8f3c-4782-b715-b5d52f7085d0,2abb1647-d838-4f30-b70b-da21dd728d56,survey_428,Eswatini,Leonfort,Female,,Tertiary,Employed,completed,2026-05-14T10:43:33,field_tool,5,Neutral,3,High,1
+24863fd9-cb43-4999-a69c-77247dc47373,c1737ba6-f33b-4c4e-bf34-8ab6eb7b8ad8,survey_544,Eswatini,North Natashahaven,Male,23.0,Secondary,Employed,completed,2026-05-14T10:42:09,field_tool,1,Very Good,3,Low,1
+21d52487-12b2-4814-b371-dcaaf40a3c87,b17bb800-20d6-497c-91ac-914923e4b52d,survey_539,Eswatini,Delgadofurt,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:41:21,field_tool,4,Very Good,4,Low,4
+2a170eae-1fea-4ad2-ad1f-846105f3767f,0fbd0e7f-9a40-413b-87bd-55950047dfb9,survey_833,Eswatini,South Rebeccaberg,Male,64.0,Secondary,Employed,completed,2026-05-14T10:40:17,field_tool,3,Bad,1,High,2
+24204a9c-7caf-4059-ab9d-8bff5683745e,b7614545-243d-4405-93c8-a4d60c4d0073,survey_811,Eswatini,Donaldport,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:45:25,field_tool,3,Very Good,4,Medium,4
+488f9650-dae6-4a1a-b3c3-b8bf700fef72,e3715388-3773-4335-bd25-eadb4a4ef6c1,survey_591,Eswatini,West Joannefort,Male,55.0,Secondary,Employed,completed,2026-05-14T10:45:34,field_tool,1,Good,1,Medium,5
+58a0a570-0210-4860-b43e-d23fa7c2939d,783b0d47-fc46-41b7-b270-e707a986ee52,survey_843,Eswatini,Port Christinechester,Female,68.0,Primary,Employed,completed,2026-05-14T10:40:41,field_tool,2,Bad,5,Medium,4
+8830aa2c-b736-460f-b6e7-2ec1a733d1c0,a1827433-9522-4da1-9462-39dead87f3d7,survey_123,Eswatini,Rodriguezstad,Male,62.0,Secondary,Employed,completed,2026-05-14T10:44:52,field_tool,4,Good,2,Medium,2
+839f165e-7b80-4b7d-a46a-a4c3532aacf0,661532bb-c599-49ca-9990-e2436f3b8e35,survey_403,Eswatini,Carrillochester,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:42:11,field_tool,5,Bad,4,Low,5
+9e7efc74-6782-42c4-a80f-bbf714ecccd7,b932ab84-9c01-4345-9b75-1b4f0a6ac930,survey_692,Eswatini,Warrenbury,Male,71.0,Primary,Employed,completed,2026-05-14T10:41:19,field_tool,5,Very Good,1,Medium,1
+287148b0-3cf4-49de-8454-0991b6096f8f,041dac52-4419-42d6-876b-25ad499e52b5,survey_507,Eswatini,New Jenniferberg,Female,71.0,Primary,Unemployed,completed,2026-05-14T10:41:02,field_tool,5,Bad,2,Medium,4
+e0ec317c-48c8-4dc4-94e5-e6a072074d2a,48139734-d6f1-4b12-92f9-8849efa8c7a7,survey_222,Eswatini,Lake Noah,Male,21.0,Secondary,Self-employed,completed,2026-05-14T10:42:46,field_tool,5,Very Good,4,Low,4
+80d9487d-1747-483a-bec8-73946c3f89c4,9fc7d5e4-757a-4380-87c3-cb29323f2ffd,survey_522,Eswatini,Lake Ian,Male,54.0,Secondary,Employed,completed,2026-05-14T10:40:25,field_tool,5,Very Good,1,Low,4
+5859d58d-dfd7-46d4-a6bd-fd12c361e4cc,4224b70e-c29f-46c7-9370-b983945730a5,survey_252,Eswatini,New Jade,Female,70.0,Primary,Self-employed,completed,2026-05-14T10:43:34,field_tool,5,Neutral,1,Low,4
+6d2c383d-582e-40eb-b7f0-bb4ef7e23d78,48d5e760-b17a-4315-9ca1-eca40570b7f6,survey_652,Eswatini,Powerschester,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:40:05,field_tool,2,Good,2,Medium,3
+53eb901e-4738-4850-9b0e-31561a6f6d79,7e2ae0da-55a6-43ef-9d30-42eec323aba4,survey_803,Eswatini,North Rebeccamouth,Female,65.0,Secondary,Employed,completed,2026-05-14T10:39:59,field_tool,4,Good,5,High,2
+db3d9894-14b1-4384-8127-3c772b982772,0b3a2953-189f-4e7e-b3bc-c2dabec6d834,survey_550,Eswatini,South Jeanneberg,Male,20.0,Primary,Unemployed,completed,2026-05-14T10:43:14,field_tool,3,Very Good,3,Low,3
+8bdac16b-fa2c-4b2d-91e0-8d3e50242993,085ecfbc-8100-4c08-87dd-ebf30248256f,survey_921,Eswatini,South Michael,Male,30.0,Primary,Unemployed,completed,2026-05-14T10:44:32,field_tool,4,Neutral,1,High,3
+e93b7faa-a080-4021-a955-4f28d729a47a,42fbc4a0-ab5f-49c9-b57c-c20cb7bfa181,survey_167,Eswatini,Browningmouth,Female,64.0,Secondary,Employed,completed,2026-05-14T10:44:24,field_tool,5,Neutral,5,High,3
+a174ae36-5648-456e-8a1b-f3c4c34b2556,387cfb13-340b-4fcb-9a98-948deb23b938,survey_952,Eswatini,Keithhaven,Female,56.0,Primary,Self-employed,completed,2026-05-14T10:41:25,field_tool,2,Very Good,1,Medium,3
+d981ce9c-3f3b-4505-bfae-e1638b090060,16d9aa91-e4f9-4c65-bdf3-7d455bb0273f,survey_779,Eswatini,North Justin,Male,60.0,Primary,Self-employed,completed,2026-05-14T10:43:06,field_tool,1,Good,5,Medium,2
+12949e32-783d-4d9b-be20-3ff8c0e2aae6,d175b167-175e-42b5-91f4-53b678d493ab,survey_220,Eswatini,Patrickhaven,Female,23.0,Tertiary,Self-employed,completed,2026-05-14T10:43:11,field_tool,1,Good,1,Low,1
+debdcd2b-680b-48a5-8634-3e9f65496437,da626326-6328-4f93-a231-a9d9fc25c2dc,survey_126,Eswatini,Erikabury,Male,55.0,Secondary,Unemployed,completed,2026-05-14T10:40:59,field_tool,5,Bad,3,Medium,3
+43effc15-3b0b-4d83-9432-5cf4b7df76fa,17745bc2-3529-4231-a068-9f1905dfc5bb,survey_798,Eswatini,Schwartzchester,Female,21.0,Tertiary,Employed,completed,2026-05-14T10:43:16,field_tool,3,Bad,5,High,5
+b36c67f0-6408-44fa-a779-68fd198454b1,84b8fcb2-c757-45ba-a570-d1045d67ef18,survey_195,Eswatini,West Philip,Female,49.0,Tertiary,Self-employed,completed,2026-05-14T10:42:30,field_tool,1,Neutral,4,Low,5
+88aff413-c5be-49d9-81d1-87e9cda4aa49,979d5820-e393-4344-9bba-4c4f438cf5de,survey_536,Eswatini,Lake Tyler,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:40:45,field_tool,4,Bad,3,Medium,1
+1f4bd744-39e9-4abf-8d72-be632423224e,cf937908-0a15-479a-80ab-4b074a43e10c,survey_498,Eswatini,Lake Nicoleberg,Female,45.0,Primary,Employed,completed,2026-05-14T10:39:50,field_tool,4,Very Good,2,Low,3
+643aa496-31bf-450f-97d5-fd2b0983d58c,0cb484d4-aa00-4ba5-a420-a2868bcd7eb4,survey_580,Eswatini,West Elizabethfurt,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:39:48,field_tool,1,Good,5,Low,3
+a0b83706-75dc-4b01-8778-068791e366b0,062a9d31-96d7-4a01-9605-2cda51d33ded,survey_596,Eswatini,Joshuaberg,FEMALE,61.0,Tertiary,Self-employed,completed,2026-05-14T10:43:53,field_tool,5,Good,4,High,3
+ed1ed8c4-cf85-4d7a-864c-8dadc6276b18,f450d66c-6690-417c-9d52-9926e09e0c95,survey_474,Eswatini,Lake Brian,Male,21.0,Primary,Self-employed,completed,2026-05-14T10:45:10,field_tool,5,Very Good,1,Medium,3
+d86ed496-fd63-47c7-b72b-a0bfbe9daaf0,fd04a25c-32b9-4acd-b9b9-c6d4b231e7d7,survey_725,Eswatini,West Rachel,Female,27.0,Secondary,Self-employed,completed,2026-05-14T10:45:15,field_tool,4,Very Good,3,Low,1
+0c3a8222-2c0d-46a5-9aa7-1411700d8dc6,99286625-61a2-4caa-b791-ed72e8d9fd15,survey_618,Eswatini,Port Alexander,Female,71.0,Primary,Employed,completed,2026-05-14T10:40:09,field_tool,3,Bad,5,Low,1
+5f5a77a1-832e-450f-a80a-c042144e7ca8,96de8576-09a7-45f9-b8ee-05310e8eaab3,survey_929,Eswatini,New Lorishire,Male,,Secondary,Employed,completed,2026-05-14T10:41:40,field_tool,2,Good,5,High,2
+27be67f8-3256-4508-8c5a-9b507f014024,8562f3ab-7180-4487-8d94-508a10e32e3b,survey_584,Eswatini,Lake Adamport,Female,49.0,Primary,Self-employed,completed,2026-05-14T10:44:12,field_tool,3,Good,2,Medium,5
+e5bff8f8-2f9b-44da-8f68-777d5cdb8587,86d79a32-2c69-4a1d-8b7b-9c01f798e193,survey_859,Eswatini,West Holly,Male,60.0,Secondary,Unemployed,completed,2026-05-14T10:42:02,field_tool,2,Good,3,Low,2
+4b3378e4-b1db-48d7-82aa-790d629735d3,e17adfd9-8b33-494c-95c9-4df7108109b5,survey_420,Eswatini,New Felicia,MALE,58.0,Tertiary,Unemployed,completed,2026-05-14T10:44:58,field_tool,4,Very Good,5,Medium,1
+2cec9e73-4a3a-45d2-80b4-dd955f722954,ec6808bc-0ca3-4141-bae8-d359bd561a8e,survey_658,Eswatini,Jasminmouth,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:43:13,field_tool,2,Neutral,2,Medium,3
+5cfb67aa-4b82-40a0-a9c0-08a7f84fcbc9,c5335386-3e10-457c-96a9-46ed6cb8fa64,survey_348,Eswatini,Longside,Male,31.0,Primary,Unemployed,completed,2026-05-14T10:45:09,field_tool,3,Neutral,3,High,2
+da1dab87-1e3f-4ef8-98b5-4eabc8a4cdb6,cf8eeaf3-c9f3-4c9d-8308-450e0654df2a,survey_198,Eswatini,East Tracichester,Male,34.0,Tertiary,Employed,completed,2026-05-14T10:44:06,field_tool,5,Good,4,Low,4
+83dc5299-930a-4696-ba6a-82c1401d3abd,fbf0bc30-da61-43ed-994a-4f2e11187b88,survey_602,Eswatini,Kimberlyview,Female,28.0,Primary,Employed,completed,2026-05-14T10:43:34,field_tool,3,Bad,1,Medium,3
+9910f50a-358d-4c16-8964-4c61f6c232fe,58f49e90-df2f-438b-80f5-7d76d8c828ac,survey_412,Eswatini,North Victoria,Female,64.0,Tertiary,Employed,completed,2026-05-14T10:40:25,field_tool,5,Good,1,Medium,5
+d1c91248-c4c4-4ed1-aea9-776eb596637a,ae4e31cf-594e-4567-babf-14cd094d4ebd,survey_455,Eswatini,Lake Kimberly,Male,29.0,Tertiary,Unemployed,completed,2026-05-14T10:41:45,field_tool,2,Neutral,4,High,4
+fc74424a-5e0a-4f83-91a4-27406d2b7d30,6ec22d01-9ce5-4da9-9cad-357e022456cb,survey_574,Eswatini,Spearsmouth,Male,41.0,Tertiary,Employed,completed,2026-05-14T10:44:56,field_tool,4,Bad,5,High,3
+a4a1af9b-3b81-4bfa-9aa2-faf316e13894,23b6ce8c-fa8e-4dec-8a4b-970c80fb89ee,survey_528,Eswatini,New Brendaville,Female,70.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,1,Very Good,4,Medium,1
+ff1bd8d4-e097-42ca-a83f-8b1ed5cde005,9b3d4cfa-6c14-413e-aad1-f17923d2819c,survey_751,Eswatini,South Yolanda,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:42:42,field_tool,1,Neutral,3,High,3
+8a9ffaa3-6f45-48b1-b83f-cdf2ba3443d5,ba7d3996-c1e9-4e0e-875e-3b87a5cba86d,survey_971,Eswatini,South Lisachester,Female,39.0,Tertiary,Self-employed,completed,2026-05-14T10:43:45,field_tool,5,Very Good,2,Low,4
+2ca3ba9b-b346-4310-995d-ab86a32da2bc,82538874-1929-452f-9de4-e5a0b0a9065c,survey_701,Eswatini,Mendozaberg,Male,46.0,Tertiary,Unemployed,completed,2026-05-14T10:45:16,field_tool,1,Bad,3,High,5
+81132cf1-02b7-43a1-9d9b-a81eb61a482c,f54bfabb-cf7c-4ca0-8aed-ea8a87e0913b,survey_177,Eswatini,South Sara,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:43:21,field_tool,2,Neutral,5,Medium,3
+15104f03-24fa-42bb-871d-24a168cca761,aa306b9d-e7f3-472a-86a5-9dc38b748936,survey_877,Eswatini,Angelfurt,Female,41.0,Tertiary,Unemployed,completed,2026-05-14T10:45:07,field_tool,4,Good,3,Medium,1
+0d96622a-9cd3-4802-86d4-9350a644d925,66c9e45f-eca0-41c6-b5bb-5dd72955c593,survey_273,Eswatini,New Erik,Male,42.0,Primary,Employed,completed,2026-05-14T10:43:17,field_tool,5,Neutral,3,Medium,3
+b9b04a65-1ce8-44a7-8d89-cb6afd0c3afd,83c4e6f4-71a0-4d6c-af5a-eff36ea84a38,survey_803,Eswatini,New Hollyborough,Female,26.0,Tertiary,Unemployed,completed,2026-05-14T10:43:29,field_tool,1,Neutral,5,High,4
+26ccb4cd-bc23-48d6-bba8-edd665f4c969,f31923cb-15eb-49a8-a5a7-2b5fa4c1bf91,survey_145,Eswatini,Mayomouth,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:41:06,field_tool,5,Neutral,5,Low,3
+c0d21619-9085-4f43-b500-7b75df1fc246,a40d080d-eab1-40a9-8ce0-42982ff05b76,survey_641,Eswatini,South Kellyshire,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:41:43,field_tool,2,Neutral,1,Medium,2
+6dc03d3f-90af-417d-a6e5-7bfb782a69fd,8913f2f0-90cb-4309-9167-dd70cef4d789,survey_596,Eswatini,East Marcusfort,Female,,Tertiary,Unemployed,completed,2026-05-14T10:43:45,field_tool,4,Bad,1,High,4
+2afb6737-2583-4af9-b3ba-be705d3cf1b2,529d8531-6f0f-408b-a6fc-bc1d77009e43,survey_441,Eswatini,Jamestown,Male,41.0,Tertiary,Self-employed,completed,2026-05-14T10:44:21,field_tool,4,Neutral,3,Low,1
+ae5f58c0-431d-4ab0-b2a0-118298fe38dd,8e9a6a6a-e981-4d2e-b01e-35cbd6aecadf,survey_426,Eswatini,Susanside,Female,22.0,Primary,Self-employed,completed,2026-05-14T10:39:52,field_tool,5,Bad,5,Low,5
+146deacc-126a-40d5-8aa2-aec1bc7808b2,128b6ad3-ec9d-4658-8781-eccd512caa25,survey_103,Eswatini,Davidmouth,Female,51.0,Secondary,Employed,completed,2026-05-14T10:40:35,field_tool,3,Neutral,2,Low,4
+29adee9f-c2b1-49cf-aea9-199cb25f6f63,6335450d-c7dc-424e-b27d-4e92e4564927,survey_619,Eswatini,Timothyshire,Male,44.0,Tertiary,Unemployed,completed,2026-05-14T10:41:16,field_tool,5,Good,3,Medium,2
+75bb233b-f986-47b1-8996-46ae0f5933cb,d2add2a6-f411-49d1-91e9-9ec492581fd6,survey_277,Eswatini,New Susan,Female,25.0,Secondary,Self-employed,completed,2026-05-14T10:42:40,field_tool,4,Very Good,4,High,5
+5f36d8df-ca3f-482e-9f88-d06ba34b5916,cd2aac5b-59d5-41bd-a57f-d330de0e1824,survey_177,Eswatini,New Amandaland,Male,22.0,Tertiary,Self-employed,completed,2026-05-14T10:45:11,field_tool,1,Good,2,Low,3
+6c098574-684f-4c23-9c6b-ba1705bb1df5,4ef153c8-fa1c-4272-976d-6de71d38fbc5,survey_683,Eswatini,Williamsstad,Male,55.0,Secondary,Unemployed,completed,2026-05-14T10:40:02,field_tool,4,Good,2,High,5
+059622cc-24b3-4940-9325-c290c9fc2d7d,2f02bf5d-9a7c-42c0-b7e9-0497011deb99,survey_638,Eswatini,Josephburgh,Male,20.0,Tertiary,Unemployed,completed,2026-05-14T10:44:07,field_tool,3,Very Good,2,Low,1
+b81f8112-c85d-4bac-9ad2-6bb7cba5718f,d5d44c34-8fa9-4ec3-b27c-1301f2a930fe,survey_465,Eswatini,Baileymouth,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:40:05,field_tool,4,Good,4,High,2
+05147500-f278-43e9-8a0d-cae80a71a7aa,0443d9a8-a47e-476e-bba0-49a6a05fa3ef,survey_173,Eswatini,New James,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:40:43,field_tool,1,Very Good,1,Medium,2
+096582c0-77d4-4d45-97b1-41e9ba4bd2be,26618449-e08f-4d7b-bb28-7a6d1a07657b,survey_638,Eswatini,Cynthialand,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:45:09,field_tool,1,Bad,5,Medium,5
+b9e56d9c-2d75-4982-8965-25df11fcd72b,a024f779-d5ea-4e9a-a434-6e3181d645b4,survey_219,Eswatini,South Joshuashire,Male,31.0,Secondary,Unemployed,completed,2026-05-14T10:39:51,field_tool,2,Very Good,2,Medium,1
+e74525bf-19c2-401e-9659-76ca9811c6c4,99c93a43-a4a4-48f5-a95c-7f2566c8b707,survey_199,Eswatini,Edwardburgh,Male,,Primary,Employed,completed,2026-05-14T10:41:02,field_tool,1,Very Good,5,Low,2
+e206a88d-d808-4bbb-a049-d60f3707c6d1,68778ecb-3064-4094-99d9-f6103a20bb07,survey_273,Eswatini,Port David,Female,43.0,Primary,Employed,completed,2026-05-14T10:44:27,field_tool,5,Bad,1,High,4
+7ef657ac-110b-400f-b182-92cab143bcc7,e2ed7013-2b0b-427a-a26a-c6c904036d53,survey_673,Eswatini,North Kimberlyfort,Male,72.0,Primary,Self-employed,completed,2026-05-14T10:45:07,field_tool,3,Bad,1,Medium,4
+c61f5a85-3a29-4040-ab04-ac79f9fdea7f,22d78c4f-f0bf-4023-8512-765632109614,survey_512,Eswatini,Kristenfurt,Female,63.0,Primary,Unemployed,completed,2026-05-14T10:45:13,field_tool,4,Neutral,4,High,1
+420f431e-a902-47d8-8f54-02bb39d185dd,4272adf3-238e-4ae4-ac68-d3d8b5e8f105,survey_664,Eswatini,Coxfort,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,2,Good,2,High,2
+59d559d5-987d-43c1-8c71-d7b8f3ef4d82,b28158f0-065e-44e1-be80-1c8449ccbdfb,survey_531,Eswatini,Troyland,Female,43.0,Primary,Unemployed,completed,2026-05-14T10:45:08,field_tool,1,Bad,3,Low,3
+c3e4b338-2e38-4e15-bdfd-3150c1daea3a,641a6d82-4e19-4e19-86ef-5599c33c62ee,survey_999,Eswatini,Rachelfort,Female,49.0,Secondary,Self-employed,completed,2026-05-14T10:41:50,field_tool,1,Good,1,High,2
+b9868c26-5190-4655-bd07-07b47c56e7d5,8af1ac83-6163-4267-b869-95ca0cb91e87,survey_156,Eswatini,Mccormickstad,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:45:10,field_tool,3,Bad,4,Medium,1
+96ebfaaa-0c8a-4650-95b7-252d67444b7e,5f67ce49-f093-44cb-80ce-922c4dce488d,survey_524,Eswatini,West Mark,Male,58.0,Secondary,Employed,completed,2026-05-14T10:40:13,field_tool,2,Bad,2,Medium,2
+aba63e83-e6d8-4572-b702-dc1944a64df1,6ddbf278-a7c2-4086-a17d-3cd947db2124,survey_203,Eswatini,Gomezhaven,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:41:21,field_tool,5,Bad,1,High,5
+f4358f62-fbbc-4641-b110-2a6d97905a15,4485e362-df61-466a-bf5e-abf2aa8fd309,survey_599,Eswatini,Port Kenneth,Female,27.0,Secondary,Employed,completed,2026-05-14T10:41:37,field_tool,1,Good,4,Low,2
+1a5f6d48-9ff8-4599-a487-cffe1b48658f,5a6997ad-ed44-4b9d-b095-562ea94e4372,survey_330,Eswatini,Sotochester,MALE,41.0,Tertiary,Unemployed,completed,2026-05-14T10:43:53,field_tool,3,Good,5,Low,3
+4eb00701-e0dc-414b-95ce-49c1524f11a5,64425305-fa87-4b09-af26-324b3740eaf1,survey_160,Eswatini,Zacharybury,Female,36.0,Primary,Self-employed,completed,2026-05-14T10:40:58,field_tool,1,Bad,2,High,2
+3bbee6c5-4299-4b99-833e-f388b6105f55,cfb82cef-a9ba-4163-9c55-4e9c07801bde,survey_634,Eswatini,Kennedyhaven,Male,40.0,Tertiary,Self-employed,completed,2026-05-14T10:43:41,field_tool,1,Very Good,1,Low,1
+e7ef8b6c-3b68-4d7a-b93c-dc0ef9d255bd,e6adf948-8205-4ed3-ac9f-b045012bdad5,survey_451,Eswatini,Johnchester,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:44:52,field_tool,5,Neutral,4,Medium,4
+52e30a69-a225-4c2c-ace4-bba37cf3578e,d44141d4-a829-42ae-b7eb-e27f8f940a73,survey_500,Eswatini,Kevinchester,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:44:45,field_tool,2,Good,2,Low,5
+7eafe593-d619-4cf7-96db-15d8506298f0,891b3e6a-ddd4-4b03-9653-d1b3b0c52fa8,survey_991,Eswatini,West Andrewport,Female,52.0,Tertiary,Self-employed,completed,2026-05-14T10:42:23,field_tool,4,Neutral,1,High,1
+5f44e4e2-5238-40df-983d-338f947ec3e0,fe994342-5c76-4bd6-8f40-3393ccb9c92d,survey_182,Eswatini,New Gregoryview,Female,53.0,Primary,Employed,completed,2026-05-14T10:43:05,field_tool,4,Good,2,Medium,4
+347617ee-7a3b-4e3e-888a-546dac3b9b76,d29e8c00-bb99-4a58-aa49-8fca76a6b248,survey_904,Eswatini,North Stephenview,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:41:08,field_tool,4,Bad,5,Medium,3
+0d17d19a-9c99-4d8e-a3c7-f95d36ade599,9a7f8712-c216-4949-bc5e-260aeaf2b5ee,survey_694,Eswatini,New Brandon,Female,73.0,Secondary,Unemployed,completed,2026-05-14T10:43:39,field_tool,1,Bad,1,High,5
+ed678f3e-2a36-44d0-aa74-1372d6e19f0a,bd017e57-ea28-4bde-ba2e-cb547263e1e0,survey_412,Eswatini,Meadowsshire,Male,64.0,Secondary,Employed,completed,2026-05-14T10:42:21,field_tool,3,Very Good,3,High,4
+f2b06577-f864-42d3-990c-27b39eed6228,ec0dd1ff-c9d9-4a56-a28b-2e14450732a8,survey_195,Eswatini,Elizabethtown,Male,31.0,Primary,Self-employed,completed,2026-05-14T10:41:43,field_tool,1,Neutral,3,Medium,1
+d47f3d63-3f8d-4bbc-90ea-c13188b718c8,103d5175-0750-4866-ace5-73078fee2edb,survey_552,Eswatini,Taylorside,Male,45.0,Primary,Employed,completed,2026-05-14T10:42:39,field_tool,2,Very Good,1,Medium,3
+884064a1-359b-49f7-b881-1546426c4165,ad349caa-09d7-45f8-9ab6-82201c24f102,survey_271,Eswatini,Lake Heidi,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:39:42,field_tool,2,Good,3,High,1
+51ffbbb5-72df-431e-b9f1-db7d2e746a45,05edca30-57ef-461e-be11-ac4f4cc612f5,survey_290,Eswatini,New Clinton,Male,23.0,Primary,Self-employed,completed,2026-05-14T10:41:27,field_tool,1,Good,3,High,4
+57de16fe-245a-4775-951a-45469e5ef2b5,1092285e-e27c-46ea-ba1b-16b957ea38ad,survey_353,Eswatini,South Candace,Female,20.0,Secondary,Self-employed,completed,2026-05-14T10:45:30,field_tool,1,Good,5,Medium,5
+ebea87ac-c7a0-4f6d-9b6e-40e94e9677a6,3b87c3eb-af3e-4d8e-ac1e-3050afc93fac,survey_309,Eswatini,Port Travis,Male,46.0,Primary,Self-employed,completed,2026-05-14T10:42:29,field_tool,4,Bad,1,Low,2
+365acbcf-03b5-4aa3-87b1-2b4d2233c7d3,b8b78c4a-cc28-4fa0-9423-acc93026b66b,survey_211,Eswatini,North Douglasstad,Female,40.0,Primary,Employed,completed,2026-05-14T10:44:34,field_tool,4,Good,4,Medium,4
+67915842-429e-4be8-962b-384bcc3e24f3,de72ac23-fe66-4861-8657-6837077928c3,survey_464,Eswatini,South Michael,Female,47.0,Secondary,Employed,completed,2026-05-14T10:43:35,field_tool,3,Bad,5,Medium,3
+153fc357-ab45-44ec-873f-95b93c4c3c83,8d25f8e1-2624-4543-83a2-1d52d12e73a1,survey_413,Eswatini,Pittmanfurt,Male,22.0,Primary,Self-employed,completed,2026-05-14T10:41:13,field_tool,5,Neutral,3,Medium,1
+f8ac873e-3650-4252-8801-705103188424,1c6b1e50-580c-4898-aaf7-6d3bce5e2a7e,survey_743,Eswatini,New Michaelbury,Male,25.0,Secondary,Employed,completed,2026-05-14T10:44:10,field_tool,3,Neutral,5,Low,2
+db668474-1c52-4007-9809-4ce3e6b4dada,ad49207a-b704-4f41-8dd3-6a903143ac24,survey_788,Eswatini,Michaelmouth,female,27.0,Tertiary,Self-employed,completed,2026-05-14T10:40:21,field_tool,4,Good,5,High,5
+13452897-0a5d-4e79-945c-82aadaa65450,6e6f8060-c1b0-4882-a1c5-8ede42717ada,survey_641,Eswatini,Port Cassandraland,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:44:39,field_tool,2,Neutral,5,High,3
+72194d00-e284-4d5d-b4ac-5202711b3a70,14118760-1801-4cfb-92fd-641f3b6e33f7,survey_324,Eswatini,Wadeport,Male,,Primary,Self-employed,completed,2026-05-14T10:42:36,field_tool,5,Neutral,1,High,5
+b1adcdcf-5c00-4052-8fec-35d9c1c8929a,c17c0907-500a-47b5-9b83-c0a6d42c0ff9,survey_752,Eswatini,Lake Shawn,Female,,Secondary,Unemployed,completed,2026-05-14T10:39:56,field_tool,4,Neutral,1,Low,1
+bb5fe935-3b83-4b6a-967f-5f80b92db75d,22be0d3b-6afa-4ea3-83ce-7118ec7e91c6,survey_203,Eswatini,Lopezville,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:43:12,field_tool,1,Good,4,Medium,3
+0d9b658c-b347-4be3-af84-31ba535afa5c,713812b7-3f58-4e69-b325-da6074a40131,survey_705,Eswatini,Paulberg,FEMALE,35.0,Primary,Unemployed,completed,2026-05-14T10:40:24,field_tool,2,Very Good,4,Medium,2
+cee927fa-1f6b-4246-bdb9-79ad773a5234,79c2bcb5-d498-488b-9145-1785aaf4fd66,survey_748,Eswatini,Sylviaburgh,Female,67.0,Secondary,Self-employed,completed,2026-05-14T10:43:17,field_tool,3,Very Good,4,Medium,5
+895742d4-d391-48e6-a961-e6c0ca912b37,2c7e254b-19fc-4491-a20a-558241e04166,survey_676,Eswatini,Johnsonview,Female,47.0,Secondary,Employed,completed,2026-05-14T10:44:09,field_tool,4,Neutral,2,Low,4
+553bf1ad-b58e-4d47-86e0-60e42fff57b4,c895d289-f9c7-4c6e-82db-a4db1e57deb0,survey_600,Eswatini,Myerstown,Male,34.0,Primary,Employed,completed,2026-05-14T10:44:41,field_tool,5,Bad,5,Low,1
+b8950f83-91eb-4e09-9e9d-0de5d8a37aa7,6c847a07-0f28-4fc1-aed3-252a9f16723f,survey_925,Eswatini,North Carrie,Female,66.0,Primary,Unemployed,completed,2026-05-14T10:43:20,field_tool,1,Neutral,3,High,1
+92f2fc24-03a8-4221-9efa-3da7c8b84d1c,d815c81b-ca43-47c5-852a-5c273d9156b6,survey_253,Eswatini,New Carla,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:40:17,field_tool,4,Very Good,5,High,4
+201194b7-5c9a-4513-88a1-2081a41b1f09,f0e7025c-7e7b-4dac-bea6-bb616f9254fd,survey_188,Eswatini,West Matthewmouth,Male,69.0,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,4,Bad,2,Low,3
+c3afb864-ad99-49fe-abd1-3796149bc4b2,2491132d-8a33-4c8f-9715-93fbd24e387a,survey_552,Eswatini,Lake Jane,Male,45.0,Secondary,Self-employed,completed,2026-05-14T10:43:14,field_tool,2,Very Good,2,Low,1
+87e8a089-6db0-47df-84fb-02cbd9b744dc,cdc7bd02-ad3c-4179-ba41-a2bc70d294b7,survey_369,Eswatini,East Stephanieborough,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:42:03,field_tool,1,Neutral,3,Low,4
+a68dfc7c-9ab6-4b40-b28a-18f16680d389,c6808f09-d3e9-41f3-baa9-b02bc819dcb4,survey_523,Eswatini,West Wayneland,Male,65.0,Primary,Employed,completed,2026-05-14T10:45:16,field_tool,1,Good,4,Medium,2
+b9b8415a-6c3d-491a-b680-570feecb359b,0ea3a189-26fa-4827-a674-5a3f4ab047e0,survey_593,Eswatini,West Cathy,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:41:44,field_tool,3,Good,1,Medium,3
+a2a01ff2-6431-4b91-9af0-1a526be060aa,0bd3a0c5-5dc3-49be-8c3b-4e466696c1a6,survey_562,Eswatini,New Gregory,Female,44.0,Primary,Employed,completed,2026-05-14T10:41:41,field_tool,1,Very Good,5,Low,3
+f9fdae33-dd95-417d-86f6-598b9d25e1f4,21ec7a71-415e-4abd-bf0e-99261b68bdbb,survey_843,Eswatini,Coxstad,Male,32.0,Primary,Employed,completed,2026-05-14T10:43:26,field_tool,5,Good,2,Low,2
+700968fa-13fa-444d-bbf2-6e22c874f750,9b3b9f88-2f4f-4761-b770-5cdc60ebb712,survey_585,Eswatini,North Jenniferport,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:44:42,field_tool,1,Very Good,3,Medium,1
+ab217a62-c7d7-4fd3-afb7-bf40e31cd271,a0f330b4-4905-4447-bf9c-d75c063766dd,survey_170,Eswatini,Jamesland,Male,68.0,Tertiary,Self-employed,completed,2026-05-14T10:44:06,field_tool,5,Bad,2,Medium,3
+1780e4b6-4203-474b-8585-28c0a1792e22,a59b0682-33ff-4304-b50e-33d7d9d09e8b,survey_900,Eswatini,Johnstad,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:41:35,field_tool,1,Very Good,2,Medium,4
+9bf0ff0b-886c-4160-a964-e28115a04347,e2f820df-15a5-4d60-8ba8-dd6eea5479f2,survey_322,Eswatini,Lake Deniseburgh,Male,69.0,Secondary,Employed,completed,2026-05-14T10:45:20,field_tool,1,Good,5,High,1
+56ce6c43-1364-42b5-bc6f-2d43426c5a2f,7bd01a0c-7bda-47c8-95d3-5258fb37f111,survey_703,Eswatini,Lake Dawnmouth,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:39:48,field_tool,5,Bad,3,Medium,1
+56fbf65b-9cab-4299-ac78-712e27e5f90a,95a4d81b-aeee-4e2c-a5a6-dcf86872b415,survey_637,Eswatini,Lake Sharonberg,Male,,Tertiary,Employed,completed,2026-05-14T10:42:59,field_tool,3,Bad,1,Medium,3
+fedf48cd-8742-42c1-8ed7-f95af53e9220,56f8ad8d-f5be-4e1a-8842-2488e73b63f3,survey_588,Eswatini,South Jasonburgh,Female,55.0,Primary,Self-employed,completed,2026-05-14T10:44:00,field_tool,4,Bad,2,High,4
+e77107f7-9ee2-4ffe-a14d-f18c03818cc6,242942a1-6d67-431d-9783-ac0d1c8e1029,survey_929,Eswatini,Lake Brianhaven,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:43:50,field_tool,1,Bad,3,Medium,2
+4c4138b2-2b7f-4022-82fd-674982c4374b,27d6b2e2-9e59-4f5d-91f1-df713a84be76,survey_134,Eswatini,North Brittney,Male,50.0,Primary,Employed,completed,2026-05-14T10:41:46,field_tool,2,Very Good,4,High,4
+d89b0ec2-c2a2-4b32-ad08-6357f8d10ef0,13550472-e65f-4c59-9134-06a465a664a2,survey_174,Eswatini,Scottmouth,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:43:22,field_tool,5,Very Good,4,High,2

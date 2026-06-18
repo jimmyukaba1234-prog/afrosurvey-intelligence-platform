@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+8b043c8a-3135-4cf2-8fa1-91012576485a,e504d1c6-4312-453d-884f-7f7c244f52f4,survey_489,Burkina Faso,North Chris,Male,54,Secondary,Employed,completed,2026-05-14T10:42:44,field_tool,5,Bad,2,Medium,3
+fdd130b8-3b62-4242-9c00-0e9f57a019e1,640b7b85-353d-4edc-969b-deb1e9a7f5e0,survey_202,Burkina Faso,South Laurachester,Male,68,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,1,Very Good,5,High,3
+91ba41b2-eae1-4e1a-af58-18aa898d44b4,13893a70-a02c-4ed2-b58f-41b07c8c65ab,survey_253,Burkina Faso,Lake Robert,Male,38,Tertiary,Unemployed,completed,2026-05-14T10:42:19,field_tool,4,Neutral,1,Low,2
+c30efdbd-fda7-426e-9410-32dc5b022e42,cefd1224-736c-467e-a886-818ea2307350,survey_959,Burkina Faso,East Kent,Female,40,Primary,Self-employed,completed,2026-05-14T10:41:10,field_tool,1,Neutral,5,Low,3
+4982289d-8e90-4ec1-a1a1-0e342f4543e8,9b4dbb90-a197-439c-913a-2b6ca8dfe59a,survey_117,Burkina Faso,North Theresastad,Male,55,Primary,Employed,completed,2026-05-14T10:43:46,field_tool,4,Bad,2,Medium,2
+89a7e979-b10e-4002-91bc-6159ac9f6f4d,8be64b98-9999-41ec-9d2f-6e76feb2d172,survey_475,Burkina Faso,East Aimeeview,Female,53,Secondary,Unemployed,completed,2026-05-14T10:40:41,field_tool,2,Neutral,1,Medium,1
+a1228b21-2689-44fd-a451-9abc3969ae62,89344b06-0790-4eb4-9b2a-1376315e4e80,survey_532,Burkina Faso,New Williamberg,Male,48,Primary,Unemployed,completed,2026-05-14T10:41:29,field_tool,5,Neutral,4,High,5
+a75af1a2-b832-4095-a7ec-75b1833653d0,e608d6d3-1d62-46b5-9d69-7934ddeb78a4,survey_162,Burkina Faso,North Mark,Female,28,Secondary,Self-employed,completed,2026-05-14T10:41:31,field_tool,1,Very Good,4,Low,1
+52d6b914-4fe2-433a-a6bf-bba0f4aac6d4,f099e2b6-b10c-4f77-ba4d-6c8e155c8139,survey_643,Burkina Faso,West Joshua,Female,26,Tertiary,Employed,completed,2026-05-14T10:41:21,field_tool,3,Good,3,High,1
+af55b6ce-1868-475f-afa7-cd866eca3c17,b544f70c-593a-4b51-978b-55e7f406d6e0,survey_355,Burkina Faso,Stuartfort,Male,73,Primary,Employed,completed,2026-05-14T10:43:22,field_tool,1,Good,4,Medium,5
+71c8b19c-589e-4f1c-9f2d-fe7884620db8,ec1f0155-6662-4bd2-b243-b5c6833d7595,survey_737,Burkina Faso,West Gerald,Female,75,Primary,Unemployed,completed,2026-05-14T10:45:30,field_tool,4,Good,3,Medium,4
+8565524f-1607-4237-81e5-12d50ee146d5,47f50a35-b7a7-45e2-a327-119fd895ccea,survey_208,Burkina Faso,Garciashire,Male,34,Primary,Unemployed,completed,2026-05-14T10:42:18,field_tool,4,Very Good,1,High,1
+9f691418-f86b-43ed-b0ee-8f9dc349fc1d,f429c05d-34b1-4488-8b4a-1b4b2a683e18,survey_225,Burkina Faso,Hamiltonmouth,Male,69,Primary,Employed,completed,2026-05-14T10:43:15,field_tool,1,Very Good,5,High,1
+e11a99c2-4fcd-49fe-ad9f-50cc8c08d59e,d0de4fb6-458c-4c02-bf40-964098a91187,survey_600,Burkina Faso,Cindyfurt,Female,66,Primary,Unemployed,completed,2026-05-14T10:43:18,field_tool,5,Bad,5,High,5
+3ad148dc-e97d-4745-89cd-03a249971045,5fbbdfd7-5a58-4bba-9130-38773320e68f,survey_209,Burkina Faso,South Garyton,Male,60,Primary,Self-employed,completed,2026-05-14T10:44:00,field_tool,1,Bad,3,Low,1
+77bf44ac-371a-4d0e-843e-cf61d381d2c7,4b211512-68e9-41d8-963d-101f40c8c7a3,survey_563,Burkina Faso,Raymondville,Female,50,Primary,Employed,completed,2026-05-14T10:41:11,field_tool,1,Very Good,2,Medium,1
+16eb3949-7973-493e-b3aa-a7fa1c12abca,ca782f58-6dec-4b0d-929b-3b96cf1d46be,survey_643,Burkina Faso,West John,Male,36,Secondary,Unemployed,completed,2026-05-14T10:41:29,field_tool,3,Neutral,4,High,1
+470d4f56-7e60-46b0-9733-b882d5a7c34f,252151f9-5f39-4d2b-9f25-210ea82e2d61,survey_457,Burkina Faso,Davidmouth,Male,54,Tertiary,Self-employed,completed,2026-05-14T10:45:31,field_tool,3,Very Good,4,Low,4
+6e3e36b8-8c2e-452a-8074-b1b9b9317007,36b9ca35-5430-48c3-b780-606a02ca68d5,survey_105,Burkina Faso,Bradleymouth,Female,31,Secondary,Employed,completed,2026-05-14T10:41:38,field_tool,2,Very Good,2,Medium,3
+59ab4af7-aa3c-492d-9ee7-5de270aeca4c,489af195-62b6-4594-90f4-c9418fc7ad79,survey_180,Burkina Faso,New Jeff,Female,45,Secondary,Self-employed,completed,2026-05-14T10:44:26,field_tool,1,Neutral,2,Low,4
+8a0d4706-45a8-48e8-b24e-399697a26ef4,f23ed1fc-9b9f-4efe-b75d-2f0c472e2f3b,survey_535,Burkina Faso,New Patriciachester,Male,35,Primary,Unemployed,completed,2026-05-14T10:45:28,field_tool,3,Bad,1,High,1
+7a9a02b6-3621-43bf-beb6-a17e47f4cead,d03a9ed2-515a-4eea-af69-a1cfc19666e9,survey_358,Burkina Faso,Jameston,Female,60,Primary,Employed,completed,2026-05-14T10:43:51,field_tool,3,Neutral,5,Low,1
+f56574af-c4de-49c5-a6b8-1c3a675a8cc2,46401757-fd81-4925-8bfa-8cd57fa79708,survey_824,Burkina Faso,Wilsonmouth,Female,38,Primary,Unemployed,completed,2026-05-14T10:41:06,field_tool,2,Bad,3,Low,5
+b73aab62-6811-492b-bc5f-e2c1bf352713,6202f35d-9756-4d33-93ae-106599f75c76,survey_712,Burkina Faso,New Andrew,Male,37,Secondary,Unemployed,completed,2026-05-14T10:39:48,field_tool,5,Very Good,2,Low,1
+964c8988-939b-4c73-9d14-2a913407eb89,9364ecb5-db29-420a-8886-b7c6a4c755b0,survey_933,Burkina Faso,South Justinfurt,Male,46,Secondary,Unemployed,completed,2026-05-14T10:39:57,field_tool,5,Good,1,Medium,4
+f2c90ada-5f42-4ad5-b888-52257fad4182,870b230c-eb04-4ecb-8891-4b26e5551570,survey_150,Burkina Faso,West Deannaland,Male,49,Secondary,Unemployed,completed,2026-05-14T10:43:39,field_tool,5,Good,2,High,2
+1f9be7c6-efb3-495c-8c3d-73d89ec0d1b8,6a429bd5-cd71-42b4-9471-104f1859c5ae,survey_627,Burkina Faso,Joshuastad,Female,31,Tertiary,Self-employed,completed,2026-05-14T10:43:03,field_tool,5,Good,5,Low,1
+171662b3-0d2b-48ce-baa3-4e0aa3b49012,502c36f1-c64d-40e3-8e73-8520146b9fbc,survey_370,Burkina Faso,Salazarfurt,Female,22,Primary,Unemployed,completed,2026-05-14T10:42:11,field_tool,2,Bad,2,Medium,1
+a0263203-4d18-4990-b6f2-22bb3f2f9436,7e4b4f10-745f-480e-bbe5-403bb24b007b,survey_208,Burkina Faso,Port Nathanielville,Female,52,Primary,Unemployed,completed,2026-05-14T10:39:53,field_tool,1,Neutral,1,Low,3
+1aa720bc-2cc6-4ca9-a812-75b531355cf7,02a95064-d351-4e95-8c3e-dd5c39590149,survey_918,Burkina Faso,North Victoria,Male,75,Primary,Employed,completed,2026-05-14T10:45:31,field_tool,3,Very Good,2,High,1
+763fc937-f2b6-4eb9-adf0-a1dc512ea648,2b91aace-39f1-4027-af88-e2c0b968ab06,survey_615,Burkina Faso,East Jenniferstad,Female,64,Tertiary,Self-employed,completed,2026-05-14T10:44:14,field_tool,3,Bad,1,Low,4
+781c89a1-391e-4338-b742-5faaa4407004,b0309415-ef21-4b2c-8143-d636fd54225b,survey_223,Burkina Faso,West Nicoleton,Female,26,Secondary,Unemployed,completed,2026-05-14T10:40:35,field_tool,5,Neutral,5,Medium,5
+5e599dde-87b2-403a-9b9c-bfc430adca12,1335f6c3-4de5-44af-b278-15f60c49f33a,survey_163,Burkina Faso,Markfurt,Female,18,Primary,Unemployed,completed,2026-05-14T10:41:57,field_tool,5,Bad,4,Medium,3
+c69ac40b-0143-408e-a675-47ad229109a6,23447519-ecc3-4555-ab9b-4ffcb2dbb2c5,survey_962,Burkina Faso,Wilsonmouth,Female,71,Primary,Unemployed,completed,2026-05-14T10:40:54,field_tool,5,Bad,3,Low,4
+011ea235-a3d6-4cce-96c5-cdb27be965e1,d9a3ac28-e346-41b7-9589-9035c0c6e3ff,survey_261,Burkina Faso,Walshville,Male,60,Tertiary,Unemployed,completed,2026-05-14T10:44:06,field_tool,5,Good,2,Low,4
+d4ccabe7-09d2-4e04-837f-3823d7ea7db7,7a59697d-93f0-40c7-bd92-f1cb87101172,survey_786,Burkina Faso,Braymouth,Male,66,Secondary,Self-employed,completed,2026-05-14T10:43:46,field_tool,1,Good,1,Low,3
+03f92818-c8d0-4a90-8b75-620a4c89c71a,c425d020-4389-4f66-9780-29e939d00762,survey_190,Burkina Faso,Jenniferstad,Male,34,Tertiary,Unemployed,completed,2026-05-14T10:44:24,field_tool,1,Good,4,High,4
+29585be7-c5ed-416d-b966-060d307bf57b,a8d3bb7d-3e0c-4ec5-9f74-8fb5d5e6162f,survey_927,Burkina Faso,Lake Christian,Male,36,Tertiary,Self-employed,completed,2026-05-14T10:43:52,field_tool,5,Neutral,3,Low,4
+43bdd6df-39f5-447f-a1a3-6974d949a7a6,aba5d1c9-035c-4d03-b664-cafa0f6da751,survey_979,Burkina Faso,South Lori,Female,47,Tertiary,Self-employed,completed,2026-05-14T10:41:15,field_tool,4,Neutral,3,Low,1
+5d940506-595c-41b0-ae2a-3572f4bfe141,356ad651-5727-4d83-9ac2-c99a7cd6572f,survey_485,Burkina Faso,Kathleenport,Female,36,Secondary,Self-employed,completed,2026-05-14T10:43:31,field_tool,2,Good,5,Medium,1
+0b621ef8-7b64-40a6-a5fa-0fde129f0259,8127a8f7-d909-40c9-a76c-7935a7c10adb,survey_554,Burkina Faso,East Jefferystad,Female,37,Primary,Employed,completed,2026-05-14T10:42:56,field_tool,5,Good,1,Medium,2
+6d6062d5-b04e-4e89-b899-076dd08c70f1,9ed7a652-de2b-4e58-b3d2-939ef99dd6d5,survey_348,Burkina Faso,Port Ricardo,Male,40,Tertiary,Unemployed,completed,2026-05-14T10:40:14,field_tool,3,Neutral,1,Low,5
+0c6a0ec1-b652-4ee2-a385-2b0178de5d5f,afaf20ec-2a08-4526-ac4f-e33d47206b6c,survey_613,Burkina Faso,Stephanieshire,Male,43,Primary,Self-employed,completed,2026-05-14T10:45:10,field_tool,1,Very Good,2,Medium,4
+095a4cf0-2b39-4e33-b6e0-58eecb2e1550,e04e6585-7601-46cf-a5b4-c7aa1a20e3ba,survey_716,Burkina Faso,Lake Danieltown,Female,66,Tertiary,Employed,completed,2026-05-14T10:43:34,field_tool,4,Bad,5,High,1
+10563d35-8fa6-4e29-81c7-76eecfb3f003,79eae461-0751-4daa-844a-2a482fe12ed8,survey_874,Burkina Faso,Bellville,Female,71,Tertiary,Employed,completed,2026-05-14T10:44:20,field_tool,3,Neutral,2,Low,4
+2bffc07b-8356-410e-b900-c169c5b7848e,3649f585-6e75-4e7a-9abb-b78f1585665d,survey_100,Burkina Faso,South Wayne,Male,48,Secondary,Employed,completed,2026-05-14T10:43:59,field_tool,2,Bad,3,Medium,5
+a9faf859-7fab-4b32-bc31-d38fdf2b0f31,45c86249-70fb-428e-8d9b-b3b5556ff3c1,survey_122,Burkina Faso,Coreyfurt,Male,67,Primary,Unemployed,completed,2026-05-14T10:43:15,field_tool,3,Good,4,High,3
+b7c92cca-9384-4f1a-915a-3639e54a48e1,6716d461-307f-4576-8b43-f87331a580d7,survey_132,Burkina Faso,New Joshua,Male,45,Primary,Self-employed,completed,2026-05-14T10:44:50,field_tool,3,Good,1,Low,4
+3c5463b9-0810-4398-a8cf-de0e15b8edaf,1bf384ef-6efe-4368-84c4-2de17e5da21a,survey_595,Burkina Faso,Lake Johnville,Female,48,Tertiary,Employed,completed,2026-05-14T10:41:31,field_tool,5,Neutral,3,Low,5
+c147acbd-a647-4c7b-a802-e4db51633fcf,0922d88d-e522-4d31-8d9a-6fce1d7cf46d,survey_572,Burkina Faso,Johnside,FEMALE,64,Tertiary,Employed,completed,2026-05-14T10:40:30,field_tool,1,Good,1,Medium,3
+c5a68fe4-7e2a-43a3-9327-68ba8abe3d4b,9ec6c95e-e1f2-47be-b9f9-9c644684833e,survey_959,Burkina Faso,Myersville,Female,24,Secondary,Self-employed,completed,2026-05-14T10:41:31,field_tool,2,Very Good,4,Medium,5
+0441ed72-99d7-4603-82d9-2de2c9d0f9bf,b1123048-e128-49a8-92f6-29cabbe277ba,survey_354,Burkina Faso,Tylerburgh,Female,52,Tertiary,Self-employed,completed,2026-05-14T10:41:23,field_tool,4,Very Good,3,Low,4
+324b292a-33d3-4884-afe8-b0d9069b7a3a,b4b2ce14-49b9-4124-a30b-d3b558fe7bd2,survey_448,Burkina Faso,Jessicaville,Female,73,Tertiary,Unemployed,completed,2026-05-14T10:41:13,field_tool,3,Bad,1,High,5
+dc84db51-e807-434e-9af7-880e6b3fa7ad,9f4325f4-b352-4505-a864-6e0c80d458b9,survey_965,Burkina Faso,Stevensonbury,Male,61,Tertiary,Unemployed,completed,2026-05-14T10:41:06,field_tool,3,Neutral,4,Low,1
+59c7a929-4ea8-45f0-9be6-3b235dfe4486,2aa946d4-11c7-476c-ae73-03c050ab3660,survey_799,Burkina Faso,West Rachel,Female,48,Tertiary,Employed,completed,2026-05-14T10:40:51,field_tool,2,Very Good,2,Medium,3
+701c7854-3965-4032-b682-b78c69402650,797f6e4d-aa81-4850-8342-96faf6558f35,survey_202,Burkina Faso,Cookburgh,Male,63,Tertiary,Self-employed,completed,2026-05-14T10:41:54,field_tool,3,Good,3,Low,1
+924ebe7c-b369-4f6d-8910-d02d28af5f28,ade03e6c-2bb4-4408-93b4-c4f6e19a17f6,survey_926,Burkina Faso,New Michaelfort,Male,21,Primary,Unemployed,completed,2026-05-14T10:44:37,field_tool,5,Good,2,High,3
+c90d9501-2e1f-4c51-8eb5-f272dd1bf405,3f5cd7ed-df8b-4008-bd01-b5a30041f5d4,survey_904,Burkina Faso,Rodrigueztown,Female,61,Tertiary,Self-employed,completed,2026-05-14T10:44:29,field_tool,5,Very Good,4,Medium,4
+7f93881e-3673-4860-9abb-7854c8a2a1a2,d5da16fd-4a68-498f-bd8b-b697ae1782f6,survey_114,Burkina Faso,New Wesley,Male,45,Secondary,Unemployed,completed,2026-05-14T10:40:54,field_tool,4,Good,4,Medium,3
+85c57ef6-89e7-4efd-8297-5fe2c9a65836,4dfa6a17-1999-4b39-980a-7e01c67736bc,survey_886,Burkina Faso,Shaunstad,Male,68,Secondary,Employed,completed,2026-05-14T10:44:18,field_tool,2,Bad,4,High,2
+0140cac4-e2aa-48b3-92e6-b8ccb346c701,40e7ca76-7c8a-437a-a9d5-240141e1008c,survey_902,Burkina Faso,Stephenstad,Female,43,Primary,Self-employed,completed,2026-05-14T10:42:13,field_tool,2,Very Good,3,Low,3
+b1c84225-e4c9-49c5-865c-b14d323d504c,84909370-e430-4b91-956f-e90eb5ccdbe6,survey_722,Burkina Faso,Rodriguezhaven,Male,58,Secondary,Employed,completed,2026-05-14T10:45:06,field_tool,1,Bad,4,High,2
+9109a4f7-9e4b-4b5e-b2b7-b71fe7b204fe,690aa98b-fa87-4ba5-a5dc-cca2054e6210,survey_880,Burkina Faso,Lake Virginia,Male,36,Secondary,Unemployed,completed,2026-05-14T10:42:41,field_tool,4,Very Good,3,Medium,2
+43e02612-dccc-4ffa-bd49-1850218da267,93dc8eea-3e8e-436a-87e9-5e6d7f71eef6,survey_281,Burkina Faso,Howardland,MALE,42,Secondary,Self-employed,completed,2026-05-14T10:41:18,field_tool,1,Bad,3,Low,3
+92f0a762-4156-4127-888f-bea0b2b0d394,a3840e2b-60b6-4367-b46e-b787ebaf89c7,survey_649,Burkina Faso,West Natalieside,Female,18,Primary,Employed,completed,2026-05-14T10:43:29,field_tool,4,Very Good,4,Low,4
+9507d87c-6531-4afe-b488-c887ed1319cf,86e35e9b-e047-4ecb-b553-8cd3fcc1c48c,survey_709,Burkina Faso,West Renee,Male,23,Secondary,Unemployed,completed,2026-05-14T10:42:37,field_tool,1,Good,4,High,4
+9d2dbd88-be72-430e-ac18-5313a32702f1,96d26487-641a-4b74-94c9-3d44e353a243,survey_177,Burkina Faso,Landryview,Female,58,Primary,Self-employed,completed,2026-05-14T10:42:17,field_tool,1,Neutral,1,High,5
+0eaa3d67-53b8-436f-bcba-201860694967,8523d070-945b-4711-8a85-872230c95ec4,survey_450,Burkina Faso,Maryville,Female,66,Primary,Unemployed,completed,2026-05-14T10:43:20,field_tool,3,Very Good,5,High,4
+030b7ad2-a423-4523-907d-26114a26e545,f7d8e086-9110-49fd-b47c-b18fcb9aefff,survey_371,Burkina Faso,Keithtown,Female,58,Tertiary,Employed,completed,2026-05-14T10:43:54,field_tool,3,Neutral,1,Low,5
+689b83c5-44cf-4825-9da8-67dcf8a75c19,776094f6-25aa-420f-af7e-ad9eed5f24c3,survey_916,Burkina Faso,New Tammy,Male,74,Secondary,Employed,completed,2026-05-14T10:44:58,field_tool,1,Very Good,3,Medium,3
+35352908-9932-42d4-80ae-36e1f482cc87,4dbbb7cd-29a0-49de-aa10-e5958ee25180,survey_990,Burkina Faso,Robertsport,Female,39,Primary,Employed,completed,2026-05-14T10:39:46,field_tool,1,Neutral,2,High,4
+fe157a31-d761-417a-a7a4-23620f4d30fe,4873d252-37a2-4180-8a7b-e6e774300ccc,survey_848,Burkina Faso,North Tracytown,Female,57,Secondary,Self-employed,completed,2026-05-14T10:43:19,field_tool,5,Bad,4,Medium,4
+ba31e7de-9fd4-4844-99b1-793dae1389c0,002a0e3d-d588-4c8f-a906-5c795a2d6aee,survey_794,Burkina Faso,West Devinport,Male,36,Tertiary,Employed,completed,2026-05-14T10:43:56,field_tool,4,Neutral,1,High,5
+1a6e551b-b29e-4cdc-9aa1-776551efc3d1,8f8d4107-c4d5-4c13-b561-d900aa52cdf3,survey_586,Burkina Faso,North Jennifer,Female,70,Secondary,Self-employed,completed,2026-05-14T10:40:52,field_tool,1,Bad,1,Low,4
+726d01c7-3583-4b26-b0b1-45d756bb9312,6e9ae156-325c-4a4e-bba9-5ec4fef43c9c,survey_750,Burkina Faso,West Jefferyfort,Male,34,Primary,Employed,completed,2026-05-14T10:42:40,field_tool,4,Neutral,3,Low,5
+bd0ba3e1-3f21-49a8-868a-cc5451fd9e7d,a3155bbb-adb2-41a2-8fcc-2abd3facabcc,survey_968,Burkina Faso,Hendersonville,Male,75,Primary,Unemployed,completed,2026-05-14T10:41:52,field_tool,1,Bad,1,Low,1
+1452ac71-ad46-41d9-9dd8-61e655444a8e,4f8c61b9-98d7-48d9-8d51-5b58eb91d7bc,survey_168,Burkina Faso,New Ryan,Female,50,Secondary,Unemployed,completed,2026-05-14T10:42:24,field_tool,2,Good,3,Medium,3
+90b10543-915d-400e-a116-6bd9e4b2fedb,aeee2302-23a1-4fdd-9402-c7becdebdd3c,survey_315,Burkina Faso,West Derek,Female,21,Tertiary,Unemployed,completed,2026-05-14T10:44:22,field_tool,1,Very Good,5,Low,2
+7bc2b610-f062-41dd-b22e-0a3d4182eef5,15e9bee4-4e14-4977-8d12-6ab13313f36c,survey_757,Burkina Faso,Ashleymouth,Female,53,Tertiary,Self-employed,completed,2026-05-14T10:44:18,field_tool,3,Neutral,5,High,2
+3ed2eb57-68b5-4afb-a562-e7f8d39356e6,e03c63df-c84b-4df5-a03f-4ddc2ef17a90,survey_995,Burkina Faso,Davishaven,Female,50,Tertiary,Self-employed,completed,2026-05-14T10:43:25,field_tool,4,Very Good,5,Low,5
+ae544473-ac62-4cb5-b953-1dcc7fb2c150,ef544897-80fa-47e3-9031-d661b1b2b9c6,survey_162,Burkina Faso,Taylorchester,Male,66,Secondary,Unemployed,completed,2026-05-14T10:43:37,field_tool,4,Neutral,4,High,3
+2f776237-b3cc-476f-9054-0a83a116d6d6,7616b503-6906-4588-b621-62ab6ba64252,survey_137,Burkina Faso,New Anthonychester,Female,34,Primary,Self-employed,completed,2026-05-14T10:40:24,field_tool,5,Very Good,3,High,3
+c376a492-3578-44c5-8cb6-72fbbf2e963f,e8273dee-9d7e-4eb7-a3fd-6adec17fcf19,survey_331,Burkina Faso,Kristinshire,Male,71,Tertiary,Unemployed,completed,2026-05-14T10:44:01,field_tool,2,Neutral,2,Low,1
+46167cc0-9e72-4f2e-b352-1b06f0677dfe,8b13b689-9ef2-4148-a095-15d55f843666,survey_611,Burkina Faso,Brianfurt,Male,59,Primary,Unemployed,completed,2026-05-14T10:40:43,field_tool,2,Neutral,2,Low,5
+5d9d90b6-c0e5-41a6-bc0e-dbee95b2e298,767a92b7-0186-4029-ab8a-501567273710,survey_271,Burkina Faso,Combsland,Male,53,Primary,Employed,completed,2026-05-14T10:40:07,field_tool,1,Bad,1,High,2
+6463bc66-90fd-44c5-ae56-ca8e5bc20250,a65e883b-fc75-4e3d-9473-f3b5452a2da7,survey_634,Burkina Faso,West Brookeport,Male,19,Secondary,Unemployed,completed,2026-05-14T10:44:28,field_tool,4,Very Good,1,High,1
+afc3bbe6-4e72-4a35-a2f7-2a649d9d043e,dd43b0cf-54d0-4314-b0ca-b2497b417aed,survey_937,Burkina Faso,North Joyhaven,MALE,25,Secondary,Employed,completed,2026-05-14T10:40:06,field_tool,3,Very Good,1,Medium,1
+ba158ca4-4b77-4c73-82d8-d6725726be03,24e72383-8429-412c-b47f-1a8cb39a442b,survey_765,Burkina Faso,Taylorberg,Male,36,Primary,Self-employed,completed,2026-05-14T10:42:13,field_tool,1,Bad,4,Medium,4
+7a4c97f9-3d07-4cc9-98bb-cf230cce10c1,fd397fe7-b819-415d-8f96-8a84a0d44d24,survey_702,Burkina Faso,Port Toddborough,Male,37,Secondary,Self-employed,completed,2026-05-14T10:40:37,field_tool,1,Bad,1,High,1
+34470840-5070-4753-a47b-be2ed8a0a966,9a920655-272c-4482-8002-572a113038f5,survey_103,Burkina Faso,New Collinborough,Female,43,Secondary,Unemployed,completed,2026-05-14T10:40:32,field_tool,3,Very Good,4,High,3
+320f2fc0-caeb-4961-89e2-333ddc7a6520,817c6779-d52d-4f91-864f-e16479472ea4,survey_784,Burkina Faso,Myersville,Male,20,Secondary,Unemployed,completed,2026-05-14T10:42:12,field_tool,3,Bad,1,High,4
+6b833be1-5b22-4635-938a-3846c21b7686,2f1d80ea-fb91-4b90-bbd5-0aeb679111dd,survey_820,Burkina Faso,Port Melanie,Female,23,Primary,Unemployed,completed,2026-05-14T10:41:52,field_tool,1,Very Good,5,Medium,1
+cecb8f34-b2f2-404d-80ec-4c220547f257,706ad042-ae6b-4455-9cdd-d7c2d25a0b3f,survey_733,Burkina Faso,South Dustintown,Female,55,Secondary,Employed,completed,2026-05-14T10:41:13,field_tool,5,Bad,3,Low,2
+fd25820d-62e8-4e2e-aab7-4fa05c9b3886,a84fa67f-be9e-41a9-918c-7fde24458bad,survey_244,Burkina Faso,East William,Female,30,Secondary,Self-employed,completed,2026-05-14T10:45:37,field_tool,5,Very Good,2,Medium,5
+14f31b5c-5f78-4bce-9c13-04facb4ebe1d,7affd9bd-79e5-4450-b34a-34a88bf349a3,survey_543,Burkina Faso,Keithville,Female,51,Tertiary,Self-employed,completed,2026-05-14T10:44:40,field_tool,5,Bad,4,Low,4
+7a97d831-b9a4-44cf-8cf7-b38f65f3e67e,467248f6-aaee-4d68-9e09-f48e7e32e5d0,survey_539,Burkina Faso,Cruzville,Male,41,Primary,Unemployed,completed,2026-05-14T10:43:36,field_tool,4,Bad,5,Medium,4
+1a8da5db-1d0c-4d4f-b0b2-122dc146b434,25ee3dfd-6cc1-4a4d-9041-1dec6ab9ba0f,survey_189,Burkina Faso,West Stephenshire,Male,33,Primary,Unemployed,completed,2026-05-14T10:42:58,field_tool,3,Very Good,5,Low,5
+86d11f85-1370-4093-a85f-1e8e58f9ff45,08b9b2e9-4d81-4859-949e-24ad02d22ee7,survey_666,Burkina Faso,Williamsstad,Male,37,Primary,Self-employed,completed,2026-05-14T10:40:50,field_tool,3,Neutral,1,Medium,3
+cf937945-574f-477f-844b-623d6510a732,75566ff1-b91a-4e28-a1e6-8d3577c8c297,survey_567,Burkina Faso,Albertburgh,Female,25,Secondary,Self-employed,completed,2026-05-14T10:42:42,field_tool,1,Neutral,4,Medium,4
+45e263d8-594d-48b5-ac75-d3ef866ec9b1,80d2157b-dc6b-42c8-9b18-4d468029d633,survey_916,Burkina Faso,West Rachel,Male,24,Tertiary,Self-employed,completed,2026-05-14T10:44:07,field_tool,2,Good,1,Low,5
+8d1b3b3c-a228-405e-95f3-13fbc5d1f545,2cabd3d7-1011-4af4-8356-ed6163fff4b5,survey_266,Burkina Faso,West Diana,Female,45,Primary,Self-employed,completed,2026-05-14T10:44:27,field_tool,4,Good,5,Low,1
+1d0aa386-8cf7-4983-b20e-b333325ca112,dbd165a3-b716-407d-b5a0-987556dbc7ac,survey_370,Burkina Faso,West Kristen,Female,63,Tertiary,Self-employed,completed,2026-05-14T10:45:16,field_tool,3,Good,2,High,5
+335eff39-693a-4f53-8507-e824a434f46c,117637b2-64d8-4360-ac68-fc074d8cd019,survey_955,Burkina Faso,Bennettfort,Female,41,Primary,Unemployed,completed,2026-05-14T10:44:49,field_tool,4,Neutral,1,Low,2
+d877c56d-5254-43fe-8489-64fb53103f00,b5604484-9377-49f6-ae2d-0681a8b26070,survey_100,Burkina Faso,Davidmouth,Male,41,Tertiary,Self-employed,completed,2026-05-14T10:44:40,field_tool,1,Bad,1,Low,4
+81f27918-eb5f-415f-bf0d-713245f2bbfa,95a15905-591c-44b6-94aa-600af487a21f,survey_381,Burkina Faso,Jonestown,Male,75,Primary,Unemployed,completed,2026-05-14T10:41:00,field_tool,2,Neutral,2,Medium,4
+7c4899c8-69ad-4ce3-ab81-75a73b13102d,1b314321-aa4e-4b03-98b6-dfc73b50f94f,survey_838,Burkina Faso,Villafort,Male,53,Secondary,Employed,completed,2026-05-14T10:42:24,field_tool,1,Bad,4,Low,5
+776b6bca-1174-4b18-a819-60c2fb89b4f2,c590f851-fb38-4671-bb45-d977c2896a30,survey_346,Burkina Faso,North Rachel,Male,34,Primary,Employed,completed,2026-05-14T10:41:08,field_tool,4,Bad,4,Low,3
+6dde820a-f8c2-4866-80dc-f54f46c75072,c17d049c-6253-4b28-a479-19ddba68e69f,survey_675,Burkina Faso,Nielsenton,Male,21,Tertiary,Self-employed,completed,2026-05-14T10:44:52,field_tool,1,Bad,1,Low,3
+ad784240-1cfe-4349-bafc-8b78ca75a3d8,d8c80184-0994-4e76-9d4e-2772401fb5a6,survey_926,Burkina Faso,South Kathryntown,Male,72,Primary,Self-employed,completed,2026-05-14T10:41:08,field_tool,1,Good,2,Medium,1
+45bbe5c5-dadf-40ff-b65a-b7fec80b3435,73131038-b2df-4075-9b8f-abe952377d88,survey_982,Burkina Faso,Andersonshire,Male,32,Secondary,Employed,completed,2026-05-14T10:44:23,field_tool,5,Neutral,2,High,1
+2354072e-61fe-448b-a5f5-78e322d17133,7db8ed71-40a3-423b-b21a-92403321cbb0,survey_796,Burkina Faso,Sheltonbury,Female,45,Primary,Employed,completed,2026-05-14T10:41:22,field_tool,4,Good,1,Low,5
+da592285-fd40-48f1-83e6-d30da5da1583,d057ab85-6f1e-40de-a97e-b3f4bdfdcc7b,survey_332,Burkina Faso,North Brandi,Female,38,Tertiary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Very Good,4,Low,5
+a469ec65-7c8f-44ea-a923-dd4fc7f5671c,341b2c09-18a0-46c0-ab2d-2feff5b79271,survey_709,Burkina Faso,Port Donaldtown,Male,44,Secondary,Unemployed,completed,2026-05-14T10:42:43,field_tool,4,Bad,4,Low,1
+5e2db3e9-36da-4a2e-b357-b73052582d4c,8becb8cc-917b-4866-a874-7b44c63e23bf,survey_930,Burkina Faso,West Jacobhaven,Male,30,Tertiary,Employed,completed,2026-05-14T10:43:53,field_tool,2,Bad,1,Medium,3
+3d03c8c1-2dc0-451a-9bdb-95c05845f4fa,9203c5d2-351d-4137-9518-5b7230accfda,survey_725,Burkina Faso,Masonstad,Male,67,Secondary,Employed,completed,2026-05-14T10:44:55,field_tool,2,Bad,4,Medium,2
+a81cb750-079d-4eb9-b74d-db262ab79337,234bae09-da79-4686-8f06-c963e65664ac,survey_943,Burkina Faso,South Ronaldfurt,Female,51,Primary,Unemployed,completed,2026-05-14T10:40:15,field_tool,2,Very Good,5,High,4
+a062044e-a68c-4650-81fa-9134e6ca7426,c84a89b8-208f-4e02-9401-3b9991b3f921,survey_539,Burkina Faso,Craigfort,Female,45,Secondary,Employed,completed,2026-05-14T10:41:37,field_tool,5,Neutral,3,Medium,5
+8167da3a-8b79-430f-8c10-a27ab9df37ce,54b728fa-8a60-4332-99fb-38a90d2dba72,survey_333,Burkina Faso,East Loriport,Male,29,Secondary,Self-employed,completed,2026-05-14T10:41:47,field_tool,3,Very Good,2,Low,1
+a034176c-d3b4-4112-9f1f-1e8db7956c95,11655b1e-5b9f-4cde-b409-b85563f2fc26,survey_383,Burkina Faso,West Charles,Female,46,Tertiary,Employed,completed,2026-05-14T10:44:33,field_tool,4,Good,4,Low,3
+bab5e19b-7607-4ab8-beda-205f85a65bf5,ee8b09a3-848b-4725-9a6b-00603dcc4915,survey_678,Burkina Faso,Reginaldton,Female,43,Primary,Self-employed,completed,2026-05-14T10:44:18,field_tool,1,Bad,5,Medium,3
+d5b318e4-d4d2-45dd-a780-e4100bf77542,95309450-1c62-44f4-a44d-8dc2b2908892,survey_848,Burkina Faso,Gilesview,Male,58,Primary,Self-employed,completed,2026-05-14T10:45:13,field_tool,5,Bad,2,High,1
+df7edf36-c505-4361-a312-86cb6fdb25a4,6be13e78-568a-420d-8843-280a07aca3fe,survey_197,Burkina Faso,Jameston,Male,50,Tertiary,Self-employed,completed,2026-05-14T10:40:50,field_tool,1,Neutral,3,Medium,4
+120d9371-a796-4e11-af63-d29cb3be2880,bbdf144c-d117-46d5-8c0d-ea8b3448a247,survey_749,Burkina Faso,Sandraton,Female,62,Primary,Unemployed,completed,2026-05-14T10:41:39,field_tool,5,Good,2,Medium,3
+4403f306-59fe-481e-a887-84545a017917,f2aff86f-ce3f-4e9a-92aa-5ab47e59a0d1,survey_782,Burkina Faso,West Tinachester,Male,18,Primary,Employed,completed,2026-05-14T10:44:45,field_tool,4,Good,5,Medium,1
+3699fbb0-26d9-4b8c-819a-e854a893a234,14a1c64b-edea-45b8-9cc8-62cdbd4211d1,survey_816,Burkina Faso,Pottsview,Male,44,Primary,Employed,completed,2026-05-14T10:40:00,field_tool,3,Bad,3,High,2
+1053b4e8-f2b5-4159-b776-84d1b7c49ef7,81f25a73-7f20-4661-891d-16431aa3c18e,survey_702,Burkina Faso,Lake Michael,Female,59,Secondary,Unemployed,completed,2026-05-14T10:43:43,field_tool,5,Good,1,Medium,3
+ef1edfd8-5fc7-482b-8f12-714f81966f02,e05f039c-d98e-4024-8813-20254dacd33c,survey_553,Burkina Faso,North Sarah,Male,49,Tertiary,Employed,completed,2026-05-14T10:39:52,field_tool,2,Very Good,5,Low,1
+0342978d-df89-42f4-aad6-0d002ff9d7f4,32387a5a-cfb5-4f2e-8825-85fac60b846e,survey_759,Burkina Faso,Flemingtown,Female,55,Primary,Employed,completed,2026-05-14T10:44:21,field_tool,1,Bad,1,Medium,3
+95b08460-d217-4dc8-9b22-507ec73a64a9,c403b430-631a-4c3c-8d59-13037b6fb65b,survey_308,Burkina Faso,Dominguezchester,Male,67,Tertiary,Self-employed,completed,2026-05-14T10:45:38,field_tool,1,Bad,3,Medium,2
+dfdc60a8-77b7-4ae8-9991-c173599565d7,1d96dc53-2344-4c54-8cae-f9ec6d44f723,survey_726,Burkina Faso,Wilsonstad,Male,45,Tertiary,Unemployed,completed,2026-05-14T10:42:39,field_tool,1,Bad,5,Medium,5
+018635df-b455-4cd4-9d89-96393fa5e7e9,eb068b1e-6fc0-474f-97d7-14f13192c29c,survey_730,Burkina Faso,East Jesseshire,Male,59,Tertiary,Employed,completed,2026-05-14T10:39:44,field_tool,5,Good,3,High,3
+192f44bd-069b-484a-a21d-43169355ceb9,c0a85dbd-bf5a-410f-a9be-a8c93a24ec19,survey_134,Burkina Faso,Port Alexisbury,Female,41,Primary,Unemployed,completed,2026-05-14T10:40:08,field_tool,4,Bad,1,Medium,5
+c01a564e-504f-4382-a93e-cdc0690c00df,704532d5-2070-43f0-8e80-ea41139cd2b0,survey_175,Burkina Faso,West Bradley,Female,70,Tertiary,Unemployed,completed,2026-05-14T10:42:38,field_tool,4,Very Good,3,High,2
+bb541b32-7ddc-4b95-92dd-a2e069a3ee7e,3e86cc14-e3f2-4f80-a7bb-c6129a37ef9d,survey_833,Burkina Faso,Davidfurt,Female,62,Primary,Self-employed,completed,2026-05-14T10:43:44,field_tool,2,Good,3,Low,3
+b4c2b0cf-df5f-4694-aa6b-07cec6156c7a,13a96a92-a816-4d18-9f54-0e96a8575900,survey_486,Burkina Faso,West Shawnaborough,Male,43,Primary,Unemployed,completed,2026-05-14T10:43:52,field_tool,3,Bad,2,High,3
+4fe3b22d-c121-4ee3-ac80-212307c614a1,5b619ebe-d03c-4c2c-bc37-49b1b48b9a8c,survey_420,Burkina Faso,South Jennifer,Male,31,Secondary,Employed,completed,2026-05-14T10:42:46,field_tool,4,Neutral,3,High,4
+04a1e990-fa29-445c-a0f3-d42fcfe6ab82,de74e122-4aed-4cc8-8d28-eef5c7bbbcf8,survey_777,Burkina Faso,New Patricia,Female,21,Tertiary,Self-employed,completed,2026-05-14T10:42:22,field_tool,2,Neutral,2,Medium,3
+b24b713f-9f68-4b16-8de4-b31cb355eca3,1ab88733-80e1-4c41-8a9a-727fb2a12a55,survey_685,Burkina Faso,West Rachelfort,Male,65,Primary,Self-employed,completed,2026-05-14T10:42:02,field_tool,4,Bad,3,High,1
+c1915053-d59a-4a56-9bab-ba19925e5181,231b0c86-e97c-4ea5-b41c-2d1014150ad9,survey_190,Burkina Faso,West Judy,MALE,33,Secondary,Unemployed,completed,2026-05-14T10:41:26,field_tool,4,Neutral,2,Low,1
+16d07242-4b69-46e2-9c7c-ae9b4ff9d7ba,d0fe42af-b993-4041-9f54-f3321f6c6a86,survey_567,Burkina Faso,North Tiffany,Female,39,Secondary,Self-employed,completed,2026-05-14T10:45:36,field_tool,5,Very Good,3,Low,2
+0c51413f-0ac5-44e4-bd1e-bf9721dc0ace,7429cf81-c3a2-45ff-a660-604f70b6052f,survey_533,Burkina Faso,North Victorton,Male,65,Secondary,Employed,completed,2026-05-14T10:41:57,field_tool,4,Bad,2,High,4
+abfc0593-8441-4f24-a8b9-9a1882efb2b6,4ce7db3f-6259-46cc-9696-e8334728ddf6,survey_568,Burkina Faso,North Joshuafurt,Male,74,Secondary,Unemployed,completed,2026-05-14T10:43:52,field_tool,5,Neutral,1,Medium,4
+7086744e-a443-45be-a95e-4836a4867e0b,62794a6e-61f1-4c98-9cde-adc804d340e8,survey_101,Burkina Faso,Williamsborough,Female,62,Secondary,Employed,completed,2026-05-14T10:42:53,field_tool,1,Good,2,High,5
+d6d8582c-43ea-4012-8b68-f03dbe1d53a0,88516447-6e5b-4598-a8f0-e3e02f369832,survey_272,Burkina Faso,Lake Kevinside,Male,45,Primary,Self-employed,completed,2026-05-14T10:42:37,field_tool,5,Neutral,1,Medium,5
+c15efe46-f1c0-484c-868d-995f28e54680,9bd65690-e8f9-4c88-86a7-6b07efede7bb,survey_802,Burkina Faso,Sandraview,Male,49,Secondary,Self-employed,completed,2026-05-14T10:44:41,field_tool,1,Very Good,1,High,5
+ac603b15-4c09-4d91-ac69-0688d9232ae7,5748218a-0700-4750-81db-480a376f6fff,survey_663,Burkina Faso,Glennton,Female,41,Primary,Self-employed,completed,2026-05-14T10:40:34,field_tool,5,Good,5,Low,4
+08a35a20-5664-47ad-a066-16abec8884ba,b8a6ebf6-f3d5-4f3e-a35b-36bd8da4afbe,survey_669,Burkina Faso,Micheleside,Female,62,Tertiary,Employed,completed,2026-05-14T10:43:36,field_tool,1,Good,2,Medium,5
+039c3550-5ba5-454b-85ea-deb51b4dd6f4,917c4f11-b81e-4083-9296-14b56c8073b7,survey_258,Burkina Faso,Franciscofurt,Male,42,Tertiary,Self-employed,completed,2026-05-14T10:43:38,field_tool,4,Neutral,5,Medium,3
+27e3f0e6-1ea8-4b32-a66c-99c043179879,3cfc7050-ecb6-47a2-be1b-e3e9bee1dc65,survey_626,Burkina Faso,North Juan,Female,60,Primary,Employed,completed,2026-05-14T10:45:28,field_tool,4,Neutral,1,High,2
+b0e2349b-6572-482e-9c9e-143f0a4f1eed,ffb1c192-15e5-4e78-863e-9bb3f37296a2,survey_958,Burkina Faso,Port Amy,Male,52,Primary,Employed,completed,2026-05-14T10:42:31,field_tool,2,Bad,3,High,3
+df613968-24cc-4621-9e37-828fa9687863,9d94813f-09e2-48a7-a504-95b5923278bf,survey_848,Burkina Faso,Michaelview,Female,35,Primary,Self-employed,completed,2026-05-14T10:45:13,field_tool,5,Bad,1,Medium,3
+f68cb39c-be32-40e1-9ef5-2444d79a6c57,0328a80d-9ba5-458b-8585-36b7cf6d2a9d,survey_742,Burkina Faso,West Ashleymouth,Male,61,Tertiary,Employed,completed,2026-05-14T10:41:54,field_tool,2,Bad,2,High,3
+a95be110-a282-40e5-a186-e159d1facaa2,76751903-719d-422f-adc4-d065d8fbd542,survey_549,Burkina Faso,South Alanton,Male,26,Secondary,Unemployed,completed,2026-05-14T10:42:42,field_tool,2,Bad,2,Medium,2
+bd897875-ba62-4b11-a0d7-b400e3b522ff,8e7de390-d825-4478-a343-21bf7aeee7df,survey_195,Burkina Faso,South Brian,Male,66,Secondary,Unemployed,completed,2026-05-14T10:40:19,field_tool,1,Very Good,3,Medium,2
+4154c5ab-1bee-451a-8e93-d0b3f153d11f,8d2bb00b-9c3e-4d79-a5a4-b1b446c524a5,survey_832,Burkina Faso,Stephaniemouth,Male,70,Tertiary,Employed,completed,2026-05-14T10:41:11,field_tool,4,Very Good,4,Medium,4
+8d90a085-6b34-4c6b-b0f3-d4f00968ca9e,46b1654a-c967-42fb-8417-0ebd420cbe74,survey_172,Burkina Faso,Mistyberg,Male,32,Tertiary,Employed,completed,2026-05-14T10:41:35,field_tool,2,Bad,4,Low,1
+5d62b907-e9bf-434c-af54-94c732f61496,df0987e9-259b-4aea-acab-b9ada15dd7c4,survey_981,Burkina Faso,East Dannyton,Female,73,Primary,Self-employed,completed,2026-05-14T10:41:13,field_tool,5,Neutral,1,High,3
+de7858f8-881c-42d3-8c58-d468d7394d01,70b81530-dc4e-457f-81b8-5934af378cf9,survey_382,Burkina Faso,Bobbybury,Male,65,Primary,Self-employed,completed,2026-05-14T10:40:10,field_tool,4,Very Good,2,High,5
+71fce60e-224e-4502-881c-455a61b9acba,42516974-fdf1-4205-b6ec-b84ef3a2dc1d,survey_529,Burkina Faso,Allenstad,Male,30,Secondary,Employed,completed,2026-05-14T10:44:15,field_tool,5,Bad,3,Medium,5
+5022d2c1-4c55-4a7e-b3cb-dfe48249b956,3c1517fc-99bf-48ed-8b73-a040b7e3c615,survey_502,Burkina Faso,Danielhaven,Female,44,Secondary,Employed,completed,2026-05-14T10:43:26,field_tool,4,Neutral,4,High,1
+2aa9e9eb-3f8c-4f26-ab86-e6a36bd817ea,3caaa31e-13d3-4726-82d3-39481cf98855,survey_393,Burkina Faso,West Ashley,Female,21,Secondary,Unemployed,completed,2026-05-14T10:45:27,field_tool,1,Very Good,4,Medium,2
+08b4cb36-7528-4a60-a834-1e6a7749482e,6d2d7cb9-a452-4559-9246-d2a56a7cfd08,survey_681,Burkina Faso,Douglasmouth,Female,30,Secondary,Unemployed,completed,2026-05-14T10:44:49,field_tool,1,Good,5,Medium,2
+56bd8b48-664a-4745-b84c-b20638979ab3,f9a013be-55c1-40d9-9c3b-c3e5c9c52567,survey_237,Burkina Faso,Merrittstad,Female,72,Secondary,Employed,completed,2026-05-14T10:43:39,field_tool,1,Good,2,Medium,2
+8ed66637-cc45-49ed-98e2-8567d503fd10,9f35e95d-4b47-4715-b937-5ffff14656f1,survey_770,Burkina Faso,East Michealport,Female,71,Tertiary,Self-employed,completed,2026-05-14T10:40:55,field_tool,3,Good,2,High,5
+c8421fd1-2c83-4138-976e-7a059f68a5c3,1b3206f0-0689-4b1c-975a-ae69e9707c9e,survey_708,Burkina Faso,Port Lawrence,Male,49,Tertiary,Self-employed,completed,2026-05-14T10:43:59,field_tool,1,Very Good,2,Low,2
+9f36adfd-a382-441f-a042-94ce7ab554a7,5813d72f-b67c-42ac-94dc-4c97c8914d99,survey_715,Burkina Faso,South Mariah,Female,63,Tertiary,Self-employed,completed,2026-05-14T10:39:55,field_tool,4,Good,2,High,5

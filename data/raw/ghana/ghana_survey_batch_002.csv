@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+36b5e909-f097-41bf-b978-c791a329c574,bc194478-3ea3-42ca-bbec-0c6b8fff2706,survey_844,Ghana,Donnamouth,Male,53.0,Primary,Employed,completed,2026-05-14T10:45:36,field_tool,1,Good,5,High,1
+b84b54fc-766d-4da0-bf37-2e3916de67f0,9432b7c9-e437-4125-95d4-d79ae0f5c703,survey_767,Ghana,Wrightburgh,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:44:38,field_tool,3,Neutral,1,High,4
+1deb777c-a676-4b09-bac0-7207bdbe7a16,9118dbdf-6fd0-4672-8dbd-fa9d4828de3e,survey_460,Ghana,Mandyburgh,Female,71.0,Primary,Employed,completed,2026-05-14T10:42:36,field_tool,2,Good,3,High,5
+358455d6-3509-4d6f-9a6e-6329b21cc1ff,285debd6-0898-4462-aaac-9b8e2af0461c,survey_903,Ghana,Lake Lauren,Female,69.0,Primary,Self-employed,completed,2026-05-14T10:42:44,field_tool,2,Very Good,4,Medium,4
+b16d8f22-cd12-4173-b444-dfb0f694d941,74361bf4-34cc-4b5f-9eb8-94b681daf504,survey_493,Ghana,Tateburgh,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:42:51,field_tool,1,Good,1,Low,4
+3f7288fb-1644-43b2-9f5f-5dfe940e595b,43b42591-8979-4e2a-ae44-c25f8bd3a18c,survey_334,Ghana,New Elizabethshire,Female,24.0,Primary,Self-employed,completed,2026-05-14T10:42:13,field_tool,3,Bad,1,Low,3
+47813988-64fd-4dec-b100-9cf4d6021577,f3a2843c-5bb5-4304-9a75-2bfdd484cc45,survey_628,Ghana,South Erikamouth,female,57.0,Tertiary,Employed,completed,2026-05-14T10:44:59,field_tool,3,Neutral,1,Medium,2
+52a96854-1e4b-4f0c-ab0c-173e1493c968,b4f560bd-bfc7-4533-9135-4e889516af25,survey_785,Ghana,Leefurt,Male,45.0,Secondary,Employed,completed,2026-05-14T10:45:16,field_tool,2,Good,1,High,2
+5234d180-5509-46d7-997d-792f40dbb8ca,4c6c46ab-ff99-4d95-8b0f-8a54fff12088,survey_206,Ghana,Kingmouth,Female,74.0,Primary,Unemployed,completed,2026-05-14T10:40:53,field_tool,5,Neutral,4,Medium,5
+ac0e14b6-d169-4107-b9cb-75d05d29db86,0182fe50-958c-4dac-931d-56813cfe61bc,survey_345,Ghana,West Charlesstad,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,5,Very Good,5,Low,3
+f4d73d55-8e1a-4b92-b030-d339ac64fa96,fa716cac-27fd-41c9-9f7e-65404d9bd420,survey_725,Ghana,Simpsonstad,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:42:29,field_tool,4,Good,4,High,5
+ca363f98-5439-4c91-8943-0a17bc3b45b8,0263cf5f-e3fd-430a-be63-cfbe4172020e,survey_681,Ghana,New Briannafort,Male,57.0,Tertiary,Self-employed,completed,2026-05-14T10:44:46,field_tool,4,Good,5,High,2
+aa247b30-450e-49f9-80d4-63c94a043543,0b888619-c3b6-4dd3-98be-0c1dafff9235,survey_938,Ghana,Lake Kevinmouth,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:40:02,field_tool,3,Neutral,1,Medium,5
+be9889b4-eebc-4f6a-8c1e-5ee46b1fde9c,add788f4-9db6-487f-aeed-f607bfa4ec3b,survey_368,Ghana,South Tracy,Female,72.0,Secondary,Self-employed,completed,2026-05-14T10:45:08,field_tool,1,Neutral,2,High,4
+c5c70231-f896-45db-8949-65ba4a5cd95e,0b61cc4d-e758-4aba-97fd-84bbf3fb6e3e,survey_495,Ghana,New Heidi,Female,68.0,Secondary,Self-employed,completed,2026-05-14T10:40:09,field_tool,1,Neutral,5,Medium,1
+6aed0336-ba21-4bb5-84dd-2fea83017656,aa8107f0-4f41-4f39-b0f1-fa70cc26219c,survey_518,Ghana,South Timothyton,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:45:05,field_tool,1,Bad,5,Low,5
+4cae7849-f856-4545-997f-9884baf16292,b3783d65-4514-4eee-bdc6-b86e7ecb2144,survey_640,Ghana,Williamsbury,Male,66.0,Primary,Employed,completed,2026-05-14T10:40:34,field_tool,1,Bad,3,Medium,1
+a1a4a13a-3904-4011-8fb5-dada27f8c0ca,a9e32c17-38b8-48c9-9905-c26869e20b45,survey_423,Ghana,Alexanderfort,Female,68.0,Primary,Self-employed,completed,2026-05-14T10:44:40,field_tool,2,Good,4,Medium,2
+0faff81e-db74-42eb-83a5-2da259a423a1,af6b521c-cd48-4310-a0a4-03ea9e3aadfd,survey_796,Ghana,South Nicolestad,Male,62.0,Secondary,Employed,completed,2026-05-14T10:43:46,field_tool,1,Bad,5,Medium,3
+da8de9c5-e4fc-4a89-8c18-07722f37aa91,7ce02e4c-2d6f-48b6-97d0-ece952d85832,survey_755,Ghana,Keithburgh,Male,75.0,Primary,Employed,completed,2026-05-14T10:43:57,field_tool,4,Good,3,High,3
+0c8db3f6-45cc-4eaf-9480-62138c81735f,dfbcbc9f-aaa8-4791-abed-4765b62d6b68,survey_970,Ghana,Port David,Female,74.0,Primary,Employed,completed,2026-05-14T10:44:27,field_tool,5,Very Good,4,Medium,1
+b364d6a7-328a-44d6-8752-0241ef838b4e,aff0a89f-7d69-4958-a64d-0285c1232fa6,survey_263,Ghana,Samanthastad,Female,75.0,Primary,Self-employed,completed,2026-05-14T10:45:28,field_tool,3,Good,4,Low,2
+f3308f53-298b-42b9-84a0-d7b5e60323bc,e26f60c9-e842-42ed-ac43-7ffe0d5ee78a,survey_463,Ghana,Meyerhaven,Male,35.0,Secondary,Self-employed,completed,2026-05-14T10:40:15,field_tool,5,Bad,1,Low,4
+81675fe5-762a-4e68-9c64-3eadb2528462,77d5242d-be22-4c05-9bcb-7f2a58f77937,survey_828,Ghana,Lake Markchester,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:45:26,field_tool,5,Bad,2,Medium,4
+f90b7b9d-b38a-482b-a789-c4e17922e2e4,6bdec5f0-dc0f-4505-94b9-31f26a99326d,survey_937,Ghana,Castroshire,female,24.0,Secondary,Self-employed,completed,2026-05-14T10:42:14,field_tool,2,Very Good,3,Low,2
+ba7a90d7-b30d-4f63-b360-891a0cbb9496,3d50c7aa-90cf-44d2-8b0b-ccd9faf87505,survey_811,Ghana,Villabury,Male,52.0,Secondary,Self-employed,completed,2026-05-14T10:42:58,field_tool,1,Good,5,Medium,1
+880dc987-f1f7-4359-8aeb-84cf42a2f0fb,039f665c-a3a4-4bd4-a846-ebe84039f216,survey_970,Ghana,Ashleystad,Male,70.0,Secondary,Employed,completed,2026-05-14T10:42:20,field_tool,2,Very Good,5,Low,5
+2b1d948f-993c-4f2f-a875-81a07c823ad4,1dd75760-69cf-4200-b213-00311e9236cf,survey_874,Ghana,East Jamiemouth,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:43:12,field_tool,4,Very Good,1,Medium,5
+da5b43bf-909e-4693-8e8a-3cfa277b4485,21b7043c-2ff7-406a-b018-e214fbf19ea9,survey_803,Ghana,Rebeccaland,Female,52.0,Tertiary,Unemployed,completed,2026-05-14T10:44:01,field_tool,1,Good,2,Medium,2
+17aa7eb0-4acd-4078-8cd0-309abf1bfdc7,9b63cb40-6519-4771-9f89-8ff9260a0a2c,survey_516,Ghana,Jonesberg,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:40:21,field_tool,2,Neutral,3,Medium,5
+0fc4dec3-a0ea-42bc-b579-ffe03242f391,b5828358-a428-4ea5-a533-f9daf2e4400d,survey_597,Ghana,Bergermouth,Female,75.0,Primary,Employed,completed,2026-05-14T10:42:19,field_tool,5,Very Good,2,Medium,2
+f70387ce-a8be-46a0-aa8d-1826450aa30c,b320c670-c282-4d05-96e9-e7658edbe792,survey_259,Ghana,Rileyside,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:42:15,field_tool,4,Neutral,5,Medium,4
+9b785f01-5655-4d31-af9a-6511f55c2a02,c0f02458-9231-49e0-bb52-fa70868d5b91,survey_677,Ghana,Stevensonland,Male,34.0,Primary,Self-employed,completed,2026-05-14T10:44:32,field_tool,3,Neutral,4,Low,3
+95455407-9420-432c-9bad-2264c3aee229,0ef6ea60-3976-4904-ae01-c05e6cc37514,survey_618,Ghana,Fernandoton,FEMALE,70.0,Tertiary,Self-employed,completed,2026-05-14T10:41:53,field_tool,3,Neutral,2,High,5
+a8954f62-0c0e-41c2-b7d8-8899360800f7,9219a03b-6380-4bf6-b472-1414b5683693,survey_293,Ghana,East Kathleen,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:28,field_tool,3,Good,2,High,4
+b71a3bbc-f982-4daf-968a-afa362ffd5e8,401cd041-6c05-439e-941d-e4d1bb559617,survey_644,Ghana,East Adam,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:40:41,field_tool,3,Good,1,Medium,3
+4944a78b-6692-44ee-a069-cf076892787f,67c61987-4814-4e7c-bb90-b5dc22573398,survey_416,Ghana,North Tonyborough,Female,19.0,Tertiary,Self-employed,completed,2026-05-14T10:40:35,field_tool,3,Bad,4,High,1
+87b7a4fd-9942-4194-82a8-9bab2c269a90,92174d2f-1729-4cc3-9b1e-cc2dc0ce29b9,survey_495,Ghana,Sancheztown,Female,63.0,Secondary,Employed,completed,2026-05-14T10:44:08,field_tool,4,Bad,1,High,2
+31f347e6-8028-4437-90f4-0bbe817bd4b2,39e9b2a9-588c-4e05-aad7-e7d35ce1d22a,survey_956,Ghana,Smithberg,Male,19.0,Secondary,Unemployed,completed,2026-05-14T10:41:08,field_tool,2,Bad,2,Low,1
+fc331f3e-15f3-413c-a01b-25e2eb4776c7,3045ac44-69c9-4fc0-8317-135431516408,survey_483,Ghana,Robertborough,Female,61.0,Tertiary,Self-employed,completed,2026-05-14T10:45:08,field_tool,1,Good,4,Low,1
+ccf2a136-6fb7-4ba0-ab1c-bc1b90f66c46,746c0e6b-7d86-478b-9a50-2701bca5f784,survey_742,Ghana,Peterport,Male,60.0,Secondary,Employed,completed,2026-05-14T10:41:05,field_tool,5,Bad,4,High,3
+27ef8b75-9449-40ec-b362-3fb96739aa67,4f340d8e-8555-47bc-9ba4-f510c42f9691,survey_118,Ghana,North Laurentown,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:39:58,field_tool,4,Very Good,2,High,4
+c60bc111-5fee-4885-baf7-c769f6aaee03,28cafb6b-be97-40e5-9aea-c80d379313d4,survey_331,Ghana,Harrisborough,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:40:45,field_tool,3,Very Good,1,High,3
+9b30efe2-bf7f-4d5d-bc3d-71191085e6bb,2c92c826-8615-430c-8459-6b6d4efc5845,survey_430,Ghana,Torresfurt,Male,41.0,Secondary,Self-employed,completed,2026-05-14T10:41:25,field_tool,1,Good,4,Medium,1
+f2fc1436-c3e0-43df-a918-2a02896faa3c,20985aac-532b-46b5-8b36-ae1dbf86bc0d,survey_272,Ghana,Port Matthew,Female,68.0,Primary,Employed,completed,2026-05-14T10:43:11,field_tool,4,Bad,5,Medium,2
+55568809-bc85-4528-9867-372c637ef94a,83cd578a-8e89-4f1c-9dad-f96114b379f4,survey_581,Ghana,North Tammy,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:44:16,field_tool,5,Very Good,5,High,4
+590556fd-f866-4ab1-a9b1-76285128f867,6de47935-d7d3-4684-afcd-b09900d8a763,survey_361,Ghana,Williamchester,Male,22.0,Tertiary,Self-employed,completed,2026-05-14T10:40:51,field_tool,3,Good,4,High,2
+c0228b27-67d9-452a-a666-5e73a3497baa,55b820c4-8feb-4881-912d-f282a94c0732,survey_817,Ghana,Lake Tammy,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:40:12,field_tool,4,Neutral,3,Low,1
+aca8fcba-ebdb-44c9-9d56-7f16ed870e8a,a7e68614-1808-4eff-9a5c-8d43b5cdc3e2,survey_796,Ghana,New Kathleen,Male,,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,2,Good,4,Low,1
+dffcdef0-0b83-44be-a51e-f35fbbada43c,07af644a-9a57-4b3c-8b90-2e507c03625f,survey_716,Ghana,Lake Peter,Female,65.0,Tertiary,Employed,completed,2026-05-14T10:42:57,field_tool,1,Good,5,High,5
+435020a4-f68a-440b-ab6b-e341aa35dbde,a6a374d9-646c-46f3-ba81-481e64aba2d7,survey_103,Ghana,Timothyhaven,Female,28.0,Secondary,Unemployed,completed,2026-05-14T10:40:17,field_tool,4,Bad,1,High,1
+af68a3db-6bfa-451b-a18a-aeb2ba5edd22,6a057569-288a-428e-bf0b-1c87a66948e1,survey_455,Ghana,Bonnieview,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:42:32,field_tool,1,Very Good,1,Low,5
+fcda6e36-0ad8-41f6-a18e-66fdd6f1439a,fa285214-3378-4d0f-b147-54c0029a8fd0,survey_541,Ghana,Carrburgh,Male,54.0,Secondary,Employed,completed,2026-05-14T10:45:21,field_tool,4,Very Good,1,Medium,3
+4a11bb94-a0a1-4e59-b90c-be3e392ea211,fce64e09-4730-450a-99e9-634aa9fd4824,survey_591,Ghana,Port Jeffreystad,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:41:31,field_tool,1,Neutral,4,Medium,2
+376c54e0-f931-4e9e-a133-b1a473a4683d,32abe4b7-b041-47d5-a208-79ba58544a17,survey_391,Ghana,Lake Jamesview,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:42:35,field_tool,4,Bad,5,Low,1
+5ef89aa4-486b-4676-8374-8aa06e0ed764,72be22b6-b074-4f1b-986d-b68a204affea,survey_263,Ghana,Robertville,Male,38.0,Primary,Employed,completed,2026-05-14T10:44:38,field_tool,1,Neutral,2,Low,4
+bfe5f23a-40e3-4930-beef-66a500388852,d033e058-0c24-481f-97a1-3562a1a0c5de,survey_139,Ghana,North Mike,Male,,Primary,Self-employed,completed,2026-05-14T10:43:56,field_tool,2,Very Good,5,Low,3
+4ea8a82b-cfed-4d40-bdb3-ac0921bdbafa,74c1be74-0fc4-450e-8e31-e669746c1f35,survey_476,Ghana,East Jacquelinefurt,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:42:28,field_tool,3,Bad,1,Low,5
+224ac5e8-1ad6-421e-ade2-d2d6b7e5652d,dab47a1d-d966-4bc6-88b6-c36f26d9ec3a,survey_891,Ghana,Lauraland,Female,20.0,Secondary,Self-employed,completed,2026-05-14T10:43:56,field_tool,3,Bad,2,Medium,4
+78666b82-b9ea-4673-b7b9-bedd6f6be0ba,b9257691-cca0-4420-a8f4-07365b04ab99,survey_342,Ghana,New Wesley,Female,62.0,Primary,Self-employed,completed,2026-05-14T10:41:06,field_tool,5,Good,3,Medium,2
+e6926cad-83fa-42d0-b60a-12f4153f0fc9,b689ec1a-e82c-41fc-8104-af2be8c96331,survey_986,Ghana,West Davidshire,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:43:39,field_tool,3,Neutral,2,Low,3
+3132cb06-6566-4c89-a7d3-5cedd87158f7,44abd1aa-69e5-4ab5-bf24-9179711461c3,survey_501,Ghana,East Ricardoland,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:43:09,field_tool,2,Good,3,Low,4
+39f14e59-d8ab-470f-a27b-a2cbce307fa9,69f760ae-70c2-46a1-9a1f-de56db6c1c9b,survey_768,Ghana,Devinburgh,Male,65.0,Primary,Employed,completed,2026-05-14T10:40:48,field_tool,3,Very Good,1,Low,2
+5734e335-3530-4b98-a7ec-b13c6ea7e3fd,c03944a9-ce11-4fe4-b259-b3b8b400df00,survey_349,Ghana,Rodriguezshire,Male,60.0,Secondary,Employed,completed,2026-05-14T10:45:15,field_tool,2,Very Good,4,Low,5
+5c72d54b-fc27-469c-bbe6-d321fc971dab,b55bf7df-44d6-45b5-a813-969953ea0387,survey_316,Ghana,Port Susanshire,Male,65.0,Tertiary,Unemployed,completed,2026-05-14T10:42:16,field_tool,2,Neutral,1,High,1
+25abbabd-50e3-4140-aeb3-fd73b069e1cf,94952c71-4377-41e0-9b19-1a238fd89bda,survey_662,Ghana,Jakeview,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:42:23,field_tool,1,Very Good,5,Low,2
+617ab0eb-5077-414f-93e0-04c436b8612e,cf0cb4d8-d56a-46de-baf2-2f567540b143,survey_164,Ghana,Boyerland,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:41:41,field_tool,5,Bad,5,Low,4
+38bc34b5-45e8-4bd1-8ca9-3cee933455d2,d8202cb7-893a-42f7-8ad6-45c8eb268c8a,survey_622,Ghana,Coopermouth,Male,72.0,Primary,Self-employed,completed,2026-05-14T10:39:48,field_tool,5,Very Good,5,Low,1
+c964917f-c849-48b7-94ef-55a643eb5028,e1aff6f2-f4e4-45cb-bc9e-fcc5c6e5c9a5,survey_759,Ghana,Lake Patricialand,Male,31.0,Tertiary,Unemployed,completed,2026-05-14T10:45:37,field_tool,2,Neutral,3,Low,5
+42d27b4b-54e8-402d-a0fb-1e809f371def,b8632715-58bf-412f-9826-87735e14bea1,survey_892,Ghana,Garnerhaven,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:41:16,field_tool,5,Very Good,5,High,4
+61858cfa-a5b9-409b-9bcc-061a2835f33f,90775460-3552-4ce5-b232-eeff2442fb64,survey_386,Ghana,Susanshire,Female,54.0,Secondary,Unemployed,completed,2026-05-14T10:41:16,field_tool,3,Good,2,High,3
+7207bbfc-b588-4d1c-a651-f8c14d485315,ec76741d-03e8-485d-8e9b-e989623521fd,survey_802,Ghana,New Kimberlyland,female,35.0,Secondary,Employed,completed,2026-05-14T10:40:58,field_tool,2,Bad,4,Medium,3
+8f60d349-ec78-4828-b999-c715e06fdf91,6a41ebc8-07db-4cc9-b5ad-3c06a31a25c4,survey_755,Ghana,Rodriguezmouth,Male,27.0,Secondary,Self-employed,completed,2026-05-14T10:45:23,field_tool,5,Bad,1,Medium,4
+bc7b10d4-cd39-4e23-a482-2fff7cecd48f,b499e4e8-08ca-4a76-a8e6-33a63ad0482a,survey_934,Ghana,Nicholsmouth,Female,53.0,Primary,Unemployed,completed,2026-05-14T10:40:49,field_tool,2,Bad,3,Low,4
+f85da4c3-1437-4f81-8b76-ebf5a0e9713b,0770fc79-23cd-43af-ab3f-bc5d002efe44,survey_637,Ghana,Lake Jennifer,Female,42.0,Tertiary,Employed,completed,2026-05-14T10:44:21,field_tool,3,Bad,2,Medium,5
+77d34799-55ba-4b15-a9b1-cdb4d434939a,f189683d-19a6-414f-8c93-f3f7f097f270,survey_531,Ghana,East Alexandershire,Female,35.0,Secondary,Self-employed,completed,2026-05-14T10:44:56,field_tool,2,Neutral,4,High,2
+6548689d-9805-4676-a37f-6fc32297d80b,7a0b5af9-da38-4ab5-a561-6fee6d4ada4c,survey_785,Ghana,Goodmouth,Female,46.0,Primary,Employed,completed,2026-05-14T10:41:03,field_tool,4,Good,5,Medium,4
+8d6d5518-7281-4a82-b202-e47fe3b5223a,a599252d-3308-4457-8477-bd1df1bae622,survey_534,Ghana,Walkerview,Male,36.0,Secondary,Unemployed,completed,2026-05-14T10:43:57,field_tool,5,Good,5,High,5
+24323f2d-9b3d-4e02-8f41-4a2ea44652f0,6015f8e4-e554-47c1-bca7-4018394a38c5,survey_493,Ghana,Roberttown,Female,21.0,Primary,Employed,completed,2026-05-14T10:43:35,field_tool,3,Bad,2,High,2
+e017118b-6253-4adf-914f-9321a459ed3c,a10154b5-944d-48b2-99c3-92b5a3fe4ce9,survey_486,Ghana,West Richardmouth,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:43:51,field_tool,3,Good,2,High,5
+3ed122dc-1637-4e08-b48d-99acae7ac427,dcaaffc4-d6c8-460f-8978-fcd7ce37237a,survey_319,Ghana,New Ricky,Female,60.0,Secondary,Employed,completed,2026-05-14T10:43:44,field_tool,3,Good,5,Low,4
+542cffbb-5973-43c4-8893-a4c69b045909,641eb3bc-42b9-4ab3-9151-4c4708b21461,survey_550,Ghana,Harrisbury,Male,49.0,Tertiary,Unemployed,completed,2026-05-14T10:40:18,field_tool,4,Very Good,5,High,4
+72aade90-1b76-44eb-8f2d-dc004c0e6c19,98d47d41-b9ce-4c5e-8052-6aad6478eb55,survey_112,Ghana,New Sophiamouth,Male,56.0,Tertiary,Employed,completed,2026-05-14T10:41:58,field_tool,5,Very Good,2,Low,1
+8a55eca4-c9c7-4ec2-8fcb-622caa592b8b,8cbc8197-e4ee-466b-acfb-238dfcdc18a5,survey_881,Ghana,Francisbury,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:45:18,field_tool,4,Good,4,Medium,3
+c67a7121-c362-4e30-bff6-13c26f803695,8479d783-5a91-4613-814b-2bad0cd1ed94,survey_798,Ghana,Fergusonton,Male,18.0,Secondary,Employed,completed,2026-05-14T10:41:02,field_tool,3,Good,3,High,1
+3528ec09-0e54-41ea-a810-9e85ede21b44,18326fb0-fb24-47c0-b65c-4100549cafee,survey_893,Ghana,New Lauren,Male,70.0,Secondary,Employed,completed,2026-05-14T10:43:16,field_tool,1,Very Good,2,Low,4
+daff014b-f751-458e-837b-7e7a990c66b7,20b62ec4-6b69-4546-a1d7-b508d6d09532,survey_198,Ghana,Josephfort,Female,45.0,Tertiary,Self-employed,completed,2026-05-14T10:44:00,field_tool,3,Neutral,3,High,2
+c8c90b2d-0aaa-4cad-badc-f2ecdfc50611,085cc132-afb9-442e-8c77-d7e1e50399b7,survey_225,Ghana,Zacharyport,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:39:47,field_tool,5,Good,2,Medium,2
+67db9389-81e9-4455-ad48-3df336e38b48,4b3bcc25-c792-4699-9733-1a6bd973552a,survey_819,Ghana,Martinezmouth,Male,23.0,Tertiary,Self-employed,completed,2026-05-14T10:44:51,field_tool,3,Very Good,4,Low,5
+0b42b295-2ad9-4482-a180-ba2693cbb88b,bbba9254-c4c0-4601-b783-3414c997175c,survey_397,Ghana,North Anthonyshire,Female,20.0,Primary,Employed,completed,2026-05-14T10:45:23,field_tool,1,Bad,5,Medium,4
+3624df09-a4d6-4ffd-8653-8ce45331caa9,ecdafac9-e393-4d98-b757-507a0e3b8325,survey_410,Ghana,South Jasonhaven,Male,43.0,Primary,Employed,completed,2026-05-14T10:42:23,field_tool,5,Bad,3,Low,4
+d1847125-c98e-429f-8091-6ee4644cf181,eaecbc66-70e7-44ce-a47a-1cb141f43f35,survey_176,Ghana,Lake Kyle,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:43:54,field_tool,2,Very Good,1,Low,3
+da4787d8-ee73-46fc-8958-b30777095c6a,66e1ed47-d834-42c2-be77-8b4248767087,survey_377,Ghana,Port Audrey,Male,66.0,Tertiary,Employed,completed,2026-05-14T10:39:56,field_tool,5,Neutral,4,Medium,2
+e416cf1d-c4a9-4140-9cdb-db44565e0189,1ac953d0-46bb-4af6-9ab8-d0518df1e463,survey_338,Ghana,North Autumn,Female,56.0,Secondary,Unemployed,completed,2026-05-14T10:42:22,field_tool,1,Very Good,5,High,3
+a2d7b055-67a8-4b05-8d8d-782f5e84584e,7f70881b-60c2-4031-9342-f3ebf241ba41,survey_392,Ghana,New Jefferyville,Female,32.0,Secondary,Unemployed,completed,2026-05-14T10:41:22,field_tool,1,Good,4,High,4
+3046c875-611d-4464-b4bb-ae254adeedbb,4b360565-59a3-4d2e-8365-d0cdf584be70,survey_306,Ghana,Lake Amber,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:41:49,field_tool,5,Bad,4,High,2
+dcaa656d-a835-4de8-8e43-3899c752a07e,2cd632f9-b5b0-4760-8afe-cbc1a79d6fe1,survey_800,Ghana,Crystalville,Male,46.0,Primary,Self-employed,completed,2026-05-14T10:40:24,field_tool,1,Good,3,Medium,2
+03be813a-28a8-44ad-9294-d7cfec43ba99,a7fdbdd1-953a-4bfb-a72a-6c39f76ae8a4,survey_562,Ghana,East Katelynport,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:39:47,field_tool,1,Good,1,Medium,3
+62849742-7740-45f9-a339-fd8a44383c86,a96dca7e-2a82-445d-8b36-ed3193ec3d9d,survey_254,Ghana,Bryanburgh,Female,43.0,Primary,Unemployed,completed,2026-05-14T10:42:20,field_tool,5,Bad,4,High,2
+8f45aba3-a3c9-4401-a67a-4e4dcac2f286,9ff6860d-9f17-40cd-b2cf-a21490914ba1,survey_366,Ghana,Lake Feliciaberg,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:41:46,field_tool,3,Bad,1,Medium,2
+94cc855f-96b2-429c-a073-b2e27e1837c6,7299bb11-b5af-4736-8ad0-55ae8ecd6d69,survey_690,Ghana,Archerfurt,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:43:20,field_tool,5,Good,4,Medium,1
+9dcd112d-335b-4610-83f1-237ac3e2a7cc,63225384-a1fc-43c3-be66-098409493c74,survey_775,Ghana,Port Jessica,Male,43.0,Secondary,Self-employed,completed,2026-05-14T10:44:35,field_tool,4,Neutral,5,Low,2
+0bf483bf-e17e-42e0-b13a-1c0205e16589,fecf7c8b-e572-4166-91f7-6592f01b6963,survey_497,Ghana,East Kimberlyport,Female,61.0,Tertiary,Self-employed,completed,2026-05-14T10:39:48,field_tool,1,Very Good,5,Low,5
+08996966-fcff-417a-a9e4-95b7da517b29,9ca516d6-906d-463b-b663-4891a5cd6b4b,survey_796,Ghana,Pierceside,Male,54.0,Tertiary,Self-employed,completed,2026-05-14T10:43:36,field_tool,2,Bad,4,Low,5
+c62613dc-b346-413f-b782-5531df73905d,b320f238-ab4b-45d4-8a4a-52c14969c421,survey_172,Ghana,North Allison,Male,62.0,Primary,Employed,completed,2026-05-14T10:44:01,field_tool,2,Very Good,2,Medium,1
+76798831-8194-43a8-807f-234ff594f3d4,293c8915-3d23-41be-a84f-c29332514a46,survey_253,Ghana,Lake Cindy,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:45:30,field_tool,4,Good,4,Medium,3
+7fe8129e-38a1-4903-adf3-9a72a19dcc06,022e983f-b4a5-4555-b29d-83e7d1a65ede,survey_297,Ghana,South Karen,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:41:44,field_tool,2,Neutral,3,High,3
+004524e9-a668-42e5-8d66-a161319f90c1,012154e0-e0a1-4e5c-aab6-4bad828236bc,survey_985,Ghana,Martinezport,Female,47.0,Tertiary,Self-employed,completed,2026-05-14T10:44:26,field_tool,3,Bad,3,Low,3
+4bea92a8-5c90-48cc-9cc1-0fec6904fc22,1e021d08-5361-4570-8d09-d7511470b624,survey_645,Ghana,East Mallory,female,29.0,Tertiary,Self-employed,completed,2026-05-14T10:40:33,field_tool,2,Neutral,3,High,4
+7fe2c4d2-c502-46fc-bd3e-5dc0e754c78c,8265133c-784b-4064-900d-a1df13e2c5ee,survey_824,Ghana,Brownmouth,Male,73.0,Secondary,Employed,completed,2026-05-14T10:43:29,field_tool,5,Bad,1,High,4
+f54ffd76-8e50-4caa-89da-be8fe80533ed,7e487266-73cb-4761-979b-788e67ef1243,survey_665,Ghana,New Derrickside,Male,56.0,Secondary,Employed,completed,2026-05-14T10:44:22,field_tool,5,Very Good,5,Medium,3
+16c391c2-476c-46e8-897a-c572f053ee96,088ae658-c363-4714-a280-88299b559dd2,survey_339,Ghana,North Sandra,Female,61.0,Tertiary,Unemployed,completed,2026-05-14T10:44:11,field_tool,3,Bad,2,High,1
+6cb3ec1f-9f06-4a4b-8b7d-d3dc6e055f2b,71a4268e-fdb0-49d1-bb89-7092f85a0197,survey_915,Ghana,Lindaview,Female,70.0,Tertiary,Self-employed,completed,2026-05-14T10:39:57,field_tool,5,Bad,3,Medium,1
+3a6e9130-346b-4fe8-96b7-0bd72eb62930,c09d62be-9fce-41c3-80e4-28e65b868adc,survey_767,Ghana,East Erin,Male,27.0,Primary,Employed,completed,2026-05-14T10:39:46,field_tool,2,Bad,2,Low,2
+6db5e089-92a6-4318-a64e-d096d6c0e1c2,60c949b5-0351-4198-aaea-d437358f0fc8,survey_650,Ghana,Burnsfort,FEMALE,74.0,Secondary,Employed,completed,2026-05-14T10:40:36,field_tool,5,Very Good,3,High,5
+b1951c59-d97e-45d9-b20d-c4b9ea130826,2b749593-a4b6-414f-9f35-bb449839e643,survey_475,Ghana,Katherinefort,Male,72.0,Primary,Unemployed,completed,2026-05-14T10:45:19,field_tool,5,Neutral,2,High,1
+2ebecf84-4884-43e1-a2c6-a3e48f6f47ec,52d95cce-60c4-40a4-acca-a9cbedc6da13,survey_373,Ghana,Karenmouth,Male,69.0,Tertiary,Self-employed,completed,2026-05-14T10:40:12,field_tool,5,Bad,2,High,4
+a60da7be-8f66-436a-818a-1a92bf00dd9c,48244d07-67a5-4874-ac65-d11e3078c642,survey_772,Ghana,Woodsview,Male,,Secondary,Employed,completed,2026-05-14T10:45:37,field_tool,3,Bad,5,High,4
+7059ba66-43d2-42ae-8518-233ca8cd4092,bebeea42-b1c3-46c0-9841-305e5d0d929c,survey_491,Ghana,Lesliemouth,Female,,Secondary,Employed,completed,2026-05-14T10:42:42,field_tool,3,Bad,1,Low,2
+053ee7b2-fada-487d-bb1f-1713cd78da6c,7182d248-5afe-421d-ad7d-9f25c3f8f3cc,survey_829,Ghana,Teresaport,Male,25.0,Primary,Self-employed,completed,2026-05-14T10:45:27,field_tool,5,Good,1,High,1
+3be5d58c-53ff-4b4f-844a-c0b7b6bf7c4f,84a94794-d2d7-4444-b2fa-7c48cf958494,survey_261,Ghana,Port Marcus,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:43:14,field_tool,2,Neutral,5,Medium,5
+487006d3-dd3f-40aa-a9ee-114d8fd82661,9a81d73f-f2b9-4927-97f8-6146a79a19eb,survey_424,Ghana,Lake Danielhaven,Male,29.0,Primary,Employed,completed,2026-05-14T10:42:47,field_tool,2,Bad,3,Low,1
+045f4419-31de-41d1-b298-4ffdace945ad,eced079e-c30b-47f7-9aae-b709f2c26922,survey_186,Ghana,Port Danielchester,Female,21.0,Tertiary,Self-employed,completed,2026-05-14T10:43:43,field_tool,3,Neutral,2,High,1
+f681dee4-d0df-49da-a876-2f647e3165f1,3b72ff18-c98f-49a9-bfe9-7204e4a5c9c4,survey_778,Ghana,Charlesmouth,Female,50.0,Primary,Self-employed,completed,2026-05-14T10:43:19,field_tool,5,Bad,3,Low,2
+d82dbcbb-43ae-4fc8-b6ee-4afa4e107f3c,7e93f9de-6ba3-414c-bc6c-5e7c496ef277,survey_763,Ghana,Lake Michealchester,Female,63.0,Secondary,Self-employed,completed,2026-05-14T10:44:12,field_tool,1,Very Good,5,Low,1
+b7c9a87b-5218-4542-90fc-fd105fd945c5,8b6aa701-9bc7-4652-b876-4c84025de8b8,survey_708,Ghana,New Jill,Female,19.0,Tertiary,Self-employed,completed,2026-05-14T10:40:14,field_tool,1,Bad,3,Medium,2
+7941728e-027b-4d63-9cee-796656047d32,42596a86-392c-457e-9538-73c8dc06f2d6,survey_153,Ghana,Morriston,Male,62.0,Primary,Self-employed,completed,2026-05-14T10:41:10,field_tool,3,Bad,1,Medium,5
+f2830021-c651-4867-83df-8de7d943ae65,82575b1b-51ee-475a-bc20-4d12c2682e39,survey_456,Ghana,Williamsport,Male,44.0,Secondary,Employed,completed,2026-05-14T10:42:36,field_tool,1,Bad,5,Low,2
+92a9791f-1434-42fe-8f7a-d9a44246f381,3db51e16-b02a-4367-b3e7-754860776e15,survey_476,Ghana,Port Amber,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:40:57,field_tool,5,Neutral,5,Medium,2
+46cf64f5-e266-47ec-8007-7fc7aa51e2e4,f8b8bb20-9fa8-4479-8cf7-9d963e84897c,survey_152,Ghana,Devonmouth,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:43:31,field_tool,3,Very Good,3,Medium,4
+9c25ed93-9998-4342-bcca-ee05fb53488a,51194e38-13be-402f-96c8-d2210db880a4,survey_960,Ghana,Jenniferhaven,Male,45.0,Primary,Employed,completed,2026-05-14T10:45:06,field_tool,4,Good,3,Low,1
+9e727c8e-81c2-46d1-82a4-f2d4d10025ec,8910ec5c-313f-471e-a705-8dfa222b88d5,survey_561,Ghana,Port Danielleburgh,Male,40.0,Primary,Unemployed,completed,2026-05-14T10:41:57,field_tool,2,Neutral,2,Medium,5
+00903500-0362-457e-a922-0258c21f9707,dfb50929-bd2e-4920-ad5f-2634fed09551,survey_116,Ghana,South Christopher,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:40:36,field_tool,4,Very Good,5,Medium,1
+77050467-1754-465a-847d-10033e5041f4,abf5c12c-bf58-4c3b-867c-564caa43816e,survey_788,Ghana,Mejiahaven,Male,70.0,Primary,Self-employed,completed,2026-05-14T10:45:03,field_tool,2,Good,3,High,3
+9ed2dd28-badf-45a3-9776-a7ba3afe087e,76730d11-ef7e-401b-947b-3f4a60b9b40c,survey_984,Ghana,Timothyburgh,Male,66.0,Secondary,Self-employed,completed,2026-05-14T10:41:30,field_tool,3,Good,1,High,3
+3e385752-de65-4285-84a3-d30e16bc0ecf,3588bdf7-064b-4b81-b82a-22a2a1f1c440,survey_916,Ghana,Deniseview,Female,26.0,Tertiary,Unemployed,completed,2026-05-14T10:43:40,field_tool,5,Bad,5,High,4
+caaa3e04-802a-4d5e-b9ac-c89122b8a703,c0899405-71a3-450c-81e6-911f8f6d9e14,survey_724,Ghana,South Alisha,Male,71.0,Tertiary,Employed,completed,2026-05-14T10:44:32,field_tool,4,Bad,3,Medium,1
+08ee325d-7ff1-4f89-abbf-e99c2c10dc73,eb027c2f-3070-435c-9e29-137ffdaa1cf5,survey_894,Ghana,Port Cherylburgh,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:44:32,field_tool,1,Very Good,2,Low,1
+7dbe4fcb-1ced-4979-89ad-4a54c225f218,c59acb15-171c-4ab2-87d0-03adf3906c60,survey_943,Ghana,Lake Jeffrey,Male,50.0,Primary,Employed,completed,2026-05-14T10:44:01,field_tool,3,Good,2,High,5
+5dabee2e-3a18-4bad-85bd-1ccb31f324f9,ddf65add-003f-4cd6-b27c-2198c0f06059,survey_241,Ghana,Lopezbury,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:45:30,field_tool,4,Neutral,2,High,1
+ad9dd91d-6044-438b-9034-99f6a8f19cd7,bb7aeef7-de17-41e3-802e-4222946b835d,survey_804,Ghana,New Michaelmouth,Male,21.0,Primary,Employed,completed,2026-05-14T10:42:48,field_tool,3,Very Good,3,Medium,5
+c438a7fd-2955-4727-9b73-8a7bff2fbe1c,8a062575-d7e3-42cb-907e-1a8147386d66,survey_448,Ghana,West Amber,Male,34.0,Tertiary,Unemployed,completed,2026-05-14T10:44:11,field_tool,4,Good,5,Medium,1
+00eb41e5-9e67-48f7-9f9f-a7134a4a87a3,3d317eea-ea95-4de8-ac26-20b4e347f95a,survey_720,Ghana,West Katieton,Female,62.0,Secondary,Employed,completed,2026-05-14T10:41:38,field_tool,3,Good,3,Low,5
+cbe0bc30-60bf-4b68-bb17-51dd48a51c7a,072a5b8c-3983-4fbf-a6ff-8fe358df3df6,survey_386,Ghana,East William,Male,19.0,Secondary,Unemployed,completed,2026-05-14T10:43:20,field_tool,3,Bad,2,Low,2
+966a48a3-a491-41c0-b262-80f14b925066,aaf0df7e-538d-4e30-b0d7-38c3798f5701,survey_813,Ghana,Monicatown,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:42:17,field_tool,5,Good,3,High,2
+fd2c20bd-2f81-4794-a77f-a1e3687aec2d,d036038c-945e-43ef-b25f-fd6ffbddd9cf,survey_783,Ghana,Wardville,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:43:18,field_tool,3,Neutral,4,Low,4
+db631df2-1d65-4e06-b167-468894b0ccad,958f00cc-80f5-47bf-8b0f-88afd40cac1e,survey_978,Ghana,Penaland,Male,,Secondary,Self-employed,completed,2026-05-14T10:41:19,field_tool,3,Bad,5,Medium,4
+29a6f7a0-f7a8-4dc4-b35b-35a99a0a55ac,cb339b05-bd38-4791-878a-bc0f25d38ae0,survey_301,Ghana,Brianchester,Female,22.0,Tertiary,Self-employed,completed,2026-05-14T10:41:08,field_tool,2,Bad,1,Low,3
+7c0f5059-57b6-4678-b55c-3a3884dfca52,e83fc4fd-6864-47b3-8a36-8a15d9b60b28,survey_991,Ghana,Paulborough,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:42:12,field_tool,3,Very Good,2,High,1
+2bbd14d3-bc59-40d8-bf07-a7d8be0acaa7,af6abe30-0cf0-4d6d-a2f8-4ed870316939,survey_948,Ghana,East Andrew,Male,75.0,Secondary,Unemployed,completed,2026-05-14T10:41:07,field_tool,2,Very Good,2,High,1
+c882de55-a0c7-45cf-a7b9-37e5f3213704,707a0a47-8b5c-47f1-9c8b-4dd8d9dda547,survey_427,Ghana,New Carly,Female,70.0,Tertiary,Employed,completed,2026-05-14T10:45:13,field_tool,1,Good,4,Medium,1
+6f86c5c1-864e-442b-b1a7-1f4f02f76b4a,778237fb-6522-4b52-8a1b-5865a3ce8cd6,survey_874,Ghana,South Jason,Female,58.0,Secondary,Self-employed,completed,2026-05-14T10:43:03,field_tool,4,Good,1,Medium,4
+47c093b9-0d08-45a8-8401-9fa04454e799,da1817d8-0435-425f-be7c-7c2133cdb1a9,survey_249,Ghana,Paulville,Female,39.0,Tertiary,Self-employed,completed,2026-05-14T10:43:40,field_tool,2,Very Good,2,Medium,4
+93e482fc-3f0a-47c2-a0f7-82687462f77e,f7aaa07e-64e5-4dc7-be85-300c285edb02,survey_225,Ghana,New Kayla,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:41:40,field_tool,4,Very Good,3,Medium,4
+7cc03503-ee8a-4f2b-a432-1d77310f0bdf,e3fb18a3-b374-471d-b51d-b817f1d6afbe,survey_492,Ghana,Collinston,Female,,Secondary,Unemployed,completed,2026-05-14T10:44:03,field_tool,5,Very Good,1,Medium,1
+ed11d73c-3c6f-4e29-8278-0c4faf6adc5f,c86b71d5-48b3-473a-8f58-4f82d34b89eb,survey_570,Ghana,Campbellland,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:45:03,field_tool,5,Neutral,5,High,3
+df184af5-7d48-47f9-b61e-534b52071aa8,ffad696d-ce98-4f1c-aee0-1d27171e3893,survey_305,Ghana,West Melissa,Female,32.0,Secondary,Self-employed,completed,2026-05-14T10:41:33,field_tool,2,Good,1,Medium,4
+08a6e8e1-20ca-4186-a4fa-cbf6db07423c,08d98ac1-ae08-4b55-bf4a-2a25dbc33927,survey_712,Ghana,North Bruce,Male,31.0,Secondary,Unemployed,completed,2026-05-14T10:45:33,field_tool,4,Good,1,Medium,2
+9b119b86-9ec1-4942-8f1f-d7d1d632088e,3c20575d-697c-44e3-a360-5db519115f3f,survey_157,Ghana,Reynoldsberg,Male,44.0,Primary,Employed,completed,2026-05-14T10:44:08,field_tool,4,Very Good,4,Medium,1
+95fc823c-151f-4ac3-9d84-2c84d3fe3733,51728688-d64b-40b8-9ce2-a1cf462cd446,survey_137,Ghana,Charlestown,Female,65.0,Primary,Unemployed,completed,2026-05-14T10:44:13,field_tool,5,Bad,4,Low,3
+dd21eaad-df66-4134-a229-5330887d85ba,9d85b47a-7426-4754-94cf-7750a2baad72,survey_752,Ghana,Hernandezshire,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:42:40,field_tool,4,Bad,5,Medium,4
+7b4c4ee2-9a9f-4701-a0df-beb4af81a2d1,1aa5c53b-d668-4d5c-8388-e5e61371a041,survey_106,Ghana,New Larrychester,Female,72.0,Tertiary,Self-employed,completed,2026-05-14T10:40:20,field_tool,3,Very Good,4,Medium,4
+3ce27d6f-6fe4-4bbe-a6a2-799b994afd7a,fb807727-bb2a-4f05-a1f5-5560095088b5,survey_307,Ghana,Burgesston,Male,42.0,Tertiary,Employed,completed,2026-05-14T10:41:13,field_tool,3,Neutral,5,Medium,4
+1559b06a-6875-496c-a609-bfefa275c8ce,01918e38-e419-4e52-a3b4-0bb1ddc62b2a,survey_742,Ghana,Roberttown,Male,24.0,Primary,Employed,completed,2026-05-14T10:45:06,field_tool,4,Neutral,4,Medium,3
+5ede44c6-1881-4d62-b6a9-1d3be29bbfd3,9ccbb26b-4308-4251-b133-dbef1a9971a4,survey_157,Ghana,Jamesville,Female,32.0,Secondary,Self-employed,completed,2026-05-14T10:42:54,field_tool,1,Very Good,2,Medium,4
+9c864a34-25f3-422f-8863-e7bb0e1bcbb2,e6ca51f9-2254-4864-9215-f840e42634c1,survey_482,Ghana,Joshuatown,Male,60.0,Tertiary,Unemployed,completed,2026-05-14T10:43:13,field_tool,4,Bad,3,Medium,4

@@ -1,0 +1,66 @@
+# data_contracts/api/world_bank_schema.yaml
+dataset: world_bank_population
+version: "1.0.0"
+description: >
+  Raw schema for World Bank Population Total (SP.POP.TOTL) API responses.
+  This defines the structure of data received from the World Bank API.
+
+primary_key:
+  - country_code
+  - year
+
+fields:
+  country:
+    type: string
+    required: true
+    description: "Country name"
+
+  country_code:
+    type: string
+    required: true
+    description: "ISO 2-letter country code"
+
+  country_iso3:
+    type: string
+    required: false
+    description: "ISO 3-letter country code"
+
+  year:
+    type: integer
+    required: true
+    description: "Year of the observation"
+
+  population:
+    type: integer
+    required: true
+    description: "Total population"
+
+  indicator_id:
+    type: string
+    required: false
+    description: "Indicator ID"
+  indicator_name:
+    type: string
+    required: false
+
+  unit:
+    type: string
+    required: false
+
+  observation_status:
+    type: string
+    required: false
+
+  decimal_places:
+    type: integer
+    required: false
+
+  ingestion_timestamp:
+    type: timestamp
+    required: true
+    description: "When this record was ingested into the platform"
+
+  source_system:
+    type: string
+    required: true
+    default: "world_bank"

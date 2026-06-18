@@ -1,0 +1,201 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+206489b0-bd0c-4049-a91f-d229d59eb9b1,bd1f8d7f-1893-4ed0-a50e-0480b2dbfac7,survey_636,Kenya,New Michael,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:43:48,field_tool,3,Neutral,4,High,3
+dfc80c86-b3bc-47da-87df-177b20e00a95,6eb51aa3-e2c6-4fc7-937b-9d47caa661c9,survey_466,Kenya,Sherryburgh,Male,36.0,Secondary,Employed,completed,2026-05-14T10:44:23,field_tool,3,Very Good,5,Low,2
+2dd3ae9e-aeeb-4fa2-b144-da281f4bc138,e2f05684-3280-4327-bda7-23ed01a92ba9,survey_819,Kenya,West Andrew,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:43:16,field_tool,2,Bad,5,High,5
+20152699-6289-47e2-beb2-be132f9fc5f3,b0d734a6-db4f-40e1-824f-b149b59f0391,survey_957,Kenya,Kelseyhaven,female,62.0,Secondary,Unemployed,completed,2026-05-14T10:40:03,field_tool,1,Very Good,5,Medium,4
+f950a923-6147-4cf1-a9b3-fe121f086b4b,c82c471d-4e08-4aaa-a4ac-38e6ffbf9be3,survey_936,Kenya,New Patricia,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:40:02,field_tool,1,Neutral,1,Low,4
+b79e8b32-b4fe-41c7-b4fc-59bbc5b94594,8a828284-adc1-4c19-9ba0-981279d1afc8,survey_844,Kenya,New Nicholas,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:42:48,field_tool,1,Good,4,Medium,4
+cebfdc03-d745-4db9-b587-92a2a4e9ca7e,70d0c34f-8585-4e65-98e8-95c1bc1367ef,survey_592,Kenya,New Jaime,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:43:32,field_tool,5,Neutral,3,Low,1
+1d854455-07c4-4100-afe6-5d3cf15da22b,e06c1a0a-6d82-4e2e-8422-932505f6dc84,survey_219,Kenya,Lake Danielle,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:44:00,field_tool,1,Neutral,5,Low,3
+02e0ffc8-c413-4715-b8f2-faefb2094bfd,37b3b2e1-b954-4249-b689-57f2f3a5a0a9,survey_558,Kenya,Smithton,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:42:49,field_tool,2,Very Good,3,High,4
+de8e76a3-55da-45c0-b521-86c4db9450a7,d390426a-220a-47a5-89da-9d785a209e04,survey_684,Kenya,South Douglas,Male,37.0,Primary,Employed,completed,2026-05-14T10:41:24,field_tool,1,Bad,3,Medium,3
+f55ab61a-94c8-4c02-88ea-6617436996cd,152b7fbd-aa15-47d3-b4ec-733defe47a7e,survey_368,Kenya,Chaneystad,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:39:51,field_tool,3,Good,3,High,1
+1c1ee1cf-f3e4-4f4e-a032-d5dfb73b4c28,32adec60-5ebe-4f74-9598-6e2d104299a8,survey_280,Kenya,Lake Shelley,Male,33.0,Secondary,Unemployed,completed,2026-05-14T10:39:53,field_tool,1,Neutral,5,Medium,4
+258c7798-61ad-41d8-ab24-59db8ed2d9ea,d5e6438b-370c-4904-8683-315afcfb036c,survey_329,Kenya,Katieport,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:43:28,field_tool,1,Bad,5,Medium,1
+53530ac0-1ba3-4491-8a52-f97bc6f164f5,c1d298f9-5664-4d02-acc4-7eb37a0f858c,survey_937,Kenya,Rosalesside,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:44:01,field_tool,2,Neutral,2,Medium,4
+d8bceda8-df0e-464c-a5e7-f6b6556e3164,3627bf2a-6be2-4021-acf7-1193b254036a,survey_455,Kenya,Davismouth,Male,34.0,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,1,Very Good,3,High,2
+d2c1eaae-ea90-4b2a-8b46-ed613ccd40ea,0205d475-78f8-461a-8981-2bb0967d632e,survey_189,Kenya,Port Lisamouth,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:41:48,field_tool,2,Very Good,3,Medium,1
+6168f4cf-51a5-472b-8d72-0e043cd33b34,ef5e26ad-8a24-42fe-af2f-02e981812fdf,survey_974,Kenya,Port Gregoryberg,FEMALE,74.0,Primary,Self-employed,completed,2026-05-14T10:45:16,field_tool,5,Bad,3,Low,3
+2c907de2-7c50-4566-8783-a493d80106ed,fc0502a8-3916-4877-86cf-ce1ec866f808,survey_893,Kenya,Owenmouth,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:43:32,field_tool,3,Bad,5,Medium,2
+d5f34727-4e42-4992-bd40-3c083d6dae41,d8546530-5d1f-492a-bf6c-c992b01c5c83,survey_421,Kenya,Port Deanna,Male,53.0,Primary,Self-employed,completed,2026-05-14T10:43:00,field_tool,4,Very Good,3,High,5
+ad8f39ca-6aff-418d-9887-ba572abe32fb,55096fb8-49c4-424d-8e72-965545138702,survey_424,Kenya,East Conniefurt,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:41:00,field_tool,2,Very Good,1,Medium,3
+9a1cf8a4-d1b5-43aa-91c1-a85c15c1d2eb,03140dab-2737-4450-ab45-b27df077fa71,survey_828,Kenya,Port Juan,Female,27.0,Secondary,Employed,completed,2026-05-14T10:43:09,field_tool,5,Bad,1,High,5
+40cfa4c5-31c6-42b4-902a-64866bf1334a,44d1e260-ad36-4172-81a2-cc6bd4c45e2e,survey_183,Kenya,New Ariel,Male,20.0,Primary,Employed,completed,2026-05-14T10:42:58,field_tool,1,Very Good,1,Medium,1
+de19bd06-3fa7-4361-88d6-33b1c7359735,0e8fc2d2-848e-4c44-b5ae-d7171f3cf571,survey_773,Kenya,Jonesfurt,Female,49.0,Secondary,Employed,completed,2026-05-14T10:40:03,field_tool,4,Good,5,High,3
+5da76595-09cc-44d3-bb90-d18453230c73,91ff4231-6eb9-4015-ba98-b1e8ea73b7a7,survey_103,Kenya,New Carol,Male,61.0,Primary,Employed,completed,2026-05-14T10:42:35,field_tool,4,Neutral,5,Medium,1
+84017623-9575-4f94-8ddc-76be2b8f8be4,6263c57b-f37f-44a9-8974-cda513014af9,survey_533,Kenya,New Jennifer,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:44:56,field_tool,3,Bad,1,Medium,4
+32d28f71-0f13-47ee-ab83-b78b4c58ef0d,254cccb2-6191-4c4a-9213-0d872411561e,survey_544,Kenya,Smithburgh,Male,60.0,Secondary,Self-employed,completed,2026-05-14T10:43:49,field_tool,3,Bad,4,Medium,1
+9653ef4c-f627-46b9-a2c5-70d215d4631a,7ed03c7b-b37b-4305-9f8d-c71681c0c81f,survey_796,Kenya,Port Brianchester,Female,39.0,Tertiary,Self-employed,completed,2026-05-14T10:45:14,field_tool,5,Good,3,Medium,2
+4faa28d4-a0bf-4c1e-bfbe-6727a2097702,5c3c3c5d-0331-472b-a24c-55b630ce7ed5,survey_731,Kenya,Georgechester,Female,75.0,Tertiary,Self-employed,completed,2026-05-14T10:41:11,field_tool,5,Very Good,3,Medium,2
+32cdafc1-5fa7-4470-970d-5b80fac89569,afc3be3c-08d9-4de2-a065-831650e3f712,survey_209,Kenya,Austinland,Female,65.0,Primary,Unemployed,completed,2026-05-14T10:40:52,field_tool,3,Neutral,4,Medium,4
+4a6f2bf1-8a31-4658-8d7a-924ba1117546,8c0fd1c9-2b09-4746-91b0-c9f136d992a4,survey_451,Kenya,Lake Tammyside,Female,33.0,Secondary,Employed,completed,2026-05-14T10:44:04,field_tool,3,Good,1,Low,4
+ce857698-8c4d-4c83-b92e-870d99e7104c,ef9c783e-84dc-4558-836e-91d9c27b6b3e,survey_488,Kenya,Farmerhaven,Male,23.0,Tertiary,Employed,completed,2026-05-14T10:40:16,field_tool,5,Very Good,5,Medium,1
+454d7b8e-f7dc-4ba8-ab9a-26ac92195b85,00ed9a73-e557-4574-a267-c372177db90b,survey_639,Kenya,Garciaburgh,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:41:25,field_tool,4,Very Good,4,High,1
+2afa64c0-88b2-423b-9873-b7f688d7f62a,3e96afa9-0692-4ebf-a677-0bc0b438b799,survey_957,Kenya,Dixonhaven,Female,42.0,Tertiary,Self-employed,completed,2026-05-14T10:45:13,field_tool,2,Very Good,2,Medium,2
+ed5561dc-8466-4492-a157-0a114daafea8,a98f70a1-8ef0-4827-bb47-7a4c556cf7a2,survey_643,Kenya,Joseview,Female,41.0,Tertiary,Self-employed,completed,2026-05-14T10:41:28,field_tool,4,Bad,1,Medium,2
+b751866d-0b05-4afd-8c75-8c0f7a4a8911,22638040-7ceb-409d-9528-f013cd5e2dcb,survey_587,Kenya,Port Jameschester,Female,31.0,Primary,Unemployed,completed,2026-05-14T10:43:54,field_tool,5,Very Good,1,Low,2
+93cde5ac-8799-43d9-b2af-12ab21ff3d51,6aab670f-da8a-486b-beeb-9aa4fe5b49af,survey_844,Kenya,Port Angie,Male,34.0,Tertiary,Unemployed,completed,2026-05-14T10:41:35,field_tool,3,Neutral,4,High,3
+81122fce-85dd-412d-a44c-f4989e3e3249,b7110232-1299-4020-b157-8cadc6994e48,survey_886,Kenya,Lake Sandraton,Female,69.0,Tertiary,Unemployed,completed,2026-05-14T10:42:16,field_tool,2,Very Good,3,Medium,2
+f31bac21-a630-45af-b380-5e94c9851d78,4c0abe17-e454-4aa3-8331-aee53ba1a169,survey_125,Kenya,North Kellie,Male,29.0,Secondary,Employed,completed,2026-05-14T10:43:41,field_tool,1,Neutral,4,Low,5
+1dab5eb3-bb60-4086-9f13-c0adde8520a5,5456d7b7-7cfb-477d-b7f3-cf5891eb2bce,survey_917,Kenya,Huntview,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:41:11,field_tool,5,Bad,2,Low,2
+8b7a22d2-2757-41ab-af01-c198390948fc,8e5f26da-1f1c-4b2e-8e29-b6421e03c243,survey_426,Kenya,North Lisafort,Male,40.0,Tertiary,Self-employed,completed,2026-05-14T10:42:03,field_tool,3,Good,5,Medium,2
+7f8e3057-4103-4d36-b91f-6e063b23bd70,176c496e-992f-4b73-aa87-9ac076706b08,survey_500,Kenya,North David,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:42:58,field_tool,3,Bad,4,Low,5
+48aaa1ae-c0b1-4b56-8ddf-65b396930327,70d5fc1f-b116-4989-9e7e-7a565b579381,survey_298,Kenya,Paulborough,Male,38.0,Tertiary,Unemployed,completed,2026-05-14T10:40:10,field_tool,1,Good,4,Low,3
+0f293a42-56f8-43fd-be77-9550e1e2aa7b,1b5d0620-3667-4667-afa0-375b2192bc54,survey_375,Kenya,North Tracy,Male,18.0,Primary,Unemployed,completed,2026-05-14T10:40:39,field_tool,5,Good,4,Medium,5
+1ecfb418-7991-4747-b780-8f68638968b9,04579506-c04e-4dfa-895b-6b5e72a10fd9,survey_588,Kenya,Gregorybury,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:40:52,field_tool,4,Good,2,Low,3
+73b338c6-1765-4788-8848-955675c43cc6,86a04192-5091-4fc8-9b23-d7a97e723265,survey_858,Kenya,Port Christophermouth,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:44:53,field_tool,2,Very Good,5,Medium,2
+b128e63f-5807-4766-9d84-eacf14e1a24b,6a1d007e-0630-44ad-aab0-9b9dcfd95323,survey_568,Kenya,North Melody,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:40:40,field_tool,3,Bad,1,Low,3
+67d746ba-0d0f-4105-afad-a558275be8e1,dd90ed3e-215a-41fa-9814-f3d9618cd01a,survey_715,Kenya,Jacksonfurt,Female,21.0,Tertiary,Employed,completed,2026-05-14T10:40:26,field_tool,4,Neutral,4,High,5
+4c9c3867-8fc6-4550-bc5e-4b79cf72f887,1a591f6e-9101-45f8-a360-99268da0ca97,survey_472,Kenya,New Mauriceville,Female,39.0,Primary,Employed,completed,2026-05-14T10:40:02,field_tool,4,Good,2,Low,1
+15c9d96a-7e92-4c6c-928e-cf4e81e8872b,d35a0e53-e61c-4c8d-b93c-10be04c325ec,survey_272,Kenya,South Carolynburgh,Male,51.0,Tertiary,Self-employed,completed,2026-05-14T10:42:26,field_tool,5,Good,3,Low,5
+2d586523-032e-40d8-bf7f-99a13fd67a33,de10a04c-659e-4f7e-b9ba-880a107ed9af,survey_183,Kenya,East James,Female,64.0,Tertiary,Employed,completed,2026-05-14T10:45:14,field_tool,1,Good,5,Medium,4
+78de46dc-e4e4-45e5-ae04-277701775b22,a999e3e4-371f-4e97-933d-ca47049bf703,survey_862,Kenya,Friedmanburgh,Male,53.0,Secondary,Self-employed,completed,2026-05-14T10:39:56,field_tool,5,Good,2,Medium,4
+35215c0b-132f-4aa5-ae60-654d57ded658,e328b2d4-a715-40fd-90d0-bea1d9bf112f,survey_736,Kenya,Port Candicetown,FEMALE,47.0,Tertiary,Employed,completed,2026-05-14T10:40:19,field_tool,3,Neutral,2,Medium,1
+3877a3da-d8e4-4cde-8353-9359b9104174,46f9c580-c16c-4c97-aa77-0ba7dd968c25,survey_717,Kenya,Jensenland,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:45:41,field_tool,5,Very Good,3,High,3
+02392d11-a346-4f78-af07-bb9718bb9e5f,092dc699-6729-4f02-90e2-d0d73c78f25e,survey_490,Kenya,Simpsonfort,Male,45.0,Tertiary,Self-employed,completed,2026-05-14T10:41:01,field_tool,5,Bad,3,Medium,3
+a07a545e-d696-46f2-8f6b-7c424c20fe67,48475033-be34-4eb2-a1fd-1fb0094cb544,survey_270,Kenya,Brandonshire,Male,20.0,Secondary,Unemployed,completed,2026-05-14T10:44:23,field_tool,1,Neutral,3,Low,3
+f8e7f63a-8825-4469-8f78-0bd3b8b66304,d7ad3336-bc5e-45bb-af14-655501d7e6b2,survey_159,Kenya,Lake Gina,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:42:40,field_tool,2,Bad,4,High,3
+6801091b-ef5b-4ed4-bcec-182920d6814e,34f173db-f5e9-4bfc-bdb0-b3ce3a8b7319,survey_695,Kenya,Anthonyfurt,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:41:16,field_tool,3,Bad,4,Medium,5
+c668263c-807c-4958-b82d-095090ee3b9e,f960d596-5351-413a-a1cd-d1cb6bd49c7d,survey_874,Kenya,North Larryshire,Female,35.0,Tertiary,Self-employed,completed,2026-05-14T10:42:00,field_tool,2,Good,3,Low,2
+75569302-4e73-4529-bab0-438c3a65fd18,7c3fde52-1e98-4cdf-b038-732260bbd4ab,survey_681,Kenya,North Natalie,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:42:46,field_tool,4,Bad,1,High,2
+0c94e64a-2785-4308-933c-0ff5fefdca3b,baae55b2-cf65-41f8-931a-2e37aa60fc9e,survey_499,Kenya,Craigbury,Male,46.0,Secondary,Employed,completed,2026-05-14T10:45:17,field_tool,1,Very Good,3,Low,5
+6a403df5-7ba8-4c9d-82b0-de66c8f4fbbe,65538a5b-9778-4a01-8781-66382025b4ce,survey_745,Kenya,Harrisshire,Female,26.0,Secondary,Unemployed,completed,2026-05-14T10:40:57,field_tool,2,Neutral,2,Medium,1
+eabb6185-1a63-4ed1-a9bd-e4a81e6a2269,7a4e676e-0007-461e-b9b8-03104b1d56ef,survey_343,Kenya,Clarenceborough,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:42:34,field_tool,1,Neutral,4,Medium,2
+a5fad83e-937b-45e7-ba66-c18970ab26f8,6b6b617b-ae26-4be0-a1bb-6e1b912b0d3b,survey_483,Kenya,Rogersbury,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:44:29,field_tool,2,Bad,4,Low,5
+4740bf44-f46a-483a-aa8d-ec9fd68ff4f3,6246b30a-cb9c-44e6-b8e8-6af20cc57136,survey_900,Kenya,Lake Tina,Male,34.0,Tertiary,Employed,completed,2026-05-14T10:42:46,field_tool,2,Neutral,4,Medium,4
+b25a4687-4be3-46bc-8e10-419e9ec993f7,38a622d3-335b-49c5-8727-c2137b030b07,survey_387,Kenya,New Lukehaven,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:39:50,field_tool,1,Very Good,2,High,3
+e1f1cf04-8e80-4908-aeb6-984efe81839e,cb9fd9ae-0715-4540-82fc-6823b3dbae46,survey_630,Kenya,Curtisberg,Male,38.0,Primary,Unemployed,completed,2026-05-14T10:45:30,field_tool,2,Neutral,3,Medium,1
+3071a7d6-63bf-461a-83ea-24df8807b8b6,0b3671bb-5c4e-44c6-bcf6-e9b7608fc6f2,survey_740,Kenya,Lake Kylehaven,Female,56.0,Tertiary,Employed,completed,2026-05-14T10:41:44,field_tool,5,Good,3,Medium,2
+1057741b-3c66-46f0-9013-2107d4d17e3d,642e1d04-449a-4e5d-9f0c-033ba5fc982f,survey_720,Kenya,Adamtown,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:41:36,field_tool,5,Very Good,1,High,4
+a2b290a0-3469-4a37-b155-e515e72b2c03,a2147b42-c4be-49ab-8173-dfef93da0301,survey_886,Kenya,Michellestad,Female,66.0,Primary,Unemployed,completed,2026-05-14T10:44:02,field_tool,1,Very Good,4,High,2
+ef6cbbdc-011c-477f-ae75-8916b554ad64,b7f38fff-b9ee-4ed3-acee-d0c5b773bf1a,survey_345,Kenya,Paulport,Male,40.0,Secondary,Self-employed,completed,2026-05-14T10:45:10,field_tool,4,Good,4,Low,4
+3eb092bb-01d7-447c-b340-1484aea24529,80835e35-1901-472c-8f03-f8db294d5b0e,survey_240,Kenya,Port Debbietown,Male,,Primary,Unemployed,completed,2026-05-14T10:40:52,field_tool,1,Bad,4,High,2
+34af53f3-ed99-4a95-85a7-556952d12b16,184cd43f-008f-40ae-ab4f-889936af127a,survey_429,Kenya,Maddenville,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:44:48,field_tool,2,Bad,2,Medium,4
+f49f07e6-fc35-49b8-b2c7-aa96915c4524,9a9faf64-ee6a-4d3b-8c2c-0f0885b5922c,survey_106,Kenya,South Julieville,Male,62.0,Secondary,Employed,completed,2026-05-14T10:43:50,field_tool,4,Bad,3,High,1
+aa0d28d3-6461-40f3-9a15-cba84e4ecb4d,74d915c6-0847-4e0f-995b-f91ac400c924,survey_329,Kenya,Davidshire,Female,63.0,Secondary,Employed,completed,2026-05-14T10:41:03,field_tool,4,Neutral,3,High,3
+bc72fca2-bcbb-4fa6-946c-0265c7aba6eb,76235881-e752-42b9-9093-c97e63cf5ddc,survey_573,Kenya,Walterstown,Male,20.0,Primary,Employed,completed,2026-05-14T10:42:04,field_tool,5,Good,2,High,4
+61a6454f-0c60-45c7-9dff-e2e5d3201891,64363a2c-e2a9-42ce-9819-ce5a66b7c655,survey_226,Kenya,Lake Dustin,Male,32.0,Secondary,Unemployed,completed,2026-05-14T10:45:07,field_tool,1,Very Good,2,Low,5
+8867673d-c15c-4ac1-9845-1a444fc10810,f22767e3-a096-4039-83e4-4f53e85067f1,survey_663,Kenya,Victoriachester,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:42:38,field_tool,4,Good,3,Low,1
+a67435fe-29bd-470f-b403-b53fa796b80d,be54356b-e138-4195-89b5-dd1c6ccb397c,survey_352,Kenya,Muellerburgh,Female,26.0,Primary,Unemployed,completed,2026-05-14T10:39:46,field_tool,2,Bad,3,Medium,1
+b29fd0e0-2127-4274-9209-066b090e8d9d,41d0be15-00e5-43c8-a365-327224661802,survey_408,Kenya,Millertown,Male,58.0,Secondary,Unemployed,completed,2026-05-14T10:41:37,field_tool,4,Very Good,5,High,4
+3c2e7a67-4b4d-4f77-a015-59a542b5f117,56e04335-ac72-4205-8872-5879622a031d,survey_335,Kenya,West Tony,Male,40.0,Secondary,Employed,completed,2026-05-14T10:42:12,field_tool,2,Good,5,Medium,5
+afab3158-0063-4977-999e-0a375123d239,c9028948-4a9d-4999-80a5-3e3416a08d89,survey_116,Kenya,Lake Tamara,Female,52.0,Tertiary,Unemployed,completed,2026-05-14T10:43:41,field_tool,5,Good,1,Medium,5
+32d9e2ab-da47-4c7a-8b13-69cd7457696a,9500caca-e829-497c-afac-a3901d707bc6,survey_901,Kenya,Pacemouth,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:41:32,field_tool,2,Very Good,5,High,5
+9e3d23b6-e736-4a56-8ecc-f04e2e1f5489,5d030f8b-4bed-4691-9d16-c057107e4167,survey_779,Kenya,Michaelside,Female,74.0,Secondary,Unemployed,completed,2026-05-14T10:40:07,field_tool,2,Bad,2,High,2
+fe4a8b7d-78e3-404b-9a4b-c741a3fa3f80,9e019bfe-a0cd-473d-a528-603f0cbbcb4c,survey_198,Kenya,South Jenniferstad,Female,21.0,Primary,Unemployed,completed,2026-05-14T10:42:17,field_tool,4,Bad,2,Low,5
+a9efd076-42f3-408e-8180-cba4fc9fef89,50acb3d8-f950-45f6-b21f-e84c7870c89c,survey_303,Kenya,Pruittview,Male,31.0,Tertiary,Self-employed,completed,2026-05-14T10:40:50,field_tool,3,Neutral,2,Medium,2
+e1bb4f46-126c-4349-b208-6b3fa13232d2,23956105-b01c-440a-b2f6-ce92cfbb37c4,survey_214,Kenya,Jamesland,Female,49.0,Primary,Unemployed,completed,2026-05-14T10:40:00,field_tool,1,Very Good,4,High,5
+9e3ad893-4aa5-41d8-8a70-91a866c6d0c7,065999b4-9c36-44cf-8887-fc69f43513d7,survey_207,Kenya,West Marcus,Female,75.0,Primary,Employed,completed,2026-05-14T10:45:11,field_tool,1,Bad,4,Medium,1
+d64f336c-1c2e-43c7-aea0-0744d82729c2,b5b334dd-439d-4203-9dce-352c85821e81,survey_871,Kenya,Ortegamouth,Female,57.0,Tertiary,Unemployed,completed,2026-05-14T10:40:02,field_tool,2,Bad,1,Low,5
+daf46cfd-44da-4aed-9e0f-d8f0b92b2b56,6b187e2c-32b7-4edc-9606-a6e1269f5292,survey_962,Kenya,South Kennethfort,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:40:11,field_tool,1,Bad,3,Low,5
+b21782ac-53ff-44e8-a9fa-2eae150270db,2adb493d-0343-4ad2-ad8a-54b2c8cb4fb1,survey_214,Kenya,West Geoffrey,Male,75.0,Primary,Employed,completed,2026-05-14T10:42:26,field_tool,4,Neutral,3,Medium,1
+2cd04a56-6eaa-487e-b918-0fd5ac0fe7a9,a92662d2-33c0-4ab2-aa6f-30bde87708d8,survey_526,Kenya,East Jonathanland,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:43:31,field_tool,3,Bad,3,High,5
+1651aed3-2fed-4081-b7b3-be113c454772,2fcc3101-fe73-488f-afbc-d67a6bd7cc06,survey_438,Kenya,New Michaelland,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:43:52,field_tool,1,Bad,2,Medium,2
+7cdb0ca8-2b37-4acf-bd73-4c37b1d7f984,0815a485-add0-4e0c-8412-3fb15eb6c3ea,survey_327,Kenya,South Johnmouth,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:44:55,field_tool,5,Neutral,5,High,5
+2e35fced-73ef-4c5c-9a5b-125d363f9c2c,8ca32bf9-c577-4bb7-99da-d47f0942941d,survey_724,Kenya,Angelaside,Male,31.0,Secondary,Employed,completed,2026-05-14T10:40:39,field_tool,3,Very Good,2,Medium,2
+a161c83e-3478-4b31-8513-eef5bc48763b,344439d5-9d12-455e-b01c-1059721395e1,survey_881,Kenya,Port Melanie,Female,24.0,Tertiary,Employed,completed,2026-05-14T10:43:08,field_tool,5,Bad,4,Medium,2
+831ecd71-d309-40e3-861f-39ab487d13c6,1a735d49-e75f-4829-a16d-fae69e51e399,survey_303,Kenya,Port Sallyside,Female,46.0,Primary,Self-employed,completed,2026-05-14T10:41:04,field_tool,4,Neutral,3,High,2
+cecab075-e2f3-4c79-92ff-87d03dab9fde,a6d75b2f-6c5c-4497-95c5-5c19cd257693,survey_112,Kenya,Ryanville,Female,66.0,Tertiary,Employed,completed,2026-05-14T10:40:50,field_tool,3,Good,1,Medium,3
+d006490e-e424-4a4c-82ea-0b836e1cd8b2,d73a95ca-c80c-46fb-8f97-9718cfeb7363,survey_166,Kenya,Mitchellview,Female,47.0,Secondary,Employed,completed,2026-05-14T10:43:10,field_tool,4,Very Good,3,High,2
+5b9e1ada-f435-4d90-85e5-773cc562f3fe,7ac121cb-fffe-445d-b143-7c37d63327dc,survey_432,Kenya,Greenside,Male,31.0,Tertiary,Unemployed,completed,2026-05-14T10:42:43,field_tool,4,Good,3,High,3
+0dd520f8-322a-44a1-84d5-b24e4d67344c,e6224f69-54b5-45c0-ab69-247161e5eacf,survey_940,Kenya,New Josestad,Male,,Secondary,Self-employed,completed,2026-05-14T10:40:10,field_tool,1,Neutral,5,High,3
+b49f173a-7f95-4eab-8e73-b63b082e2e26,a615de96-13e7-48c7-ae35-4332bea34677,survey_789,Kenya,Johnshire,Male,55.0,Tertiary,Employed,completed,2026-05-14T10:44:38,field_tool,3,Neutral,4,Medium,3
+f461b31f-2ca8-4eeb-94b1-a439dbd05301,77f01488-5b2e-413d-a7bd-fccd9095c613,survey_487,Kenya,New Bethburgh,MALE,30.0,Secondary,Self-employed,completed,2026-05-14T10:44:04,field_tool,3,Bad,3,Low,3
+b928d269-727c-4223-81ea-b29479858aa0,24eddac9-021e-4301-9eab-9b886e92f1de,survey_408,Kenya,Courtneyville,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:41:49,field_tool,3,Bad,3,Medium,1
+807f654a-b575-4c0c-aa62-9bd7f6e63605,dbbaf966-ad1a-489a-8759-b6de3d08e9bc,survey_151,Kenya,West Frances,Female,27.0,Primary,Employed,completed,2026-05-14T10:40:53,field_tool,5,Neutral,3,Low,2
+951e7843-faf7-4830-b97a-e5cc53d39e44,f05739a0-2f87-455b-bf01-632302de709f,survey_996,Kenya,Rogersshire,Female,39.0,Primary,Unemployed,completed,2026-05-14T10:40:41,field_tool,3,Neutral,5,Low,5
+c6c30a6e-2102-4c3f-9099-db3bf178bff4,1f4781fe-f6ea-4d86-8336-b12c8966a6be,survey_599,Kenya,Port Michaelhaven,Male,19.0,Tertiary,Self-employed,completed,2026-05-14T10:41:26,field_tool,3,Good,1,High,1
+ec6ef1ca-748e-45be-8190-9fe19a71059d,ffe9156a-c578-4b38-9acf-936dcf2fb030,survey_543,Kenya,Port Michelleborough,Male,,Tertiary,Self-employed,completed,2026-05-14T10:39:48,field_tool,4,Very Good,5,High,2
+5b695d86-37de-41f9-ae8d-fc467f877c71,3824f2c7-7d2e-43bc-aedd-454ef883a25b,survey_485,Kenya,Lake Emilybury,Female,75.0,Secondary,Unemployed,completed,2026-05-14T10:40:08,field_tool,2,Neutral,1,Medium,5
+7861900d-7927-466e-a9e1-a49d615a8ccb,86fcbf6f-e6b8-49d8-8fe0-0bbc3a1c7a17,survey_273,Kenya,Andrewchester,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:45:07,field_tool,4,Very Good,5,Medium,5
+90389510-97d5-44b4-a28c-6f16cf62de96,66df81e2-caaf-4a2b-b6c3-59ec7989a1d0,survey_427,Kenya,Lake Haley,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:40:14,field_tool,2,Good,4,High,2
+4b99226b-a28b-446d-a42a-0a611f37f4d9,1f7e2e1e-a58d-45c5-9d74-f4e894e8af2d,survey_788,Kenya,West Alexanderfort,Male,38.0,Secondary,Employed,completed,2026-05-14T10:40:32,field_tool,3,Very Good,5,Medium,5
+3d27b4fb-06bf-4c5b-8486-f88f1b1a637a,9a1498e4-08f6-4274-b54c-7df29421b81a,survey_124,Kenya,Tiffanyport,Male,38.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,3,Good,3,Medium,3
+0de37db4-318d-4f5c-b8c9-c0050b4ebc2d,47002e89-b4e7-47dd-afab-3ee6592d7261,survey_588,Kenya,Port Samuelville,Male,41.0,Tertiary,Self-employed,completed,2026-05-14T10:42:19,field_tool,5,Good,5,High,1
+26908980-4f45-4531-a12d-f9a566e70c6f,cc694779-7460-46fe-8284-87203f4ab4fc,survey_272,Kenya,Ruizside,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:45:10,field_tool,1,Very Good,5,Low,4
+0aacc971-cc7a-4a0f-a208-78437d8a6a74,c58e9951-1dcf-4c9e-bee5-17c54e20d6d8,survey_340,Kenya,Juliestad,Male,64.0,Primary,Self-employed,completed,2026-05-14T10:43:12,field_tool,2,Good,1,Low,1
+cb989526-5232-4493-acca-61a8b9153ed7,5080b2dd-9bb8-44fe-acb3-48207ece896f,survey_262,Kenya,Webershire,Female,41.0,Primary,Employed,completed,2026-05-14T10:42:54,field_tool,2,Neutral,2,Medium,1
+28d8cc9a-63c2-4f79-b9cc-8313dd632d97,3a013069-68b0-4c6f-bca2-fc2c2e182d78,survey_502,Kenya,Lake Thomas,Male,40.0,Tertiary,Self-employed,completed,2026-05-14T10:41:06,field_tool,5,Neutral,2,High,5
+5518245e-2979-416b-bc96-191d279b4d6c,3a75ede5-f2a1-401b-83b4-6106f69a28c3,survey_665,Kenya,Avilaborough,Male,27.0,Primary,Self-employed,completed,2026-05-14T10:45:27,field_tool,5,Bad,4,High,5
+d3b36cd6-d5b1-4cc0-a7b7-8cb009f9655c,142f489d-9da5-4aa7-a27b-b807dc99ddae,survey_595,Kenya,West Robertmouth,Female,43.0,Primary,Unemployed,completed,2026-05-14T10:45:30,field_tool,5,Good,4,High,1
+c907bace-2ab9-4f18-a9ef-2940895c57d6,ec860956-1bf5-4666-b9c3-8c8cce4602a0,survey_862,Kenya,Bryanbury,Male,63.0,Tertiary,Unemployed,completed,2026-05-14T10:42:18,field_tool,5,Good,4,Low,4
+26bb06cb-6c63-4ffc-bdd4-4c518dea8680,72c5d55a-e48d-4e56-8564-014330f20ae6,survey_760,Kenya,Holmesbury,Male,48.0,Tertiary,Self-employed,completed,2026-05-14T10:40:57,field_tool,1,Neutral,1,High,4
+04628c8e-882c-4920-b9b2-e0585bfe2afe,81cbbb68-c7b9-4ea0-93c9-e777f306f2ef,survey_597,Kenya,Cruzside,Male,31.0,Secondary,Employed,completed,2026-05-14T10:40:24,field_tool,2,Bad,4,Low,3
+a0ea0dfa-6d90-4c2d-a7aa-d828aa6b5fa6,6e73c967-bfa0-45fb-a210-8df0a414ad42,survey_651,Kenya,West Lisaland,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:44:39,field_tool,3,Very Good,4,Low,3
+481825c7-045f-49bf-9c88-e6110599c88f,01e72f3e-cadd-4626-b885-c68f1a703001,survey_623,Kenya,Lake Joseph,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:41:42,field_tool,3,Neutral,1,Low,3
+7e37382a-e1fb-468b-9ed7-7b4240af5570,7101fcfc-3d85-48cf-bfd5-940a6d81adbb,survey_351,Kenya,Jessicaborough,Male,48.0,Tertiary,Unemployed,completed,2026-05-14T10:43:37,field_tool,1,Bad,5,Medium,3
+ebd7cb5c-e5cd-4e27-a578-cae5b27a79c3,113ffb99-0b96-4a7b-88bb-9d9a3fd79cc7,survey_299,Kenya,North Alicia,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:41:55,field_tool,2,Good,3,Medium,5
+df2dfae8-020a-4eb4-879a-68839c2d3471,303dbfc8-1337-489a-8988-be043159ead4,survey_887,Kenya,Michelefort,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:40:42,field_tool,3,Very Good,1,High,4
+22790a62-f2ba-47b3-b02e-a30931a03689,8fc0f04f-bfe6-4aa9-affc-0d1ece06e757,survey_972,Kenya,South David,Female,18.0,Primary,Unemployed,completed,2026-05-14T10:40:36,field_tool,5,Very Good,2,Low,4
+e8a722fa-6c8a-4940-bf72-b6b65bccd15c,76158d02-4975-4160-bfb1-d433bd8de700,survey_978,Kenya,Schaeferburgh,Female,46.0,Primary,Employed,completed,2026-05-14T10:39:53,field_tool,4,Bad,1,Low,1
+bad8c143-7a1d-4e8b-9e81-5950f6646a49,761559ac-415d-4cd0-b479-178b71fade8a,survey_266,Kenya,Blackwellbury,Male,18.0,Primary,Self-employed,completed,2026-05-14T10:42:37,field_tool,2,Neutral,3,Low,3
+e2c39c04-c342-4c1d-b80e-5b10f3f3e4a6,d3272d8a-47d3-47db-9efc-9c3e4fe194df,survey_365,Kenya,Sarahchester,Male,49.0,Secondary,Employed,completed,2026-05-14T10:42:17,field_tool,4,Good,4,High,2
+e3874fd7-4ee2-4ffc-b8fb-a789221eb15e,fd64e00c-efef-46ee-a718-36d073ba7dd2,survey_974,Kenya,North Denise,Female,37.0,Primary,Employed,completed,2026-05-14T10:43:03,field_tool,4,Neutral,5,High,3
+a5487bb5-b846-4de2-a31f-73c62c9d2612,97ab07d6-53aa-449b-88a6-975e8308fac2,survey_271,Kenya,South Richard,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:43:43,field_tool,4,Neutral,3,Low,5
+2c6de7f7-15d7-497f-b532-9b542413c5ac,03880452-04d2-4b37-b9e5-2587a31833ac,survey_817,Kenya,Jeffreyborough,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:40:04,field_tool,5,Very Good,1,Medium,5
+f8848cfc-6281-4349-a729-fd6d67ed19fe,aafb375d-8c08-4527-8c57-b3181fe42cdc,survey_461,Kenya,Thomasville,MALE,23.0,Tertiary,Employed,completed,2026-05-14T10:43:08,field_tool,4,Bad,1,Low,1
+f8bb4906-b10a-4c70-8784-39fb35aab2ae,0280859e-6efe-4421-a6e7-bd0c5f9f28dd,survey_807,Kenya,Lake Lauraview,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:40:16,field_tool,5,Good,1,Medium,2
+0ad0a895-0472-4b3b-808a-48675ecc88c3,09a9ccd7-9eee-4f6a-af0c-b11e821d06dd,survey_333,Kenya,West Justin,Male,57.0,Tertiary,Unemployed,completed,2026-05-14T10:43:06,field_tool,2,Good,2,Low,3
+eed7acc7-6993-4303-97f3-a506b197485b,8e456886-2f40-48fe-b731-aa06ce72229a,survey_274,Kenya,South Cameron,Female,,Tertiary,Self-employed,completed,2026-05-14T10:41:26,field_tool,5,Bad,1,Low,4
+bada7e51-d550-42ac-9cb9-996520faef44,08b331b6-60a6-44f2-b146-78a643264714,survey_740,Kenya,Robinsonchester,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:41:24,field_tool,4,Neutral,2,Medium,4
+7999e671-4a8e-4b19-b4e4-6961f6c931c8,31f52334-9060-4027-830c-623114046bcb,survey_635,Kenya,New Christophermouth,Female,56.0,Tertiary,Unemployed,completed,2026-05-14T10:40:49,field_tool,2,Very Good,5,High,1
+ca92de21-0026-4bc8-9d1e-5cadc9da9b9d,bcf66ff0-96e7-49f6-a6d6-166fc35b71ec,survey_727,Kenya,New Julie,Male,42.0,Primary,Employed,completed,2026-05-14T10:39:44,field_tool,1,Good,3,Medium,4
+857e7fa4-8f52-49b7-bdbf-f71bfa17c1a5,a6620fa0-01ba-45f5-96e0-7c4e4e372306,survey_394,Kenya,North Kimberly,Female,68.0,Tertiary,Unemployed,completed,2026-05-14T10:45:09,field_tool,3,Neutral,5,High,5
+303cbe1a-99ad-42a2-8e35-d77edb704eb0,3ad7e670-bd0a-4d62-8980-56d7864fefd9,survey_445,Kenya,Ashleyland,Male,75.0,Secondary,Employed,completed,2026-05-14T10:43:06,field_tool,2,Very Good,4,Low,5
+3cc8b5c7-3fa2-4052-83d6-db7dd8b61d07,414c61dd-6994-4d00-bd76-17eb49464397,survey_549,Kenya,Lake Thomas,Male,52.0,Primary,Self-employed,completed,2026-05-14T10:44:28,field_tool,4,Neutral,1,High,4
+bd4f13c7-5c25-4305-b734-bd1a24b668f6,8e135f0c-6839-4841-b94f-c5a5b0c082aa,survey_700,Kenya,East Nataliefort,female,45.0,Secondary,Employed,completed,2026-05-14T10:45:13,field_tool,1,Very Good,3,High,1
+a212f6aa-08ee-45b9-b134-6db4cd79d9bc,294f3974-b2da-42ef-a357-5c0421a98a56,survey_780,Kenya,Pachecoside,Male,21.0,Primary,Self-employed,completed,2026-05-14T10:40:33,field_tool,2,Good,1,Medium,4
+4d478e06-77a5-45de-9f9b-d8101358e59d,5869348e-5d20-49de-933f-d48e8eea815a,survey_305,Kenya,Lake Bethany,Male,57.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,4,Neutral,5,Medium,3
+06df6e87-c099-42e5-9273-3b16b20c1e74,3fc31311-88f1-4964-80fc-844fb0395904,survey_943,Kenya,East Christopherfurt,Male,70.0,Primary,Employed,completed,2026-05-14T10:43:50,field_tool,5,Very Good,4,Low,3
+6298173c-7220-48da-b5f9-e95bcf180370,a6d36bf9-0d25-49be-a878-85e4103ee46e,survey_815,Kenya,East William,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:40:18,field_tool,3,Neutral,1,Low,1
+6be9f693-f4ff-4c08-aae0-bd17ac11002b,c25ca547-793b-48e6-b9d9-55a8e9f35bca,survey_432,Kenya,Powellberg,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:44:02,field_tool,3,Good,2,High,5
+241bd69c-27a9-4251-8fc5-c75c6e4e9e9e,fe7d3906-990c-4ed8-8f4d-28a17e3ce977,survey_763,Kenya,South Ernestview,Female,18.0,Secondary,Employed,completed,2026-05-14T10:44:12,field_tool,5,Neutral,2,High,4
+43d5b276-65f7-4034-b4b1-40985916c5ce,56a8274f-00f9-44bf-922a-223f8241824e,survey_277,Kenya,East Brianachester,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:43:47,field_tool,1,Good,1,Low,4
+acf19601-446b-4270-b946-5fcb3ba5fd0b,87f53c66-2c73-476f-9314-e0eb897a96e6,survey_181,Kenya,South Chelsea,Female,51.0,Secondary,Employed,completed,2026-05-14T10:41:34,field_tool,2,Neutral,3,Low,2
+1efee7b3-0c76-4799-a7f0-e972360c24c1,54351bd7-8a40-41c0-a5eb-26659a0b7509,survey_301,Kenya,Port Wendy,MALE,74.0,Primary,Employed,completed,2026-05-14T10:44:25,field_tool,2,Very Good,4,High,2
+650dafe2-21c2-4eb3-9f80-814276149465,f5c7a800-f72d-4fbd-a7bf-4b11e48bf1aa,survey_520,Kenya,Port Shane,Male,54.0,Secondary,Self-employed,completed,2026-05-14T10:44:05,field_tool,1,Very Good,3,High,5
+91b13d9f-a3e5-4ebb-80b4-99e624ecb140,9279eba0-6cfa-473f-861d-f9e418ae0d77,survey_728,Kenya,Johnmouth,Female,65.0,Tertiary,Self-employed,completed,2026-05-14T10:41:46,field_tool,4,Very Good,2,High,5
+b128ebff-900a-401e-802d-4da929a27c51,970e31e4-6bf7-49b4-8624-6193d3d95832,survey_108,Kenya,East Stacey,Male,33.0,Tertiary,Unemployed,completed,2026-05-14T10:41:10,field_tool,4,Bad,3,Medium,2
+346b2698-4bfa-4eea-b4b6-4cf5f5fbe06f,a1e0fd51-2ada-4905-b04c-c1310af0d8c5,survey_867,Kenya,Lisachester,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:40:31,field_tool,5,Good,5,High,4
+441bc5b0-a33c-496c-9ea7-bcaaa810cd3c,573585fc-15e3-43d4-adda-aef7dc1cb11a,survey_785,Kenya,Marshburgh,Female,31.0,Tertiary,Unemployed,completed,2026-05-14T10:41:39,field_tool,1,Good,2,High,2
+dd8a1698-50b4-44e4-95d8-a1af8ccd965c,b1ecd227-d14e-4ee3-8d4e-f107fe4f6280,survey_301,Kenya,Jimeneztown,Female,65.0,Tertiary,Unemployed,completed,2026-05-14T10:40:14,field_tool,1,Very Good,5,Low,3
+859325dc-246f-4ca0-a283-edd73bac31cb,62be486b-4789-4671-9374-f923adde3e12,survey_120,Kenya,Johnsonland,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:42:02,field_tool,3,Very Good,1,Low,2
+7e519776-dff8-4b70-a120-9bd78f791655,d9486fd8-13d4-4c93-bbce-d554b4293a81,survey_503,Kenya,New Paige,Female,18.0,Secondary,Unemployed,completed,2026-05-14T10:39:41,field_tool,3,Good,4,Medium,5
+acec1b46-0890-4ea1-a510-26833cacc487,1aedf328-7001-463d-8b7b-8d0c415cddab,survey_612,Kenya,North Vanessa,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:41:24,field_tool,3,Bad,2,Medium,1
+1623cf74-3254-4713-88c3-67e5c1c14b45,48f3ad18-20cf-4eae-ab79-e132c1dd30c1,survey_157,Kenya,Parkermouth,Male,63.0,Secondary,Employed,completed,2026-05-14T10:43:07,field_tool,4,Bad,3,Medium,3
+e7d1dd8e-18e3-4419-85d7-6c8ee3e0756c,72dc4a8f-d0f7-4209-b6cd-15312f91dda0,survey_379,Kenya,Parkfort,Female,39.0,Tertiary,Employed,completed,2026-05-14T10:41:34,field_tool,3,Neutral,2,Low,5
+fc5f7d04-9bdb-4308-9b31-33fff50abaad,cc3a275a-2143-4a7f-8d17-23c8cd906157,survey_722,Kenya,Stevenschester,Female,37.0,Secondary,Employed,completed,2026-05-14T10:39:53,field_tool,2,Neutral,2,Medium,5
+acc22a54-7dfe-434c-a951-54efb339e4a9,c2115191-f967-4293-aa7f-f301b41865f4,survey_109,Kenya,New Nancy,Male,20.0,Primary,Self-employed,completed,2026-05-14T10:45:32,field_tool,1,Bad,3,High,3
+4e69dd48-b832-40bf-a9aa-1533cb1b1d68,b4b5b777-10f6-466c-a3ff-cebf54f278f6,survey_529,Kenya,South Angela,Female,60.0,Secondary,Unemployed,completed,2026-05-14T10:44:39,field_tool,5,Bad,5,High,1
+0992c956-ec4e-479e-8683-3972611612e5,c5c96d5a-5c17-4311-ad38-831d0c9acb60,survey_692,Kenya,Carterchester,Female,39.0,Secondary,Employed,completed,2026-05-14T10:44:44,field_tool,4,Neutral,3,Low,3
+0c518203-a57c-42d9-a97f-3e169acd2755,38245275-a4f8-43ca-8042-0c588c7cdc6f,survey_262,Kenya,Sullivanbury,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:45:26,field_tool,4,Neutral,3,Low,3
+a1c1e477-026e-42fa-a6d8-4d02722b30c8,d594ce06-bdc8-4886-b9c2-b6b23f2086da,survey_479,Kenya,Robertland,Female,26.0,Primary,Employed,completed,2026-05-14T10:44:00,field_tool,1,Very Good,1,High,2
+aae75da9-49c7-480b-b9f8-31784a44b045,57b82899-38af-4947-9a81-f5cf45b94df4,survey_587,Kenya,Chavezfort,Female,61.0,Secondary,Unemployed,completed,2026-05-14T10:44:09,field_tool,4,Bad,5,High,1
+c587aba5-ba83-44fd-8857-7cfa7d6ecfa3,b02043f7-235a-445d-9017-7e485cb896ae,survey_550,Kenya,Tamarahaven,Male,47.0,Secondary,Unemployed,completed,2026-05-14T10:41:40,field_tool,3,Good,4,Low,3
+b2bd7472-ab13-4d02-bc84-ff724d4bcd79,f913d869-8925-459f-92de-b1e769fbce78,survey_971,Kenya,South Kelly,Male,61.0,Secondary,Unemployed,completed,2026-05-14T10:44:18,field_tool,4,Bad,1,Medium,2
+2f9c51ed-d3fe-4f18-a607-6a977a99d611,2a8bdccb-e76a-469a-90c9-4278e04d16d4,survey_721,Kenya,Port Christine,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:42:54,field_tool,4,Neutral,5,Low,1
+5d2de6b3-5344-414b-9e5a-ce1ba4fad2a0,44c7c4b0-216a-47b4-8834-4953099bab83,survey_859,Kenya,Markburgh,Female,30.0,Tertiary,Self-employed,completed,2026-05-14T10:42:40,field_tool,4,Good,5,High,4
+fded4246-c812-480e-9be4-35c42e18cc59,7f1cb660-63d2-47d6-98e4-7208d5258d42,survey_898,Kenya,East Davidfort,Male,24.0,Secondary,Self-employed,completed,2026-05-14T10:44:05,field_tool,4,Neutral,1,Medium,1
+f226b470-acad-4ad9-a7d6-01fa1376b150,ca1b8ace-5536-4d5f-9e2b-57702c4d8acd,survey_587,Kenya,South Katherinetown,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:41:40,field_tool,5,Good,3,Low,1
+9326176a-11b1-4161-abc6-9827fae956c0,3554a91d-6939-43e9-b884-487d702b268b,survey_317,Kenya,New Kelly,Female,40.0,Secondary,Employed,completed,2026-05-14T10:41:35,field_tool,1,Neutral,2,Medium,3
+38871b13-d0b4-4826-857a-578d7aca6620,fe2a999a-8207-4477-8ad3-aff6d583543a,survey_431,Kenya,West Jasonview,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:40:27,field_tool,5,Very Good,4,Low,2
+9b6cd7c6-b919-4574-a272-1d1942936fe6,9c66f2f0-6fe2-4183-a821-b01ca008ecf4,survey_571,Kenya,New Jessicamouth,Male,66.0,Secondary,Employed,completed,2026-05-14T10:42:24,field_tool,3,Good,1,High,4
+6c0d2925-3985-4a73-83a5-a974f671f280,8625788c-03e2-4112-9ec0-6878dbcc1f66,survey_853,Kenya,Frankville,Female,,Secondary,Employed,completed,2026-05-14T10:44:55,field_tool,3,Good,4,Low,1
+69c8b39e-5ccf-488f-b27d-b0a4d1e41cd2,eafe3984-7667-4374-97f5-533bd35583b8,survey_784,Kenya,Port Tylerhaven,Female,50.0,Primary,Employed,completed,2026-05-14T10:41:26,field_tool,2,Very Good,2,Low,4
+4036c644-d015-4d2e-b0d8-496c123e2979,adacbf26-34e5-4d9c-8a6b-802b9fe8c455,survey_631,Kenya,East Davidport,Male,43.0,Secondary,Unemployed,completed,2026-05-14T10:39:57,field_tool,3,Neutral,5,Medium,3
+0dcbb735-91ff-4fee-9928-2cfe378958ed,cb59f459-7890-452d-ad1e-8be82a9da558,survey_770,Kenya,Briannaburgh,Male,57.0,Tertiary,Employed,completed,2026-05-14T10:42:44,field_tool,5,Good,3,Medium,1
+47e956d7-80b0-40d6-8ec6-50f12185f5de,e3296dde-10e2-43f8-8af5-5a81e6dafdd2,survey_847,Kenya,Brooksstad,Female,69.0,Primary,Unemployed,completed,2026-05-14T10:42:47,field_tool,5,Very Good,4,Medium,3
+7d262186-7e05-4c53-86de-14194561ecee,857c40c5-4d20-4a0b-b98b-12b751c07967,survey_773,Kenya,Lewisberg,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:44:25,field_tool,1,Bad,5,High,3
+399ba262-60cf-4de1-ac7a-2398cac2f77d,af7c02d9-02c0-4e74-b8f8-9c57123ce770,survey_333,Kenya,Caldwelltown,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:42:35,field_tool,1,Bad,1,Medium,4
+d4fad5da-88b7-48a8-a96d-c0f619613928,e3a0a1be-df17-40d9-8f2f-82fa64f078cf,survey_542,Kenya,Vickifort,Male,64.0,Primary,Employed,completed,2026-05-14T10:41:28,field_tool,3,Good,2,High,1
+73380ed5-56c6-43dd-9c26-9eaca9e37ebc,c35b83fb-a024-4eee-b792-338f85fba303,survey_258,Kenya,Darrellshire,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:43:08,field_tool,2,Bad,2,Low,1
+3e30d121-7525-4667-8938-ca73583e17a1,bf11fb44-0757-4010-8760-2e0101b27838,survey_403,Kenya,Reillyville,Male,21.0,Primary,Self-employed,completed,2026-05-14T10:43:09,field_tool,1,Bad,5,High,5
+a10fb2d8-5a86-4f79-893c-501da4d15bca,ac8e474a-cdd8-45bf-b949-ebffe0ec2c75,survey_564,Kenya,Lake Matthewland,Female,40.0,Secondary,Employed,completed,2026-05-14T10:43:26,field_tool,2,Very Good,1,High,2
+aca7c596-5024-4e59-a31c-9401d5aaeee6,cdf41c76-0556-47fc-a7e7-6c9860e32c14,survey_450,Kenya,West Kelly,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:42:52,field_tool,4,Bad,5,Low,3
+cb35fa5b-a41a-44b2-a2b5-66ab509f98ba,b3cf330b-7688-45fa-99cf-bd9760692251,survey_961,Kenya,New Christopherborough,Male,42.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,5,Very Good,5,High,1
+f4a38556-803c-4a0d-ba0e-6902b7c292c7,e0fab1e3-e565-4bb5-b0c2-e055c25778dd,survey_299,Kenya,Delacruzmouth,Male,27.0,Secondary,Unemployed,completed,2026-05-14T10:42:29,field_tool,3,Neutral,2,High,3
+1bfd5885-913f-4f5f-93e5-f3ec3daa89e8,cac62f8c-d8d2-4e54-9518-2703754aad17,survey_163,Kenya,Josetown,Male,36.0,Primary,Employed,completed,2026-05-14T10:42:57,field_tool,2,Good,1,Medium,4
+c9a3aa6f-a7b6-4c79-8209-eba4fc51d395,c65abb30-44b0-4d16-b0c7-16d88e7cf803,survey_716,Kenya,South Andrew,Male,74.0,Secondary,Self-employed,completed,2026-05-14T10:41:20,field_tool,3,Very Good,4,High,2
+ef366ebe-fc8d-49cd-bef9-35969571613d,8beaba7e-865f-4f8f-9efe-a65d3c479093,survey_411,Kenya,Port Crystal,Male,74.0,Primary,Self-employed,completed,2026-05-14T10:44:52,field_tool,3,Bad,4,High,1
+fce48276-863e-49ed-87d6-026dd727375e,6f6b89b6-f3dd-48b5-96bc-f622b4558258,survey_786,Kenya,Bennettton,Male,30.0,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,3,Very Good,2,Medium,3
+15ef2a95-2baf-49db-8c88-6713e5f41188,eff43169-dadd-41de-8809-70bbb446ba8e,survey_811,Kenya,New Stevenmouth,Female,52.0,Tertiary,Self-employed,completed,2026-05-14T10:44:05,field_tool,5,Good,3,Low,4

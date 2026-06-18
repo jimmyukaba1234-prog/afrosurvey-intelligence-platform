@@ -1,0 +1,48 @@
+dataset: demographic_distribution_gold
+version: "1.0.0"
+description: "Survey response distribution across gender, age, education, and employment groups"
+
+fields:
+  country:
+    type: string
+    required: true
+
+  region:
+    type: string
+    required: false
+
+  gender:
+    type: string
+    required: true
+
+  age_group:
+    type: string
+    required: false
+
+  education_level:
+    type: string
+    required: false
+
+  employment_status:
+    type: string
+    required: false
+
+  response_count:
+    type: long
+    required: true
+
+  percentage_of_total:
+    type: double
+    required: true
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

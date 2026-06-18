@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+e3261e21-df4c-4f4b-8085-87164a6ac857,080053ad-19d6-40c7-93a0-319f7425c57a,survey_594,Liberia,New Sarah,Male,59.0,Tertiary,Unemployed,completed,2026-05-14T10:44:17,field_tool,1,Bad,5,Medium,4
+f56e9f7b-b32d-4ca1-ae04-24d36094bbe0,53b18cc9-8f3c-4b4c-ba8e-cfbc3c856441,survey_449,Liberia,New Jillbury,Female,72.0,Primary,Employed,completed,2026-05-14T10:41:07,field_tool,4,Neutral,4,Low,4
+56fdb8e4-e7fb-4035-97e8-67fd7e9ef1c9,4c654db5-063e-4c12-99e3-1a3f795520b1,survey_730,Liberia,Jaredmouth,Male,42.0,Tertiary,Self-employed,completed,2026-05-14T10:40:25,field_tool,3,Good,1,Medium,3
+ecdafdc8-3354-4daa-b655-babb13b6b544,a672bfe1-515d-4ee1-b7b3-d35cf71bc83d,survey_252,Liberia,Dennisport,Male,27.0,Secondary,Employed,completed,2026-05-14T10:41:36,field_tool,3,Very Good,3,High,4
+13f81902-f37c-450f-93f2-90f05baff560,f689a619-7082-4d98-b25f-b91410c09270,survey_108,Liberia,New Emilyland,Female,53.0,Primary,Self-employed,completed,2026-05-14T10:42:55,field_tool,5,Good,4,High,3
+5618ca72-86b8-4213-96de-bfa148091536,32129783-ce70-46c9-ae05-27413af092fa,survey_983,Liberia,Joseland,Female,41.0,Primary,Self-employed,completed,2026-05-14T10:45:40,field_tool,4,Good,3,Low,3
+1274dfeb-7672-4f7a-a3f2-ccc5b52295f4,dd87a6eb-42ae-4166-9f23-4ac55bc7ff7e,survey_255,Liberia,East Sharon,Male,60.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,4,Bad,5,Medium,4
+370f1285-6d1c-4f25-826d-fc64e4e93a62,2a978773-e642-4631-b1ec-664d81834198,survey_463,Liberia,Kevinfort,Female,26.0,Secondary,Unemployed,completed,2026-05-14T10:43:11,field_tool,2,Neutral,1,Low,3
+2195f39a-9766-4070-94de-ed07d0114b5b,2407ab7f-f6c3-401a-924a-26c38b650a02,survey_521,Liberia,North Raymond,Female,36.0,Secondary,Unemployed,completed,2026-05-14T10:44:17,field_tool,5,Neutral,4,Medium,4
+c8722318-253f-4491-8a09-766afc22104c,a51ca362-f253-4ad3-91d2-152922091ae2,survey_861,Liberia,Matthewside,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:45:33,field_tool,5,Neutral,5,Low,3
+d61718fb-78cf-4737-b990-62ac64392925,8320fadc-ede3-44a0-ac79-30920aa35794,survey_474,Liberia,Michaelville,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:45:26,field_tool,4,Neutral,5,Low,3
+f2678a15-6c99-4d30-8bee-ba0e51dae98c,f4435eb6-92a9-40c7-aae9-1bd98e8105c1,survey_444,Liberia,Port Annehaven,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:40:24,field_tool,1,Very Good,2,Low,4
+94956172-b8c8-43a5-b173-4a46cd574a70,5e806f8a-2d0e-459b-be59-6b496d5e4db6,survey_662,Liberia,Candiceborough,Female,49.0,Primary,Self-employed,completed,2026-05-14T10:40:35,field_tool,2,Very Good,4,Medium,4
+ddd2fde3-f12e-48a4-831c-a97baf948855,3fb1cbdc-527e-4543-8d6c-8a7beb978960,survey_752,Liberia,Morganborough,Male,29.0,Primary,Employed,completed,2026-05-14T10:41:32,field_tool,2,Bad,5,High,5
+5635840b-b20a-44ad-b325-c99fc5b76b01,6f019e2c-f762-4ebf-846d-7318ebaf6a88,survey_915,Liberia,Port Jeffreymouth,Male,19.0,Secondary,Unemployed,completed,2026-05-14T10:45:35,field_tool,1,Bad,4,High,3
+6208cae3-cf8b-4e80-9e23-0a0150cf04ee,14ec9004-62d2-4921-9944-97fe4a71046d,survey_732,Liberia,Garciatown,MALE,37.0,Primary,Employed,completed,2026-05-14T10:42:24,field_tool,4,Neutral,2,Medium,4
+e4bc262a-bcc6-4b71-ae98-84e71cb2229d,73e285f6-39fd-415e-bdb2-ac2045cff875,survey_154,Liberia,South Karenbury,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:42:56,field_tool,5,Very Good,1,Medium,5
+ee1f536c-1d76-4029-b9de-cbad2af671ac,7f87224c-2086-4742-9406-ba9f78390587,survey_159,Liberia,Timothychester,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:44:51,field_tool,4,Neutral,5,Medium,4
+8eed06d9-40a9-4b22-a0e9-46dcb1e98e8c,5ff776b3-dabb-4049-aa17-25bec0bd78d8,survey_449,Liberia,Port Christian,Male,39.0,Secondary,Unemployed,completed,2026-05-14T10:40:36,field_tool,2,Neutral,4,High,5
+5daf3a9f-337b-473c-98ee-7ce1c2e16b52,d0b79f3f-8755-492b-8a18-67a67413f788,survey_715,Liberia,Melissafurt,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:44:59,field_tool,1,Bad,1,Low,1
+2232877f-e337-47d4-be4e-7ad25c2ca4a5,fcbe2289-23f3-4208-b378-18e5c5056122,survey_714,Liberia,Griffinberg,Male,35.0,Tertiary,Unemployed,completed,2026-05-14T10:40:07,field_tool,5,Bad,3,High,3
+82c4a3d9-7b16-406b-8632-8450b2be405b,6e16a204-8dfb-4181-96cd-7b0e45d9a499,survey_481,Liberia,New James,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:44:56,field_tool,1,Neutral,1,Low,2
+dbead18c-1f84-44c6-ae28-c930713aaaa6,a515b18d-1b10-414b-ba4c-dd81c1837629,survey_225,Liberia,Onealside,Female,69.0,Tertiary,Employed,completed,2026-05-14T10:45:04,field_tool,3,Bad,4,Low,5
+b1621b4c-2317-4ef4-9844-5b9c50a26180,b084663c-be4e-466d-9042-f46c73c7a052,survey_553,Liberia,Vaughnfort,Female,43.0,Primary,Employed,completed,2026-05-14T10:41:53,field_tool,2,Neutral,5,Medium,1
+55407748-556b-4a1b-b137-921503ba0216,e22dc39f-c775-4f0b-a37e-942403a7712a,survey_740,Liberia,New Loristad,Female,54.0,Primary,Self-employed,completed,2026-05-14T10:42:37,field_tool,4,Very Good,4,Medium,1
+97152a69-c08e-47fc-b921-42ea025de3ca,73fb281f-1ee5-4b79-a084-89b53f2bde3f,survey_822,Liberia,Marktown,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:41:54,field_tool,2,Very Good,5,Low,1
+79daa192-4726-4501-83e0-c6f0e4de33a7,6f38882f-1a51-4da3-9682-6d19641e971f,survey_603,Liberia,West Janiceside,Female,58.0,Primary,Employed,completed,2026-05-14T10:42:00,field_tool,3,Neutral,5,High,4
+82575347-a8d4-45a4-a907-30e07bf8d42e,df7ff285-9a5e-4518-ba08-a5ac0c8248b1,survey_335,Liberia,Martinezfurt,Female,20.0,Tertiary,Employed,completed,2026-05-14T10:43:45,field_tool,4,Very Good,4,Low,5
+ab0054d3-cea6-40a1-901f-e7abee14d41a,70a44f2a-587f-4a7f-8806-011b5617be7b,survey_269,Liberia,Cardenaston,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:44:38,field_tool,1,Very Good,1,Low,3
+b45e4e2c-21a8-4190-8d37-194453e761a1,2128cbf8-420c-4377-96c9-85c34b55730b,survey_431,Liberia,Sarahton,Male,51.0,Secondary,Employed,completed,2026-05-14T10:44:56,field_tool,3,Bad,1,Low,3
+d088c3d0-74db-4348-91e3-929cf348c709,689f9d10-3255-451c-a46e-e45b5a463aa8,survey_174,Liberia,East Williammouth,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:41:03,field_tool,2,Bad,5,Medium,2
+86f4bcbc-7e44-478e-bf3a-083486b14f63,2fa08df7-85d9-4480-8177-db8681d0be42,survey_109,Liberia,North Shelia,Female,65.0,Tertiary,Self-employed,completed,2026-05-14T10:40:57,field_tool,5,Very Good,3,Low,5
+c7d55a75-586c-45fc-9f5b-17e47e503c44,6d70a72e-fde1-4be4-9ea2-461c9e245902,survey_526,Liberia,Huntport,Female,52.0,Primary,Self-employed,completed,2026-05-14T10:41:24,field_tool,1,Neutral,3,High,3
+085d5777-1861-4d8b-8938-50c8c4aa09c9,b304049e-8928-49ea-9be3-0054eef85457,survey_699,Liberia,Christinaville,Female,72.0,Primary,Unemployed,completed,2026-05-14T10:44:51,field_tool,5,Neutral,3,Low,2
+47cef0cc-879c-4846-8504-ea02543dae22,7754c64f-c674-4f70-a1cd-804676970271,survey_503,Liberia,Wrightstad,Female,23.0,Tertiary,Employed,completed,2026-05-14T10:44:03,field_tool,3,Bad,2,Medium,1
+034a00c8-a6da-4203-a799-19441986d838,cd04244b-b41f-4d0a-a44d-90a3ee615266,survey_399,Liberia,East Matthew,FEMALE,20.0,Secondary,Unemployed,completed,2026-05-14T10:45:12,field_tool,2,Good,5,High,3
+957aa727-968b-4100-a6b5-87a4107a0195,3a014a9b-450f-4128-bcfd-fedeb298ea0a,survey_416,Liberia,Schwartzborough,Male,23.0,Secondary,Employed,completed,2026-05-14T10:43:16,field_tool,4,Good,3,High,2
+96ba7c63-d2aa-49a2-81b8-4e4f5ac70de4,7f50a0d3-80a9-4c95-ad37-f9ba67be34ab,survey_836,Liberia,North Stevenville,Female,73.0,Secondary,Unemployed,completed,2026-05-14T10:43:24,field_tool,5,Neutral,3,High,1
+b730ce74-dc21-4963-8bdc-0c026af7a99a,f717909b-3651-497a-9c78-8b435ef43ea4,survey_714,Liberia,Candicemouth,Male,73.0,Tertiary,Unemployed,completed,2026-05-14T10:42:38,field_tool,3,Very Good,5,Medium,5
+26444537-86cf-4871-aa60-d218391825fd,44f3c5c9-9b01-4968-b1fd-592cfa2bc243,survey_780,Liberia,Lindsaychester,Male,65.0,Primary,Employed,completed,2026-05-14T10:45:21,field_tool,5,Neutral,3,Low,4
+26c35533-8d54-4c38-a3ef-ee3dba71d910,563e20de-9d86-40de-8578-b35c91705229,survey_329,Liberia,New Joseph,Female,74.0,Secondary,Employed,completed,2026-05-14T10:43:12,field_tool,5,Neutral,3,Low,5
+64e9a20c-6a9f-4409-b89d-0cfb7386405b,0fa6cfe3-cd57-45eb-8823-bfc43c47e0f6,survey_879,Liberia,Padillahaven,Female,23.0,Secondary,Self-employed,completed,2026-05-14T10:42:31,field_tool,1,Very Good,5,Low,3
+6c0df980-8a5d-44a5-83d7-c027b08c113c,46d6c31b-a0bc-4c69-b1c9-7a745344f500,survey_499,Liberia,South Bettyport,Male,,Secondary,Self-employed,completed,2026-05-14T10:41:33,field_tool,3,Very Good,1,Low,5
+d317f75f-383f-4f0c-bee0-950a5cfefb09,90e39327-e5a8-4de2-8fee-6c7815cc6bec,survey_779,Liberia,West Erikland,Male,27.0,Primary,Employed,completed,2026-05-14T10:42:43,field_tool,1,Very Good,2,Low,2
+d986ac8f-74eb-4fef-ac95-3065e75088f8,df897a84-b8e2-45e2-8f5d-9769409f77b1,survey_387,Liberia,New Richardfurt,Male,41.0,Primary,Self-employed,completed,2026-05-14T10:40:56,field_tool,5,Bad,2,Low,4
+37a47bef-94f9-47d5-ac93-0344c639a704,8cdce91f-2481-495b-a8e7-56df4fb0297b,survey_967,Liberia,Troyton,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:42:19,field_tool,5,Neutral,2,High,1
+5e4939c5-b313-4bde-989d-ee1aeaaa4561,5ebbfa53-c72c-4b42-b2cf-611205c87765,survey_710,Liberia,Lake Elizabeth,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:43:49,field_tool,5,Very Good,3,High,3
+1d166838-46ae-4cd8-a743-8c3cc23452f8,fde79f7c-771a-4c07-b0d3-8e10a2f97408,survey_653,Liberia,East Michealmouth,Female,21.0,Primary,Unemployed,completed,2026-05-14T10:43:21,field_tool,5,Good,3,Medium,2
+95c41577-4af9-4fdb-9273-3b803c17ec37,ccc4ec19-d041-4fd4-af15-6503615f4060,survey_223,Liberia,North Tami,Female,26.0,Primary,Employed,completed,2026-05-14T10:45:18,field_tool,5,Very Good,3,Low,3
+7a3163be-79fd-46b3-8c3b-987c86c17430,cfda94a2-9201-4567-b10a-3efce1aba1a3,survey_206,Liberia,Florestown,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:44:39,field_tool,2,Bad,3,Low,5
+d59d5bef-31de-4bc9-8329-ee7ab3ec8fe2,a7d4ca94-b438-43b8-a52d-d79107356d8a,survey_384,Liberia,Katieville,Female,43.0,Secondary,Employed,completed,2026-05-14T10:44:59,field_tool,3,Bad,2,Medium,1
+4b1d288f-50c0-4158-b80f-26bf22cd4bb1,7cd7a80a-05ea-4d77-886f-1d91d9d0033a,survey_307,Liberia,Port Lauren,Male,37.0,Secondary,Employed,completed,2026-05-14T10:41:37,field_tool,1,Neutral,4,Low,5
+c156d5a6-60f6-454b-9de7-1eb5700a3e02,687bcdeb-ce03-44c0-b35b-433047ce34a3,survey_602,Liberia,West Jessicaview,Male,56.0,Secondary,Employed,completed,2026-05-14T10:40:41,field_tool,2,Good,1,High,4
+cbcfa505-7999-484b-9172-eda5b0d3a950,7fc01356-1002-4813-bd8c-d213b64ef7ae,survey_532,Liberia,New Ericberg,Male,62.0,Tertiary,Self-employed,completed,2026-05-14T10:40:52,field_tool,4,Good,3,High,5
+5fa0cfa4-c451-4ad2-b751-423de9d33d38,d2ab3eb6-24be-405c-9668-c3bb0d7a62cf,survey_912,Liberia,Christopherborough,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:57,field_tool,4,Very Good,4,High,5
+fc680658-d3fa-4198-bedb-b577ae3e352f,95cbeb8b-2de9-40c1-811e-921d0743e8c1,survey_666,Liberia,Bradleyland,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:42:16,field_tool,1,Neutral,3,High,1
+c3d839c5-2823-4ec2-b7e5-4bd602a642c4,aca83361-e722-4c58-81b8-100070f2d3a2,survey_510,Liberia,Thompsonshire,Male,20.0,Secondary,Employed,completed,2026-05-14T10:40:09,field_tool,1,Neutral,5,High,4
+6f46cd7d-d482-43f4-938c-7d40ec8e8c4b,5ec1c270-ffcc-4821-98f1-84c9b552bac9,survey_193,Liberia,Davidfort,Male,30.0,Primary,Unemployed,completed,2026-05-14T10:43:59,field_tool,3,Neutral,2,Medium,3
+bafc652d-4cd0-4cf7-af28-ac67aab319d6,07256699-9e37-4e92-b1b8-b77b3012f305,survey_542,Liberia,Christiefort,Female,50.0,Tertiary,Employed,completed,2026-05-14T10:42:37,field_tool,4,Neutral,3,Medium,1
+ccc6e6d0-719d-4b30-ac40-84f844598476,4aff51ab-c51d-40ca-b3c6-75df7ae71f4b,survey_439,Liberia,Nicholasside,Female,36.0,Tertiary,Self-employed,completed,2026-05-14T10:42:05,field_tool,5,Very Good,5,Low,5
+3b808a9d-5382-4f3a-8eb8-d2c120bbbc49,61d643cf-d31f-4ed9-a2eb-49864896ee54,survey_160,Liberia,East Jason,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:41:46,field_tool,3,Bad,4,Medium,2
+f478933c-f41a-413c-8d56-57d697f6b084,a271cc1e-d9d3-443f-a615-07c1c6df0266,survey_445,Liberia,Nicolechester,Male,18.0,Primary,Employed,completed,2026-05-14T10:42:36,field_tool,2,Bad,5,Low,5
+321a3afd-a998-49ac-8b5e-62715365067e,0ac35410-eb3e-4e8a-921b-7da210f3237c,survey_591,Liberia,Lake Kelly,Female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:41:23,field_tool,1,Neutral,5,Medium,3
+6557e4b5-048f-4f64-ac89-507eedae4ef3,234bf2fe-8f24-4037-8d95-d9a7cabf65e4,survey_206,Liberia,Christopherton,Male,29.0,Primary,Employed,completed,2026-05-14T10:40:41,field_tool,5,Very Good,5,Low,1
+85b1e657-6e83-4d11-9a66-5773fbdea42c,67d49716-0c8d-4375-8b6e-11856c17db7d,survey_832,Liberia,Dorisview,Male,45.0,Secondary,Employed,completed,2026-05-14T10:44:38,field_tool,2,Good,1,Medium,3
+c6f411b6-6e62-49a7-a90b-59ecbc776de9,a389e8b3-5dbb-4f6f-b38b-70680a804e58,survey_416,Liberia,Port Wanda,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:40:41,field_tool,4,Bad,5,Medium,4
+8c48a472-93bd-4a8d-9c03-34e5ff91e61a,7be97332-aecf-418d-bc3e-3aa5f716be44,survey_724,Liberia,East Justin,Male,32.0,Secondary,Employed,completed,2026-05-14T10:45:32,field_tool,4,Bad,4,High,3
+d26c640a-be7d-4feb-83ad-87b47d157fcb,c03db6d0-ef6f-48c5-bbd5-3da3a6c2b43a,survey_561,Liberia,Port Jademouth,Male,54.0,Primary,Self-employed,completed,2026-05-14T10:40:37,field_tool,2,Bad,2,High,2
+c07433d0-7589-4d81-bbf3-de8805740ac3,26e047c6-d15b-4da0-b83f-00638c0b58bd,survey_425,Liberia,Lake Melissaburgh,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:40:28,field_tool,5,Very Good,4,High,1
+d3b48125-5685-4110-b34e-f27e2aa38354,0451bd09-aba8-46b3-a206-1f12cd03e267,survey_330,Liberia,Ortegashire,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:41:05,field_tool,2,Neutral,3,High,4
+fafcaa37-40e1-4091-a027-dd51c31ef077,87308a95-1128-495c-b840-fd35f62a4b30,survey_696,Liberia,Murrayhaven,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:40:39,field_tool,4,Bad,5,Medium,1
+fb7a71f0-8290-4f3f-9bbb-263b0ab61934,ce3aa5dd-a952-4fa4-95bf-aefdacd76170,survey_472,Liberia,New Leahton,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:40:59,field_tool,2,Very Good,2,Medium,3
+a73a2a74-f538-4ce2-b7c4-e098246c8600,eb1c91b6-3c4c-42ce-9ebf-8c16ece9bb6f,survey_129,Liberia,South Wendy,Male,39.0,Primary,Self-employed,completed,2026-05-14T10:45:29,field_tool,2,Very Good,2,High,3
+6bc1f41d-466a-42a5-9406-55436dc0e941,c535fb4c-019a-4014-a8ea-e7997acad9d7,survey_379,Liberia,Port Mary,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:42:43,field_tool,4,Bad,3,Low,4
+e8c5dd66-4254-4399-9640-66f1558b27de,5103c95d-e1fc-4ced-9baf-a427732198d9,survey_398,Liberia,Port Michael,Female,56.0,Tertiary,Self-employed,completed,2026-05-14T10:42:19,field_tool,2,Good,1,Medium,4
+cccbc6ad-3c24-470a-903f-7cf2f868c89a,e74cef3f-1057-4f94-a8cb-8e75453b0619,survey_320,Liberia,New Dianaborough,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:42:39,field_tool,1,Good,4,High,1
+a114177d-6cbe-40dc-b600-25405c1f8674,738c2566-c7c0-4e6c-a8ef-c4bb4abf432e,survey_517,Liberia,New Peter,MALE,64.0,Tertiary,Self-employed,completed,2026-05-14T10:44:44,field_tool,4,Bad,2,High,2
+ce6796d7-01c1-4876-8c2e-617c7617aebe,6463ca6c-b38f-4de4-90c8-d00bfad08f45,survey_910,Liberia,West Lindsay,Male,73.0,Tertiary,Unemployed,completed,2026-05-14T10:45:20,field_tool,3,Very Good,4,Low,2
+4496fb47-553d-477b-b98d-c2853ff61395,b3cfd66d-8090-4edf-bb46-52032824b5b9,survey_844,Liberia,Tammyberg,Female,42.0,Primary,Unemployed,completed,2026-05-14T10:40:10,field_tool,4,Bad,1,Low,2
+ec8fd3fc-2aad-4982-be0c-1c54967e74d6,a2388e95-7992-44c2-9200-630a39b8f052,survey_138,Liberia,Cindyview,Female,56.0,Tertiary,Employed,completed,2026-05-14T10:42:25,field_tool,4,Good,5,Low,2
+7836cb54-c21a-4a58-a065-95ae06898ac4,99fc5259-0b5d-41a6-9b71-c44e0290a786,survey_106,Liberia,Lake Jamesstad,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:43:46,field_tool,4,Neutral,3,Low,1
+d1958262-2793-4db4-9756-133dc126fa53,6055b3f6-e51d-46f2-856c-df862370c9e9,survey_764,Liberia,New Matthew,Female,40.0,Tertiary,Unemployed,completed,2026-05-14T10:44:36,field_tool,1,Very Good,5,Low,5
+ef826ac6-b68a-4c4a-aa75-2711a3b5e093,f0b79b3b-c83e-45a2-a3a0-3b37f36590ca,survey_809,Liberia,North Patrickfort,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:41:36,field_tool,5,Neutral,1,High,1
+491be48a-137e-4e6f-8582-8f089ce16369,850b0333-eb6f-4a20-b68b-c998385da49b,survey_278,Liberia,South Patrick,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:42:24,field_tool,2,Very Good,2,Low,4
+88c1d6bf-3515-4c53-8263-cb13732245cd,c2d20aa3-f2b2-4c96-b766-00efd1edee4c,survey_701,Liberia,Amberton,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:41:12,field_tool,3,Neutral,1,Low,3
+335aeb58-a65b-4a56-934f-47d7619fcc7c,63a2d840-9394-47cb-8cc9-6644b13780e2,survey_107,Liberia,Boydshire,Male,59.0,Tertiary,Unemployed,completed,2026-05-14T10:45:41,field_tool,3,Very Good,3,Low,4
+e5c5b3bd-ce89-43f4-b348-1e1f56f0895b,8eadd0a4-f67d-4fdd-bc47-c4b52bd85572,survey_247,Liberia,Amymouth,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:41:14,field_tool,5,Good,5,Medium,5
+ebf09465-86f8-4cd4-aa05-2b5cac2c2024,ae1acb91-0069-4ad2-92cc-126906f7cf07,survey_970,Liberia,Lake Hollystad,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:45:28,field_tool,1,Good,3,High,4
+40e5422a-1d82-4b7d-9303-d517f39e4d4c,4ee48302-c617-4918-8d80-297b4f62d975,survey_962,Liberia,Travisberg,Female,,Secondary,Employed,completed,2026-05-14T10:39:43,field_tool,3,Good,1,High,1
+c784a121-d3ca-4e99-aef2-4f6ee3b2d758,5dcedf37-0e93-4e9e-8561-e8f77253486e,survey_934,Liberia,Port Jessicaside,Male,27.0,Tertiary,Self-employed,completed,2026-05-14T10:43:39,field_tool,1,Bad,5,High,3
+fe6fd500-3d66-4596-b8db-411cf5d2db6a,adb3a657-3053-40d7-b937-efb903906426,survey_923,Liberia,East Curtis,Female,23.0,Secondary,Employed,completed,2026-05-14T10:45:14,field_tool,2,Neutral,1,Medium,3
+64f2fac3-52b6-4a9b-bc7f-fd7c6df5f837,9d871f74-5405-41d0-b4cd-ae7e73ba7afd,survey_292,Liberia,East Maxwellview,Female,63.0,Secondary,Self-employed,completed,2026-05-14T10:45:02,field_tool,1,Bad,1,Low,4
+2edd907f-8d36-4557-ac54-3040c8b17c76,8795009f-ff0a-4c59-b02e-461d98d4f8e7,survey_852,Liberia,New Charles,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:41:27,field_tool,4,Neutral,3,Low,4
+ee9d06a6-cf0c-4e52-8ec6-30e32649b2f8,4638ec10-b0ee-444b-8198-bdc12d0ad224,survey_503,Liberia,Lake Brettfort,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:40:48,field_tool,3,Very Good,3,Low,2
+5eade003-aa1c-4622-a601-db32080bc8ac,0e06bb2b-114c-45a5-830e-6e96821958a0,survey_707,Liberia,Port Nicole,Male,42.0,Tertiary,Self-employed,completed,2026-05-14T10:43:33,field_tool,4,Good,2,Medium,1
+da856ca1-f949-4d73-9d22-5b35c7668363,d14ac60a-5770-4ab2-986e-b55d2c1d57a2,survey_260,Liberia,Murphystad,Male,57.0,Primary,Self-employed,completed,2026-05-14T10:40:39,field_tool,5,Good,5,Medium,5
+7a75c689-1eae-4bd1-9b0b-16a2cc4069fb,769b5877-36f0-4fe7-ae6a-e1a627dffdad,survey_426,Liberia,Lake Brianchester,Male,45.0,Primary,Unemployed,completed,2026-05-14T10:45:16,field_tool,5,Good,2,High,2
+c2728c6e-af40-434c-ba8b-b9184891975a,b3b2cd04-3535-498c-b628-746cbea2ceca,survey_805,Liberia,Port Henrystad,Female,72.0,Secondary,Employed,completed,2026-05-14T10:40:33,field_tool,1,Good,1,Low,1
+9d2c0fc0-7ddc-4139-8f91-4e1cbc308135,6fd90254-6dee-4228-a31a-ae61778aad6e,survey_942,Liberia,North Rebecca,Male,31.0,Tertiary,Unemployed,completed,2026-05-14T10:43:51,field_tool,4,Neutral,4,High,5
+5e60c31e-aeea-4112-856b-877f4908ddf0,194162c1-290e-4997-aafb-0cf24921c585,survey_494,Liberia,East Kevin,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:44:36,field_tool,2,Good,3,High,3
+7ed677ce-923d-48be-bb6b-9420e5a08c7e,8fccb3e5-58fd-41eb-b78f-9a41e3fb72a4,survey_118,Liberia,Lake Cindy,Male,59.0,Primary,Self-employed,completed,2026-05-14T10:42:49,field_tool,4,Bad,5,Low,4
+fb5b6040-a642-456b-b6f8-3ce6c1d06c9e,59b7950d-efcd-4670-a5da-6984f642bde2,survey_606,Liberia,Mooreshire,Female,70.0,Tertiary,Unemployed,completed,2026-05-14T10:41:08,field_tool,2,Good,5,Medium,3
+106e3570-61bb-4451-83f8-7854e13c3ecc,537fc927-b9b2-42e1-af5c-b6c39911d466,survey_784,Liberia,New Paulashire,Female,35.0,Secondary,Employed,completed,2026-05-14T10:42:16,field_tool,3,Very Good,3,Medium,2
+1578ac57-9f89-4c0c-a0a4-453c75fda9d3,c02e42da-1338-496e-8c07-81a9dff382cf,survey_257,Liberia,Vernonborough,Male,75.0,Secondary,Employed,completed,2026-05-14T10:43:25,field_tool,3,Very Good,3,Medium,2
+530b709e-e702-41d9-8d97-2faa7b4908fd,c15a796c-322b-4938-9891-92346d76c8d9,survey_824,Liberia,Hodgesburgh,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:42:39,field_tool,4,Very Good,4,Low,4
+60720577-1bcd-46a5-aa52-f2da29a97984,4ac7d726-ef68-4d2b-aadc-1e64f619016e,survey_119,Liberia,Amyport,Male,60.0,Tertiary,Self-employed,completed,2026-05-14T10:43:55,field_tool,4,Good,5,High,3
+8fe19d58-92fb-4130-9996-e95d8fb7bb23,5bac928a-9563-4dbf-aaed-f1cc6fdd2139,survey_492,Liberia,Ericafort,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:39:43,field_tool,1,Bad,1,High,4
+16c8ab56-bb37-4479-ae2d-98d5565f2d66,68263e2d-8f8c-4efd-9e1b-c99c52518df0,survey_576,Liberia,Shelleyton,Male,74.0,Primary,Unemployed,completed,2026-05-14T10:43:03,field_tool,3,Bad,2,Medium,3
+77036ec6-c6b5-47c0-b1db-49e69940a02d,c62b58fa-bacd-42ec-995d-154c76c60616,survey_482,Liberia,Mcleanmouth,Female,55.0,Primary,Employed,completed,2026-05-14T10:40:15,field_tool,3,Bad,2,Low,1
+d06343bd-3301-42d8-a6d2-1a7db50cc779,a4233a70-95fd-42db-9fc2-252e197499ae,survey_315,Liberia,West Christinamouth,Male,21.0,Secondary,Self-employed,completed,2026-05-14T10:43:12,field_tool,4,Very Good,5,Medium,3
+1de35cfc-ef62-4682-b882-c4aaf76fd37d,4f76cefd-00b6-4e38-b4d4-88ee80c9d17f,survey_708,Liberia,South Jose,Female,47.0,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,1,Good,1,High,1
+4184f0e2-c712-4311-b34f-92e016c2269b,0bdff995-5b6b-4f80-9e09-53217fe07d03,survey_873,Liberia,Port Kimberlyfurt,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:43:09,field_tool,2,Bad,5,Low,1
+6add9eb0-1316-4012-98e5-167b7aa83e05,f3b51c60-b14f-4750-81b8-ed45d6d9de56,survey_574,Liberia,Robinsonburgh,Female,48.0,Primary,Employed,completed,2026-05-14T10:43:59,field_tool,5,Very Good,4,Low,3
+9118761b-82a0-4397-9ce2-94ec83335fa5,4bb64f5a-b74d-49e0-881b-0b205f0c3ee5,survey_156,Liberia,South Douglasmouth,Female,53.0,Primary,Self-employed,completed,2026-05-14T10:42:30,field_tool,2,Neutral,4,Low,1
+60ed8ac6-a147-40f7-ae50-e38b2de8d313,a1305203-cc72-4f11-9be2-71e50003d09b,survey_279,Liberia,North Danielle,Female,69.0,Secondary,Self-employed,completed,2026-05-14T10:41:01,field_tool,4,Bad,2,High,1
+2e975667-740e-4813-acc6-f7fe0aca1982,1c22abff-2cbe-4729-95aa-4da02e363ec6,survey_552,Liberia,Port Kimberly,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:41:35,field_tool,5,Bad,4,Low,4
+6baaf331-8c68-498a-a307-0ddd95d8f452,94b2a1fa-2caf-48c0-8333-a2118fa2c7dc,survey_139,Liberia,Josephfurt,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:40:49,field_tool,1,Bad,1,Low,4
+2a72b4ae-e804-47b3-8525-0483c7a637fb,3e54c43e-60c6-4872-be1b-a5dee5e5365a,survey_963,Liberia,Stephanieville,Male,40.0,Secondary,Self-employed,completed,2026-05-14T10:42:11,field_tool,3,Good,1,High,4
+a9461952-f8bd-446b-93f3-e3a905acec0a,97118ab2-4378-4f05-b6cb-084682f154da,survey_819,Liberia,Mccoymouth,Male,,Primary,Self-employed,completed,2026-05-14T10:45:24,field_tool,5,Neutral,3,Low,5
+44f5030c-6a69-4002-b9c2-9c8934542bf3,98ed6c16-ac44-4807-a1ad-815818f8b769,survey_979,Liberia,Joshuaside,Female,47.0,Tertiary,Self-employed,completed,2026-05-14T10:44:47,field_tool,3,Bad,3,Medium,4
+82f30a69-bd87-4ac9-8c6d-5275e2f32271,8bd2e759-fc1e-4492-bae9-9c003d8ad150,survey_618,Liberia,Jeffreybury,Female,61.0,Secondary,Self-employed,completed,2026-05-14T10:42:30,field_tool,3,Very Good,4,High,3
+48f19560-708e-4aab-845d-ce49517ec65d,4b154327-a927-4404-9d1b-44c3800e9bec,survey_301,Liberia,South Brittanybury,Female,66.0,Secondary,Unemployed,completed,2026-05-14T10:42:39,field_tool,1,Very Good,5,Low,1
+515b91f0-c0a2-42cf-8a03-af071cf1189a,a5d265b9-a527-4766-8305-aa61ec187737,survey_760,Liberia,Douglasside,Female,21.0,Primary,Employed,completed,2026-05-14T10:43:43,field_tool,2,Very Good,5,Medium,3
+d39319c2-28f6-4b2f-b44f-44c296eedfe1,144456d6-525a-4d2d-adf6-f8c6a6fb8fa9,survey_402,Liberia,North Ashley,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:40:03,field_tool,4,Bad,4,Low,5
+9313a2db-ec5b-44a0-b373-1ecfdea492f5,7f1d37aa-16fe-48f8-8c57-551a10d48142,survey_647,Liberia,Karenmouth,Male,43.0,Secondary,Self-employed,completed,2026-05-14T10:41:48,field_tool,4,Neutral,5,High,3
+56d2110b-9afc-4ffd-a7cb-bdaee757f936,145e0cb3-1f5c-4ea2-9032-7bcdc4222d52,survey_520,Liberia,Patriciachester,Female,46.0,Tertiary,Unemployed,completed,2026-05-14T10:41:43,field_tool,3,Bad,2,High,2
+5c502568-1ff7-4913-b008-d51548cca7d6,068442ca-d9c1-4d2d-ac73-0e3035bf4d56,survey_437,Liberia,Port Briantown,Female,48.0,Primary,Self-employed,completed,2026-05-14T10:42:05,field_tool,1,Good,5,High,3
+3c57dd54-24e2-4d91-aa50-b020fda3aa4c,527d7808-c058-427d-becb-a0a6ac2cae6a,survey_243,Liberia,Reidville,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:44:57,field_tool,3,Bad,4,High,5
+c57e884c-88b3-4341-ba8f-754931131f42,a61a5645-e65d-4477-b3c8-e481a787453d,survey_658,Liberia,Bryanstad,Female,61.0,Secondary,Self-employed,completed,2026-05-14T10:44:56,field_tool,5,Bad,2,High,5
+5953b35f-29db-4edc-b125-67c98d88945c,8513167d-c6cb-4a9b-9df5-4f197da1e96a,survey_922,Liberia,West Rhonda,Male,57.0,Primary,Employed,completed,2026-05-14T10:42:09,field_tool,3,Very Good,2,Medium,5
+fb35ca11-b07c-402f-808a-1d80e868c1e8,45c5f6fb-bc43-477b-99b5-d7065b8c6739,survey_743,Liberia,North Allen,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:42:14,field_tool,3,Bad,4,Medium,1
+d034b56f-d646-4713-b3af-0fab5386a0d6,8248df78-ad08-4cd3-8446-28f629b471d3,survey_204,Liberia,Lisahaven,Male,51.0,Primary,Self-employed,completed,2026-05-14T10:41:16,field_tool,5,Very Good,5,Medium,5
+95f59adc-f7d6-4e1f-b554-820f03af31a5,f300ad45-ed1c-4dcf-a08f-0dae8b9b9fbf,survey_281,Liberia,Floresshire,Female,56.0,Secondary,Employed,completed,2026-05-14T10:39:59,field_tool,4,Neutral,3,Low,2
+c4168cac-3e58-4683-9646-38a0c7a6c398,716492ba-8c14-4123-b718-44b2d549eee9,survey_849,Liberia,West Mark,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:42:52,field_tool,4,Neutral,4,High,1
+1d24fe17-0e20-438a-9c15-73bc60ada786,fe1dd7a7-55a7-4ce8-9e93-03574f92b453,survey_527,Liberia,New Brandonborough,Female,70.0,Primary,Employed,completed,2026-05-14T10:43:35,field_tool,1,Good,2,Medium,4
+e4e9b9ed-248f-4881-9894-5cf557e4a042,c2565f79-729f-4eb2-95bc-ea625ea2b389,survey_315,Liberia,Jarvismouth,Male,71.0,Primary,Self-employed,completed,2026-05-14T10:44:37,field_tool,4,Very Good,2,High,5
+26fcd838-6701-48dc-8b09-4ce13bce5679,e716fdc9-a849-4db6-a10a-fa42fecc78e0,survey_420,Liberia,Port Erinland,Female,60.0,Tertiary,Unemployed,completed,2026-05-14T10:45:24,field_tool,5,Good,5,High,5
+69cbb1a4-fa84-4139-8153-afd4c6a27c86,1cdcdff6-468d-4fa1-9643-11016c7be210,survey_225,Liberia,Port Michael,Female,31.0,Tertiary,Employed,completed,2026-05-14T10:40:32,field_tool,2,Good,4,Low,5
+79ce1c3a-1f0b-44f1-ac5e-759928e04bdf,4336c1a9-8abe-426b-9130-76b82bfd69b9,survey_995,Liberia,South Melanie,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:42:21,field_tool,4,Bad,1,High,3
+ec45cdab-502c-4097-9612-ba8be21ff346,5c2aef50-c8ea-4f1c-86c0-2dc3fa6f9982,survey_958,Liberia,Amandaburgh,Female,21.0,Primary,Employed,completed,2026-05-14T10:43:49,field_tool,2,Neutral,2,High,1
+337a45f6-8e41-462c-b13c-b1b155453703,b173e315-0fc4-4567-bcb0-0d3376889e3b,survey_579,Liberia,Aguilarberg,Male,46.0,Tertiary,Unemployed,completed,2026-05-14T10:40:50,field_tool,3,Good,2,Medium,4
+ffcbeb43-f38f-48b4-893e-1150ba812f79,a8024eb6-d6bb-45ca-995b-56656a75a862,survey_411,Liberia,Port Nicholasshire,Female,61.0,Primary,Self-employed,completed,2026-05-14T10:45:25,field_tool,2,Neutral,4,Medium,4
+ecf9b5a4-03ea-4077-b9aa-1636625ca175,991890e4-4077-4324-a422-8150abe01cb5,survey_190,Liberia,South Oliviahaven,Male,52.0,Primary,Employed,completed,2026-05-14T10:45:11,field_tool,4,Very Good,4,High,2
+72efdf7d-8bd1-4b35-8452-9b8688c0efce,1fd9dfaf-6cba-4702-bf51-15b72d97ffc4,survey_677,Liberia,North Genebury,Male,52.0,Secondary,Employed,completed,2026-05-14T10:42:42,field_tool,2,Neutral,4,Low,3
+3f582dca-d7bf-41a2-be13-3011f43836a0,233398e5-a874-4a3f-93b3-7d74d07311ba,survey_254,Liberia,New Kathrynview,Female,62.0,Secondary,Employed,completed,2026-05-14T10:42:48,field_tool,5,Good,3,Low,1
+aec7949f-da19-4e35-9ecf-37b4b5585318,c714a715-b55e-4175-961b-7c53fe212f5b,survey_587,Liberia,Silvamouth,Female,35.0,Tertiary,Employed,completed,2026-05-14T10:43:41,field_tool,1,Neutral,5,Medium,5
+9798fdc0-9b1f-426c-b298-096725e15d44,99d4a4d4-42cb-4969-b432-d6f8349b4f43,survey_456,Liberia,Nicoleside,Male,37.0,Tertiary,Employed,completed,2026-05-14T10:42:38,field_tool,5,Good,4,High,1
+0ebad98b-d48c-46d7-925c-ad93594fb292,6c51b015-a913-460c-a280-42baed62fc20,survey_342,Liberia,East Thomas,Female,63.0,Primary,Self-employed,completed,2026-05-14T10:44:31,field_tool,3,Neutral,3,Low,5
+07e4fade-69bc-49e2-8b08-ae08f1be9553,b89d30aa-b1ea-4126-830c-e24bddd89ebd,survey_165,Liberia,Brittanyland,Female,50.0,Primary,Self-employed,completed,2026-05-14T10:41:45,field_tool,3,Bad,2,High,5
+b3de206c-8c9c-42f4-8493-0997cda4582e,793abbe8-bc47-4718-8a65-8cfcbb7d99e1,survey_958,Liberia,Harrellville,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:44:28,field_tool,1,Very Good,2,High,2
+d081343c-6ea5-4365-8f20-15a2ed08dc15,c890b43d-a13f-41be-96ac-56d0840fc16f,survey_443,Liberia,North Jenniferbury,Male,68.0,Secondary,Self-employed,completed,2026-05-14T10:43:43,field_tool,5,Bad,5,Medium,2
+79d7a8eb-d4e1-4cc4-b4a1-c8e968b4a603,ab22eb19-e09e-4c8e-9367-a1e99c2fd5a5,survey_448,Liberia,East James,Female,33.0,Tertiary,Unemployed,completed,2026-05-14T10:41:57,field_tool,3,Good,4,High,1
+32ab215b-ba6c-4eda-9e3f-b1c513d3971c,14dfa6cc-4686-43f6-aa9a-cf173c316398,survey_316,Liberia,Smithmouth,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:40:31,field_tool,5,Very Good,3,Low,3
+489c15a7-c482-4d74-8ffa-cae33f285648,7c3374ae-80d3-487a-bd5b-26232501533f,survey_223,Liberia,Allenhaven,Female,71.0,Secondary,Self-employed,completed,2026-05-14T10:43:49,field_tool,2,Very Good,3,Low,1
+b3d82b29-63fb-4c58-974c-94a3b7026a2f,a5587878-9dc4-4e08-9020-9059c26c2432,survey_183,Liberia,Port Williamland,Male,67.0,Tertiary,Employed,completed,2026-05-14T10:41:19,field_tool,5,Bad,1,High,1
+cd9b6a90-72bb-482f-b410-635cdf2290a0,2c348fbf-2c13-4a9c-b28f-fb4facd11f21,survey_349,Liberia,Port Williamberg,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:41:13,field_tool,5,Bad,2,High,3
+2ded4251-3bf8-421b-999d-b83bc05595e5,482c4407-4e24-42c5-8dde-9cd9e1129825,survey_901,Liberia,Donnabury,Male,,Tertiary,Employed,completed,2026-05-14T10:42:23,field_tool,2,Neutral,1,High,3
+cc9cadfb-77a3-4f3a-9d87-a154e1a8de45,83d0f5bd-7da5-4008-9a8d-ad361cba268e,survey_126,Liberia,South Nicoleshire,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:42:41,field_tool,5,Bad,2,Medium,2
+3abeb07c-7a34-4861-8539-c8db252a0229,c2464175-cd99-4628-9c85-510c79cebed1,survey_852,Liberia,Port Kellyberg,Male,51.0,Secondary,Unemployed,completed,2026-05-14T10:45:23,field_tool,4,Very Good,4,Low,4
+18561e63-556a-4601-972f-95d0fc3da06c,9f45b2b2-fddb-4c6e-9738-c021ded08fe4,survey_954,Liberia,North Jacquelineburgh,Male,28.0,Secondary,Self-employed,completed,2026-05-14T10:44:02,field_tool,5,Very Good,1,High,1
+df697fca-6418-412b-8b58-e81ffcde0662,4665f861-2213-42d9-aa00-003e4b6e9454,survey_628,Liberia,South Bradleyville,Male,,Primary,Unemployed,completed,2026-05-14T10:44:17,field_tool,2,Good,1,Low,3
+d052ad3d-688c-4ccf-bc63-8acf2d5bbdeb,d4448baf-a74a-4aa7-87fb-59dfccfbd7ba,survey_857,Liberia,Port Courtney,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:40:29,field_tool,2,Good,4,High,1
+31ddd5d6-c2b7-4497-be70-c238d9828768,ad0c054e-7e00-452b-be92-97dc3d1229fb,survey_713,Liberia,Jasonton,Male,21.0,Tertiary,Self-employed,completed,2026-05-14T10:41:35,field_tool,1,Very Good,3,High,3
+8a560f40-7fdb-4fbc-8624-15a8a7ee6b73,0f2ce5b9-e850-4d62-a3c4-3ca8fca98c13,survey_255,Liberia,Joannefort,Male,20.0,Tertiary,Unemployed,completed,2026-05-14T10:44:34,field_tool,3,Bad,1,High,5
+99a85e0a-276d-4b4f-ae8f-b8e97b865c33,ce8d80e4-b50b-4e6d-9504-15c62baa4128,survey_527,Liberia,South Jeffreybury,Female,47.0,Secondary,Employed,completed,2026-05-14T10:42:38,field_tool,3,Good,3,Medium,4
+294576f5-0217-45cd-9fd0-10f6e3f1302e,6893d5df-3b8e-4124-9d7e-f83985432556,survey_240,Liberia,Port Francis,Female,27.0,Secondary,Unemployed,completed,2026-05-14T10:40:22,field_tool,5,Neutral,2,High,2

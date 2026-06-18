@@ -1,0 +1,48 @@
+dataset: data_quality_summary_gold
+version: "1.0.0"
+description: "Aggregated data quality monitoring metrics"
+
+fields:
+  dataset_name:
+    type: string
+    required: true
+
+  total_records:
+    type: long
+    required: true
+
+  valid_records:
+    type: long
+    required: true
+
+  invalid_records:
+    type: long
+    required: true
+
+  duplicate_records:
+    type: long
+    required: true
+
+  missing_value_count:
+    type: long
+    required: true
+
+  completeness_percentage:
+    type: double
+    required: false
+
+  validity_percentage:
+    type: double
+    required: false
+
+  uniqueness_percentage:
+    type: double
+    required: false
+
+  quality_status:
+    type: string
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true

@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+4486c3a5-175a-4b23-bac5-c19cedd3fd5f,2faa2bc3-feef-47f1-b32c-d7780621e9e2,survey_506,Gambia,South Conniestad,Female,32.0,Tertiary,Self-employed,completed,2026-05-14T10:43:23,field_tool,5,Good,3,Medium,1
+7cb3d41b-ea94-4b1a-a9a5-826439c61f66,d3294a71-b697-492f-9840-fd58014cd941,survey_476,Gambia,Ericton,Male,56.0,Primary,Unemployed,completed,2026-05-14T10:40:43,field_tool,5,Neutral,4,High,4
+469ec57f-7ae2-42b8-8c94-4233f42e9792,34ebc644-28b1-4fd2-9c92-0459be437af5,survey_900,Gambia,East Catherinefurt,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:42:55,field_tool,2,Neutral,5,Low,5
+d9b540f1-a5d7-47f8-98e5-e42cab1067f7,f59ae4db-0575-4f3a-b80c-c55832222749,survey_114,Gambia,East Michael,Female,50.0,Primary,Employed,completed,2026-05-14T10:43:04,field_tool,4,Good,2,Low,3
+40864448-3120-4066-bfbc-d0a83762bd1f,00d2d503-f813-4dba-83c5-d1215a4594cf,survey_421,Gambia,North Scott,Female,64.0,Primary,Self-employed,completed,2026-05-14T10:45:09,field_tool,2,Very Good,1,Medium,1
+8cabace6-f792-4639-b909-8d9bea3e61ec,5a6c995c-cda1-45a5-9e09-f52297d9e5c4,survey_118,Gambia,Lindaton,Female,32.0,Secondary,Self-employed,completed,2026-05-14T10:41:12,field_tool,2,Very Good,3,Low,2
+3ca7ad5f-c133-4b7b-b290-b2086cdd4241,eca4eade-355e-482f-b681-5950aec00264,survey_752,Gambia,North David,Male,60.0,Secondary,Employed,completed,2026-05-14T10:45:01,field_tool,2,Good,1,Medium,5
+46f0fddb-a746-4b7b-9bad-4a2d853a80ca,17ea3df9-370a-4c57-9b76-df609bf85468,survey_674,Gambia,Adamport,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:40:45,field_tool,1,Good,5,Medium,5
+faf5b328-1b19-4cec-b31e-7342cf4706f9,f286e414-aa0f-4575-9411-1c2b33528551,survey_858,Gambia,Lake Benjamin,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:45:34,field_tool,2,Good,5,Medium,5
+2b5adc28-2b0d-485a-ae69-77ad8126b6c3,8465d576-eeeb-45c7-a26f-3613dab4f0f9,survey_414,Gambia,Port Rebekah,Female,37.0,Secondary,Employed,completed,2026-05-14T10:42:14,field_tool,3,Bad,5,Low,4
+20bdb922-0328-42ef-b727-885e9179a7da,c8219085-1fdb-4f7a-9fde-557b8741a69f,survey_904,Gambia,New Johnton,Female,66.0,Primary,Unemployed,completed,2026-05-14T10:42:37,field_tool,4,Neutral,2,Low,1
+88d17198-0835-4def-83ff-c1319beabb28,b575008f-49b2-446b-87db-14f34c1d46c4,survey_743,Gambia,Robinsonhaven,Male,67.0,Primary,Unemployed,completed,2026-05-14T10:42:43,field_tool,5,Good,1,Medium,4
+cf2d8f75-a7b6-42e3-b132-40e38a6d1208,7c440eb2-d316-42a3-81a9-24bd7186ec57,survey_582,Gambia,Dyershire,Male,32.0,Tertiary,Self-employed,completed,2026-05-14T10:44:09,field_tool,1,Good,1,Medium,5
+47026208-1b0a-4078-81d5-9b1d4c1f604d,45596414-267e-4dda-bf9b-acaef0f0a856,survey_241,Gambia,Daniellemouth,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:41:41,field_tool,4,Very Good,3,High,4
+f458d057-e835-484b-b7e3-381634597031,5fef77a4-1adf-4612-9472-2d8186b96a2a,survey_517,Gambia,New Ericberg,Female,46.0,Tertiary,Unemployed,completed,2026-05-14T10:45:27,field_tool,4,Good,4,High,4
+96128f97-1708-4c95-9a38-e5ed2a5c4eda,dece9697-83e5-42de-83c2-a462301342f9,survey_768,Gambia,South Sarah,Male,33.0,Tertiary,Employed,completed,2026-05-14T10:40:47,field_tool,1,Very Good,5,Medium,5
+441c7d48-a944-4816-8f12-92c06a1ef963,f4e99572-de3a-4eeb-9ae3-a07a963dde79,survey_606,Gambia,New Matthewstad,Female,26.0,Primary,Unemployed,completed,2026-05-14T10:42:46,field_tool,5,Very Good,3,Medium,5
+2957353f-669d-4dd5-a4c3-d95900dbfeb7,6b36a78b-af80-4f2b-b78f-cc0da5826b3d,survey_849,Gambia,West Rebeccashire,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:40:01,field_tool,2,Good,1,High,1
+707c571a-fd32-4393-8d3f-645acdce3b1e,8367c2d1-efd6-42b9-8dbb-31a43e61b48d,survey_670,Gambia,New Rodneymouth,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:42:15,field_tool,1,Good,5,Low,1
+dbb65d3b-f6e5-4080-86ae-5f67df4dabd0,74177003-8076-4cbf-bde2-c14d43057119,survey_232,Gambia,Garciamouth,Female,23.0,Primary,Employed,completed,2026-05-14T10:39:47,field_tool,4,Good,4,Medium,5
+4c9f7f37-2418-490b-9115-24b897c6904f,4b4ecd8d-c31f-4ff2-b567-4b5fd3162db9,survey_546,Gambia,Brendaville,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:42:26,field_tool,3,Neutral,2,Low,1
+cc7632d0-f18a-4218-8f2b-1feb467afab0,9275b5b8-82aa-43a7-87cb-80ecbcb234e2,survey_922,Gambia,Lake Jonathan,Male,29.0,Tertiary,Self-employed,completed,2026-05-14T10:43:08,field_tool,2,Good,4,Low,1
+6557dce9-239f-4955-b5bf-19d08cf33e63,3cc177cc-0a83-423a-8a5c-f385b63b7fc8,survey_572,Gambia,Anthonychester,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:44:44,field_tool,3,Very Good,3,Low,2
+f050d6c8-45a6-408f-95f7-e5158e11dad9,c8aaaccf-58bf-497c-9c71-d3e8ee26e2bc,survey_282,Gambia,Carolynborough,Female,28.0,Tertiary,Unemployed,completed,2026-05-14T10:42:48,field_tool,4,Bad,2,Medium,5
+7e5e6c68-8c20-45de-bab1-257ccbbabf80,82c27462-8220-4dad-9527-fa54dc66bdc1,survey_399,Gambia,Port Bryanberg,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:45:19,field_tool,4,Neutral,1,Medium,2
+610391e3-882f-4658-995a-bcb087f527bb,c6a59693-704a-4a01-b256-c86f270d15be,survey_341,Gambia,Kevinmouth,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:45:01,field_tool,5,Very Good,1,Low,4
+2bdc8e49-e146-46b9-9a78-8aec35f83d80,4581a3cf-7e3f-4ffa-af0b-aa347f24a43a,survey_383,Gambia,Autumnburgh,Male,37.0,Secondary,Employed,completed,2026-05-14T10:42:49,field_tool,5,Very Good,3,High,5
+6a2adadb-c9fc-47e2-9e51-bcf99d2dd504,1e12a48e-b542-41a4-a11f-4efd48abd32e,survey_625,Gambia,East Willie,female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:40:55,field_tool,4,Bad,2,Low,3
+5079c9fe-2546-405e-ab9d-e6f3cb784759,96382c45-bc95-4d43-89d8-632ad9fd99b4,survey_561,Gambia,South Caitlyn,Female,,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,4,Neutral,4,Low,3
+3979742f-4204-4627-8961-9971ececa881,0fe75f7e-7e53-41f0-845b-df7d09dd97ae,survey_400,Gambia,Morganstad,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:44:47,field_tool,1,Good,3,Medium,3
+5dd5ba30-9691-43d6-8cc7-1aea12e3c21d,d50653a9-8c23-49b5-88c1-e321fbb7c395,survey_720,Gambia,Ashleychester,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:43:36,field_tool,1,Very Good,1,Low,2
+04f85e65-2796-4b35-87b8-d7a26635b814,b8398731-ec09-42f2-83e0-f9f0e579b25e,survey_114,Gambia,South Ronaldborough,MALE,27.0,Tertiary,Self-employed,completed,2026-05-14T10:45:27,field_tool,2,Very Good,5,High,4
+df8d252a-2455-4513-b78c-2c5434a9a4c2,6bf95967-c9c0-47a7-9746-79fc904ab3a5,survey_374,Gambia,Wilsonmouth,Female,53.0,Secondary,Unemployed,completed,2026-05-14T10:42:46,field_tool,3,Neutral,1,Low,2
+6e7a1227-8dfa-431f-b58f-9bcda3c020cc,e6d1bd92-57f0-4393-b893-4037960c2e54,survey_626,Gambia,East Kimberlychester,Male,28.0,Tertiary,Employed,completed,2026-05-14T10:43:28,field_tool,4,Bad,2,Medium,5
+7c88666e-1c24-4560-895f-8df700a9e111,ca8e5d1c-bbf6-4e15-9fc2-bdda4375386e,survey_253,Gambia,South Kevinberg,Male,75.0,Primary,Employed,completed,2026-05-14T10:40:58,field_tool,4,Neutral,2,Medium,3
+096c1688-15d1-4bc9-9945-110b0036f2a8,7b909e8f-adf6-4518-a5c4-37d47da65190,survey_501,Gambia,Wardland,Male,75.0,Primary,Self-employed,completed,2026-05-14T10:42:04,field_tool,2,Bad,3,Low,5
+f4771140-343a-4c0c-b7cc-6a261707ba3e,1cf9159b-f2cc-4d21-9e29-579dd12942f9,survey_786,Gambia,West Dakota,Female,60.0,Primary,Employed,completed,2026-05-14T10:45:06,field_tool,2,Neutral,2,Low,3
+b0f054d7-58d2-4c26-932a-0edd1dcfaa67,56c7b5a2-0e4e-4b22-8ca7-2326d1b21b61,survey_697,Gambia,Susanmouth,Female,43.0,Tertiary,Unemployed,completed,2026-05-14T10:44:24,field_tool,1,Bad,5,Low,1
+b0ead8cb-d44c-4272-a6d4-1fb581300a51,5a6acdf8-4a2f-4e54-8a51-7a1f3d9bdea5,survey_332,Gambia,Cindymouth,Female,25.0,Secondary,Self-employed,completed,2026-05-14T10:42:46,field_tool,3,Neutral,1,Medium,3
+5f578668-78c2-4a48-b902-e1662c54b73e,2ff5577e-cd29-4e77-af65-6edeec73270b,survey_258,Gambia,South Victoriaborough,Female,34.0,Secondary,Employed,completed,2026-05-14T10:41:24,field_tool,1,Good,5,Low,5
+8b87d1c1-da27-4155-bc0e-e8f545e4d7d5,ed83cef6-f857-4817-8b59-575c5f7db347,survey_279,Gambia,Lyonschester,Female,67.0,Tertiary,Unemployed,completed,2026-05-14T10:43:12,field_tool,5,Very Good,2,High,2
+09692131-2b2f-430a-8e82-b6af0448c778,d203e944-8f7c-41cd-8dd0-e178824c2980,survey_763,Gambia,Katherineport,Female,73.0,Primary,Self-employed,completed,2026-05-14T10:44:37,field_tool,2,Very Good,3,High,2
+ee5af3cb-2598-4780-b443-bd093afddb66,6ad91975-80b3-4454-87ac-11431776e2fe,survey_153,Gambia,West Jamesfort,Male,74.0,Secondary,Self-employed,completed,2026-05-14T10:40:25,field_tool,1,Neutral,1,Low,4
+bfff7e9a-66bf-4173-808a-ada3bfd742cc,ae34c24e-5462-4075-a924-cb6b5edccf48,survey_490,Gambia,Hansenburgh,Female,45.0,Secondary,Unemployed,completed,2026-05-14T10:40:27,field_tool,5,Good,5,Low,4
+8829429e-822b-47e7-8376-3b89d4719913,74f04bc0-943e-4c62-b7db-c6fea030f865,survey_852,Gambia,East Peter,Female,64.0,Secondary,Unemployed,completed,2026-05-14T10:42:56,field_tool,2,Neutral,2,Medium,2
+7d526db9-2b8f-4075-8000-ba1b93ff5bef,f0294048-c747-4b4f-8bd5-7513e31d5f0f,survey_288,Gambia,Port Casey,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:45:28,field_tool,5,Good,1,Medium,4
+492ef11e-6e9e-43f4-befb-f708570e1887,93649895-8604-44a9-893a-5d376b947405,survey_207,Gambia,Debbietown,Female,47.0,Tertiary,Employed,completed,2026-05-14T10:40:25,field_tool,4,Bad,2,Low,1
+0e944d2e-72fe-4646-a56c-916988b33287,ca41100c-5f2e-45ee-9e59-8b43088daf3d,survey_653,Gambia,New Christian,Female,43.0,Primary,Self-employed,completed,2026-05-14T10:40:35,field_tool,5,Good,2,High,3
+94bf0d57-72c9-4b06-a5ad-0296f9d8177e,2c579797-3461-4571-975a-213e5e92930d,survey_990,Gambia,East Richardton,Male,38.0,Secondary,Self-employed,completed,2026-05-14T10:39:56,field_tool,2,Very Good,2,High,1
+e756a12b-fd43-482d-940d-5dad452eb8b5,af9be361-309a-402e-b54a-22c09c705735,survey_123,Gambia,Lake Jay,Female,62.0,Primary,Employed,completed,2026-05-14T10:44:32,field_tool,4,Good,3,Medium,4
+fc5dae09-0773-4f87-bbeb-d7f0de27e10a,96622c87-7ff1-4433-be34-d7056ef5357b,survey_477,Gambia,East Reneebury,Female,36.0,Primary,Employed,completed,2026-05-14T10:44:18,field_tool,4,Very Good,3,Medium,3
+b87800f9-f4d4-4590-a971-71dcdaaaf597,84cd740f-7292-43c7-a2e3-58598f7dfe90,survey_817,Gambia,Lake Virginia,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:40:12,field_tool,4,Bad,2,High,2
+d7b0b04f-13d4-474c-8a9f-e0c6eb859baf,3614cf93-9d6c-47f9-8844-89558f41cb36,survey_324,Gambia,Justinmouth,Female,54.0,Tertiary,Self-employed,completed,2026-05-14T10:44:06,field_tool,1,Bad,5,High,2
+6f3f31b7-308b-44e8-b55e-9d11e288d190,6986dd76-c184-4a08-80b0-5405196e5344,survey_223,Gambia,Reynoldsbury,Female,52.0,Secondary,Self-employed,completed,2026-05-14T10:41:59,field_tool,3,Bad,2,Low,2
+e37f0b43-8a20-44cd-a199-479b5d7a2fa1,2296de7c-cdec-48d1-97e4-0d03e1741e11,survey_976,Gambia,New Jessehaven,Male,32.0,Primary,Employed,completed,2026-05-14T10:45:38,field_tool,3,Good,2,High,2
+03302a05-283b-421c-a5f0-f20bb7b08f6d,2fb47f29-4b40-4e8d-af83-19f817bb849e,survey_828,Gambia,Grahamfort,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:42:02,field_tool,1,Good,5,Low,5
+52101e9b-ed81-44f6-b0b2-29eded56c703,69bc3bd9-d0f0-471c-ba59-aaf1261e43aa,survey_473,Gambia,Joshuatown,Male,52.0,Tertiary,Self-employed,completed,2026-05-14T10:41:51,field_tool,4,Neutral,2,Low,2
+b34755ea-1eca-4d78-b907-3a9f3317f4ea,31b222dd-8f0d-4c0f-a5f3-540e768db93c,survey_736,Gambia,Port Troy,Male,48.0,Tertiary,Employed,completed,2026-05-14T10:43:22,field_tool,5,Neutral,5,Low,4
+5c5c7b4d-dd3d-4174-ba37-e81a89ddced3,9808bb94-713d-4909-bd57-98e2680e1866,survey_529,Gambia,Aprilside,Male,24.0,Primary,Employed,completed,2026-05-14T10:43:42,field_tool,3,Very Good,4,Low,4
+d62fcfce-3a71-4217-ba6b-6a9c09a6fada,4d66fcd2-dad0-4446-9325-5c03719186d4,survey_165,Gambia,Chelseaburgh,Male,67.0,Secondary,Self-employed,completed,2026-05-14T10:42:19,field_tool,1,Good,5,Medium,4
+257c3640-7302-4c0f-94d4-66d8c4403ea1,a9eb9cc0-7224-47be-86c7-08c1635f220d,survey_650,Gambia,West Sarahview,Male,42.0,Tertiary,Unemployed,completed,2026-05-14T10:42:56,field_tool,3,Good,3,Low,1
+fbed43b6-cbd6-40d0-80b3-95babb4b1ef9,fb960855-379c-4a7a-9c1f-c7f1d0c12a2a,survey_451,Gambia,Johnmouth,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:42:29,field_tool,2,Very Good,2,Medium,3
+98604cf8-ca1f-4411-9717-1966add80c52,4f9a936c-6743-4b98-afe9-dfc5cedebd22,survey_616,Gambia,East Christina,Female,65.0,Tertiary,Employed,completed,2026-05-14T10:39:45,field_tool,5,Very Good,2,Medium,5
+fd31e49b-37c3-48cf-b18d-6aa87b34a783,60fc9ea0-a069-43fa-a710-8d4af109508e,survey_756,Gambia,Port Angelashire,female,32.0,Tertiary,Unemployed,completed,2026-05-14T10:42:52,field_tool,2,Very Good,3,High,1
+288a5a7e-ba4c-4168-815f-6bf702db999c,96d2875f-f484-4f01-8403-1b6144ad467e,survey_847,Gambia,Myershaven,Female,28.0,Tertiary,Employed,completed,2026-05-14T10:40:12,field_tool,2,Bad,1,Low,3
+603994ce-e038-4164-9465-024a8c38ed74,a94a2ef6-1f2a-49b9-a5ba-54e7f56fc67d,survey_984,Gambia,Port Don,Male,64.0,Primary,Self-employed,completed,2026-05-14T10:40:54,field_tool,2,Very Good,4,Medium,3
+39161111-d6d6-406b-ada6-f08248082b9e,a661949f-c5a9-406e-aa3c-b8dd3e34cde1,survey_769,Gambia,West Patrick,Female,46.0,Tertiary,Self-employed,completed,2026-05-14T10:43:51,field_tool,3,Very Good,1,Medium,2
+9c853a86-e19f-49e4-9021-324dc4c00dea,0d6d874b-e73f-4622-af8c-9430232abd54,survey_550,Gambia,South Jared,Female,64.0,Secondary,Employed,completed,2026-05-14T10:43:48,field_tool,5,Very Good,5,High,3
+c23f1d70-a23e-4e7b-b0f9-72b2b4d96577,451453cb-c606-44c1-8ed8-e6b6b4fe1eb8,survey_196,Gambia,South Emmaland,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:41:24,field_tool,3,Very Good,2,Low,2
+c079d569-fed4-4a83-a071-93662124b49f,eb7fb6f8-7def-4463-a9e6-858483c224ac,survey_498,Gambia,Jasminehaven,Male,48.0,Primary,Unemployed,completed,2026-05-14T10:42:27,field_tool,2,Bad,5,High,1
+de6195cc-88c0-4693-af3b-5fe43899d303,0d2c55f1-3e9e-498c-805e-92847eeaf075,survey_582,Gambia,Kristinmouth,Male,48.0,Tertiary,Employed,completed,2026-05-14T10:44:39,field_tool,1,Neutral,4,High,4
+08b14b83-0591-447f-b77c-94e703e405a4,e9d2310e-ccd2-4c50-afbd-8d2362921f81,survey_862,Gambia,Emmamouth,Female,52.0,Primary,Employed,completed,2026-05-14T10:45:19,field_tool,2,Neutral,3,High,5
+65c06ffd-9ebe-4764-a24d-7dd9e8210d00,aa848534-d1c7-45e7-a6d7-860b663eb777,survey_253,Gambia,Margaretmouth,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:43:57,field_tool,3,Good,3,Medium,3
+a3f72c44-7251-4703-8b99-d1a27c9b274b,008b8631-ad4f-4658-8fc6-7d4c62a7ce6f,survey_554,Gambia,West Matthewberg,Female,48.0,Tertiary,Unemployed,completed,2026-05-14T10:43:02,field_tool,5,Neutral,3,Medium,4
+5e109832-414f-41c3-8d56-753802439911,a6d31812-7a9e-453a-bfa4-f6c8a31fa0a2,survey_124,Gambia,Greenview,Female,22.0,Secondary,Unemployed,completed,2026-05-14T10:44:48,field_tool,5,Very Good,4,Low,5
+394188c5-1da5-4591-ac70-ef7e2596e734,6a0b0c6f-f7d6-45e4-b6ff-761743936266,survey_484,Gambia,East Steven,Female,18.0,Primary,Employed,completed,2026-05-14T10:42:48,field_tool,4,Very Good,5,Low,2
+e0ef479d-a499-40d4-9d24-6a0cd63956cc,f64e12e2-415f-46ab-9b7c-a8f3693cfcff,survey_234,Gambia,Kellyview,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:41:49,field_tool,5,Neutral,1,Low,4
+3252c649-f4a2-4765-82cd-9a1ca80e5237,4ab5fb87-0fbb-4d44-8ad4-e43a2d755509,survey_612,Gambia,North Tina,Female,56.0,Primary,Employed,completed,2026-05-14T10:44:01,field_tool,1,Neutral,4,High,3
+3fa96208-a017-4baa-8649-caeb9727c423,74b6b87b-4003-4eac-b16d-7b796e6944d3,survey_277,Gambia,Port Miguelton,Male,48.0,Secondary,Employed,completed,2026-05-14T10:41:47,field_tool,2,Good,1,Low,2
+45bc7b4f-301b-4a2f-a838-144e0cb3d4b4,930e6d05-a1ae-46d0-9533-d3e2536770dd,survey_891,Gambia,New Tashastad,Male,26.0,Tertiary,Unemployed,completed,2026-05-14T10:45:23,field_tool,3,Neutral,4,Low,2
+c9fb0a27-9722-49fc-a53f-b9524dbc4909,cdf18511-058e-4470-a84b-2e49f1adafad,survey_841,Gambia,Robertville,Male,50.0,Primary,Employed,completed,2026-05-14T10:41:40,field_tool,3,Neutral,1,High,3
+e0bf41b3-9705-4982-ad41-a4ea8a87d27c,da2aee4f-e10e-466b-910c-9f32394ad526,survey_653,Gambia,Brandonland,Male,54.0,Primary,Self-employed,completed,2026-05-14T10:45:00,field_tool,1,Neutral,3,Medium,5
+72cfbb29-1bc9-4087-97aa-508a5f084139,e995bd67-3002-4c19-bd27-f49d435b42e4,survey_776,Gambia,Port Jacob,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:44:28,field_tool,2,Bad,2,High,4
+cf80b93b-6f74-4b61-97ec-bd355f523883,79cd96c1-eddb-4be5-9e37-5167802e27a4,survey_724,Gambia,Jenkinsborough,Male,35.0,Primary,Unemployed,completed,2026-05-14T10:41:15,field_tool,3,Bad,2,Medium,4
+6d1cb644-5d79-4723-9f3f-838433039fdd,974ea666-abef-4b9b-bd6e-9364daad6746,survey_204,Gambia,Port Joshuaborough,Female,37.0,Tertiary,Self-employed,completed,2026-05-14T10:41:24,field_tool,4,Very Good,5,Low,1
+3c40cd64-4483-4b4c-87bc-ac218d51bc9b,66f7592f-0066-4ccf-9885-99568c4795b8,survey_102,Gambia,Lake Laurenland,Female,22.0,Tertiary,Self-employed,completed,2026-05-14T10:43:51,field_tool,3,Very Good,3,High,5
+68b30b14-123d-49ef-9252-0972e6fae58e,26ae933e-5d16-419e-89c4-dfe90b1051c3,survey_482,Gambia,New Christopher,Female,54.0,Secondary,Self-employed,completed,2026-05-14T10:41:56,field_tool,3,Good,5,High,3
+bd518e7f-98fb-4c91-894f-f64fcc874590,d6ae03b4-e672-4a7f-b589-6aab597d887e,survey_572,Gambia,Bettychester,Male,24.0,Secondary,Employed,completed,2026-05-14T10:42:45,field_tool,5,Very Good,5,Low,4
+d8d2c223-f466-42a7-892a-dead8bc8dd0f,5570cb37-055b-4467-993d-b7959e3e117c,survey_904,Gambia,South Andrew,Male,74.0,Tertiary,Self-employed,completed,2026-05-14T10:41:12,field_tool,3,Bad,2,High,3
+65443c93-437d-480c-9e0f-849c366a9ff5,6de10032-9ed4-4f56-9dcd-c9f059f1e37c,survey_260,Gambia,North Laurieborough,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:42:22,field_tool,2,Good,3,Medium,5
+946011c7-35ef-4b36-9c24-39c6d9e2d282,d25669ed-80f9-4ca0-bae8-9e86e750184f,survey_563,Gambia,North Larry,MALE,58.0,Tertiary,Unemployed,completed,2026-05-14T10:39:43,field_tool,5,Neutral,3,Medium,4
+06f8e387-e12e-4c61-bdb6-51bb39d2bb82,bb48628c-7aa8-4509-bbe6-1d18a0a4924b,survey_484,Gambia,Davidton,Female,27.0,Secondary,Self-employed,completed,2026-05-14T10:43:19,field_tool,4,Neutral,5,High,4
+26095d65-7490-4ead-bcbc-f5cf1d6d3756,c04cb7bf-9868-4b01-82c6-60ff13a9ddff,survey_104,Gambia,East Daniel,Female,44.0,Secondary,Unemployed,completed,2026-05-14T10:44:21,field_tool,2,Very Good,4,Low,3
+042471d7-d1f9-4c10-98f7-8a4523dda1d8,56d2ae02-4999-459c-b4ad-a1489671cd4e,survey_139,Gambia,Port Steve,Male,55.0,Secondary,Employed,completed,2026-05-14T10:42:04,field_tool,4,Neutral,2,Low,1
+5c1b2fc6-23c6-4cf4-9151-ceb4b72381b9,f767bc62-3d3c-4786-b26f-55acff93602f,survey_170,Gambia,North Justin,FEMALE,52.0,Secondary,Self-employed,completed,2026-05-14T10:40:22,field_tool,3,Good,3,High,2
+2aedc2d3-dcc0-4641-87ad-dd3a7543b048,4831671b-7187-4b0f-a052-81cc9c0e086e,survey_440,Gambia,Port Christopher,Male,57.0,Primary,Self-employed,completed,2026-05-14T10:43:11,field_tool,3,Good,5,Medium,1
+175b0236-b594-4605-a702-be3861f0e3a6,65ecba96-59f4-4244-a946-99fc6ccbd26f,survey_329,Gambia,East Jeffreyfurt,Female,69.0,Secondary,Self-employed,completed,2026-05-14T10:40:24,field_tool,4,Bad,2,High,5
+fab9e1b9-1635-4be9-97e4-5ed1b6334f24,5b15e527-f7d0-46d0-a9f0-3ffee7820d38,survey_779,Gambia,Williamchester,Male,75.0,Secondary,Unemployed,completed,2026-05-14T10:40:54,field_tool,5,Very Good,2,Medium,5
+4f2af745-f854-48c0-a4fb-6ee322baf696,54ee04b5-536b-4614-b424-f9024023d444,survey_651,Gambia,Edwardmouth,Male,65.0,Secondary,Unemployed,completed,2026-05-14T10:40:51,field_tool,1,Very Good,1,Low,3
+eb32c768-545b-4a7d-892d-053026d38014,3df0b75f-aca8-45a4-8ddc-0cb3e4ed65ef,survey_483,Gambia,Sotofort,Male,62.0,Tertiary,Employed,completed,2026-05-14T10:40:09,field_tool,1,Very Good,2,Medium,1
+3c467da0-9a83-49ab-b18a-83bb81606317,5067e7bb-b959-4622-b466-ddc924db70c4,survey_506,Gambia,North Adrianstad,Male,70.0,Primary,Self-employed,completed,2026-05-14T10:45:30,field_tool,1,Good,4,Low,5
+f4fd8c29-c036-40c3-a542-0f058fd6c096,7cc818d9-8cc3-4180-afc6-8c7fec5d9a24,survey_151,Gambia,South Bethmouth,Female,29.0,Tertiary,Self-employed,completed,2026-05-14T10:43:36,field_tool,5,Very Good,3,Medium,5
+e2e66198-743e-4c9e-943f-e6b758aac78c,122cecb7-c5c9-4492-9375-bd91f4f9877f,survey_782,Gambia,North Heidi,Female,48.0,Secondary,Self-employed,completed,2026-05-14T10:40:26,field_tool,5,Bad,4,Low,4
+4726b838-75d8-4baa-b65a-39e8d87b294e,de979511-7421-4003-a210-f992d971c2db,survey_688,Gambia,Port Henry,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:41:43,field_tool,5,Very Good,3,Low,3
+558c8b5d-c9e5-419f-b7f6-e3007030c1cb,300814d2-cbb5-4b50-8ca7-fa3b5d6f07b4,survey_755,Gambia,Port Heather,Female,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,3,Good,3,Medium,3
+31c06e36-e78a-454c-98ee-1a87c04c8342,5ede07dd-dd73-41b5-a130-56910446521e,survey_633,Gambia,Alyssashire,MALE,47.0,Tertiary,Unemployed,completed,2026-05-14T10:45:38,field_tool,3,Neutral,3,Low,3
+ee5077c3-6746-4240-88c1-18ff4118d432,def18550-14f7-40f7-b7e3-ab2d51d60229,survey_270,Gambia,Riveraton,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:43:26,field_tool,3,Good,1,High,3
+ce3d370d-ab04-45af-9854-275562277bdc,253115bb-3037-48a1-8bfb-159f94e91738,survey_186,Gambia,Lake Allisonton,Female,48.0,Tertiary,Unemployed,completed,2026-05-14T10:40:55,field_tool,4,Neutral,4,Medium,5
+405c437c-8c58-4a1b-93bc-0f6077c22e7c,aef392c2-655c-43d1-ad38-1eb4457b1a07,survey_561,Gambia,Roberthaven,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:42:31,field_tool,1,Bad,5,Medium,3
+0a5cf1ec-125f-4189-b17c-839231762e24,54b7045b-af21-41b6-adc9-4ff9a0c9da6a,survey_879,Gambia,New Angelton,Female,24.0,Secondary,Self-employed,completed,2026-05-14T10:42:15,field_tool,4,Bad,4,Low,4
+a7578e29-a6a8-43cb-b057-211352e1c92d,a706ac7e-c65a-46da-9b2f-878d119e72eb,survey_344,Gambia,West Jenniferside,Female,30.0,Secondary,Unemployed,completed,2026-05-14T10:43:58,field_tool,3,Neutral,5,Low,2
+5eae420e-5dbd-4340-92ce-313b465818a5,19390455-50e9-4f96-8770-56270864155c,survey_354,Gambia,New Jeffreyport,Male,23.0,Tertiary,Employed,completed,2026-05-14T10:43:00,field_tool,3,Good,5,Medium,5
+0d040227-58f3-4ad9-a141-f02338e1445e,3f70ac40-b931-41ca-9d72-42a5c6520b75,survey_108,Gambia,South James,Male,58.0,Secondary,Unemployed,completed,2026-05-14T10:41:41,field_tool,4,Good,2,Medium,4
+e685468e-4a9d-4c0e-bcc5-bf0845180d2d,b56b48cf-7b63-444c-90d2-519401aad933,survey_681,Gambia,Hollyborough,Female,67.0,Primary,Employed,completed,2026-05-14T10:43:38,field_tool,2,Bad,1,High,1
+853959d7-b0a7-4074-886a-dc40744e5501,00bdeefd-0d8d-4944-9ed9-c34cb357b7ec,survey_519,Gambia,Davidview,Male,65.0,Primary,Unemployed,completed,2026-05-14T10:41:39,field_tool,5,Bad,5,Low,5
+123e89ea-49ae-44b5-bf4e-7b86b0bea643,0873015b-72ef-4a42-add7-ef2d736a1131,survey_821,Gambia,North Kristie,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:39:45,field_tool,4,Neutral,4,Low,4
+38249981-8db5-4926-9c6f-b6ea9e123529,45018605-bf27-42a1-b776-d3c0d4159588,survey_723,Gambia,Brownburgh,Female,27.0,Secondary,Employed,completed,2026-05-14T10:42:34,field_tool,3,Bad,1,High,2
+85ac7397-1ce6-46e3-8af3-09b8cf976246,9f558bb0-dfb2-4cde-b337-daf6b429db31,survey_567,Gambia,New Rachel,Male,30.0,Secondary,Self-employed,completed,2026-05-14T10:41:34,field_tool,2,Very Good,1,Low,4
+83f3bef1-9495-4f09-8d67-9aeecd358663,e941e307-eba1-4523-b650-bd70dcd3e76f,survey_395,Gambia,Davisside,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:42:51,field_tool,2,Neutral,5,High,1
+310e4502-468d-485e-bc60-0fbe5e6033fb,743a37e5-1bc2-457a-8778-bddc61746430,survey_145,Gambia,Jacobsstad,Male,48.0,Primary,Unemployed,completed,2026-05-14T10:39:58,field_tool,4,Good,3,Medium,1
+9e315d4b-fb35-4aeb-96bb-aa31e110b2c2,7e5b4dc7-182a-4057-9ab3-d4035ac774f5,survey_371,Gambia,Lake Kim,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:41:42,field_tool,4,Good,1,Medium,5
+b40bd260-521d-4b15-93bf-59c23465daad,11b66523-b391-44bc-8373-024d07d0977f,survey_327,Gambia,Lake Michaelstad,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:44:41,field_tool,2,Good,5,Medium,4
+74cfac54-b896-4536-af22-00c0db33af99,9b488a0b-60e0-44a7-8642-7b81157e8c58,survey_753,Gambia,East Jennifer,Male,49.0,Primary,Self-employed,completed,2026-05-14T10:40:17,field_tool,2,Very Good,3,High,3
+def98d96-5e8b-4d92-827a-49878216e003,feb9fe3b-363d-4bee-96bf-660e7cf5d4ed,survey_518,Gambia,Robertsfort,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:39:54,field_tool,5,Neutral,2,Low,4
+e940cfe3-d1f6-4be3-a665-d684cf6b0a0e,d10e19a8-b6a0-443c-9a27-099784e5d8a9,survey_502,Gambia,Jenniferton,Male,26.0,Primary,Employed,completed,2026-05-14T10:42:57,field_tool,5,Good,5,Medium,2
+37738e24-5c33-49c5-b691-bb2d6f8f6414,cd2abc87-b7a5-4b3c-b446-eef259b2dd8d,survey_117,Gambia,Sarahstad,Female,40.0,Primary,Employed,completed,2026-05-14T10:40:56,field_tool,1,Bad,3,Low,5
+92271a58-fb72-4f7d-9620-59143830b9aa,9228b90c-5584-4b6a-bd73-f845faa7676f,survey_444,Gambia,Port Miguel,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:39:50,field_tool,2,Bad,1,Low,4
+98c9b0a5-5aaf-4003-9cab-830edda74819,f0c468fa-da3c-48a9-bf59-bbc4a9f86b67,survey_444,Gambia,Hancocktown,Female,64.0,Tertiary,Unemployed,completed,2026-05-14T10:44:35,field_tool,3,Good,5,Low,1
+6fac9eaf-85f0-4c06-bfe2-4cdc766a1379,de8d9f3d-2e0f-4b6e-a457-555142ce41ce,survey_104,Gambia,South Amandamouth,Female,67.0,Primary,Employed,completed,2026-05-14T10:43:17,field_tool,2,Very Good,1,Low,4
+95b7b335-5b37-4b42-b5c0-23c58aec3094,b8a31114-f119-47cb-a70d-b5f925af3886,survey_122,Gambia,South Daniel,Male,65.0,Secondary,Employed,completed,2026-05-14T10:45:18,field_tool,1,Neutral,1,High,1
+6e8d93d0-a78d-4989-8993-9a3d9fc3cf0f,06ac7b10-6921-49ef-a8fd-4f15d19b490f,survey_462,Gambia,Port Crystal,Female,49.0,Primary,Employed,completed,2026-05-14T10:42:56,field_tool,1,Bad,5,Medium,5
+361f88f7-93b1-433f-8abb-288eb83bd0bb,f59ef621-d1af-423f-bd57-87dac9a28163,survey_439,Gambia,North Annhaven,Female,29.0,Tertiary,Unemployed,completed,2026-05-14T10:39:50,field_tool,5,Very Good,2,High,2
+d8356c1d-9b85-4df5-9c5b-fa2fa01e8f15,fd676ba1-06c1-472a-9e17-1c05bd501fad,survey_372,Gambia,South Mary,Male,59.0,Secondary,Employed,completed,2026-05-14T10:44:40,field_tool,4,Bad,1,Medium,4
+484a25ea-c72a-4852-8e9b-5216268c38b4,47412b10-96ed-417e-9168-a8a6a63c00a2,survey_321,Gambia,Port Angelamouth,Female,64.0,Tertiary,Self-employed,completed,2026-05-14T10:40:05,field_tool,4,Bad,4,High,4
+d6e585fd-e448-4698-adfc-17e5701e321c,fea2477d-3241-4617-9f52-cf0a0c8a8d84,survey_832,Gambia,South Hannah,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:45:21,field_tool,5,Neutral,5,Low,5
+971e5771-e1cf-4c58-8267-f0d41b81eb84,583ff296-062c-405b-8702-7c222b07d815,survey_242,Gambia,Marshallfort,Female,74.0,Primary,Unemployed,completed,2026-05-14T10:43:53,field_tool,4,Very Good,1,High,3
+563c0514-1621-47f6-bad2-bc9927cecaab,470c3863-15aa-4ab2-8cbc-946dc8eedd25,survey_500,Gambia,Andersonfurt,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:43:59,field_tool,2,Neutral,3,Medium,2
+1b06716f-81cd-4a9d-8168-e79ee0bb9e8e,19be15ad-f577-4042-a185-5e5321231f28,survey_671,Gambia,New Matthewfurt,Male,64.0,Primary,Employed,completed,2026-05-14T10:42:16,field_tool,4,Neutral,2,Medium,1
+ebea179a-b3cc-4607-919c-d20692a9c4a9,7da8cf85-f6d1-4901-8736-3d936f1b8cbb,survey_315,Gambia,Harrismouth,Female,31.0,Secondary,Employed,completed,2026-05-14T10:44:44,field_tool,2,Neutral,1,High,3
+5b252a5b-5061-4eb7-bffe-9b64816a9971,cc5402b4-b203-40ba-a3ed-8c865cad2517,survey_897,Gambia,New Lisaberg,Female,48.0,Primary,Employed,completed,2026-05-14T10:39:58,field_tool,5,Bad,5,Medium,3
+4e7c07fc-2fd1-473c-bad8-a7f9bb042798,e6cddd88-d0e2-45fc-9d85-a8385aa65fb8,survey_317,Gambia,East Michealbury,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:44:31,field_tool,1,Bad,1,Low,1
+0138c69c-32e0-4d42-a19a-f6b909130426,75a5f6e6-a9b3-4709-bd10-211eef0a4c5b,survey_472,Gambia,Jessicaburgh,Female,31.0,Primary,Self-employed,completed,2026-05-14T10:42:40,field_tool,5,Bad,5,Low,2
+928ffe88-d5ea-4672-9f34-9c11d2d976d3,5b5f6665-7ef9-4441-8c78-1edc0b7d80f9,survey_813,Gambia,South Stuartview,Female,55.0,Primary,Employed,completed,2026-05-14T10:44:08,field_tool,5,Very Good,4,Low,3
+96c851fd-6099-4d0f-923a-84f6a056a784,306b43a8-790e-478d-a393-067c6a834243,survey_259,Gambia,Amberside,Female,51.0,Primary,Unemployed,completed,2026-05-14T10:40:46,field_tool,2,Very Good,4,Medium,5
+8231853a-2fdc-43e2-b847-aed2ccbe17f1,ba18a17b-7d74-4bf1-9ced-f027bb173535,survey_961,Gambia,Bakermouth,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:42:04,field_tool,2,Neutral,4,Medium,3
+8b07afb7-bf28-406b-8061-b9caa4edb58f,3d1f3fa8-9b72-4c58-b37d-0c5e7fc6ba54,survey_468,Gambia,Michellemouth,Male,31.0,Primary,Self-employed,completed,2026-05-14T10:45:15,field_tool,4,Very Good,3,Low,3
+1bb5a99a-ca90-4503-90a8-8fb69b91a215,897be931-3756-4580-8e90-aab18cd121e8,survey_192,Gambia,West Paul,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:44:36,field_tool,1,Good,2,High,5
+066fb4b2-0f0f-46fa-a611-af6da1a373a0,1fcb4adc-c071-4be0-b83c-abe7971aee19,survey_177,Gambia,West Duane,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:39:58,field_tool,2,Bad,2,Low,3
+98dba3d4-7a3b-44d6-a626-5b10aadc0f4c,333cd435-9c94-4c89-948b-825dd7a478e1,survey_223,Gambia,Lake Normanview,Female,46.0,Primary,Unemployed,completed,2026-05-14T10:43:18,field_tool,1,Good,5,High,5
+0712363a-8ee4-4265-8533-6eae40ebb54c,26117488-1f82-4dfb-93f3-3691a3f20ae5,survey_872,Gambia,Pachecoville,Female,31.0,Primary,Employed,completed,2026-05-14T10:44:35,field_tool,4,Good,3,High,2
+b4c4414f-4f64-4392-af05-d576cd368942,f65067e0-6b94-4b94-918f-979216cbc3cb,survey_579,Gambia,East Mike,Female,37.0,Tertiary,Unemployed,completed,2026-05-14T10:45:27,field_tool,2,Bad,4,Medium,5
+0b95cbad-c462-44d0-a119-15c47558d754,13888341-a08a-4461-b67f-cbe0099e4cc2,survey_541,Gambia,Port Angela,Female,47.0,Secondary,Unemployed,completed,2026-05-14T10:44:25,field_tool,4,Bad,3,Low,5
+11d3b159-8e02-4811-8aa2-b02898733e24,a4326764-5228-48ca-8a23-96f2377ce604,survey_829,Gambia,Morenohaven,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:43:44,field_tool,3,Bad,3,Low,3
+ec75849a-953e-418e-9423-7684e8c50dbf,5455223c-3c44-494a-bb6d-b5ef5fb8a277,survey_304,Gambia,Gregoryburgh,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:07,field_tool,4,Very Good,1,Low,1
+38e9b9e3-03f4-475a-b4ec-d6b172b227d5,46da1f9c-acef-4aa8-9925-230522c09b7d,survey_201,Gambia,Kinghaven,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:40:43,field_tool,3,Good,1,High,4
+e08fe731-1e6a-4787-89fd-1bc047e60980,285b54bf-8efb-4b58-afb1-21851d1dd3c8,survey_675,Gambia,Garzashire,Female,58.0,Tertiary,Unemployed,completed,2026-05-14T10:41:20,field_tool,5,Very Good,1,High,3
+72fee96b-d758-4fac-b581-b36ba8138f48,1f49d7c1-5e4e-4bcd-befa-6b5e4a56876c,survey_548,Gambia,Hallburgh,Male,22.0,Primary,Self-employed,completed,2026-05-14T10:40:45,field_tool,4,Bad,1,Low,2
+cd23f3d1-5d84-415c-b582-ba2eb5f964e2,152c17f0-3895-4fb9-9439-f14f232f96af,survey_876,Gambia,Newmanhaven,Female,59.0,Secondary,Employed,completed,2026-05-14T10:43:20,field_tool,3,Neutral,1,Medium,1
+24aa62f0-ab6a-4ab4-8083-d266091b7552,02113207-eec5-4bcc-a7d9-b0ce55ecf7e6,survey_513,Gambia,New Debra,Female,22.0,Tertiary,Unemployed,completed,2026-05-14T10:45:31,field_tool,4,Bad,3,Medium,2
+9c1bc678-cc85-428e-9954-c58028044c74,707b0426-d80f-4a64-8fa5-4eacb8a1f215,survey_664,Gambia,Maryton,Female,72.0,Primary,Self-employed,completed,2026-05-14T10:42:21,field_tool,1,Good,4,High,5
+e63d0aca-a242-427d-9028-c2bcf2a0ba49,b1564ee2-7b7b-46ca-b726-d24c535e3dfe,survey_608,Gambia,Hardyshire,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:40:20,field_tool,1,Very Good,2,High,3
+3afb6be5-bf19-4b87-a023-bed82a8d23e6,12fc6b3b-342e-4bc9-8cf7-c3c7756c0fcc,survey_285,Gambia,Lake Kevin,Female,71.0,Primary,Employed,completed,2026-05-14T10:42:14,field_tool,2,Good,5,Low,5
+5089ac31-632d-4603-b254-96bebe1d5fd2,5988b3f2-34d6-4ba0-91bb-56fca407795c,survey_918,Gambia,New Sara,Male,63.0,Primary,Employed,completed,2026-05-14T10:40:19,field_tool,4,Neutral,1,Low,1
+b7b97796-9c33-40ed-8cdf-ccdb8c390ee8,7eb5493e-5496-4338-b09f-863e1196f4d8,survey_932,Gambia,Anthonyshire,Female,43.0,Primary,Employed,completed,2026-05-14T10:40:52,field_tool,5,Very Good,4,High,1
+674286f9-09c8-438f-ade9-b9faec46dfb0,286d84e5-759d-4660-b7fc-111de661ea7e,survey_120,Gambia,New Josephton,Female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:41:16,field_tool,3,Good,3,Low,2
+85117480-2472-4288-8f7e-3a61d8396a96,dac9e470-b3ab-48d9-976e-206c616abf8c,survey_252,Gambia,Shannonstad,Male,32.0,Secondary,Unemployed,completed,2026-05-14T10:43:13,field_tool,4,Bad,5,Low,4

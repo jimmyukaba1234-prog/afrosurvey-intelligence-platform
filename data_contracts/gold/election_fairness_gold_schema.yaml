@@ -1,0 +1,48 @@
+dataset: election_fairness_gold
+version: "1.0.0"
+description: "Election fairness perception analysis from survey responses"
+
+fields:
+  country:
+    type: string
+    required: true
+
+  region:
+    type: string
+    required: false
+
+  total_responses:
+    type: long
+    required: true
+
+  average_fairness_score:
+    type: double
+    required: false
+
+  unfair_election_count:
+    type: long
+    required: true
+
+  neutral_election_count:
+    type: long
+    required: true
+
+  fair_election_count:
+    type: long
+    required: true
+
+  fairness_index:
+    type: double
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

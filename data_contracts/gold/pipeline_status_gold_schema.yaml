@@ -1,0 +1,36 @@
+dataset: pipeline_status_gold
+version: "1.0.0"
+description: "Pipeline execution status summary"
+
+fields:
+  pipeline_name:
+    type: string
+    required: true
+
+  execution_date:
+    type: timestamp
+    required: true
+
+  pipeline_status:
+    type: string
+    required: true
+
+  successful_jobs:
+    type: long
+    required: true
+
+  failed_jobs:
+    type: long
+    required: true
+
+  warning_jobs:
+    type: long
+    required: true
+
+  overall_health_score:
+    type: double
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true

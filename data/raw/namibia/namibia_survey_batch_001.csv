@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+acde47ae-943f-4a2d-817b-ebe95f78803c,b0006470-4d6f-40e1-b0b3-1d69ab9909f9,survey_837,Namibia,Deniseside,Female,67.0,Tertiary,Self-employed,completed,2026-05-14T10:42:13,field_tool,4,Good,5,Low,3
+58ce0500-e157-4433-88da-c74aa2f74542,540fde5c-5496-4356-af17-4347c93f00fe,survey_628,Namibia,Jonesland,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:43:29,field_tool,4,Very Good,4,Medium,5
+2d3b4184-4214-45ae-8b23-2337a9ba3b07,37f26911-4d36-4425-854a-398ef24cef3d,survey_465,Namibia,Priceville,Male,27.0,Secondary,Unemployed,completed,2026-05-14T10:44:10,field_tool,2,Good,1,High,5
+75485756-cf4a-42dd-b3b1-22b825d2e78e,2fd9cdd8-32bf-4d10-b9bd-f07cbe95a7e6,survey_410,Namibia,Timshire,Female,35.0,Secondary,Employed,completed,2026-05-14T10:44:04,field_tool,1,Good,1,Low,4
+844defe7-757e-4094-a395-f021f32bcf9f,b34ee5f1-f72b-401e-9e19-4b7df831fc24,survey_860,Namibia,Carlsonbury,Female,49.0,Secondary,Unemployed,completed,2026-05-14T10:45:13,field_tool,4,Bad,4,Low,1
+313923d4-21f9-41ef-9899-dbbecde9f9e7,42d348f7-2641-40bf-9dba-1328d0edfc2c,survey_875,Namibia,Hodgesshire,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:41:20,field_tool,5,Very Good,3,Medium,4
+41f15f0e-896e-4819-a4a0-4ee0a8db5319,0d3f2f3e-6d74-4c30-aff0-8cc8c1b9231f,survey_411,Namibia,Kathleenburgh,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:42:30,field_tool,3,Bad,1,Low,1
+762a6179-de86-4b36-9c54-3c603b1c310c,05759ce6-94ea-4fc5-aed4-ce63929e798b,survey_818,Namibia,Joycetown,Female,66.0,Tertiary,Self-employed,completed,2026-05-14T10:40:18,field_tool,2,Bad,5,Low,4
+c156dd2e-7d7a-452a-9374-34175d9826a3,ebd2e501-3de6-4b38-ae3d-42859d4815c1,survey_215,Namibia,Jessicaside,Male,27.0,Tertiary,Unemployed,completed,2026-05-14T10:44:37,field_tool,4,Good,4,Medium,4
+2f9e3f5a-8446-4b87-9e89-8811b97ef440,bef6f3c1-b4f4-4177-9467-04bb8277ed8c,survey_513,Namibia,Joeburgh,Female,66.0,Primary,Unemployed,completed,2026-05-14T10:42:06,field_tool,1,Good,1,High,5
+1044f37a-68dc-4753-b8f1-60dbb07a1eae,e3c6dbf7-4eb9-4ffd-bbaf-082bd0c734a3,survey_557,Namibia,Tylerport,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:41:42,field_tool,4,Very Good,3,Medium,3
+03b8ee7b-6f88-4b0d-aaa9-848db8551867,50a04cf3-2ed9-4343-a630-170e4fddbae5,survey_802,Namibia,Crystalburgh,Female,25.0,Tertiary,Employed,completed,2026-05-14T10:41:02,field_tool,4,Neutral,2,Medium,5
+a81ed625-cd4b-4545-88fc-77185918b330,952c99a6-c238-41f5-a726-41be8e946fd4,survey_365,Namibia,Douglasbury,Male,28.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,2,Good,2,Medium,3
+13839d6f-f202-4a99-ab96-66b9495266ad,f95b4f2f-1a60-4a57-a913-998f80514712,survey_887,Namibia,South Ericfurt,Female,66.0,Secondary,Unemployed,completed,2026-05-14T10:44:25,field_tool,2,Bad,5,Low,1
+778ddd11-67f9-4cec-a0a0-5313aa697f36,193fc491-22b7-4d21-98a5-c8cdcad58871,survey_876,Namibia,North Jadebury,Male,27.0,Secondary,Unemployed,completed,2026-05-14T10:42:35,field_tool,4,Good,4,Medium,1
+777aa8cd-2116-4d75-8166-dcdda8a89e51,33c88461-138e-4d8e-884f-f9b998b7c2f7,survey_647,Namibia,Lake Lisa,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:42:43,field_tool,2,Bad,2,Low,4
+d0be7a7e-4462-429c-961b-78dfc2d8c461,05d4725a-7627-420a-a599-d83ad9466550,survey_134,Namibia,Justinland,Male,73.0,Tertiary,Unemployed,completed,2026-05-14T10:41:55,field_tool,3,Neutral,3,High,4
+845bb4ce-0c59-41d8-a3b3-f351fa8d1de3,477b80b7-2606-4791-a4ac-017c827fb356,survey_470,Namibia,Port Tina,Male,65.0,Primary,Employed,completed,2026-05-14T10:41:16,field_tool,2,Good,3,Low,4
+87d9703e-ba31-4963-b512-73d4fd39b663,5303321a-9d4d-4f75-96de-8f03e16b51c4,survey_543,Namibia,Nicolemouth,Female,62.0,Primary,Employed,completed,2026-05-14T10:43:30,field_tool,5,Bad,5,High,5
+1be2c364-9934-4134-84f8-b5432a3fbd44,385a567b-d8a9-4712-9810-72f2357ed01f,survey_295,Namibia,Adamsfurt,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:39:46,field_tool,3,Neutral,2,High,1
+93bd1934-dbff-419d-8faf-f81736bcdd00,0b60818e-5add-482a-9be2-2aad8b26e4bb,survey_986,Namibia,Lake Phillip,Male,27.0,Tertiary,Employed,completed,2026-05-14T10:42:54,field_tool,5,Very Good,1,High,3
+ca620b7c-7d9b-4cc5-b1b2-79b3b32792c3,9c9b1f47-963f-4130-9944-7ff8cadc561a,survey_189,Namibia,West Katherinebury,Male,45.0,Primary,Employed,completed,2026-05-14T10:42:25,field_tool,4,Neutral,1,Medium,2
+37b47975-46f6-44aa-9b0d-6f1070059f69,d18698b3-9251-469d-8a22-9bba37bcdf7a,survey_478,Namibia,Staceymouth,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:43:11,field_tool,5,Good,5,Medium,5
+19a7c188-d2fa-439c-9edb-f51971e0b733,7704ab6a-1f24-475d-9727-c69a9a21adbb,survey_249,Namibia,North Thomas,Male,71.0,Primary,Self-employed,completed,2026-05-14T10:41:49,field_tool,1,Good,4,Low,5
+fca08128-f914-4e26-acbf-4b196eb7ba9b,9e487819-7c64-4b71-b3c8-1b676f74e4c6,survey_718,Namibia,South James,Female,54.0,Tertiary,Employed,completed,2026-05-14T10:41:35,field_tool,5,Bad,5,Medium,3
+a46bda2b-7cea-422b-9b34-b9cc35e920bf,18a058dd-0c4a-48a2-914b-f15de606d72d,survey_912,Namibia,Patriciaburgh,Female,22.0,Primary,Unemployed,completed,2026-05-14T10:43:44,field_tool,4,Bad,2,High,3
+4546db39-6f8d-4401-8930-6a2c4eaf7aa2,336d9178-fa16-41ba-bbbb-fc3beace85d1,survey_853,Namibia,Campbellside,Female,61.0,Secondary,Unemployed,completed,2026-05-14T10:40:30,field_tool,3,Bad,3,Low,1
+a4b78e56-b1ac-44fb-a24c-a3f4787b021d,4667d2ab-4d03-42a7-8812-f1981f779f46,survey_736,Namibia,Fergusontown,Male,41.0,Primary,Self-employed,completed,2026-05-14T10:42:45,field_tool,2,Bad,5,High,3
+de5a43dd-b48d-41d1-983d-e2d3fa38c38a,8aed4cc4-19cd-4a2a-930f-20e7266f8277,survey_395,Namibia,Keithshire,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:39:54,field_tool,5,Good,1,Low,1
+701bb4d9-3678-4472-a3df-d06681641baf,2aff1065-f67f-418e-999f-68540fa02b79,survey_484,Namibia,Lindahaven,Male,50.0,Primary,Self-employed,completed,2026-05-14T10:43:36,field_tool,4,Very Good,5,High,2
+2f89da93-fc6d-4c05-95a9-7fe6dc0a6e80,ddf8b04a-52f3-4ae8-a70c-484582b0b971,survey_635,Namibia,Gonzalezville,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:41:31,field_tool,2,Bad,3,Low,3
+efe68e34-e60f-4d04-801c-9a83d80e98f9,dd7c874e-2812-435c-ade1-09a105b07b6b,survey_973,Namibia,East Shawnbury,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:45:05,field_tool,3,Bad,2,Medium,4
+4729aa68-a45d-4371-98f8-0bddc4d559f2,db7e8636-0aca-44ff-8d2d-e9ff589eb0cf,survey_778,Namibia,Danielleborough,Female,35.0,Tertiary,Self-employed,completed,2026-05-14T10:45:34,field_tool,2,Very Good,2,High,3
+08569a17-9781-4907-a344-0e9fb9c183f4,cb0aea27-c71d-4100-80b4-b859ae520d8b,survey_758,Namibia,Port Teresachester,Female,62.0,Primary,Self-employed,completed,2026-05-14T10:42:05,field_tool,1,Good,3,High,2
+e3092084-3afd-4675-8f80-de689c7a56d5,fc52a01c-d650-47a3-8ba1-4ec9f8ed14fb,survey_567,Namibia,Danielsstad,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:45:23,field_tool,5,Good,4,Medium,3
+085b69de-1120-428b-a5e0-aac2f4320aed,6a95cd30-b5da-4589-91f0-9f1b0f90047b,survey_450,Namibia,New Patriciabury,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:41:24,field_tool,2,Bad,5,Low,5
+4a0ad092-651c-4c77-ab23-ece483941027,89419e1c-9ed1-4d16-91ae-22167fde95f7,survey_691,Namibia,Gomezmouth,Female,54.0,Tertiary,Unemployed,completed,2026-05-14T10:40:19,field_tool,5,Neutral,2,Medium,1
+11c10431-6cef-4fbf-96bd-ad3aa37ef4e4,e224af06-b5c4-4be9-a170-597605696e96,survey_907,Namibia,Port Jessicafurt,Female,68.0,Primary,Employed,completed,2026-05-14T10:42:28,field_tool,2,Very Good,4,Low,2
+64fc3e73-830a-4f75-974f-2b4275a5ba4c,1afddd71-e4aa-4a48-89a3-c0d9429a6676,survey_698,Namibia,East Tammy,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:41:08,field_tool,3,Good,1,High,5
+47e6b3a2-574b-487b-8ef2-1cd0aa9ceacc,ca5dc9bf-05a9-46d6-aa51-ec9cdfbf05af,survey_237,Namibia,Villaland,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:42:43,field_tool,5,Good,5,Medium,3
+e0ae5a8a-4bee-40fc-8999-37762857273d,dc1e35c8-5106-44d8-af36-54332bac0be7,survey_916,Namibia,North Carolland,Female,24.0,Primary,Unemployed,completed,2026-05-14T10:43:27,field_tool,4,Neutral,5,Medium,3
+8a7ed8f6-c987-4178-ad76-47f9b43574a1,829cd850-ecb2-4cc9-9a18-fbfd7b7b57c9,survey_940,Namibia,Elliotttown,Male,42.0,Primary,Self-employed,completed,2026-05-14T10:42:16,field_tool,3,Very Good,4,High,4
+03aecfd1-7434-446c-a8ba-c69ec2e5554c,081e978c-b374-414c-a3ca-f2317750f673,survey_673,Namibia,Port Victoriaburgh,Female,67.0,Secondary,Unemployed,completed,2026-05-14T10:40:54,field_tool,4,Neutral,5,High,5
+dc225aac-b9ab-4641-b161-a44b6122136c,eac37725-d6bd-4af8-9070-4fb5528c2153,survey_474,Namibia,North Sharonfort,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:42:33,field_tool,1,Very Good,5,Low,2
+26154a49-cf78-40b2-9a0f-c13c4f0a6007,af886b9a-7701-48dd-93e2-888d9c7d8896,survey_492,Namibia,Lindashire,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:40:02,field_tool,2,Bad,3,High,2
+59ba7c22-6c63-48dc-8ed7-e8fb59fb4728,2d8877a7-edb9-456b-99a1-a61efa5a7564,survey_506,Namibia,Port Anna,Female,68.0,Tertiary,Employed,completed,2026-05-14T10:41:36,field_tool,5,Neutral,5,High,5
+af116863-a404-43c3-8b8d-4d0b2b51fbcc,b35f0786-0460-4c24-a183-5b7a68a52c22,survey_941,Namibia,Daniellefort,Male,61.0,Secondary,Unemployed,completed,2026-05-14T10:39:52,field_tool,1,Bad,2,Low,2
+5d54ad97-e83b-4e96-a1ea-7eb33247cf30,c0a8dbba-b9fe-4ce6-b8fb-022376cd2f7d,survey_596,Namibia,South Ryanstad,Male,27.0,Primary,Self-employed,completed,2026-05-14T10:43:55,field_tool,5,Good,5,Medium,5
+384c9972-d0bc-4e67-8902-1a0b13762443,523a8bae-e557-4be5-a152-39249de00898,survey_233,Namibia,South Jamie,Female,63.0,Tertiary,Unemployed,completed,2026-05-14T10:44:28,field_tool,3,Neutral,1,Low,1
+50ab09fb-0fc8-44bd-93ac-b5c711f2e913,bb1b85cf-1212-495a-b7e0-aa823f0ffceb,survey_958,Namibia,East Jessicamouth,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:44:46,field_tool,2,Bad,3,High,5
+5d496d5e-e999-4c14-ba15-f96f9d28a571,23a470d5-28a7-4fc8-9cd5-1e4080e74e70,survey_927,Namibia,New Jasmineside,Female,57.0,Tertiary,Unemployed,completed,2026-05-14T10:43:32,field_tool,2,Good,3,High,4
+24b57be5-602f-4833-940f-d2c6b8cc34af,6e8cd0ba-1c24-4a09-822d-6fdaca654725,survey_208,Namibia,Lake Kelly,Male,58.0,Primary,Unemployed,completed,2026-05-14T10:41:53,field_tool,2,Bad,4,High,3
+eeb14a4a-39d3-46e4-9349-7ea1c6709d7a,65524d69-120d-4d41-9805-8d8844c488d7,survey_252,Namibia,Millerfort,Female,48.0,Secondary,Unemployed,completed,2026-05-14T10:39:50,field_tool,3,Very Good,4,Low,4
+a0d6c09a-f4d6-47f1-99b8-aa269a25bd2e,d34d976a-0793-4dde-82f8-72333e60f05e,survey_241,Namibia,Catherinehaven,Female,40.0,Tertiary,Unemployed,completed,2026-05-14T10:42:28,field_tool,5,Very Good,5,Low,1
+5e9f384d-afb4-40cb-b92f-5b119b85527f,b6b88b45-5157-4edc-9f31-38b33988ac6a,survey_925,Namibia,Port Morganmouth,Male,31.0,Tertiary,Unemployed,completed,2026-05-14T10:45:08,field_tool,3,Very Good,2,Medium,5
+48dbc80b-b21b-4868-baa1-ee64d554d621,3e6bb776-902c-4f08-bdf7-305a4a94306b,survey_864,Namibia,Port Annafurt,Male,30.0,Tertiary,Self-employed,completed,2026-05-14T10:42:43,field_tool,1,Neutral,1,Low,5
+2b349f56-31e7-40b9-937d-b9d499d2f81e,47f2597e-9777-4b61-90a4-d13547044ab4,survey_537,Namibia,South Dennisshire,Female,34.0,Secondary,Self-employed,completed,2026-05-14T10:45:26,field_tool,4,Bad,2,Medium,2
+dcf06291-6ff5-47a5-8ae9-5d6ea3d44921,bcc91ca9-2191-410b-8c7d-63bb50f37dcc,survey_857,Namibia,Austinhaven,Female,43.0,Secondary,Employed,completed,2026-05-14T10:45:07,field_tool,3,Bad,3,Medium,4
+38e4fe06-415f-4ac6-8dd0-8201104b45f8,72fff8af-0f38-4db3-a51b-383ed1aab65b,survey_471,Namibia,West Bruce,Male,74.0,Primary,Unemployed,completed,2026-05-14T10:44:47,field_tool,5,Bad,3,Medium,5
+1633aebf-c4c2-4457-bcd2-a289f5c3e78c,feb32f4a-a2ea-46eb-b0aa-d66a30a5636a,survey_913,Namibia,Port Stephanie,Female,31.0,Tertiary,Unemployed,completed,2026-05-14T10:40:58,field_tool,5,Very Good,4,Low,4
+879f61d3-93ff-4a90-b136-ed0e176f9ae1,c53a587f-6ae2-4558-8fb0-21430cda17b2,survey_819,Namibia,Port Douglas,Male,52.0,Secondary,Self-employed,completed,2026-05-14T10:42:27,field_tool,3,Neutral,2,Low,5
+2f3479a0-72a8-4da5-9f2c-5a14e5f4aa23,fa09cb91-cf5a-457e-8924-5bef36f4140e,survey_167,Namibia,Matthewburgh,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:44:27,field_tool,2,Very Good,2,Low,3
+0925392e-a561-4fa8-8eb2-ab12aca26ee5,92ac4d11-4011-4b7e-b4e2-b2f01c8814cd,survey_881,Namibia,Robertsonmouth,Female,30.0,Tertiary,Employed,completed,2026-05-14T10:42:26,field_tool,4,Neutral,4,High,4
+afeb9836-0175-4971-86e4-b8a7ab720666,d8cbbbdf-d713-4c0d-a657-1529dda5d74a,survey_307,Namibia,East Nicholas,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:40:26,field_tool,5,Bad,1,Medium,3
+57100a99-fe78-4df4-b6f8-fdb7a2e903e4,8cca89e2-35b6-4ab5-8848-addff9f6aac4,survey_682,Namibia,North David,Male,45.0,Primary,Self-employed,completed,2026-05-14T10:43:14,field_tool,1,Bad,4,Medium,4
+4039e8df-2c96-46c1-9486-dc1ef8f4cb7a,51cdfb48-c3ac-4605-81e8-538d2c51fb44,survey_425,Namibia,Lake Davidmouth,Female,68.0,Primary,Employed,completed,2026-05-14T10:40:16,field_tool,5,Bad,3,Medium,3
+a7e2f637-77e7-41b8-919e-f704fed94f67,9057e528-e13c-4224-8c02-01fd3e03fc93,survey_998,Namibia,Nicholsonport,Female,22.0,Tertiary,Employed,completed,2026-05-14T10:41:15,field_tool,1,Good,1,High,3
+c68c396a-95a7-47c2-98ff-50f8fd9ce12f,fe780982-aa5e-49f5-89e3-97f1c86b818f,survey_643,Namibia,Robertsfort,Female,66.0,Secondary,Employed,completed,2026-05-14T10:43:54,field_tool,3,Very Good,2,Medium,2
+c3f7773d-d0ab-4dde-88e3-0f8b41c19d0c,37ffd882-0539-4da0-b995-7366043c5518,survey_574,Namibia,Matthewburgh,Female,,Primary,Employed,completed,2026-05-14T10:40:19,field_tool,3,Good,5,Low,4
+0a61515d-b9ce-4360-83a5-bb12378b8708,22fd9a9d-549c-4485-9bfc-1f765b20aa38,survey_409,Namibia,Mosleyberg,Female,18.0,Tertiary,Self-employed,completed,2026-05-14T10:40:39,field_tool,3,Bad,3,Medium,2
+8a1ab58e-bf69-454b-bb4b-d4b546b369db,1a5fa9ba-ec72-4f9a-91d6-74d9663ff35f,survey_161,Namibia,Katherinestad,Female,67.0,Tertiary,Self-employed,completed,2026-05-14T10:44:33,field_tool,2,Good,3,Low,4
+ac6aa909-9f89-4c99-a29c-f24a52049dab,1d5930a7-4df2-422d-9fd5-df5bc90614d0,survey_700,Namibia,West Marcusshire,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:40:08,field_tool,2,Very Good,1,Medium,3
+d1d79129-dd60-45b5-be6c-6ad01fe5633e,b805cb6c-4d13-4a2b-927a-ebd66f4d131e,survey_866,Namibia,Foxberg,Female,39.0,Tertiary,Employed,completed,2026-05-14T10:44:54,field_tool,5,Bad,4,Medium,4
+03d7347c-e694-4e09-84e5-8e8244a80edc,a7c6bb8a-0e5a-46be-8cfc-55972593b1ff,survey_278,Namibia,Lloydfurt,Female,20.0,Secondary,Self-employed,completed,2026-05-14T10:40:20,field_tool,1,Very Good,4,High,5
+cdfbf0c1-f229-41ac-931a-000b48cdce11,1ba64648-a8e6-4563-9f77-23b7ed859d4d,survey_440,Namibia,Salastown,Male,22.0,Primary,Employed,completed,2026-05-14T10:43:27,field_tool,2,Good,3,High,4
+af6e9e8b-d2e6-42d8-a1f4-691e2d9fd547,c2f8b944-c5df-4cc5-9ce5-5ceb44f8a83e,survey_273,Namibia,North Robertside,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:40:03,field_tool,5,Bad,2,High,4
+c9da161a-4885-49ec-b8d2-7e6124c6fa7c,e9da2165-0844-4fc1-9f8d-37322723aef6,survey_811,Namibia,North Nathaniel,Female,,Secondary,Employed,completed,2026-05-14T10:43:24,field_tool,1,Bad,5,Medium,2
+99af79c5-f06d-4f30-8840-3095b1a79ed5,dc3e65a5-763d-4cb0-b6f3-7594e67f4fe8,survey_470,Namibia,Jacobchester,Male,75.0,Tertiary,Self-employed,completed,2026-05-14T10:41:23,field_tool,2,Very Good,4,High,5
+a2a4ff63-79b6-4a66-955e-7d038a452564,ec9a598b-ccd8-45cc-9e91-6aed5e10f80d,survey_611,Namibia,Lake Jonathan,female,21.0,Primary,Self-employed,completed,2026-05-14T10:42:06,field_tool,5,Good,4,Low,1
+9ffa9bf7-d7a5-4151-9b6b-dc64cc76bbe3,5af8c85c-c7e3-43d4-b84c-10ae4d1bf4ee,survey_195,Namibia,South Ryanmouth,Male,74.0,Primary,Self-employed,completed,2026-05-14T10:42:19,field_tool,5,Bad,2,Medium,4
+7eec6818-31f2-4534-8bfd-bc0df079bcb6,e53f55e1-fef9-4999-8725-3fe574dc7915,survey_649,Namibia,Port Levistad,Male,73.0,Secondary,Self-employed,completed,2026-05-14T10:45:02,field_tool,4,Neutral,4,Low,2
+f245f062-e19a-434a-98a5-5e328a15ea70,95bad28c-890c-478a-9f6c-29443dbbdb0f,survey_786,Namibia,Henrystad,Male,49.0,Tertiary,Employed,completed,2026-05-14T10:45:31,field_tool,4,Bad,5,High,4
+ed24f26a-478d-428c-b215-461ff938c3f2,dcc960a6-1e16-48f6-aab7-a73fe547a143,survey_214,Namibia,Dennishaven,Male,66.0,Secondary,Self-employed,completed,2026-05-14T10:39:53,field_tool,4,Very Good,3,Low,2
+692cfda1-cfa1-4dcd-b114-2bc8e013583c,25213466-4bb7-43b1-be61-799e7f490f21,survey_822,Namibia,North Evan,Male,73.0,Tertiary,Employed,completed,2026-05-14T10:41:21,field_tool,1,Good,4,High,4
+9e733952-1581-43d1-800b-c62a739d816e,7811f8b3-c7c9-4deb-be6e-2cdefd4bfe0a,survey_169,Namibia,Port Robert,Female,23.0,Secondary,Unemployed,completed,2026-05-14T10:39:48,field_tool,4,Bad,3,High,2
+26700e80-a407-472b-89d6-484883e870e3,2fc6c981-5271-4cf7-8d4e-62361b2d9f36,survey_278,Namibia,East John,Female,71.0,Secondary,Unemployed,completed,2026-05-14T10:45:02,field_tool,1,Neutral,4,Low,4
+cf4152b7-1f2b-48da-9565-38b38fd29c15,223ccf0a-49c4-4f8f-8231-c6c81bf2102e,survey_854,Namibia,West Karenfort,Male,,Secondary,Self-employed,completed,2026-05-14T10:44:44,field_tool,3,Very Good,5,Medium,3
+8fe0e867-e109-40b6-9f5f-5a6248eb3934,53f9aa93-929a-44a9-b7f2-3aed3651c2b2,survey_384,Namibia,New Kelly,Female,72.0,Primary,Employed,completed,2026-05-14T10:39:50,field_tool,3,Neutral,4,Low,5
+8f04dd0f-c78e-4784-a97e-41547bfe494c,b0872af4-121e-4d14-bbc3-84c9e09b53bb,survey_308,Namibia,Roberttown,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:44:53,field_tool,1,Very Good,5,High,1
+dbca2f42-4abc-4ae3-bbef-f67a9bef035c,549308e6-b737-4dcf-be64-427906857ec7,survey_514,Namibia,Lake Josephton,Female,50.0,Tertiary,Employed,completed,2026-05-14T10:45:17,field_tool,1,Neutral,2,Low,2
+a82eba8a-430e-48c0-bc0c-e08dc96fee96,3b8e6fe7-ec5d-4b17-b7e9-abd6355227fd,survey_437,Namibia,East Ashleyfurt,Male,24.0,Tertiary,Unemployed,completed,2026-05-14T10:40:01,field_tool,2,Neutral,2,High,3
+494ae267-4c0d-4715-8862-92aba01bcb0c,b2988108-5b11-4633-8d8a-203ee849c97f,survey_363,Namibia,Hernandezton,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:45:30,field_tool,5,Very Good,5,Medium,1
+c188dba1-06de-43c9-b960-bed984dc2e64,1232bcb8-16b7-4c58-b394-3fed735fccd8,survey_854,Namibia,Marychester,Female,74.0,Primary,Self-employed,completed,2026-05-14T10:43:53,field_tool,1,Good,4,Low,5
+0674e4c3-d85a-4c7d-92dc-4f707b411ed0,af03bb43-699c-473c-b7c8-b31cdcb31045,survey_766,Namibia,East Wesley,Male,63.0,Secondary,Self-employed,completed,2026-05-14T10:43:21,field_tool,3,Neutral,4,Medium,1
+cd424e3d-4b63-4ccf-bab8-971dff1dd252,67b2701e-21f3-44d1-882e-b9f95be08e19,survey_744,Namibia,North Kristin,Female,45.0,Secondary,Unemployed,completed,2026-05-14T10:42:55,field_tool,3,Bad,4,High,5
+3ff497bc-6a49-4849-8c01-09bfe5f72167,0e7f3d7b-80fd-415c-93de-0828dcd05c02,survey_787,Namibia,North Tiffany,Female,68.0,Primary,Unemployed,completed,2026-05-14T10:45:26,field_tool,4,Good,4,High,2
+2de294e2-7944-41e3-8899-5d9354e93c48,cf9f8bfe-7016-45a2-8612-10a83716aedd,survey_971,Namibia,Ericborough,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:45:28,field_tool,2,Bad,1,Low,3
+9681e8e9-cab7-47d4-a2df-b15248a7be28,bb66e104-01f5-4557-8859-e181ece2a489,survey_103,Namibia,Kennethfort,Male,48.0,Primary,Employed,completed,2026-05-14T10:42:46,field_tool,5,Bad,4,Low,2
+aa0efdb5-1881-4841-bc42-292d54716807,d6b849dc-5528-4169-929f-89005f5b0924,survey_885,Namibia,Howellbury,Male,,Tertiary,Unemployed,completed,2026-05-14T10:41:03,field_tool,3,Good,2,High,3
+7e857d01-dadf-4724-962e-3b7e2084c351,941079c7-d273-4c94-9be9-4e752ff91a3b,survey_327,Namibia,Lake Lisaland,Male,70.0,Secondary,Unemployed,completed,2026-05-14T10:41:06,field_tool,2,Good,5,Low,4
+8898a985-3c98-48be-8b0e-2dd98fd851bf,01c0a084-a0d8-4c16-a03e-06cf81c3fbe4,survey_495,Namibia,Port Samanthaland,Male,,Tertiary,Employed,completed,2026-05-14T10:43:42,field_tool,1,Neutral,4,Low,4
+14fbbc3e-6b8a-4260-be10-6f6b4b187a6b,1482ed21-075b-4a4a-b29a-d91178474e04,survey_523,Namibia,Port Tony,Female,67.0,Secondary,Employed,completed,2026-05-14T10:45:13,field_tool,3,Bad,3,High,3
+2636755f-436e-4178-baca-3059d36e66c9,74e09268-1d9b-490a-89c7-ab94f61bc0a8,survey_588,Namibia,Richardhaven,Female,27.0,Primary,Self-employed,completed,2026-05-14T10:42:31,field_tool,1,Very Good,3,Low,3
+233ccef9-f7fc-44f1-925c-1711ecfd73fe,70082e93-8f9c-4eca-a235-e829f45ddec8,survey_417,Namibia,Kimberg,Male,27.0,Tertiary,Self-employed,completed,2026-05-14T10:40:24,field_tool,3,Very Good,1,Medium,2
+352eb984-8ad1-4b5e-9b2a-4a3413c3f651,b6e44dd2-7d40-4f97-b352-ba5eb613da12,survey_719,Namibia,Victoriaview,Female,58.0,Tertiary,Self-employed,completed,2026-05-14T10:42:22,field_tool,1,Neutral,5,High,5
+0d26c548-b5c0-413f-b8d1-73436cbf360e,60aa2da0-d691-48e8-9875-2ee91bbd94b7,survey_590,Namibia,Shannonborough,Male,29.0,Primary,Employed,completed,2026-05-14T10:43:49,field_tool,3,Neutral,4,Medium,1
+3c9782f2-9d9d-4b18-a88f-951886065cd6,fe9b6b94-55fd-4e2a-a4e9-fbf6e472a813,survey_681,Namibia,West Shelby,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:40:21,field_tool,5,Neutral,5,Medium,2
+d80dd4bc-f783-47e3-83cb-708e4bf8b0c8,89e7e312-ece3-484a-a53c-b46337359887,survey_130,Namibia,New Tabithaville,Female,40.0,Secondary,Employed,completed,2026-05-14T10:41:15,field_tool,4,Good,3,Medium,4
+a2763d55-f8f4-41b4-8758-2a837b743bec,5a0d0b50-5db6-4133-afbb-11bb9dae0423,survey_853,Namibia,Elizabethmouth,Male,52.0,Primary,Unemployed,completed,2026-05-14T10:43:32,field_tool,3,Very Good,4,Low,3
+f1b5257c-ae94-476f-ba68-9dcef7c71592,2a8045cd-5321-49ed-b070-0a49edac8909,survey_182,Namibia,Bakermouth,Male,23.0,Primary,Self-employed,completed,2026-05-14T10:40:38,field_tool,2,Good,2,Low,2
+1c048d7f-7ce4-402d-a8c0-727d15b45a25,4dfa673b-f4e2-4e22-b845-7d93b2acc7e1,survey_191,Namibia,East Danielview,Male,26.0,Secondary,Employed,completed,2026-05-14T10:43:23,field_tool,5,Very Good,3,High,5
+ebd11bd7-4b9f-4f64-a770-10389d455355,24a253b4-5f22-4a60-b98f-7905ec2d9bd1,survey_195,Namibia,Collinsview,Male,41.0,Primary,Employed,completed,2026-05-14T10:42:45,field_tool,3,Bad,4,Medium,5
+c6842f22-71bf-45cf-a1a2-eb212f01abd0,47a263ea-522a-4c16-8058-0e666e8a8ac9,survey_455,Namibia,North Cynthia,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:44:37,field_tool,4,Bad,3,Low,4
+31f5fc86-f50a-424a-a7c4-96cd439f317b,d04c476e-8734-4e0d-bce2-d3540e600282,survey_261,Namibia,South Luis,Male,57.0,Primary,Employed,completed,2026-05-14T10:41:01,field_tool,1,Bad,2,Low,5
+48099b3a-0e89-4cac-b980-9f7d0ee845a8,736d8532-4159-42c2-9639-3be2c1b6fb61,survey_219,Namibia,New Brandi,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:43:10,field_tool,2,Good,1,Medium,4
+577ad26e-7268-4c8f-8b15-b7803156ecef,73120204-31f0-4327-b95e-5bfac554423e,survey_537,Namibia,Lake Susanton,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:44:49,field_tool,2,Neutral,2,Low,4
+11259e3b-9808-4100-934b-0b1c3eb57696,37e1a5c6-11c7-46c3-9f09-6e36594a07f3,survey_265,Namibia,Lake Lindseyberg,Male,38.0,Secondary,Self-employed,completed,2026-05-14T10:41:02,field_tool,4,Bad,3,High,5
+d3d0038f-3789-4ad2-85d5-249452c82d47,fd6b79f5-f355-4528-b846-908370a91edf,survey_765,Namibia,Garciaside,Male,69.0,Primary,Employed,completed,2026-05-14T10:41:53,field_tool,2,Good,1,Low,5
+a2ea646c-9e62-4eb4-86d9-2ede01af8578,b2b33d90-58de-4565-a6b9-cc1cc75eb31d,survey_115,Namibia,North Reneeside,Female,27.0,Tertiary,Self-employed,completed,2026-05-14T10:43:45,field_tool,3,Neutral,1,Medium,5
+68abd720-8cc3-4a6a-b3ff-81780d19cf6a,2e6566d3-ee03-4f50-8bc5-4421b167d8b7,survey_826,Namibia,East David,Female,38.0,Primary,Employed,completed,2026-05-14T10:42:31,field_tool,2,Bad,4,Low,1
+9259a566-0fc7-464d-b43a-7e0ab6383e72,1668e5af-fa23-4d5c-b741-e1b681dcab6d,survey_593,Namibia,East Cindy,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:42:42,field_tool,1,Neutral,1,High,4
+318d0d09-8689-4512-b7a1-a7fd927f790c,4a95a3fe-3327-4475-86b8-35a07dac24d1,survey_323,Namibia,New Scottville,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:44:17,field_tool,3,Bad,4,High,3
+131e9448-de78-48ad-977b-235ac3af5514,88e99a72-d3a2-4256-8488-ae8a17ec8a9f,survey_982,Namibia,Kylefurt,Female,53.0,Primary,Unemployed,completed,2026-05-14T10:40:57,field_tool,5,Bad,5,Medium,5
+cf40f4e5-7d77-473c-b04b-9953e14d7774,f4b1a3c7-708f-405d-8649-ee31a373599b,survey_843,Namibia,Abigailville,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:44:30,field_tool,3,Very Good,4,High,2
+186929ee-0f44-4b3e-9d8a-92bff3442c56,7a9359c0-1db0-46d7-b085-f04c76efdf8f,survey_963,Namibia,Dennisfort,Female,59.0,Secondary,Unemployed,completed,2026-05-14T10:43:24,field_tool,4,Very Good,3,Low,5
+7e651eac-a9d8-46e2-9848-8d29a3c8948e,ecab6573-d0f1-451e-a98b-26044a67bd7b,survey_992,Namibia,Dianafurt,Female,71.0,Tertiary,Employed,completed,2026-05-14T10:44:24,field_tool,4,Neutral,1,Low,5
+e1b2a145-1a8a-4d11-8061-f0272378822a,272f60e9-973a-4b28-9fcf-1c055133c179,survey_189,Namibia,Jonesstad,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:45:34,field_tool,1,Neutral,1,Low,4
+a0d85e41-c708-40f4-a982-3d7d042d99ce,6617a495-d31a-44fa-9040-9d288a352d9e,survey_756,Namibia,South Jacqueline,Female,57.0,Secondary,Self-employed,completed,2026-05-14T10:42:08,field_tool,3,Good,1,Medium,1
+6eaf1fbf-b9b1-4e90-82a2-ae178efdf9ac,0ccc5490-9cae-4daa-a853-3c932926a1d3,survey_427,Namibia,East Christineville,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:43:03,field_tool,3,Bad,1,Low,3
+7e7dc931-759f-4aaa-881f-9c788e83e79f,830aba29-2352-49c7-8a9f-ad751f1a7ee4,survey_703,Namibia,North Rachelville,female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:43:53,field_tool,5,Neutral,3,Medium,5
+7695fa26-62fd-4d09-aa16-33723ffc143a,4a2a1ac4-053b-4268-8cce-b6b80897d45d,survey_221,Namibia,Stephensfort,Male,18.0,Tertiary,Self-employed,completed,2026-05-14T10:41:40,field_tool,3,Very Good,1,Medium,4
+2ea9a605-ec92-4600-b846-6aa913e3fcbc,0c9e7939-82ab-446d-8c9b-aa8779df1479,survey_923,Namibia,Derekmouth,Male,69.0,Primary,Employed,completed,2026-05-14T10:39:44,field_tool,2,Bad,5,Low,5
+465f3d10-405d-4355-98bd-c0bf87bb53f6,eabd2f6e-7fe4-4bd7-8be6-fbbf20df09c2,survey_233,Namibia,New Melissa,Male,64.0,Secondary,Unemployed,completed,2026-05-14T10:40:11,field_tool,2,Neutral,2,Low,2
+77ab2c05-6a95-4661-9f03-86f5df45f4c9,adcd0d09-6a8e-4652-9472-2beca0e1ac92,survey_834,Namibia,North Rodney,Male,75.0,Secondary,Unemployed,completed,2026-05-14T10:44:39,field_tool,2,Neutral,3,Medium,5
+417c09a4-ca10-4989-8e62-cd9bca2f7071,10bd7a38-f1ff-4b6a-83b3-1ed850c6443f,survey_857,Namibia,Port Rebeccafort,Female,38.0,Primary,Employed,completed,2026-05-14T10:40:40,field_tool,3,Bad,1,Medium,1
+c4e7b71c-5fce-4455-94e1-41e36ca9890a,eabb27cb-a814-4922-a544-5baf94f25978,survey_163,Namibia,Hamiltonview,Female,72.0,Primary,Employed,completed,2026-05-14T10:40:16,field_tool,5,Bad,1,Medium,1
+70c03a6c-4364-4f67-aa1f-a9325b21bdb7,fdb840d5-627d-4b7a-a704-2c78afa43fe2,survey_445,Namibia,South Josephmouth,Male,40.0,Primary,Unemployed,completed,2026-05-14T10:44:24,field_tool,5,Very Good,3,High,3
+39d67d6c-ea6d-4f6b-84c0-6419e0212b2b,bf4001ce-d1d0-490f-ae06-0016fac80571,survey_751,Namibia,Kristieport,Male,37.0,Secondary,Unemployed,completed,2026-05-14T10:41:59,field_tool,4,Neutral,4,Low,4
+980d5d2a-ac33-4e3b-ac74-2912373da547,575b7b08-4970-4a5e-a2dc-27e5aa6ea218,survey_274,Namibia,West Jessicahaven,Male,20.0,Primary,Employed,completed,2026-05-14T10:44:04,field_tool,5,Very Good,3,High,5
+4697c196-dd13-47e1-948c-124fc32ce0d1,5aa224fa-da27-49c8-8a9a-542c676ed38e,survey_470,Namibia,New Rodney,Male,29.0,Tertiary,Self-employed,completed,2026-05-14T10:42:12,field_tool,4,Neutral,5,Medium,2
+498e48e4-1618-47b2-8e1e-0b849c6c8f42,6ab8524e-2c11-40a7-9b45-7de050f0cd8d,survey_582,Namibia,Nicolefort,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:43:15,field_tool,3,Very Good,4,Low,5
+10ba9e6d-8d54-48de-8d6e-4f5835c309aa,71d25d8a-f69a-479f-b2ab-26976bed5374,survey_558,Namibia,North Matthew,Male,73.0,Primary,Unemployed,completed,2026-05-14T10:41:11,field_tool,5,Good,3,High,3
+3c8e0a75-b260-4cf4-9c8b-9c3514ba2a3f,1781ee56-4516-45c5-9684-bf3150e61ba3,survey_637,Namibia,Gallegosborough,Male,71.0,Secondary,Self-employed,completed,2026-05-14T10:41:16,field_tool,1,Very Good,2,Medium,3
+9b72e0af-f1e1-4730-aa3b-d0db3a325a84,613e1a43-26bc-431a-9422-081416afefb8,survey_800,Namibia,New Robertstad,Male,18.0,Secondary,Self-employed,completed,2026-05-14T10:39:55,field_tool,3,Good,2,High,3
+3001df48-7b3c-45b0-953d-6acf1a832c1d,36efaf16-640f-4aac-bdff-2ab0d8f2894b,survey_947,Namibia,Markhaven,Female,59.0,Secondary,Employed,completed,2026-05-14T10:45:28,field_tool,2,Very Good,1,Low,5
+13729d35-632f-4d3c-a0f4-03029e1c3911,b02cc669-bf24-431a-aaae-1a925744b1d6,survey_338,Namibia,Sellersland,Female,,Secondary,Unemployed,completed,2026-05-14T10:39:43,field_tool,1,Very Good,2,Medium,2
+887ccf9d-00d1-4d48-8a1a-877c321d2524,f88a5d47-a71b-4ca3-9e05-76d549f79891,survey_123,Namibia,Wagnerside,Male,66.0,Primary,Unemployed,completed,2026-05-14T10:41:16,field_tool,1,Bad,5,Medium,3
+a91d9a1d-0677-40cf-9c2c-cd9bb3150de9,3c7b64dc-b2e2-4089-aac5-28e26f2e8157,survey_447,Namibia,Gregoryport,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:41:16,field_tool,1,Very Good,3,Low,5
+b7fe3014-ada4-469c-9334-6c407ac9cdee,2f4fc334-9dc4-4731-9c0c-700034bc952a,survey_109,Namibia,Smithtown,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:42:32,field_tool,1,Bad,4,Low,5
+319c08b1-2f78-4801-a97a-45c0bb2e3938,cbe04cd0-1503-4b8a-9967-55ca22be6fbe,survey_380,Namibia,South Hunter,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:41:13,field_tool,5,Good,3,Low,3
+439b91e3-a9b5-49f1-bc32-94b416d9ddaf,df3453e2-f1d0-4b6c-88bf-133553d6a617,survey_572,Namibia,Wilsonburgh,Male,22.0,Tertiary,Employed,completed,2026-05-14T10:40:33,field_tool,5,Good,5,Medium,1
+bbe39fab-fe1b-448c-86d2-982438ab64bc,02aad312-41cb-4743-a087-fe4810ae82d6,survey_295,Namibia,Tammyhaven,Male,64.0,Secondary,Unemployed,completed,2026-05-14T10:43:42,field_tool,1,Neutral,4,Low,4
+744080ef-d5b1-4bea-8c25-dbcf8f18e63e,1d19119e-69b2-45e1-a7ab-3d36423957e2,survey_579,Namibia,Crystalport,Male,30.0,Secondary,Employed,completed,2026-05-14T10:43:42,field_tool,5,Good,1,Medium,4
+3f0ab07a-64e4-40cb-8eb4-a565643b635a,118ef7ff-2b9f-4fff-8d42-13fe1de6ccd6,survey_632,Namibia,Crosbyfort,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:42:54,field_tool,5,Bad,5,Low,3
+48172dca-80e3-4a3c-aaf5-518f2c975b16,3db97a3a-310a-462d-a170-b931746b6274,survey_802,Namibia,North Angel,Female,40.0,Secondary,Employed,completed,2026-05-14T10:40:31,field_tool,1,Very Good,4,Low,3
+2a91ba94-b0fc-4ae7-aefb-35b061dcef46,ad01a2a7-a526-49ab-9d84-b35d1ceac88e,survey_796,Namibia,South Angela,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:42:39,field_tool,3,Bad,2,High,5
+9dcb42f8-b51f-44f3-a32e-ad231693dd7c,b1d0c67d-9d14-46fe-a7cc-5183ef2c31cf,survey_187,Namibia,Stricklandside,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:39:48,field_tool,2,Good,3,High,3
+dab65476-6121-4a7b-8774-34e5e96f4e70,31b5b4f3-b7e4-48d6-9d68-044c2b353860,survey_726,Namibia,Lake Mary,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:41:04,field_tool,3,Neutral,3,High,5
+63be0d14-cf43-4fdd-84ec-d6438347b12b,843f0b5a-dd38-4be5-91ac-431d3d68b9dd,survey_873,Namibia,Erinchester,Female,51.0,Tertiary,Unemployed,completed,2026-05-14T10:41:43,field_tool,5,Very Good,2,High,1
+d95b7f5e-1de4-43eb-b221-10a80fca54be,f86aeb3a-36ea-433a-8efa-9d71cd401c63,survey_650,Namibia,Petermouth,Male,29.0,Primary,Employed,completed,2026-05-14T10:42:10,field_tool,2,Neutral,2,High,4
+a6887b8f-b635-4c2e-8248-10a2a31fee06,64a21c24-121e-487f-b887-e3af954d6cfe,survey_655,Namibia,West Markchester,Male,37.0,Secondary,Unemployed,completed,2026-05-14T10:40:35,field_tool,3,Bad,4,High,1
+8096e78e-5d5e-4a6b-80b3-7a31d0f2e091,6db01f7a-9bc1-4f7b-8ab0-f0e53189d480,survey_687,Namibia,Port Emilyfort,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:45:13,field_tool,3,Good,3,High,2
+e04d01df-0732-4e4a-bf26-656c97e8bb47,1dcf40e2-c3c3-432c-a949-2f7652c653b0,survey_523,Namibia,West Jackberg,Male,45.0,Tertiary,Self-employed,completed,2026-05-14T10:42:27,field_tool,4,Very Good,3,High,4
+2d1d80a8-0a84-416d-9e28-8b44429faf51,64b52752-4280-4638-8e75-7f67f60ff0e4,survey_738,Namibia,Aprilshire,Male,50.0,Secondary,Unemployed,completed,2026-05-14T10:44:40,field_tool,4,Good,4,Low,5
+6a8ab3c1-13f3-4a05-8c5a-731d0e885b51,cac69cbb-3e86-4bb4-b33f-c71e358cb45b,survey_226,Namibia,Thomasmouth,Female,33.0,Tertiary,Self-employed,completed,2026-05-14T10:43:24,field_tool,4,Bad,3,High,2
+fd8f87db-cfd3-4599-85c6-3ed0377551db,5c3269ec-b67b-4c03-8866-07078c0708da,survey_273,Namibia,New Madison,Female,60.0,Tertiary,Unemployed,completed,2026-05-14T10:42:01,field_tool,5,Good,5,High,3

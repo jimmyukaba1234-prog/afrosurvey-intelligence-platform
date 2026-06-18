@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+b7f90e1c-f401-4ceb-b4b1-c2fb1e339856,4f1f7138-2cca-4057-9409-9ea257c38831,survey_230,Togo,South Scott,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:41:51,field_tool,4,Very Good,3,Medium,4
+6043a59a-9dab-4a30-af32-4a145fc148e6,40d75ad4-aede-4388-8503-d6c09186e189,survey_389,Togo,East Taraville,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:41:16,field_tool,3,Neutral,1,Low,5
+18b38797-1db8-432f-b254-8280c09c4b21,65233865-47dc-40f3-b1cd-f96822a88212,survey_889,Togo,South Justinfurt,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:59,field_tool,1,Very Good,3,Medium,3
+63fc380f-8f59-4d48-a308-f0a17b88ac28,6dcbda9c-b05f-4af0-b972-9f92e0b56998,survey_933,Togo,Davischester,Male,39.0,Secondary,Employed,completed,2026-05-14T10:39:53,field_tool,5,Bad,1,Low,2
+6200240c-115b-4a8e-9f39-5530a94a742d,6d59a4f9-54da-4465-b199-e3f6349a98b7,survey_331,Togo,Sullivanmouth,Male,,Tertiary,Self-employed,completed,2026-05-14T10:42:14,field_tool,1,Bad,5,Low,5
+4306a23f-949b-49f4-b62c-4f7cc9aa9091,84310554-2a3c-4fb7-a11e-682a65e6c2d2,survey_908,Togo,Hannahville,Male,36.0,Primary,Unemployed,completed,2026-05-14T10:42:23,field_tool,5,Bad,1,High,3
+ec206656-649a-487d-82e6-2da79a4e99c9,183fa358-d3c4-46c5-8653-e1bde5bca52a,survey_416,Togo,New Julia,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:43:42,field_tool,4,Good,4,Low,4
+11bb2b86-26b6-4e57-9215-ac2ef561094b,617e6462-5d17-4852-bf55-51daceeb4fcd,survey_929,Togo,Scottland,Male,62.0,Tertiary,Employed,completed,2026-05-14T10:45:03,field_tool,1,Bad,1,High,5
+e26ef10a-090f-4e73-9a69-52d97ea8a1a2,5a0b5cab-c8fe-4500-9b5d-5b1bd167245d,survey_377,Togo,Contreraston,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:40:27,field_tool,2,Very Good,1,Low,1
+7fed1f7c-0412-43c5-99ce-91ea5b699718,a1bce70e-3254-4559-b431-0bfefa0e910e,survey_586,Togo,Daniellefurt,Female,73.0,Secondary,Employed,completed,2026-05-14T10:43:46,field_tool,3,Very Good,3,Medium,1
+e6ce720a-96b6-4ed2-a4b6-76e318511c0e,4691d48c-65b2-405b-b224-7f3c80f0f1a4,survey_167,Togo,East Kimberly,Female,30.0,Primary,Employed,completed,2026-05-14T10:42:45,field_tool,1,Good,2,High,5
+d8528030-3ef9-4177-8804-cd79d88a8c4a,b71fafb3-3395-4be9-9211-c97b9dcf228a,survey_464,Togo,Richardside,Female,,Primary,Employed,completed,2026-05-14T10:43:48,field_tool,5,Bad,4,High,5
+26b32325-d917-44e4-9f05-484c7a9ed306,124cd9b6-7c38-414b-a2d8-0479e780d848,survey_156,Togo,Davidfort,Male,23.0,Tertiary,Unemployed,completed,2026-05-14T10:41:39,field_tool,2,Bad,5,Medium,4
+b0b9e409-4157-49d0-aac7-bdfb1cc01fd7,51b21695-10ab-4971-ba7c-07930c1237c9,survey_228,Togo,Nelsonchester,Male,60.0,Primary,Unemployed,completed,2026-05-14T10:44:52,field_tool,5,Good,2,High,1
+c804ae64-ff36-47a6-af83-078aef089adb,32f0d823-9a55-4214-a397-6b35add00b37,survey_407,Togo,Kevinborough,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:43:04,field_tool,3,Very Good,4,High,5
+40640b46-5166-4172-a449-35330241e6df,de7d07c3-fb74-4863-95b5-e989bb079286,survey_233,Togo,West Christopherside,Male,38.0,Primary,Self-employed,completed,2026-05-14T10:40:28,field_tool,1,Bad,3,Medium,1
+17ccc415-7572-40f5-ae1f-e664e1ff3ea8,55beeb49-f45a-4f32-9a3f-cc4f0766a24a,survey_542,Togo,Nicolefurt,Male,40.0,Primary,Self-employed,completed,2026-05-14T10:41:46,field_tool,3,Very Good,5,Low,4
+0951d4cc-4861-4777-8e28-d3a12b121aa6,55a2e1d0-a14d-4f5a-930e-ed624f8171d1,survey_504,Togo,Markberg,Female,60.0,Primary,Employed,completed,2026-05-14T10:41:28,field_tool,2,Bad,2,Low,3
+5895f7d3-c720-4a97-9ed4-fb6c90004345,ce161413-2a64-485c-89e6-8b36c5a8ac9f,survey_514,Togo,Port Bailey,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:45:43,field_tool,1,Good,3,Low,1
+0c042a27-3991-4f24-85a9-705728f3b0a3,8a575167-29d8-48c4-860b-51736bde702e,survey_744,Togo,North Robert,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:40:20,field_tool,3,Good,1,Low,5
+58bc0ece-744d-41a9-bc0e-d8d9719862f5,0586c0de-6da3-4756-9250-9b75d98260c4,survey_116,Togo,Adamview,Male,44.0,Tertiary,Employed,completed,2026-05-14T10:40:31,field_tool,1,Neutral,4,Medium,4
+8da681b0-c6aa-4989-9efc-9da4b9320278,7600d5d5-0102-43f9-9c8a-69b0b7f73983,survey_549,Togo,East Alexandra,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:45:20,field_tool,3,Very Good,1,Low,4
+f8de924b-130d-4171-b4cd-eb675fe2698d,4ab0b2cf-ea19-4cde-969c-7c59971fb2f1,survey_247,Togo,New Scott,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:44:03,field_tool,3,Good,3,Medium,2
+12db96da-91ca-4034-8b61-f53546f74384,f8aef5b9-bc9b-4587-91f8-959a23f2be5e,survey_958,Togo,Lake Andrew,Female,30.0,Secondary,Self-employed,completed,2026-05-14T10:45:36,field_tool,2,Good,2,Low,3
+1ea356c0-0e81-45c5-adce-bf7103f09f2a,49dcc396-b14e-4751-9344-cbb8cf24fefd,survey_309,Togo,Port Dawn,Female,50.0,Secondary,Employed,completed,2026-05-14T10:44:00,field_tool,2,Neutral,5,High,2
+b446691b-a636-49b6-934b-01db74c733a3,147e39da-b45b-4e1d-a91b-ef98ff172f23,survey_236,Togo,East Davidview,Male,71.0,Primary,Employed,completed,2026-05-14T10:41:04,field_tool,1,Neutral,2,Medium,4
+a208933b-8827-4510-a5c3-57257ee31687,621e81e6-0867-429e-ab96-83821fd094ad,survey_493,Togo,Jeffreyton,Male,66.0,Primary,Unemployed,completed,2026-05-14T10:41:44,field_tool,3,Very Good,4,Low,3
+8bd5abc3-a679-46f7-b165-5306905d16ca,f9c9d817-5310-4b63-93e2-b4d2989597e8,survey_235,Togo,Christineton,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:45:13,field_tool,3,Very Good,1,High,3
+32792bbe-5911-4e1c-806a-706ecfa6227d,48662462-89f6-40ea-8372-51293d690ba4,survey_674,Togo,Michaelton,Male,41.0,Tertiary,Unemployed,completed,2026-05-14T10:42:26,field_tool,1,Very Good,1,Medium,4
+a06aca57-8f06-4049-9736-2fc3088377e3,a95cac85-ff8e-49c0-877b-29f2501b1328,survey_193,Togo,Lake Michael,Male,42.0,Secondary,Self-employed,completed,2026-05-14T10:43:27,field_tool,4,Bad,5,Medium,1
+0e6b06bb-a8b9-4aa2-b163-584be3092b2d,0c63550b-04d3-4cf8-97f2-b1b176465f26,survey_456,Togo,Stephaniestad,Male,41.0,Tertiary,Self-employed,completed,2026-05-14T10:43:15,field_tool,5,Good,1,High,2
+fe235cdf-3961-4602-8bfb-7bb76eb50e1d,f03304b2-6123-4b59-9571-1e18e3c205a8,survey_469,Togo,Ramirezmouth,Male,70.0,Secondary,Employed,completed,2026-05-14T10:41:34,field_tool,3,Very Good,3,Medium,3
+d0d23958-2e68-4112-a32d-69067781dd8f,37e3a123-bdb7-49aa-84d4-b186aedac580,survey_753,Togo,Lake Laura,Male,23.0,Tertiary,Self-employed,completed,2026-05-14T10:44:54,field_tool,4,Good,2,Low,4
+8e11e373-737d-4a0e-a8c6-31771d1c567f,3f5664e9-cf67-4435-b75f-8a292e734e08,survey_431,Togo,Port Sarah,Female,34.0,Secondary,Employed,completed,2026-05-14T10:42:49,field_tool,3,Bad,2,Low,5
+f5307ab6-a030-4307-a8ea-e21718b04fb1,b2972dec-04ec-4b55-be5f-d1780381a8b1,survey_221,Togo,Port Alexchester,Male,26.0,Secondary,Unemployed,completed,2026-05-14T10:41:35,field_tool,2,Good,4,Medium,2
+90472f14-ac17-4b7a-827b-341d14176a91,143df2a8-778e-4af4-b054-05b068e435f9,survey_365,Togo,Matthewfort,Female,66.0,Secondary,Self-employed,completed,2026-05-14T10:44:06,field_tool,2,Very Good,5,High,1
+79f5ad54-38a3-4f9f-b7b9-a8cb7882488a,3a601b69-65be-4572-940a-8777a10bd6cf,survey_337,Togo,Port Brent,FEMALE,47.0,Primary,Unemployed,completed,2026-05-14T10:43:40,field_tool,1,Bad,2,Medium,2
+93c3a962-ed1c-424f-a9c5-f657b1db3322,0531e46b-5c7e-4d58-98e2-63657a9c010d,survey_149,Togo,Kimberlychester,Female,38.0,Secondary,Self-employed,completed,2026-05-14T10:40:55,field_tool,2,Bad,4,High,2
+3347cbe9-c99c-4c33-8c83-139c4e5c7cc6,e81cd50a-20af-4b7d-9b39-731e65692a1d,survey_618,Togo,East Jennifer,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:42:32,field_tool,2,Bad,4,High,1
+20009d58-4b24-4511-9f0b-1b7669fcf902,83c77d79-9c12-4e7c-8cec-a8133029d965,survey_704,Togo,Port Cameron,Male,30.0,Primary,Employed,completed,2026-05-14T10:42:45,field_tool,5,Very Good,3,High,2
+ae598213-222b-4bd8-81d1-9985bceaca3e,78124021-0aa8-42ce-b343-232a02084a21,survey_907,Togo,Bushfurt,Female,54.0,Tertiary,Self-employed,completed,2026-05-14T10:41:35,field_tool,2,Neutral,3,Medium,5
+f9176db6-f757-4bd1-aec0-e137e052c318,412c2c36-06ba-45e3-a993-f9d819f4f5ad,survey_800,Togo,South Gabriel,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:44:16,field_tool,4,Very Good,2,High,4
+84bd8bc4-2643-451d-9a5d-9ae025be7e35,74b0672c-d3ec-4a4e-bba3-19bf5971a776,survey_984,Togo,South Louis,Male,60.0,Tertiary,Self-employed,completed,2026-05-14T10:43:06,field_tool,3,Bad,2,Medium,2
+753ca221-b6d0-4558-8175-78a99e9fcb47,68e81332-451d-4905-b20b-30d3830c4bc3,survey_410,Togo,Taylorland,Male,53.0,Secondary,Unemployed,completed,2026-05-14T10:41:21,field_tool,2,Neutral,3,Medium,2
+a16acd35-49af-4f30-8851-a5d0591a2f62,e736da61-a4fe-4ac0-8562-807310281b36,survey_251,Togo,East Kellymouth,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:45:21,field_tool,5,Bad,5,High,2
+dd573388-f1d9-4751-a1c6-e8c13b6c2b82,e78cf744-6c1c-4754-93a5-da0aafc43f90,survey_970,Togo,Lake Justin,Male,37.0,Tertiary,Self-employed,completed,2026-05-14T10:41:49,field_tool,2,Good,4,High,1
+e4cd6c8c-84a6-451d-8d68-f40d40b26661,c1c1c91b-7622-45f4-a5e5-d81cd2b3cecc,survey_788,Togo,New Nathanborough,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:40:50,field_tool,5,Neutral,4,Medium,4
+040670ff-e742-4dcd-8b14-85ee2815cc74,06372549-9297-47fe-9f0b-bd8b8c2b86c4,survey_905,Togo,Peterton,Male,70.0,Primary,Unemployed,completed,2026-05-14T10:41:04,field_tool,2,Very Good,5,Low,2
+a4d06c59-790d-4f71-9a0a-1ac97d239064,b5a438ce-81ba-42c7-bbcf-1dc6bf53b71a,survey_599,Togo,Carpentertown,Female,61.0,Tertiary,Employed,completed,2026-05-14T10:41:00,field_tool,5,Bad,5,High,1
+e0bbd074-ef46-4da1-8893-842c7dce01f6,92b665a7-4298-4c43-9f42-9fa13ae186e2,survey_189,Togo,Colemouth,Female,53.0,Secondary,Unemployed,completed,2026-05-14T10:43:49,field_tool,2,Neutral,3,Low,1
+f4a29deb-6f5e-4de0-b2c0-7317e1ff9595,632c7de1-b134-4f35-b493-76d95b7fad10,survey_507,Togo,Thomastown,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:40:50,field_tool,4,Very Good,5,Medium,4
+d381f887-9136-4e7a-9b08-cf59b30c414d,284e7563-65b9-4c9c-955c-99b33d18f36a,survey_841,Togo,Lake Jacob,Female,21.0,Secondary,Unemployed,completed,2026-05-14T10:44:19,field_tool,4,Neutral,3,Low,1
+1b7e1452-e4c2-4003-acaa-a93c6a2dee69,ffb2c0d6-1b7c-4814-ba65-6093a8110dfa,survey_144,Togo,Port John,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:44:28,field_tool,3,Very Good,2,Medium,1
+2e137cc4-0e78-4b69-a8e6-3597c91592cc,22cebd56-5b74-4a22-a558-187aaec6a9df,survey_604,Togo,Port Amyland,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:40:21,field_tool,1,Very Good,1,Medium,5
+e0b1de2a-60f0-425e-85f0-b11b779d5ec1,79b0fd62-9d36-4cbe-b628-79cc97fac2d4,survey_451,Togo,Andrewmouth,Male,42.0,Secondary,Unemployed,completed,2026-05-14T10:44:27,field_tool,1,Good,2,Medium,4
+213a4ee1-b009-4962-a569-e9c10940ea61,5e22bbf5-81db-4d7f-84ec-1589c68ee703,survey_955,Togo,Maddoxbury,Female,34.0,Secondary,Employed,completed,2026-05-14T10:42:53,field_tool,4,Good,5,Low,5
+c40750b4-99fd-4f8f-93b5-e0b873065ebc,855a60ee-8f14-49cb-b19e-1d46d354808a,survey_124,Togo,Lake Joshua,Male,60.0,Tertiary,Employed,completed,2026-05-14T10:42:16,field_tool,4,Bad,1,High,3
+d4718698-80db-4ac0-b047-6e89b510e906,7a9e8db9-6f4d-4ccd-9bb1-722ea50f3a25,survey_257,Togo,New Darlene,Female,35.0,Tertiary,Self-employed,completed,2026-05-14T10:44:03,field_tool,3,Neutral,3,Low,3
+31d881e3-15aa-48eb-a6a1-28cf346ff109,ba1a1fce-3a0f-4353-916f-beefb03482fe,survey_793,Togo,Benjaminmouth,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:41:42,field_tool,1,Neutral,1,Medium,5
+224ee3b6-22ca-46b3-add9-4c84576c2af4,766e08fe-f76b-41e9-ad84-e98d5a3736b5,survey_601,Togo,East Marcus,Male,20.0,Primary,Unemployed,completed,2026-05-14T10:42:13,field_tool,2,Good,2,Low,4
+58ad1e42-173b-4aca-9159-4a5dd2b3872e,642ce36b-3329-4dfb-a4ff-4074e98ddef6,survey_290,Togo,Diazhaven,Female,34.0,Secondary,Unemployed,completed,2026-05-14T10:45:22,field_tool,3,Good,1,Low,2
+d5e21323-884d-4483-bbea-71659ae42832,e1f8a43f-51e2-4bf9-9ac8-77a6051b6481,survey_516,Togo,North Deborah,Female,74.0,Secondary,Unemployed,completed,2026-05-14T10:41:56,field_tool,3,Neutral,5,High,4
+0328c3b8-09a9-47aa-a963-eea55bac0f80,18974d13-cbb3-44c8-b5a4-d145bce68f10,survey_657,Togo,Cherryfort,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:42:28,field_tool,3,Very Good,3,Medium,4
+1685debe-3551-45c8-ba4c-a580264cef59,fdd4fd3f-6b24-41be-b793-d55def305bc3,survey_558,Togo,North Charlestown,MALE,52.0,Primary,Unemployed,completed,2026-05-14T10:44:03,field_tool,2,Good,5,Medium,3
+5a78e6b7-bb38-4e01-b337-51eb57829f05,8b27ca75-e9de-44b9-a66f-e1985db5a141,survey_589,Togo,New Jessicaport,Male,33.0,Secondary,Employed,completed,2026-05-14T10:43:03,field_tool,2,Bad,5,Medium,2
+a759d245-9e66-4ed0-b1c0-3d6254c1fc9b,4ed9e17a-99f6-44d7-90e2-bf2aa2f3c4c8,survey_402,Togo,East Jessicafurt,Female,49.0,Tertiary,Employed,completed,2026-05-14T10:40:22,field_tool,1,Good,2,Low,4
+c50577da-27fd-4300-97f2-8147909079d9,d263169f-3c6f-4d48-a009-5a5e469ae915,survey_566,Togo,Trujilloshire,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:40:36,field_tool,3,Very Good,3,High,5
+59aa22a5-78cd-41a7-a12d-3bcd22f59dca,62c2b13b-5ed9-4404-ae89-c833f30320e1,survey_437,Togo,Dylanmouth,Male,60.0,Secondary,Employed,completed,2026-05-14T10:45:05,field_tool,4,Bad,2,Low,3
+d0e237a3-a626-4952-a5f0-2ef212fe91b3,1408dc45-acd0-4809-b68e-81fe6d0e63b9,survey_166,Togo,Gutierrezfurt,Male,37.0,Primary,Unemployed,completed,2026-05-14T10:43:58,field_tool,4,Neutral,1,Low,4
+94644aa6-1d5e-4ed2-bb85-4e8ef0ed6637,bff8153a-16da-42e6-aa0a-9c714f0ad702,survey_932,Togo,Aprilbury,Female,37.0,Secondary,Unemployed,completed,2026-05-14T10:40:36,field_tool,2,Neutral,4,Medium,4
+6674fc75-6356-4874-b0b4-d1528fdb871e,812dac69-d6c9-4ac6-b5d0-c0985597dc9e,survey_335,Togo,Port Jenniferberg,Male,20.0,Tertiary,Employed,completed,2026-05-14T10:43:19,field_tool,3,Very Good,3,High,2
+2116517e-fd49-4658-9302-488086489638,4ff0ad29-6542-419c-9470-6a8f0f1ee1a5,survey_925,Togo,Chelseaton,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:41:40,field_tool,3,Good,3,Medium,1
+28d497e4-1ccd-4538-80cd-79018aeaab17,1cccfe19-9ce6-4cdd-8cf5-1c72ca51b838,survey_868,Togo,South Claireport,Female,37.0,Secondary,Self-employed,completed,2026-05-14T10:41:59,field_tool,1,Good,5,Medium,3
+2ec1ca80-bdcb-4a64-be51-92cd16f7fe2d,e3aec3d1-9df8-4c39-b25a-3ad6605609fa,survey_943,Togo,Heatherchester,Male,43.0,Tertiary,Employed,completed,2026-05-14T10:40:27,field_tool,1,Very Good,1,Low,3
+3e98faf8-7c37-4fa8-a649-0d419dc845c6,ec580226-7df2-4e29-9070-3b904dfa0511,survey_480,Togo,Fernandezland,Male,24.0,Tertiary,Self-employed,completed,2026-05-14T10:45:23,field_tool,3,Neutral,3,Medium,3
+06285fbd-ea47-4d2c-bb90-e88ab3494c05,c5a3522c-6eca-4687-98fc-84df4c69ced9,survey_554,Togo,East Johntown,Female,24.0,Primary,Employed,completed,2026-05-14T10:42:42,field_tool,1,Good,3,Medium,1
+323d6deb-1908-430e-8117-ab322f115d04,900a0672-7b96-4b4d-9402-1bfa2ac5b0cf,survey_639,Togo,Cynthiaborough,Female,36.0,Primary,Unemployed,completed,2026-05-14T10:41:04,field_tool,3,Good,2,Medium,1
+6c6ffdb0-c655-4983-b08b-13e3bac9b93a,a3aad0b9-7753-48db-82e9-23fb23b03884,survey_142,Togo,Mcbrideport,Female,21.0,Secondary,Self-employed,completed,2026-05-14T10:44:09,field_tool,5,Neutral,4,Medium,3
+9d8ff153-96d4-4d9b-bf86-619f7872f941,adb6bbd8-125d-4ae6-a066-4c00a91cda68,survey_898,Togo,West Trevor,Female,25.0,Primary,Self-employed,completed,2026-05-14T10:40:03,field_tool,2,Very Good,1,Low,4
+89a7dd9d-e202-49c0-a43e-bd0aebbc3d05,de5411b8-62fb-4fa2-a804-5d81d33343eb,survey_572,Togo,Angelicaville,Male,46.0,Tertiary,Self-employed,completed,2026-05-14T10:43:38,field_tool,3,Neutral,2,Medium,4
+14dbd20c-888d-40a1-98f9-9686e51472f7,68d6937c-8dc3-4d2d-a959-f6ca4f605262,survey_472,Togo,New Rebecca,Female,43.0,Primary,Unemployed,completed,2026-05-14T10:44:14,field_tool,2,Neutral,2,High,3
+1b60dd95-9932-4a76-b47f-fc634a616256,99f75b74-3037-451e-9fb1-fe8556b3ecc5,survey_700,Togo,South Stevenshire,Female,35.0,Primary,Self-employed,completed,2026-05-14T10:40:54,field_tool,1,Good,4,Medium,1
+0731ac03-9e77-45ce-8d09-25c7fcf814b8,c0abe8d6-40d6-4611-9541-db43c98502c5,survey_712,Togo,New Robertside,Female,54.0,Tertiary,Unemployed,completed,2026-05-14T10:42:22,field_tool,1,Bad,4,Medium,2
+255ab190-6db6-4edb-ade2-dc6476cbae98,ea7ab94b-991e-4b0a-a736-8f04b7918513,survey_543,Togo,East Anna,Male,19.0,Tertiary,Self-employed,completed,2026-05-14T10:40:25,field_tool,4,Very Good,3,Low,3
+1cb65bb4-4796-4817-95e4-c152d00396c9,302ed3ea-2b8b-4959-ac53-e5ebd1dafe12,survey_679,Togo,Richardton,Female,50.0,Secondary,Unemployed,completed,2026-05-14T10:45:04,field_tool,1,Good,5,Low,1
+4ba58012-2df5-420d-adfc-05c4bbd3cf7b,f529db40-aa23-43b8-9b84-51d178a32003,survey_594,Togo,Carlafort,Male,56.0,Primary,Unemployed,completed,2026-05-14T10:44:49,field_tool,5,Good,2,Medium,2
+12f3a036-aea1-496d-9e1a-aa1bff6b8b95,358cda7b-cdb7-42b7-a48d-993507ca6efe,survey_791,Togo,Lake Richardland,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:43:34,field_tool,5,Very Good,3,Medium,2
+d8eb4246-5080-4fbe-b2a3-68fd16858a3f,eacc9ce8-d9f5-490d-b46d-51ee3afa6da3,survey_139,Togo,North Lisashire,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:44:09,field_tool,2,Good,3,Medium,4
+b9d22711-a997-49f3-baf6-c1c859093891,3996d6f8-3210-48a9-bd2a-ea86aac2409f,survey_397,Togo,West Jessica,Male,39.0,Secondary,Self-employed,completed,2026-05-14T10:44:12,field_tool,3,Bad,2,Medium,1
+3d843fb1-f8c9-40f9-85f7-e9dd8efca140,2521ce03-a61d-4248-b565-4b98b6a07d5a,survey_972,Togo,South Karen,Female,70.0,Tertiary,Unemployed,completed,2026-05-14T10:44:13,field_tool,1,Bad,4,Medium,1
+a9964ea0-c834-4c44-b2fe-e3ba366d69cb,119dfd67-34d8-46de-bfff-8099c999da6c,survey_713,Togo,New William,Male,57.0,Tertiary,Employed,completed,2026-05-14T10:45:27,field_tool,1,Bad,1,Medium,5
+fec42929-5443-4947-a85e-1af1c7351bce,d13d4921-956e-4d6f-ad35-5a03ba34c35c,survey_971,Togo,Lake Donald,Female,60.0,Primary,Unemployed,completed,2026-05-14T10:42:03,field_tool,1,Good,4,High,2
+8c1a3191-17c2-41a2-94c7-44641ecac89c,0837c6bb-f738-4957-a009-2af242fac9a6,survey_376,Togo,Port Kevin,Male,69.0,Tertiary,Self-employed,completed,2026-05-14T10:43:55,field_tool,4,Good,4,Medium,2
+14bb4beb-d324-4add-9959-cf97c6db8d54,6fb3f719-8816-42e3-8196-e6b549aee0a5,survey_444,Togo,Tranburgh,Male,21.0,Secondary,Unemployed,completed,2026-05-14T10:44:39,field_tool,4,Neutral,1,High,5
+6f4fcd71-41da-4839-9ed8-c3c8096f6183,b2c4bf13-63d3-460c-a4f6-784ac842c801,survey_896,Togo,Martinezborough,Female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:41:59,field_tool,3,Bad,1,Low,3
+b4d6e503-b7db-4f43-971a-6fd610f9b0c1,1a34038f-8deb-4c48-819f-0d3fdeba56e1,survey_885,Togo,Kimberlyhaven,Male,67.0,Secondary,Self-employed,completed,2026-05-14T10:42:17,field_tool,5,Neutral,1,Medium,5
+7182fd38-2356-48be-8cf9-7ea22942ae7b,cfb0e88c-e60a-4238-accf-02624631a908,survey_112,Togo,West Gina,Female,66.0,Secondary,Employed,completed,2026-05-14T10:41:01,field_tool,2,Bad,3,High,5
+bec9355a-4d14-47af-8b81-3ab6704c59e5,3700bc75-be01-4e65-8e5c-d22bed779c49,survey_495,Togo,South Nancy,Female,18.0,Primary,Employed,completed,2026-05-14T10:40:17,field_tool,3,Bad,5,Low,5
+559240d6-f95a-4155-b40b-60778b02ae97,6a37e0dc-31fe-4541-80fa-c660ce910e14,survey_294,Togo,West Stephanieburgh,Male,42.0,Primary,Unemployed,completed,2026-05-14T10:43:00,field_tool,4,Bad,5,High,5
+46b4da55-4fa8-4f46-b94a-8edec0c2f671,5df2776a-098b-4253-9425-450e0e7f6d1d,survey_112,Togo,Martinland,Male,44.0,Primary,Self-employed,completed,2026-05-14T10:43:14,field_tool,2,Bad,3,Low,4
+f7dbefbd-3c05-4923-8086-03a856195ce6,c50fc122-4218-4b96-8602-883580655069,survey_468,Togo,Barrettland,Female,69.0,Tertiary,Unemployed,completed,2026-05-14T10:41:54,field_tool,3,Neutral,4,Medium,5
+d70bc4b0-4d1c-4baf-adf7-8ee515f5a016,dd3253a2-ddde-4e36-abcd-895de15fe924,survey_563,Togo,Port Michael,Male,46.0,Primary,Employed,completed,2026-05-14T10:45:35,field_tool,2,Bad,3,Medium,4
+5b1c5538-4282-4d11-b6af-7e79e4c06871,6b6d3fec-522c-4b8c-adf7-df030dc9cc3a,survey_139,Togo,East Anthony,Female,63.0,Secondary,Employed,completed,2026-05-14T10:41:36,field_tool,5,Bad,4,Low,1
+cd48c0fc-c3ca-4ab2-846f-141d38cb8bab,e3717250-e4c9-4234-8b14-0fe77426d529,survey_398,Togo,Douglaston,Male,59.0,Tertiary,Employed,completed,2026-05-14T10:45:37,field_tool,4,Bad,3,Medium,2
+4f687299-0304-495d-b065-92de1304d58d,19a6402a-d1f3-40f6-a23f-debf9fd2a009,survey_488,Togo,Traviston,Female,48.0,Tertiary,Employed,completed,2026-05-14T10:44:30,field_tool,4,Good,5,Low,5
+5942ce60-ceaa-4ab9-8d6d-05fa70c847b6,c28bacd6-8231-4c02-9871-69fd1471009e,survey_949,Togo,Port Anna,Male,37.0,Secondary,Self-employed,completed,2026-05-14T10:45:33,field_tool,3,Good,3,Medium,5
+ac7bf6a9-76ce-4b27-be7b-ed0ba41f8bb8,2b48fa6f-99df-4028-bb6f-85fb08281144,survey_917,Togo,Lake Jennifer,Female,72.0,Secondary,Employed,completed,2026-05-14T10:40:27,field_tool,1,Very Good,5,Low,2
+2560d3d4-fbc8-4817-80f4-0e831797ebf3,4157c07f-4def-4d98-ab35-e48f70885088,survey_886,Togo,East John,Male,19.0,Primary,Employed,completed,2026-05-14T10:45:24,field_tool,1,Very Good,1,Medium,1
+5718b283-ad96-427d-9391-be01884c6c85,d400fcb7-5e6f-4ee1-be4c-1345bbc7f805,survey_691,Togo,South Ashley,Male,60.0,Secondary,Employed,completed,2026-05-14T10:43:03,field_tool,4,Bad,5,Low,1
+a794ce0c-1bb8-4efa-9111-a020f79bac41,e8f8fcd5-5862-47df-8d10-262b09132261,survey_778,Togo,East Brian,Female,39.0,Secondary,Unemployed,completed,2026-05-14T10:39:55,field_tool,5,Very Good,5,Medium,2
+46f9e51b-51f3-4dc3-8423-48c71496854a,a852f55e-d4a9-4c84-97f6-b08e5cf71977,survey_995,Togo,Youngton,Male,59.0,Secondary,Employed,completed,2026-05-14T10:41:18,field_tool,1,Good,4,High,2
+9d06ec61-f7be-485d-8c24-1ba35c6cefa4,d266faf9-c47f-4026-8749-83da30509793,survey_856,Togo,Donnashire,Female,,Primary,Unemployed,completed,2026-05-14T10:44:44,field_tool,4,Good,1,High,3
+021f9c26-6a13-4cd3-b9a8-488752a819f2,d87990a1-93f6-48a9-9f75-bfd2224bb00f,survey_451,Togo,North Aaronmouth,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:44:44,field_tool,1,Neutral,3,Medium,3
+cf6bb199-be92-4155-9f76-e025e6d71089,6f7c3758-f6be-4531-9810-031ce6bd1e88,survey_428,Togo,Nicholston,Male,36.0,Primary,Unemployed,completed,2026-05-14T10:43:27,field_tool,1,Bad,2,High,5
+7cbf22e3-66eb-4720-8f94-ac0dbdfa7c65,dfbca590-5059-4d76-a56e-80db24e368ec,survey_729,Togo,New Christopher,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:43:33,field_tool,2,Good,1,Low,2
+4eca77b9-a5a3-498a-bf92-7736b2aff26f,43b4c7ba-35e9-4c7f-b09f-3c58b277b504,survey_314,Togo,Port Donald,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:40:11,field_tool,5,Bad,4,Low,5
+8db6205c-b524-44ff-997b-3ae3c01b7a86,c4b8c99c-7e79-4205-bac6-9cdd3766263c,survey_206,Togo,East Dwaynestad,Female,36.0,Secondary,Self-employed,completed,2026-05-14T10:40:31,field_tool,5,Neutral,4,Medium,3
+108776b8-cc00-417e-943d-72c93c132f8e,b6a145ce-02b4-4f4b-9b25-ebec79d38689,survey_766,Togo,Estradamouth,Male,61.0,Secondary,Self-employed,completed,2026-05-14T10:43:41,field_tool,4,Neutral,5,High,2
+eef1bfaf-3aca-4021-baa0-afa0fbac167d,7fc9a342-5e1a-42b4-92bd-eedf59c142c0,survey_481,Togo,Smithhaven,Male,32.0,Tertiary,Self-employed,completed,2026-05-14T10:45:27,field_tool,4,Good,1,Low,4
+a009b857-f2f0-4cf1-8dae-f469b4abdb86,18375f2a-2b3d-4a56-a871-b3c13dbe7252,survey_875,Togo,Crystalborough,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:40:57,field_tool,2,Neutral,1,High,5
+a27e4a3b-3f2e-462b-be2d-2b5aa513e7b5,fbc40f35-3fef-4531-b6a2-6dd3e7d2f025,survey_976,Togo,Sanchezland,Female,74.0,Secondary,Employed,completed,2026-05-14T10:41:15,field_tool,3,Good,1,High,1
+4070524d-7a34-4f38-9156-9213a31f2672,e504bff5-67e5-4b7d-9c6a-14ecb9f04400,survey_833,Togo,Hernandezton,Male,19.0,Primary,Unemployed,completed,2026-05-14T10:43:53,field_tool,2,Bad,3,Medium,2
+6b6800de-b420-4b4c-8e03-a5e5725ead70,c7033c7e-6039-46fd-ab07-56abe2b9471d,survey_139,Togo,Port Selena,Female,23.0,Tertiary,Unemployed,completed,2026-05-14T10:40:16,field_tool,5,Neutral,2,Medium,2
+50f9ea62-e05c-4649-b639-0d00b05aa416,1fdf2181-8075-4ff4-ac4c-e563a36c6453,survey_152,Togo,Tiffanyport,Male,47.0,Primary,Employed,completed,2026-05-14T10:41:54,field_tool,5,Bad,4,High,3
+8328cc36-24f2-456b-8040-37c411123dff,c67b3108-a879-4c75-893c-c59faa8ed056,survey_845,Togo,Jillview,Male,18.0,Secondary,Employed,completed,2026-05-14T10:45:25,field_tool,4,Good,3,Low,5
+506485d0-126f-4bc2-a32b-e7aff55bb72f,e9b046e2-2490-4fe5-a8b8-c46059ba4bb1,survey_983,Togo,South Lynn,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:43:25,field_tool,4,Neutral,5,Medium,3
+4c60120d-9f71-4dc9-a415-73221e958687,ea29f0f7-fce0-4894-8e4a-f5a6e405845f,survey_324,Togo,Spencerville,Female,22.0,Primary,Self-employed,completed,2026-05-14T10:44:32,field_tool,3,Very Good,3,Low,2
+4c114533-0a79-48a2-a081-8f6fa4d7232d,2429d923-1e57-4d6a-bee5-64959749b989,survey_184,Togo,Lindafurt,Male,33.0,Secondary,Self-employed,completed,2026-05-14T10:42:57,field_tool,2,Good,5,High,5
+f291b493-b227-4c1b-aaac-004afd05bd4f,6cf3c1ca-fd6a-48a3-bb3e-494bcd66488f,survey_613,Togo,Jeremyview,Female,63.0,Tertiary,Employed,completed,2026-05-14T10:42:00,field_tool,1,Very Good,1,Medium,2
+867a7e89-a8a0-4d91-8243-27ce9a67bb66,26d7091c-9530-45d1-8b5d-8dc4dc11afac,survey_502,Togo,North Nancy,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:41:42,field_tool,2,Very Good,2,High,1
+71668d8e-17c2-4891-962f-ec6c0159d993,aaf658f5-b43c-4a97-aa28-18ece366bc5f,survey_405,Togo,Raymondhaven,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,2,Very Good,1,Medium,5
+ef696e69-4d35-47c8-ab17-2db382136951,0950119f-3734-4ca6-a27c-47c9b8ad68ae,survey_728,Togo,South Christopherberg,Male,61.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,5,Very Good,1,High,3
+ee363c77-9326-4fda-89f1-f225688f1bc2,a8ca9f97-e8d0-4289-86c0-9c5c4e53d5e3,survey_897,Togo,Hullville,Male,,Secondary,Unemployed,completed,2026-05-14T10:43:40,field_tool,3,Very Good,2,High,5
+1fd7fb19-2ec5-4a6b-bb7f-970dc9938e26,b835e9e4-058d-4c19-b72f-4b18dfcf35ca,survey_797,Togo,Luischester,Male,34.0,Tertiary,Employed,completed,2026-05-14T10:42:55,field_tool,2,Neutral,2,Medium,1
+9c819d2f-1b63-4246-b5e6-b248a0ecef84,2d72c1ed-bdbd-4fe3-a2b6-55e39f4585c3,survey_336,Togo,Crystalfurt,Female,19.0,Tertiary,Self-employed,completed,2026-05-14T10:40:13,field_tool,4,Very Good,2,High,1
+2cf3eaf5-c626-457b-8a5e-95d865544490,96a29813-0747-4b82-a709-2fda24911ebf,survey_780,Togo,North Joseph,Female,55.0,Tertiary,Self-employed,completed,2026-05-14T10:41:11,field_tool,4,Good,3,Medium,2
+afcd066a-4f2c-4c38-89a0-214f6c8fb872,3156031b-f6c1-4578-acd4-3a8a16509e52,survey_243,Togo,West Thomas,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:44:24,field_tool,3,Very Good,5,High,2
+244dc53e-6217-4dcc-bf14-13b04efb8e3f,4732b41c-7a73-4a48-a4d1-c9584867ac2b,survey_582,Togo,West Ashley,Female,24.0,Primary,Self-employed,completed,2026-05-14T10:44:06,field_tool,2,Neutral,4,Low,3
+73438eff-1b0b-4ac5-8952-a533a01f0571,b9a4e3f5-4176-4734-b8ff-9a6b8e02d33f,survey_847,Togo,Hillmouth,Female,30.0,Primary,Unemployed,completed,2026-05-14T10:42:02,field_tool,3,Bad,5,Low,1
+8b5c21c0-d30a-47fc-9a26-b376737269fa,6f713831-2c3a-4863-9367-d643d2419ed2,survey_213,Togo,Rodriguezbury,Male,29.0,Secondary,Employed,completed,2026-05-14T10:41:17,field_tool,5,Bad,2,High,5
+116756ac-194a-414c-a214-7ae91d967ade,93bc3394-8689-4e0f-8c66-5aa69fdc0be4,survey_670,Togo,Davidstad,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:43:50,field_tool,3,Neutral,2,Medium,5
+60055f2f-5e86-436e-a265-3804ccdd6a69,83a3440f-fd87-45bb-b9da-c75a13668188,survey_766,Togo,West Gary,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:40:31,field_tool,2,Neutral,1,High,1
+49cf1d8e-2655-4123-8f4a-a40a31abd988,c6f736e8-c8cb-434d-8b9f-37a9119abe5e,survey_424,Togo,Andreaside,Female,73.0,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,1,Neutral,4,High,4
+22bc343c-6fa0-4f55-a49c-bc2a98f1e22e,d71bb808-827c-4c4c-9cb4-9d932d7d68b4,survey_969,Togo,Thomasside,Male,37.0,Primary,Self-employed,completed,2026-05-14T10:39:55,field_tool,2,Good,2,High,4
+c29bb73e-9c8a-45c1-9ab9-ad524260224c,aad5843c-e3fa-483a-a809-044cd333f31a,survey_477,Togo,Lisachester,Female,47.0,Secondary,Self-employed,completed,2026-05-14T10:43:55,field_tool,2,Neutral,4,Low,3
+459c27e2-9d76-43a7-9141-7d74442fc050,f32b4425-8cb8-4a01-a85d-87c3d4ca2e50,survey_839,Togo,Gabrielashire,Male,35.0,Primary,Employed,completed,2026-05-14T10:41:38,field_tool,1,Very Good,4,Medium,3
+47be32f8-3547-4301-9397-f4184c40c928,ad823fa2-12a8-4e5b-83c4-8b318aa07436,survey_241,Togo,South Richard,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:40:42,field_tool,1,Neutral,3,Low,1
+0ce7e205-e066-4c49-acbc-9e5db994f11a,361ba3a3-815a-48b3-bb8c-99d8ff845432,survey_554,Togo,Sydneyport,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,1,Neutral,4,Low,2
+7d2c0d7b-4eb4-4683-bc31-a4f6e4c90c04,33983c56-d404-4405-a9db-36639d76dd93,survey_186,Togo,West Chad,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:42:52,field_tool,2,Good,1,Medium,5
+072cceab-b754-4c99-a909-2dcb5c53de4c,22733a7e-0769-43c7-b58a-b516a6a5c77d,survey_631,Togo,New Anthonystad,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:42:10,field_tool,1,Neutral,3,Medium,4
+44b11b4f-6bf3-4887-993f-ca79e262d1ed,1d09217d-3cdb-480d-80ee-7d8a2e72a23f,survey_606,Togo,South Bruceville,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:42:00,field_tool,3,Bad,2,High,1
+a4197cf7-ba56-489a-a765-ca8430f8e972,a6b752bc-218a-455f-9c5d-b765ba449323,survey_617,Togo,Huntershire,Female,65.0,Secondary,Employed,completed,2026-05-14T10:43:50,field_tool,5,Bad,5,Low,5
+249b3b40-2a76-4ed5-abbd-7bec30d7946d,08d49b6b-19b0-410c-8363-0183295060fb,survey_860,Togo,Port Peterburgh,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:39:47,field_tool,5,Very Good,1,High,2
+a8162c84-4322-416c-96dc-6e2c0b1d02c0,283a450e-cbf7-46d2-a024-f4103f594260,survey_258,Togo,Clarkchester,Male,,Secondary,Self-employed,completed,2026-05-14T10:41:48,field_tool,3,Very Good,1,High,4
+a319f274-0eb9-46b1-b7fa-2fbf4e3ee30c,3e692512-46c6-4bb0-862a-0ba44096d7f1,survey_708,Togo,Duranshire,Female,27.0,Tertiary,Self-employed,completed,2026-05-14T10:44:45,field_tool,5,Neutral,4,High,5
+3bd13e4d-bb37-41f4-bb59-6cfeac59cff1,bdc1f687-30b1-46e2-bad2-30c40aeae3b0,survey_244,Togo,Amberville,Female,55.0,Primary,Employed,completed,2026-05-14T10:45:23,field_tool,2,Good,5,High,5
+8d1d14cb-85c7-48e4-969d-7e9e70b8a690,93049271-fee7-4d9b-a865-480815c09a4c,survey_822,Togo,Allisonview,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:39:49,field_tool,4,Very Good,2,High,1
+aa2c5a23-999d-4c4f-b54f-cf05e1cdbd0d,dfb8832b-211b-4559-b714-d366d1e4575e,survey_145,Togo,Lake Matthewmouth,Female,36.0,Primary,Employed,completed,2026-05-14T10:44:19,field_tool,1,Good,4,Medium,3
+8c2fdd31-028e-4a06-937c-ff94f64b7169,d96f09c4-36c5-4dee-bab5-50245e2d830a,survey_587,Togo,Lake Loganland,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:44:36,field_tool,4,Neutral,2,High,3
+00a827c5-beb1-462f-8b0b-d99c1f42df6a,6880178e-499e-42d1-ae5d-c98640d70819,survey_184,Togo,East Michelleville,Male,32.0,Secondary,Employed,completed,2026-05-14T10:39:50,field_tool,4,Bad,3,High,3
+0f674ab7-1d8f-48c1-a59c-2277d6513882,394f94e7-8668-4369-91e9-899a0b86deed,survey_533,Togo,New Tanyaside,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:44:52,field_tool,4,Neutral,2,High,4
+8f445226-1096-46aa-8741-0a4cceb6d8d1,e2adbd15-0e22-4b3d-909d-b66faafe4966,survey_762,Togo,South James,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:43:41,field_tool,4,Bad,5,Medium,5
+6b32296c-003e-4fe5-8af7-201de96f6232,c124181b-3799-419f-be77-8c6e0720fc6c,survey_338,Togo,Caseyland,Male,59.0,Secondary,Unemployed,completed,2026-05-14T10:43:26,field_tool,1,Neutral,4,Low,3
+13431a52-ce83-4a0c-955a-cb031b789b38,ff8bebf5-3aee-4147-a440-c0cc2779ab28,survey_403,Togo,Barbarachester,Male,28.0,Secondary,Self-employed,completed,2026-05-14T10:43:07,field_tool,3,Bad,1,Medium,2
+f165d0c2-588c-4621-9f37-3e873bf52650,92027583-3504-4d98-92bb-d5f927e657a1,survey_344,Togo,Adamstown,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:45:11,field_tool,1,Neutral,5,Medium,2
+39e36cba-a19f-4405-8ede-187165f4c060,20ff2bf4-052e-4d85-881c-d30befbf1fd6,survey_329,Togo,New Melissaburgh,Male,26.0,Tertiary,Employed,completed,2026-05-14T10:42:56,field_tool,1,Very Good,1,Low,3

@@ -1,0 +1,44 @@
+dataset: corruption_perception_gold
+version: "1.0.0"
+description: "Corruption perception analysis from survey responses"
+
+fields:
+  country:
+    type: string
+    required: true
+
+  region:
+    type: string
+    required: false
+
+  total_responses:
+    type: long
+    required: true
+
+  corruption_level:
+    type: string
+    required: false
+
+  corruption_response_count:
+    type: long
+    required: true
+
+  corruption_percentage:
+    type: double
+    required: false
+
+  corruption_index:
+    type: double
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

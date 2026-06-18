@@ -1,0 +1,40 @@
+dataset: country_reference_silver
+version: "1.0.0"
+description: "Cleaned and standardized country reference data from REST Countries API"
+
+fields:
+  country_name:
+    type: string
+    required: true
+
+  official_name:
+    type: string
+    required: false
+
+  region:
+    type: string
+    required: false
+
+  subregion:
+    type: string
+    required: false
+
+  population:
+    type: long
+    required: false
+
+  area:
+    type: double
+    required: false
+
+  silver_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

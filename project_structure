@@ -1,0 +1,79 @@
+afrosurvey-intelligence-platform/
+│
+├── airflow/
+│   └── dags/
+│       ├── ingestion_dag.py
+│       ├── bronze_to_silver_dag.py
+│       └── silver_to_gold_dag.py
+│
+├── ingestion/
+│   ├── api_ingestion.py
+│   ├── csv_ingestion.py
+│   ├── db_ingestion.py
+│   └── ingestion_utils.py
+│
+├── spark_jobs/
+│   ├── bronze_to_silver.py
+│   ├── silver_to_gold.py
+│   ├── transformations/
+│   │   ├── cleaning.py
+│   │   ├── validation.py
+│   │   └── deduplication.py
+│   └── gold/
+│       ├── __init__.py
+│       ├── aggregations.py
+│       ├── quality_metrics.py
+│       └── platform_metrics.py
+│
+├── data_contracts/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+│       ├── country_survey_kpis_gold_schema.yaml
+│       ├── demographic_distribution_gold_schema.yaml
+│       ├── response_volume_trends_gold_schema.yaml
+│       ├── governance_trust_gold_schema.yaml
+│       ├── democracy_perception_gold_schema.yaml
+│       ├── corruption_perception_gold_schema.yaml
+│       ├── election_fairness_gold_schema.yaml
+│       ├── population_coverage_gold_schema.yaml
+│       ├── data_quality_summary_gold_schema.yaml
+│       ├── reliability_index_gold_schema.yaml
+│       ├── pipeline_runtime_gold_schema.yaml
+│       ├── pipeline_status_gold_schema.yaml
+│       └── data_freshness_gold_schema.yaml
+│
+├── dashboard/
+│   ├── app.py
+│   ├── utils/
+│   │   └── minio_reader.py
+│   ├── pages/
+│   │   ├── business_analytics.py
+│   │   └── platform_monitoring.py
+│   └── assets/
+│       └── styles.css
+│
+├── analytics/
+│   ├── kpi_definitions.md
+│   └── business_questions.md
+│
+├── metadata/
+│   ├── create_tables.sql
+│   └── metrics_queries.sql
+│
+├── ml/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── src/
+│   ├── models/
+│   └── outputs/
+│
+├── utils/
+├── config/
+├── tests/
+├── logs/
+├── README.md
+├── requirements.txt
+├── docker-compose.yml
+├── .env
+└── .gitignore

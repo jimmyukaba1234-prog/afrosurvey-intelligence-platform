@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+cec3fb69-a117-4861-b8f6-90b93d2043ba,7099b85a-b408-4c62-9c9f-15fd1fc174fe,survey_804,Malawi,West Chelsea,Female,18.0,Tertiary,Self-employed,completed,2026-05-14T10:45:04,field_tool,4,Neutral,2,Low,2
+78574d26-a3b8-498f-8f8a-bed7d588cecd,608bb235-95f3-47cd-9427-67ba50f2459d,survey_625,Malawi,West James,Male,63.0,Primary,Self-employed,completed,2026-05-14T10:42:52,field_tool,4,Bad,1,Medium,2
+5c321ffd-7438-4efb-abfe-1191868ffde7,b96875e4-f955-4484-899d-6cbed4934afb,survey_216,Malawi,New Johnchester,Female,30.0,Primary,Employed,completed,2026-05-14T10:40:53,field_tool,2,Very Good,1,High,3
+3bd9b997-e87b-4133-b3e7-61c36517387b,b1b14337-c783-4efe-b228-bf49a1926889,survey_417,Malawi,Maynardburgh,Male,65.0,Secondary,Unemployed,completed,2026-05-14T10:41:57,field_tool,4,Very Good,1,High,5
+ab67bc37-eab9-428e-8424-2ea1e84ca561,6122c499-9b5a-421c-8165-02d602c62787,survey_505,Malawi,New Elizabeth,Female,21.0,Tertiary,Unemployed,completed,2026-05-14T10:40:10,field_tool,4,Neutral,3,High,2
+192d2bc1-a5f9-464b-bdc4-45125adb2978,3f20a850-b69d-4f81-a3f1-c6a11557c23a,survey_136,Malawi,Port Craig,Female,61.0,Secondary,Employed,completed,2026-05-14T10:43:04,field_tool,3,Good,3,Medium,1
+93941306-82a4-4e7a-a0c2-940be5f50ce9,10225784-0fd6-4b4c-b2e5-f33b6c812f87,survey_510,Malawi,New Stevenmouth,Male,22.0,Secondary,Employed,completed,2026-05-14T10:40:37,field_tool,2,Neutral,1,Medium,4
+8836ba47-5e83-4906-90b1-1a8aa7868c65,5567965c-c939-4e1d-848c-257501dba2de,survey_541,Malawi,Lake Pamela,Male,65.0,Tertiary,Unemployed,completed,2026-05-14T10:43:44,field_tool,5,Neutral,2,High,3
+f09796e0-12fe-423f-ae00-c449a50da2af,8405f7de-e8f9-47ab-9419-3aadcf5a59ef,survey_513,Malawi,East Geraldbury,Female,63.0,Primary,Self-employed,completed,2026-05-14T10:40:34,field_tool,5,Neutral,3,Low,4
+b8b3fb41-e81c-4d03-af34-945860570735,a5d955ce-9526-4e4f-8e25-2bfffe0c9747,survey_665,Malawi,Johnsonton,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:41:18,field_tool,3,Bad,2,Medium,2
+c57c67c6-32e2-4446-9e14-63f8ad59b60f,1be67de9-6281-44b8-8ffc-5a1ceb391e8b,survey_678,Malawi,South Johnland,Female,27.0,Secondary,Unemployed,completed,2026-05-14T10:43:48,field_tool,2,Bad,2,Low,1
+d900e553-1eab-41aa-a1a2-314d0c649846,e94a3e49-41bb-46a7-b4ec-e5dce62d3bb3,survey_986,Malawi,West Rickeystad,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,2,Neutral,5,High,1
+acc798bb-1d33-4e9b-ae88-318138e51268,ce7b4f7d-15fc-44e9-93e1-a9fc4cceed50,survey_788,Malawi,East Michele,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:42:35,field_tool,2,Good,3,High,2
+65c1dc30-b716-4c6c-a7f3-4a91fac271d1,6a3f66b8-1332-4338-9646-0caf5d3ab5e8,survey_188,Malawi,Julieland,Male,66.0,Primary,Employed,completed,2026-05-14T10:42:39,field_tool,4,Very Good,2,Medium,2
+1ca97a28-3ae4-480c-9140-b846ccb71cb1,3181b56b-67fa-4cda-a921-3be0a7e7c28d,survey_692,Malawi,Lake Jamesborough,Male,45.0,Secondary,Self-employed,completed,2026-05-14T10:41:40,field_tool,4,Bad,5,Low,5
+0706072b-5dc3-4891-833a-0227bf943a91,4ec76e38-b709-4ce3-a97d-5a4383353c3d,survey_130,Malawi,Cookton,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:43:29,field_tool,4,Good,3,Medium,3
+9e8f427f-9ef9-441f-b786-67f6a11a1124,35736a78-430c-4877-8b68-3801efef326e,survey_455,Malawi,Harrymouth,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:45:14,field_tool,4,Neutral,1,Low,1
+38fcbc82-8319-47a2-88d9-61bf0fad0c9b,91108236-fb8c-412a-9076-0bac005e5cf3,survey_686,Malawi,South Michaelfurt,Male,51.0,Secondary,Unemployed,completed,2026-05-14T10:41:53,field_tool,2,Very Good,4,Medium,5
+9776ee43-65c5-4739-bbc5-311027c40447,6490bd17-ce9b-426b-8509-c46776061c0a,survey_575,Malawi,Austinfort,Female,54.0,Secondary,Employed,completed,2026-05-14T10:43:49,field_tool,3,Bad,2,Low,4
+a009da01-aea3-4451-b238-dc140247628e,d27f8d4d-195d-4954-a004-38dc81dcbfbe,survey_359,Malawi,West Caleb,Female,50.0,Secondary,Employed,completed,2026-05-14T10:42:36,field_tool,3,Good,5,High,2
+cceb9e57-954c-4e7c-9994-528603814114,db363f79-f2be-499a-8627-44ce2652fe4e,survey_459,Malawi,Amychester,Male,53.0,Secondary,Unemployed,completed,2026-05-14T10:42:01,field_tool,4,Very Good,5,High,1
+6ba666a2-5d2c-44fb-b534-c0806d5c61b1,af61344b-1098-40f7-957f-b15dc55852ee,survey_275,Malawi,Jasontown,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:44:33,field_tool,5,Good,1,Medium,3
+cebe39ca-50dd-40ec-b8e0-68eb43414a14,32430099-43f6-45f7-ab2c-d5f6046e74ff,survey_778,Malawi,Jessicaland,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:44:07,field_tool,4,Bad,4,High,2
+d2483352-f493-4f30-b6f5-0e510d9bb919,e3214dc6-f290-4307-8a0e-09ed46fc4d13,survey_438,Malawi,Hurleyberg,Male,19.0,Primary,Unemployed,completed,2026-05-14T10:44:48,field_tool,3,Bad,2,Medium,1
+85fd8e4c-8d4d-4497-9b55-4ea83593c265,bb57b1a4-a311-4d38-81eb-438ab60c1a0d,survey_626,Malawi,Coxborough,Male,68.0,Tertiary,Self-employed,completed,2026-05-14T10:40:55,field_tool,2,Bad,1,Medium,5
+2ea2d331-4ed2-42f8-99ec-e8637e27208c,0c961ab4-15f6-4ccd-b4ac-d3a9eae56f61,survey_561,Malawi,West Christineshire,Male,33.0,Secondary,Unemployed,completed,2026-05-14T10:40:34,field_tool,1,Bad,3,Medium,5
+41206bf3-d527-454d-87bb-f5df80326b24,c4138a4e-6de4-4548-ac47-f1c6dd998d3a,survey_857,Malawi,Tiffanybury,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:44:05,field_tool,3,Bad,3,Low,1
+c37711c9-0972-4207-a917-ac99a59214f5,b6196e67-78d8-48d7-819f-cabc43e97737,survey_199,Malawi,Lake Chelseaville,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:44:35,field_tool,2,Good,2,Medium,5
+774b7b82-b40a-4193-a16e-014c8f95b4e4,0466ab60-a5a9-4abf-a881-dbeecd03cc95,survey_987,Malawi,Brandonville,Female,74.0,Primary,Employed,completed,2026-05-14T10:42:57,field_tool,3,Very Good,3,High,1
+7c2c428c-3582-4565-94ac-5cad8ec53198,91095db7-3d37-48db-b615-defadbdbe234,survey_103,Malawi,Lake John,Female,56.0,Secondary,Unemployed,completed,2026-05-14T10:43:01,field_tool,5,Good,1,High,1
+811e4330-ef3a-42db-81df-cb898209a673,ff2a8337-9520-464b-915d-5f3820880b1f,survey_855,Malawi,East Monica,Male,56.0,Primary,Employed,completed,2026-05-14T10:43:20,field_tool,3,Bad,5,Low,3
+809d9ac5-aed1-4ac6-8748-7182a75f52f8,c90cf426-bf2d-4027-bd56-42dc5c7e9a51,survey_562,Malawi,North Toniburgh,Male,26.0,Primary,Unemployed,completed,2026-05-14T10:42:11,field_tool,5,Very Good,4,Low,2
+35ef185e-ec5a-42dd-a0d1-7988ecfd4979,1baf2a82-be46-47f3-92ea-8e36fa860159,survey_929,Malawi,New Kayla,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:41:29,field_tool,4,Neutral,3,Low,4
+1d18dacb-9ef4-41fb-aae9-7fe7c4c39fad,6d77c389-06ce-4465-a240-c79b00aa6144,survey_433,Malawi,Port John,Female,34.0,Tertiary,Unemployed,completed,2026-05-14T10:44:13,field_tool,1,Neutral,3,High,4
+794a490f-b1fb-46cd-95a8-7a655dd3ecd2,e952fcca-363b-4b4a-8328-70c21cd840bc,survey_112,Malawi,West Michael,Male,28.0,Secondary,Self-employed,completed,2026-05-14T10:43:13,field_tool,3,Good,2,Medium,1
+33a66905-7007-4ea2-8a9f-0bdb5e702b74,7e59df6e-16db-40b3-920d-9b297e6e5879,survey_922,Malawi,Rossshire,Male,32.0,Secondary,Employed,completed,2026-05-14T10:43:24,field_tool,5,Bad,2,High,3
+c0455909-777f-4dcc-b6fd-ee54ad753130,cf4ae7ff-9ec3-4588-bdcf-eaf50203c4d1,survey_902,Malawi,North Thomasberg,Male,20.0,Secondary,Unemployed,completed,2026-05-14T10:41:42,field_tool,2,Bad,3,Low,4
+d5282ab0-ea94-42c0-ab33-0b151a59505c,b402368f-fba2-40dc-b228-8e893a78477a,survey_344,Malawi,Annettebury,Male,74.0,Primary,Self-employed,completed,2026-05-14T10:41:28,field_tool,2,Bad,1,High,4
+1897ce0a-a023-4e1e-87e7-45b46920fc89,e7df694b-1512-4d49-b4cd-593c5c8327fc,survey_776,Malawi,Johnchester,Male,33.0,Primary,Employed,completed,2026-05-14T10:41:06,field_tool,5,Very Good,2,Medium,1
+e1c05d19-9af6-4731-b611-54bde7e52c6a,dbb66c52-8b1c-41d8-811f-b8aab63bb6de,survey_740,Malawi,Ballport,Male,45.0,Secondary,Employed,completed,2026-05-14T10:42:42,field_tool,4,Good,1,Medium,2
+e882d0c4-09fd-4dce-8253-e6096813f979,05a0476c-a238-4f16-9437-e348b2b3d214,survey_415,Malawi,Jennifertown,Male,52.0,Secondary,Self-employed,completed,2026-05-14T10:44:35,field_tool,4,Neutral,1,Medium,1
+fad3a9e7-7162-4796-b18e-8fe5254ce288,cb1a8877-4436-4379-9a80-f44e40f18e4e,survey_727,Malawi,Ortegaland,FEMALE,52.0,Secondary,Self-employed,completed,2026-05-14T10:43:20,field_tool,5,Bad,1,Low,4
+da4761d8-b9a6-4745-bfc8-f1b04b64dd82,aa8b8a95-8827-4307-aa71-59b48cf4dc8d,survey_884,Malawi,North Amanda,Female,32.0,Secondary,Self-employed,completed,2026-05-14T10:40:46,field_tool,3,Very Good,4,Medium,1
+fcd37fce-9ff6-4c8e-a514-cc85c72cb956,8c226a26-62db-4108-8912-2ffe4a4c3469,survey_196,Malawi,Port Samantha,Male,21.0,Primary,Employed,completed,2026-05-14T10:43:05,field_tool,1,Bad,4,Low,1
+2fca8af0-7b10-4188-b0bc-9d4f1a15bdc7,990f7994-2152-40ec-a019-dd8431d0b78c,survey_565,Malawi,Smithhaven,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:43:21,field_tool,2,Neutral,3,Medium,2
+eaf24c38-d143-4281-8e93-eb1e3e060cff,a4d3d2e3-48eb-4222-a47f-7b5bda703391,survey_678,Malawi,Humphreyberg,Female,23.0,Tertiary,Unemployed,completed,2026-05-14T10:41:04,field_tool,5,Neutral,3,High,2
+c4c1080b-0610-4c04-b5f3-f538d7c61f06,f53fa0dd-2399-4574-a7fd-a53137bb5e87,survey_637,Malawi,West Eric,Female,,Tertiary,Unemployed,completed,2026-05-14T10:43:22,field_tool,4,Neutral,3,High,4
+14cd8c15-7c50-4b16-955e-813d62d17cfe,dee70f9a-fc25-49d6-b3f7-8379333006d1,survey_842,Malawi,South William,Female,45.0,Tertiary,Unemployed,completed,2026-05-14T10:40:21,field_tool,1,Very Good,1,High,4
+b687a535-9bb8-41ed-8105-7fbe89ac311f,1aa19036-405a-489a-9724-d1a3289774e3,survey_179,Malawi,Matthewberg,Female,40.0,Primary,Employed,completed,2026-05-14T10:44:07,field_tool,4,Neutral,3,Low,2
+c36a7c69-003c-4762-98da-2091a1d3c06f,d0380a25-f0ff-472b-bc32-23f7c7218179,survey_525,Malawi,Thomastown,Female,63.0,Secondary,Employed,completed,2026-05-14T10:42:03,field_tool,1,Bad,2,Low,4
+ba7865e1-7ba2-484c-a0a8-e6b83ae49f3c,b2540c88-4874-491e-b731-565242170d33,survey_868,Malawi,South Rogerborough,Female,44.0,Secondary,Self-employed,completed,2026-05-14T10:42:00,field_tool,5,Good,5,Low,3
+5d370b5c-cc5d-452e-8b66-e911ec1aadd2,581c7bf9-00e5-4641-93f5-30a044d38c49,survey_669,Malawi,Williston,Female,70.0,Tertiary,Self-employed,completed,2026-05-14T10:42:58,field_tool,3,Neutral,2,High,5
+38528730-f293-4bc1-bb35-903428a52970,c173029e-2eb8-4735-925d-84a4b0ff775e,survey_468,Malawi,Jayshire,Female,69.0,Tertiary,Employed,completed,2026-05-14T10:41:47,field_tool,4,Bad,5,High,4
+d0935c88-e8c5-4ee1-a4c4-f99775e5ebed,4c851e7a-44a1-47cf-a0d1-a8a8a1ce9fd4,survey_259,Malawi,Elizabethbury,Female,63.0,Secondary,Unemployed,completed,2026-05-14T10:42:03,field_tool,2,Good,4,Medium,5
+6f695d11-4d87-4ee7-8438-1b3c0e8f46f5,93a65b82-1e63-4712-9fcc-2ef7ba141188,survey_745,Malawi,Luistown,Male,22.0,Tertiary,Unemployed,completed,2026-05-14T10:44:22,field_tool,4,Neutral,3,Low,5
+41ce8dfb-8673-40df-9660-e3b55821e13b,7316cbd4-9a8a-499d-b286-9d11a6ef8022,survey_841,Malawi,Floresview,Female,46.0,Secondary,Employed,completed,2026-05-14T10:43:53,field_tool,2,Very Good,5,Medium,2
+db7f4c83-f9ef-4907-a862-ee5231cf7eed,c8c0386a-8b32-41f6-b78d-3bbf22e3f603,survey_809,Malawi,Lake Marcomouth,Male,62.0,Primary,Employed,completed,2026-05-14T10:39:55,field_tool,2,Neutral,4,Medium,4
+15c58d1b-5ca9-4bc6-b8f7-5c89a3b38a8b,2d8ca840-6c6b-4344-ad8d-3855e95fa478,survey_169,Malawi,Latoyatown,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:40:34,field_tool,3,Good,3,Low,2
+d459f77c-74ab-4a17-8322-2cc1ad31c4f8,2c5ca8b8-f059-4ff0-adc5-d919b4b70188,survey_599,Malawi,North Kevin,Male,69.0,Tertiary,Self-employed,completed,2026-05-14T10:45:18,field_tool,5,Good,1,High,3
+77503c15-84d9-4b2d-84ca-f8902630eb11,fd273acb-718c-4475-b2d7-3571d52ebb12,survey_450,Malawi,West Cheyenneport,Female,28.0,Secondary,Self-employed,completed,2026-05-14T10:44:21,field_tool,3,Very Good,5,High,2
+1cf868bc-8250-48d6-8fc2-8ce3df90fe61,4820e176-2a3e-4636-b9d6-3c53ed100ca2,survey_831,Malawi,Breannaberg,Male,32.0,Tertiary,Self-employed,completed,2026-05-14T10:43:20,field_tool,3,Neutral,3,Medium,1
+47512363-062c-4c57-bcee-346a01ba19e9,ecf74e8a-2c01-46d5-9936-eced1dfd9e80,survey_583,Malawi,North Marcus,Male,64.0,Primary,Employed,completed,2026-05-14T10:43:18,field_tool,5,Bad,5,Medium,5
+08b37a15-0f31-4c92-bc9b-243b7bd3d03b,0d241fe5-ba67-4a3e-a22d-a8548caefe72,survey_436,Malawi,New Gregoryfort,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:45:09,field_tool,3,Good,3,Low,4
+ad156e65-56fc-4281-9748-f8052b0922ce,980e5bf7-011a-41b2-9a8b-c4b4809205b7,survey_131,Malawi,East Whitney,Female,55.0,Tertiary,Employed,completed,2026-05-14T10:44:38,field_tool,1,Bad,3,High,5
+ba218d93-8c02-4582-998d-020e75158f6d,2d4bad25-5b3e-4fe5-a11e-ba57d3c25e47,survey_412,Malawi,North Deborahshire,Female,42.0,Tertiary,Unemployed,completed,2026-05-14T10:42:01,field_tool,1,Neutral,4,Medium,3
+1509429e-f0c3-47ef-b980-256db7aa2dd9,a29d56f5-320e-431b-a4ea-020bc46e2f73,survey_213,Malawi,Erikafort,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:44:30,field_tool,1,Very Good,3,Medium,1
+6caa7637-eba8-4776-bdb1-313ec84c2621,bad14a70-0cb5-42db-b62a-135b14fdeea1,survey_911,Malawi,South Michelle,Female,55.0,Tertiary,Unemployed,completed,2026-05-14T10:44:38,field_tool,3,Very Good,2,High,4
+cdb066b4-a2c7-4882-8961-a8db4555266d,f59613bf-d88b-4d10-9665-15072175c57a,survey_173,Malawi,East Leslietown,Female,22.0,Secondary,Unemployed,completed,2026-05-14T10:39:48,field_tool,1,Neutral,4,Low,3
+8152bba2-1d59-475c-910e-6db47d947b50,2af693e0-e9e5-4745-ac2d-4917cb96d076,survey_497,Malawi,South Carla,Male,51.0,Primary,Employed,completed,2026-05-14T10:40:50,field_tool,1,Very Good,2,Medium,4
+7a05e44c-c07d-4656-9751-ba5daf230dd6,76af5875-d668-4668-9c72-2c55d80c6d2a,survey_854,Malawi,West Kristina,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:45:34,field_tool,1,Neutral,3,High,1
+eb9deeeb-e8e3-45fd-92f2-dd00d1a84cec,402a5b40-aade-4681-bd3b-e5a0cf2f93d5,survey_614,Malawi,East Ryan,Male,21.0,Tertiary,Self-employed,completed,2026-05-14T10:39:58,field_tool,3,Good,3,Low,1
+d81120d6-88e8-47ea-9011-75a32c3b556b,2bb5674f-d73a-43ea-ad9f-19d13b6675af,survey_806,Malawi,Brandontown,Female,48.0,Primary,Employed,completed,2026-05-14T10:45:13,field_tool,2,Neutral,3,High,3
+fa9c015b-8381-4757-a206-15977e377832,08384e87-a44f-4e11-b93e-4cdc77c0b737,survey_479,Malawi,East Timothyside,Female,22.0,Tertiary,Self-employed,completed,2026-05-14T10:40:34,field_tool,4,Bad,2,Low,4
+959c6c2b-7112-47d0-b707-38a6e501594d,58df6bc5-c976-4171-9b15-c8a37d9fc1a3,survey_253,Malawi,South Amberberg,Female,37.0,Primary,Self-employed,completed,2026-05-14T10:42:11,field_tool,5,Very Good,2,High,4
+ed6155db-6143-4771-b311-33031ea9c17e,82957893-8199-4c21-8374-f34d61981181,survey_198,Malawi,Lydiaburgh,Female,56.0,Secondary,Employed,completed,2026-05-14T10:45:26,field_tool,5,Very Good,4,Low,1
+13036fb6-0624-4a84-bf6a-ff0585559a4f,1df810f6-5399-405f-8a96-372e0ccbcd56,survey_561,Malawi,Christopherburgh,Male,71.0,Tertiary,Employed,completed,2026-05-14T10:40:52,field_tool,1,Bad,1,High,2
+2be509bc-9bb2-4b63-b2fd-c522252dca7e,6aa9652c-829e-448f-9c30-7348a567e50f,survey_282,Malawi,Riverstown,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:44:34,field_tool,3,Bad,1,Low,5
+eb25d93a-62b6-4b95-b102-47932eeb4c88,74eb61ba-b7f7-43d2-9f89-72c495586a28,survey_722,Malawi,Beckyville,Male,59.0,Primary,Employed,completed,2026-05-14T10:40:33,field_tool,3,Good,1,Medium,4
+124d8b6d-9d72-4d68-a91c-3193f0f20b63,5f8f4ce8-1c27-47df-b129-7e0fc77d4134,survey_482,Malawi,East Richardhaven,Male,60.0,Primary,Self-employed,completed,2026-05-14T10:43:51,field_tool,4,Good,2,Low,5
+be6733f8-193b-431e-8785-92d04c5dc93d,b26795d8-2036-4525-b8a2-bbc23f83c0da,survey_756,Malawi,Christinatown,Female,46.0,Primary,Self-employed,completed,2026-05-14T10:40:35,field_tool,3,Bad,3,Low,4
+79cfb802-9bdf-4f68-894d-423a6df1d1a4,936829b7-9a29-4667-90eb-264c255faa6e,survey_150,Malawi,Hunterhaven,Male,41.0,Primary,Unemployed,completed,2026-05-14T10:45:34,field_tool,4,Bad,4,High,2
+acd4ada4-7d18-4a94-be18-4c46a261134b,3ab0a7c9-c294-4b88-84e1-fb923429b04f,survey_689,Malawi,New Sarah,Female,22.0,Tertiary,Employed,completed,2026-05-14T10:45:33,field_tool,5,Good,2,Low,5
+78841445-206c-441a-899b-0716e32c9068,a90d9b97-ebcc-4b5e-8a7d-9452710bd8b8,survey_170,Malawi,Fullerland,Female,49.0,Tertiary,Employed,completed,2026-05-14T10:42:32,field_tool,3,Bad,2,High,1
+3b6385aa-dda3-411a-af71-0baf016f63d7,fea8c9b8-f086-4ee8-ba54-20204feefead,survey_746,Malawi,Port Lynn,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:44:31,field_tool,3,Neutral,4,Medium,4
+e32b72da-5d04-4455-96ed-e195abeaec11,56fae4bc-e5b7-4f5d-833c-ae64b09c4a0b,survey_911,Malawi,Lindaland,Female,33.0,Primary,Unemployed,completed,2026-05-14T10:44:38,field_tool,1,Bad,3,Low,2
+43843950-b859-4090-82c1-da09217125cd,de9a1030-abe7-46fa-b077-12924d5129e6,survey_507,Malawi,Williamsmouth,Female,22.0,Primary,Self-employed,completed,2026-05-14T10:40:26,field_tool,4,Good,4,Low,5
+14b3b8b4-fd76-4c44-84b3-87c6b1d0ff9a,bde0d839-155d-4af2-8ff0-502d99a63155,survey_864,Malawi,East Michaelbury,Male,48.0,Tertiary,Unemployed,completed,2026-05-14T10:43:06,field_tool,1,Bad,3,Medium,5
+95f86cc2-63f8-4aa4-a6e8-07436e34a8d4,596dc673-e719-42da-b907-a3add0949816,survey_955,Malawi,North Colleen,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:43:41,field_tool,3,Neutral,4,Medium,2
+967bbe12-99e5-4fac-baa0-21fd5f7425c3,02d13793-4405-43b4-b3b5-f5132df65903,survey_456,Malawi,Karenland,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:42:51,field_tool,1,Very Good,1,High,1
+dc645287-898a-4887-a16e-5497b01726d6,b8bb353d-f658-4e2c-8877-f6e9520e8209,survey_811,Malawi,Fisherville,Female,67.0,Primary,Self-employed,completed,2026-05-14T10:45:18,field_tool,5,Good,3,High,3
+52ba9063-1086-4d32-8885-6128d76cddd9,38a3a9c2-aaad-48e4-85a7-9cdba628de2e,survey_218,Malawi,Brownville,Female,19.0,Tertiary,Self-employed,completed,2026-05-14T10:40:13,field_tool,2,Very Good,1,Low,5
+ddbf0bda-e9ca-4275-aa77-97b2445bcf2f,dbb6cd47-2551-4483-8dcc-5cb957c4fc60,survey_478,Malawi,North Meganhaven,Male,47.0,Primary,Self-employed,completed,2026-05-14T10:43:57,field_tool,4,Good,2,High,4
+305a2d0f-6a22-400c-9441-b72a8455aba5,9ca03938-5687-4d3f-8e4e-8f8e9ee45c9b,survey_807,Malawi,Carlaville,Female,37.0,Secondary,Self-employed,completed,2026-05-14T10:45:00,field_tool,2,Very Good,4,Low,3
+7e8f2913-e700-4873-8fdf-4dd20654ced9,62ebc50a-b5c0-444b-b9a7-394925dfd41f,survey_265,Malawi,Emilymouth,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:40:41,field_tool,4,Very Good,4,Low,3
+8d540f38-b506-447b-ae73-c039a54147ca,64d7a96a-3b97-4cd8-b48d-d05d79d212f3,survey_177,Malawi,Hendersonside,Female,54.0,Tertiary,Self-employed,completed,2026-05-14T10:40:42,field_tool,5,Neutral,2,High,5
+41422009-b464-4189-ad84-b50113ec9c59,37cf03bc-1693-4b77-b918-6686475222cc,survey_346,Malawi,Valenzuelatown,Female,59.0,Secondary,Employed,completed,2026-05-14T10:39:41,field_tool,3,Bad,4,Low,1
+8bba1356-54d9-44a4-b214-a5bfe833fb3f,8bfc3d12-911b-4a37-97c4-cedeb32f965f,survey_164,Malawi,North Margarettown,Female,37.0,Tertiary,Unemployed,completed,2026-05-14T10:43:10,field_tool,1,Very Good,5,Medium,2
+62803582-6f9f-4dc8-883d-b90ebcf578d1,2e6103f6-2a24-4b29-8e23-939a3f7e0269,survey_409,Malawi,Marybury,Male,71.0,Primary,Self-employed,completed,2026-05-14T10:41:02,field_tool,1,Bad,3,Low,4
+e8b16918-7705-47aa-93fd-5e71e03e200d,43f85d47-c5e7-4efd-98ea-c344626a911c,survey_756,Malawi,Christopherhaven,Male,53.0,Primary,Self-employed,completed,2026-05-14T10:44:52,field_tool,1,Bad,3,Low,3
+c9c559d6-b208-4555-ba71-05e65d4c894f,1ed9dc47-8047-4f99-a805-87efa0189c04,survey_390,Malawi,Masonmouth,Male,43.0,Secondary,Unemployed,completed,2026-05-14T10:42:27,field_tool,2,Very Good,2,Low,4
+c380e8d6-f57c-43fb-9e60-285086b8149e,991e0704-733b-47cb-bda8-547410a7b21c,survey_866,Malawi,West Justinbury,Male,51.0,Primary,Self-employed,completed,2026-05-14T10:43:06,field_tool,4,Good,2,Low,3
+f87de8f2-c866-47b6-8347-32e9a5752c11,ca5a003f-e72a-4dfa-8edc-619c9440875d,survey_725,Malawi,Lake Rachelview,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:42:48,field_tool,4,Bad,2,Medium,2
+d0b95e3f-7323-4c98-9adc-5c37f7778a11,88a9a10b-41ae-4092-b6b5-6a699a3a24f7,survey_294,Malawi,North Theresa,Female,38.0,Tertiary,Unemployed,completed,2026-05-14T10:42:06,field_tool,2,Good,5,Medium,5
+eb60e8b0-8848-4bc9-9869-391fef07ff18,864670c5-0ca5-4d5b-85d5-e4b29df4e97c,survey_595,Malawi,New Natalieton,Female,29.0,Secondary,Self-employed,completed,2026-05-14T10:39:43,field_tool,1,Neutral,3,Medium,1
+1f558f53-6929-4447-8f8c-42db386bfafe,6696165a-536c-469f-9628-a2226a992297,survey_178,Malawi,New Amandaborough,Female,33.0,Secondary,Unemployed,completed,2026-05-14T10:41:17,field_tool,4,Good,3,Medium,5
+7a6675c0-aec6-4d50-b6c3-eed0836c298a,e528da82-fde6-4036-b8b2-c8ddef36a0ca,survey_507,Malawi,North Raymond,Female,57.0,Tertiary,Unemployed,completed,2026-05-14T10:44:42,field_tool,4,Very Good,4,Low,5
+ee5f831f-1f5d-4800-b68f-9d7bff3c2bac,63ace615-2b1f-4422-8221-5751f59ed761,survey_461,Malawi,Robertsbury,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:40:05,field_tool,5,Bad,5,Low,4
+a403765a-8177-4e69-9a8c-1380ecab692e,5636b33d-00be-4b5e-98d4-0147726babac,survey_914,Malawi,Lake Staceyview,Male,37.0,Tertiary,Employed,completed,2026-05-14T10:39:51,field_tool,2,Neutral,4,High,3
+456e1675-cc27-488c-863d-91b80af40358,602167ee-0f68-4c33-9d86-42c3841184fe,survey_862,Malawi,Rodriguezshire,Female,37.0,Secondary,Employed,completed,2026-05-14T10:40:34,field_tool,3,Bad,1,High,5
+20727c85-87b5-469e-95ee-c663af60f154,5e9939fe-6037-4d78-9fb4-716c710d8270,survey_365,Malawi,North Lindamouth,Female,59.0,Secondary,Self-employed,completed,2026-05-14T10:44:50,field_tool,5,Bad,4,Low,2
+d2ae9730-f6d9-47b3-9665-a89668f4d7a3,0685b7e6-d6c0-4ae2-9464-268529870e58,survey_867,Malawi,Murphyfort,Female,,Tertiary,Unemployed,completed,2026-05-14T10:42:09,field_tool,2,Good,5,Medium,3
+9cb91370-5d06-4fdc-ae79-d88c25597127,b0c9be1f-5a97-4117-8583-45189447b6c0,survey_624,Malawi,Jenniferborough,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:44:45,field_tool,4,Good,3,Low,1
+88be8cac-768e-40a1-a262-82bf7110b03a,5d44147b-8675-4367-95c8-bbdc302e9109,survey_947,Malawi,Cruzmouth,Female,22.0,Tertiary,Unemployed,completed,2026-05-14T10:41:52,field_tool,1,Very Good,2,Medium,4
+3408824d-a2b0-42c2-b91c-0d00ab9b194f,3eea7c13-f6ee-4d07-9090-2ca6e2672ba6,survey_991,Malawi,Samanthahaven,Female,51.0,Tertiary,Employed,completed,2026-05-14T10:40:35,field_tool,5,Neutral,4,High,4
+abbe634b-5d20-4939-b135-600ebbdb9a9f,fd95dcc1-c4da-4dd2-a5d4-2e57cb053f2e,survey_329,Malawi,Holmeshaven,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:40:44,field_tool,2,Bad,4,High,1
+2f6429a8-a2e3-42bd-a9b7-0d767402f08a,ec285658-a0b2-442b-b80d-d97b01d98771,survey_265,Malawi,Holderbury,Female,51.0,Secondary,Employed,completed,2026-05-14T10:41:11,field_tool,4,Bad,1,Low,2
+75ace10a-4e2b-434c-b53f-b17ca4fd9d7e,76dfb6d4-9925-4ad7-94b7-7c790f15c338,survey_468,Malawi,Lake Lisatown,Male,19.0,Primary,Unemployed,completed,2026-05-14T10:43:52,field_tool,1,Good,2,High,4
+a7dc907c-ad62-4628-a7b1-8bc2034f2e61,1ee41b8f-8676-49dc-86c9-7a26a0a3293b,survey_547,Malawi,Rodgersberg,Female,20.0,Primary,Unemployed,completed,2026-05-14T10:41:48,field_tool,3,Good,2,High,2
+c69a3478-ae4c-479c-af85-f7964c53a794,53ba419a-2c3c-429a-b7e6-58dbf6fe6044,survey_595,Malawi,Samanthaside,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:39,field_tool,5,Neutral,4,High,4
+481572b4-4ab9-4132-9e5c-bfffd9731c89,b77bd8db-bd98-4e31-a596-371c15b9561e,survey_306,Malawi,East Joanmouth,female,31.0,Secondary,Employed,completed,2026-05-14T10:43:15,field_tool,2,Bad,4,Medium,1
+f7383e71-06c6-4ffb-afc0-9fe841d39a01,d9ee032c-5cd3-4fc0-a1f8-6345193759e4,survey_608,Malawi,New Anthonyhaven,Female,40.0,Primary,Self-employed,completed,2026-05-14T10:41:57,field_tool,5,Neutral,1,Medium,1
+b06b5de9-e7a5-4c0c-952d-0efebafdf404,6397a338-4364-47d4-a076-dd254fa181e9,survey_664,Malawi,Grahamtown,Female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:40:12,field_tool,3,Good,3,Low,2
+0db44eb0-9c1c-44e5-82a9-a6800fe52c6c,f15a2799-a890-44e2-9eac-719041038dc4,survey_168,Malawi,Port Tiffany,Male,51.0,Secondary,Employed,completed,2026-05-14T10:44:52,field_tool,4,Neutral,1,Low,1
+86cc4bb8-3c1b-46f6-a69d-fa9d0f6d319d,50c8fb05-694a-48d1-a1b6-dbea719a7f7d,survey_325,Malawi,Davismouth,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:41:52,field_tool,4,Bad,3,Medium,4
+3a9b6413-d627-4894-8f77-44e7ca19e7d0,8b894293-599d-433b-9fe0-0df94c5ab748,survey_629,Malawi,Lauramouth,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:44:31,field_tool,3,Very Good,2,High,2
+3944bc5d-b40a-454e-a789-9afa7e39df3d,5a54cf04-cc7e-40a0-ba6c-a54faa22012f,survey_726,Malawi,New Peterview,Male,66.0,Primary,Self-employed,completed,2026-05-14T10:44:34,field_tool,5,Very Good,1,Medium,4
+c74f55d4-6696-4a08-aeb7-2ee9afdbc1b2,04910560-9d82-480b-a6e8-1ef1da900b3d,survey_119,Malawi,Port Donnaview,Female,21.0,Primary,Unemployed,completed,2026-05-14T10:39:55,field_tool,4,Neutral,2,High,1
+305ae75c-7275-4c81-83b8-0153d92e5103,f4f38ba2-9664-485b-a0e1-38d6b1559a80,survey_624,Malawi,West Kevinport,Male,74.0,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,5,Very Good,1,High,3
+266250ac-97f5-4a9d-bf72-d153a824b2f1,2b82a5ab-6c3b-4880-924b-8628db234e26,survey_843,Malawi,Duaneville,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:43:16,field_tool,2,Neutral,3,Medium,2
+0f62d095-dd76-4ad5-80dc-91d2b5851c79,e73c4467-8d39-4898-bf04-93c1596feddb,survey_514,Malawi,Velasquezborough,Female,32.0,Tertiary,Self-employed,completed,2026-05-14T10:44:39,field_tool,3,Very Good,5,Low,2
+aee37cdf-f0a1-487e-8377-8887322d25a2,e8f4a5db-cb33-4eed-a284-e0d2f9e55e79,survey_508,Malawi,South Rachelfurt,Male,38.0,Tertiary,Unemployed,completed,2026-05-14T10:43:06,field_tool,4,Very Good,4,Medium,4
+4cb82589-c2fb-4a0b-be37-8b7922ccfc33,26d8a1f9-b39a-45fa-9b4b-c0367c6ed924,survey_128,Malawi,Dawnburgh,female,18.0,Primary,Unemployed,completed,2026-05-14T10:39:48,field_tool,3,Bad,1,Low,4
+c927764e-7f37-40e0-9bc1-ce256c7f31cb,1a91cdf6-3d98-4cbf-97dc-25acf7a52155,survey_951,Malawi,Timothyshire,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:43:53,field_tool,3,Bad,2,High,2
+a1634fe5-0881-42c7-afb7-38f2b8be403f,e6f7293a-ebcb-4baf-a785-950d02516d2a,survey_986,Malawi,Kristenland,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:40:33,field_tool,2,Good,2,Low,3
+31d48e73-31a1-4977-9e56-6e46250fff1e,5e67a69b-4707-4dc4-a186-bfbdff7ac5b0,survey_538,Malawi,Port Thomasside,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:41:40,field_tool,3,Good,4,Low,1
+f0e993ab-8005-4413-b478-2846d050abe0,0ae92f02-53c9-4548-b946-e9ce6f80e85a,survey_949,Malawi,Mosston,Male,34.0,Secondary,Employed,completed,2026-05-14T10:40:33,field_tool,4,Bad,3,High,3
+118d9020-6aff-4d7b-b7cf-390fade3115c,2571c82f-fde6-43c4-a399-01cc919e31c8,survey_193,Malawi,Wilsonchester,Female,56.0,Secondary,Employed,completed,2026-05-14T10:43:13,field_tool,4,Good,5,Medium,2
+854cbcaa-d5b4-4558-b3a1-c19b98ce6944,e8659b50-db46-4277-b4d1-34322bdbd936,survey_351,Malawi,West Henry,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:43:15,field_tool,2,Very Good,4,Medium,2
+15f71847-1e20-4fa1-9baa-0fe1546cc9a4,ff54c509-760b-45a2-95b9-cf2f00502527,survey_694,Malawi,Thompsonchester,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:42:36,field_tool,4,Neutral,1,Low,2
+9ba975f0-9f62-4a0b-be6f-94d96e5b336a,d67ea505-113c-4973-8143-6ae055f50e8b,survey_101,Malawi,East Laura,Female,33.0,Secondary,Unemployed,completed,2026-05-14T10:43:23,field_tool,1,Good,5,High,4
+b0efb9cb-cdee-4059-a5f9-d52eeba5ecc0,a7dafc07-55e1-4049-b09e-0fc4193d15df,survey_285,Malawi,Sharonmouth,Female,58.0,Tertiary,Employed,completed,2026-05-14T10:39:43,field_tool,2,Neutral,2,Low,5
+ef50a240-b624-4b59-bae4-ea6264b6fae1,fcce7798-fcbf-4589-abe8-7e4e150d33bd,survey_826,Malawi,East James,Male,28.0,Primary,Unemployed,completed,2026-05-14T10:40:48,field_tool,1,Bad,5,High,5
+16a9eddc-6acd-4a21-a563-166ed654f99b,0eb570cb-e837-424e-a0b4-a16da4c5ca6a,survey_102,Malawi,East Markbury,FEMALE,72.0,Secondary,Unemployed,completed,2026-05-14T10:40:03,field_tool,3,Bad,5,Medium,5
+5e2a0d5c-e163-4e9b-84f3-ac0180176ce7,de8d2af5-ff5c-4bc4-947b-55ce46815e3d,survey_163,Malawi,Ruizport,Male,59.0,Primary,Employed,completed,2026-05-14T10:39:49,field_tool,2,Good,5,High,4
+6155fc9e-8f48-41ba-926e-20f1a4a604a7,8b6729d0-1809-44b4-b402-9438c7e5b1f8,survey_759,Malawi,Jeffreyville,Female,23.0,Secondary,Self-employed,completed,2026-05-14T10:40:20,field_tool,2,Good,5,Low,1
+0a8b1ee4-abb4-49a3-aa7c-1e9c56a95fe7,b2734f6e-4b86-4144-a752-d927571238fe,survey_509,Malawi,West Melissa,Female,37.0,Primary,Self-employed,completed,2026-05-14T10:41:11,field_tool,4,Bad,5,High,2
+663a9c58-502c-4024-b58d-5d1385a16a0e,bd07ad56-f03a-418d-9723-6655f36fad9b,survey_918,Malawi,Morganville,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:44:01,field_tool,5,Very Good,1,Low,4
+c631fd35-01cb-4269-ba6b-26a909d60b91,eeea9d15-ef02-4915-8afd-3a3c42363a9c,survey_597,Malawi,East Nicholas,Female,47.0,Primary,Employed,completed,2026-05-14T10:44:29,field_tool,5,Neutral,2,Low,4
+77ccdd92-4eb2-41b3-a8f3-2921903d972b,266dbf5f-5839-47bb-9c5a-99b0269254e5,survey_213,Malawi,Kinghaven,Female,66.0,Primary,Employed,completed,2026-05-14T10:43:40,field_tool,5,Neutral,2,Medium,3
+2411d2f0-6f22-46a1-8682-c5bf1db0ecc7,624db3b4-60d2-47cb-9029-4b50c06da2bd,survey_560,Malawi,Lake Cheryl,Female,66.0,Tertiary,Employed,completed,2026-05-14T10:40:05,field_tool,5,Bad,4,Medium,3
+cdf0fd04-447e-4ecf-963d-c93888680205,29362cc7-21f0-439e-bea7-ba13351e308a,survey_211,Malawi,South Katherineside,Male,45.0,Tertiary,Self-employed,completed,2026-05-14T10:44:03,field_tool,1,Bad,2,Medium,3
+bffd1675-5c98-4763-98af-ee787d7dcaba,187cac11-00cc-4d83-b762-cf020bdd4c45,survey_201,Malawi,Port Victoria,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:45:39,field_tool,1,Good,2,High,4
+b4845f38-4def-403d-a84d-5dcec189e963,d42968e0-e0fa-44a8-a5dd-b6cbd2d9eb0d,survey_937,Malawi,Matthewview,Female,21.0,Tertiary,Unemployed,completed,2026-05-14T10:45:25,field_tool,3,Very Good,5,Medium,3
+77378a65-3ac0-4845-acbb-e54018646b4f,f2aaef9a-2243-4ea9-a5cf-a772166da6ec,survey_210,Malawi,Craigville,Male,42.0,Primary,Unemployed,completed,2026-05-14T10:44:19,field_tool,5,Good,3,High,3
+e5ba6564-1fde-45a2-8351-6f0c32907d94,e335d23f-f670-4c24-b0c0-59e08bd00908,survey_117,Malawi,West Alexis,FEMALE,27.0,Tertiary,Unemployed,completed,2026-05-14T10:45:14,field_tool,5,Good,5,High,5
+90c042b8-a515-448b-9177-3effd7e37291,b69d78ca-9336-40f8-b81a-fa8c13f4b596,survey_776,Malawi,New Rachelview,Male,62.0,Tertiary,Self-employed,completed,2026-05-14T10:45:38,field_tool,1,Bad,2,Low,2
+4b1167fb-ecc3-4935-b134-91e0cc50353e,5d9ed614-a126-429c-9784-45eab589e1c3,survey_658,Malawi,Woodardfurt,Female,75.0,Primary,Self-employed,completed,2026-05-14T10:44:38,field_tool,5,Very Good,4,Medium,5
+bb4558ab-40df-4baa-88bd-8dd74691ef17,2689f752-6077-427e-b61a-c947c1554fc5,survey_113,Malawi,Jamesmouth,Female,32.0,Primary,Unemployed,completed,2026-05-14T10:40:33,field_tool,4,Good,2,High,5
+61155491-c6e4-4852-877f-0ba63d5cbf9b,bff2caec-1f72-4212-bc4a-44721a381144,survey_765,Malawi,North Jeremy,Female,19.0,Primary,Self-employed,completed,2026-05-14T10:42:48,field_tool,4,Very Good,2,High,3
+23ca03d2-9468-4a7e-9300-968ff94943aa,b1242d6c-7ac4-4f46-b8b6-a7c5b0a18744,survey_612,Malawi,Davidmouth,Male,24.0,Tertiary,Self-employed,completed,2026-05-14T10:42:35,field_tool,4,Very Good,2,High,5
+fc64a6b2-ea98-4ee6-a7b5-ae53a12a1687,dcdbc872-fabf-4297-9831-c7dc6170c8b4,survey_306,Malawi,East Virginia,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:40:05,field_tool,1,Neutral,3,Low,3
+b71a98dc-2ef4-4f19-a971-81f8e0659416,4ae49e7f-2f56-4068-a166-4f8def5b0ba1,survey_235,Malawi,East Jerry,Female,69.0,Tertiary,Unemployed,completed,2026-05-14T10:43:31,field_tool,4,Bad,4,Medium,1
+9acdfa13-a09c-4e7b-85f0-6ad4b98fe258,62931fbb-fdc8-4fda-a704-e8d717708ecd,survey_398,Malawi,Jeremyborough,Female,30.0,Tertiary,Employed,completed,2026-05-14T10:45:19,field_tool,1,Very Good,5,High,2
+83a55f6a-ea66-44fa-9a1b-0ba4f358555b,cca752fd-bc67-4d48-b14f-30d4baee4675,survey_836,Malawi,Sabrinamouth,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:45:01,field_tool,4,Neutral,1,Low,1
+cc1bb326-751b-41eb-8daf-b715d1db6abe,10c09a2c-eaf7-4953-a8eb-fc4bbe631d51,survey_205,Malawi,North Leviburgh,Female,27.0,Tertiary,Self-employed,completed,2026-05-14T10:43:27,field_tool,5,Bad,2,Low,2
+ae899a8e-5696-4a99-a1e5-29360418a28d,d6a3b542-023b-4e18-9838-0627c0805a26,survey_913,Malawi,Lake Brian,Female,18.0,Primary,Self-employed,completed,2026-05-14T10:43:42,field_tool,5,Bad,5,Low,4

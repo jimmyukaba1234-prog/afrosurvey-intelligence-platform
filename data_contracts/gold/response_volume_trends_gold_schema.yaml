@@ -1,0 +1,52 @@
+dataset: response_volume_trends_gold
+version: "1.0.0"
+description: "Daily survey response volume trends by country and region"
+
+primary_key:
+  - submission_date
+  - country
+
+fields:
+  submission_date:
+    type: date
+    required: true
+
+  country:
+    type: string
+    required: true
+
+  region:
+    type: string
+    required: false
+
+  daily_response_count:
+    type: long
+    required: true
+
+  completed_response_count:
+    type: long
+    required: true
+
+  duplicate_response_count:
+    type: long
+    required: true
+
+  valid_response_count:
+    type: long
+    required: true
+
+  cumulative_response_count:
+    type: long
+    required: true
+
+  gold_processed_at:
+    type: timestamp
+    required: true
+
+  source_layer:
+    type: string
+    required: true
+
+  target_layer:
+    type: string
+    required: true

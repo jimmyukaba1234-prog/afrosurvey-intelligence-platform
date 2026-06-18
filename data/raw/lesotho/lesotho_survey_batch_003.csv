@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+a0bc2959-3276-4e6c-8af4-bedd0dad8305,90d4bdb4-a3e3-489a-a962-8d15149f0b3d,survey_362,Lesotho,West James,Male,72.0,Tertiary,Employed,completed,2026-05-14T10:40:31,field_tool,5,Good,3,High,4
+7dee86bf-f8f6-4e5f-9690-3da89789a828,835a0fda-3c04-450e-8060-57a3a073cd4e,survey_176,Lesotho,Lake Randyfurt,Female,62.0,Secondary,Unemployed,completed,2026-05-14T10:43:55,field_tool,5,Good,5,Low,3
+f804373e-0637-4515-9674-495780519e4d,9fdd4789-06cc-4126-afed-c1f370cbb7dd,survey_494,Lesotho,Erichaven,Male,61.0,Primary,Employed,completed,2026-05-14T10:42:31,field_tool,4,Bad,4,Medium,5
+f0c45c9e-6e9d-48ae-9e95-314302b05c68,f9e6dc0e-d9ba-4472-8119-136dad2be9a9,survey_819,Lesotho,Schmidtton,Male,32.0,Primary,Unemployed,completed,2026-05-14T10:41:54,field_tool,5,Good,5,Medium,3
+223737cd-7b12-4209-b5be-73e5fe5c4cd4,9b29d65b-306b-4bfa-beda-0c33b1ee1d86,survey_168,Lesotho,Drewtown,Female,26.0,Secondary,Unemployed,completed,2026-05-14T10:39:57,field_tool,2,Good,5,Low,3
+11f37c41-16b3-4d04-a99c-c6b7e2a290bd,ad492005-83c8-4e32-8afb-94c9ff2258e4,survey_532,Lesotho,West Kim,Female,38.0,Secondary,Employed,completed,2026-05-14T10:44:17,field_tool,5,Very Good,5,High,1
+7b58eb1b-b11a-49d1-bc8c-a5df060b0e80,7bebeb12-530f-446c-a269-c0c2d414ab5e,survey_519,Lesotho,New Jennifer,FEMALE,73.0,Secondary,Employed,completed,2026-05-14T10:44:19,field_tool,3,Neutral,2,Low,4
+05cbcda0-6b4d-4303-a1c4-d28f9177d066,0611ab16-7a6f-4dae-b115-1c580b8aba41,survey_407,Lesotho,South Thomas,Male,68.0,Secondary,Employed,completed,2026-05-14T10:40:23,field_tool,2,Bad,3,High,1
+b6bad9f3-c9a2-4fb1-b571-3bf5b1e37b23,f797f69b-5e43-47b5-8d3f-04c12745821a,survey_676,Lesotho,Bradleyport,Female,19.0,Primary,Self-employed,completed,2026-05-14T10:44:06,field_tool,1,Very Good,1,Medium,4
+1606a9c6-972f-4192-94dc-fe9b2c254d09,0fc1bcf4-b120-4f1d-b48b-68b55ad28c2b,survey_821,Lesotho,Kingmouth,Male,50.0,Tertiary,Employed,completed,2026-05-14T10:44:23,field_tool,2,Bad,1,Medium,1
+ea7e354e-624d-43db-b3cf-73d03787e15c,419fd247-3059-42ee-8dc4-9be213e05833,survey_510,Lesotho,Lake Brittanyville,Male,68.0,Secondary,Employed,completed,2026-05-14T10:42:01,field_tool,5,Neutral,2,Low,5
+dba05680-21b0-427f-a699-9987b053a92e,be5e2357-0eaa-400d-91c5-83ee03a6638e,survey_728,Lesotho,New Craigfurt,Female,,Tertiary,Employed,completed,2026-05-14T10:40:19,field_tool,3,Very Good,2,High,4
+05109b36-3e65-4a73-beb0-dcdbf72e65ff,009a5949-0892-4f0c-a0ee-9c897e8840bd,survey_927,Lesotho,West Xavierstad,Female,43.0,Tertiary,Employed,completed,2026-05-14T10:42:16,field_tool,2,Very Good,3,High,3
+39887aca-362c-432e-9302-af5bbca4a8a6,b946a2f4-1bf1-4566-a83c-4511ba686bf1,survey_582,Lesotho,Lake James,Female,69.0,Secondary,Self-employed,completed,2026-05-14T10:41:49,field_tool,2,Very Good,3,High,4
+f50d98c5-4569-497b-91a7-9d88ac429d45,02260ca3-1a81-429d-acdc-9da7819f42bc,survey_603,Lesotho,Erikaburgh,Female,68.0,Tertiary,Unemployed,completed,2026-05-14T10:42:23,field_tool,2,Good,3,High,1
+dd84971d-df4a-4f35-aa5f-b0ec8148ff97,b320bcd7-3fbe-4570-a253-83b053ab073f,survey_221,Lesotho,Thomasstad,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:43:21,field_tool,3,Good,5,Low,2
+75684ffa-f1c6-474c-a792-7ea1d2c85bf7,19e38b65-44d8-4a45-8585-6270140c9b0d,survey_698,Lesotho,Lake Susan,Female,67.0,Secondary,Self-employed,completed,2026-05-14T10:45:35,field_tool,3,Bad,3,Low,2
+2437e510-9664-412a-89fc-98a8fb4e3f37,906128df-fa3d-449c-bbc9-a188c7923568,survey_789,Lesotho,Brownton,Female,67.0,Tertiary,Unemployed,completed,2026-05-14T10:44:54,field_tool,5,Bad,3,Low,3
+e05a4f18-4f3f-4e0e-9ebe-aa048b08b93a,1f042c14-2113-4c3c-a94d-8fdb30d563a3,survey_110,Lesotho,Dustinview,Male,63.0,Primary,Employed,completed,2026-05-14T10:40:36,field_tool,5,Very Good,2,Medium,5
+a180bb54-aa17-49c6-aec2-af8ba1db1f4c,1c0e11f2-6e6a-4823-8e6a-4a977f0a686c,survey_560,Lesotho,North Nicoleport,Male,57.0,Primary,Employed,completed,2026-05-14T10:44:04,field_tool,4,Neutral,5,High,4
+d9f4d2b7-a764-44de-8079-2f12a009f0af,402077fb-2855-44b4-bbf3-4f6cf83296c1,survey_802,Lesotho,New Richardmouth,Female,55.0,Tertiary,Self-employed,completed,2026-05-14T10:40:50,field_tool,5,Bad,5,High,4
+2c719c3c-d566-4b41-be99-652e42d24289,d038edd2-694c-4d07-ad40-7ee3ee71927d,survey_326,Lesotho,East Davidchester,Male,35.0,Tertiary,Employed,completed,2026-05-14T10:44:29,field_tool,2,Good,3,Low,4
+5575956b-da6f-4489-97e9-7c173e0c0b42,eab7e3b7-1689-4bcf-8429-edf34c6f232a,survey_742,Lesotho,North Chaseburgh,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:41:27,field_tool,4,Good,1,High,2
+7c0c390a-0806-4a36-9770-1d36153e9167,05ded0bb-b22c-470f-ba24-f2863820d343,survey_912,Lesotho,South Shawnfurt,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:42:33,field_tool,2,Bad,5,Low,3
+aa161523-de37-4ac1-9c79-1000ac0cf741,fca89f60-a02a-4c45-9e61-bb35fb535834,survey_644,Lesotho,Santosbury,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:41:16,field_tool,3,Good,4,Low,4
+a6a35793-f390-4372-95f9-0299c4f9ff2f,a5aaa246-ba1b-44a0-8c60-d08738ad82b0,survey_270,Lesotho,South William,Male,52.0,Secondary,Employed,completed,2026-05-14T10:40:31,field_tool,5,Neutral,5,Low,4
+134ff3da-39f6-40f0-9da5-ba27a6f51fb7,4813b8ba-4eaa-4903-bda8-02e14b1e4ee0,survey_138,Lesotho,Macdonaldburgh,Male,66.0,Secondary,Unemployed,completed,2026-05-14T10:43:59,field_tool,4,Bad,5,Low,4
+c1597ecc-47f1-4ad2-a909-225717a4548e,438af48f-7c96-48c0-bffd-d52405cacf57,survey_760,Lesotho,West Tinahaven,Male,36.0,Secondary,Self-employed,completed,2026-05-14T10:45:26,field_tool,1,Very Good,2,High,2
+b0f106cd-07f6-43ec-9d23-22e8d1c9a3e2,924758c4-bafa-4a96-9c10-8dbbfeeccb47,survey_608,Lesotho,West Jessicastad,Female,41.0,Tertiary,Unemployed,completed,2026-05-14T10:39:44,field_tool,2,Neutral,1,Medium,1
+445c7ab7-d49e-4378-a786-67b10fc28a33,eb8a3864-e74f-46ae-8367-7fd99d60f55c,survey_910,Lesotho,Evanland,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:43:24,field_tool,2,Very Good,3,Low,4
+9c7182ed-9a40-4aca-830b-18290f728f54,2703fb66-65b2-4d35-bb3f-36798b1c49cb,survey_903,Lesotho,Stephaniefort,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:41:12,field_tool,2,Neutral,2,High,4
+44557795-46c3-4aeb-9345-5a25659fc2ca,807e247a-b33c-4aa2-86ba-3b3515f5f76e,survey_356,Lesotho,Lopezport,Male,67.0,Primary,Unemployed,completed,2026-05-14T10:40:43,field_tool,4,Neutral,5,Low,4
+492c05f9-fdf5-488f-b612-f9516faddb42,f01c3a08-d52a-46e7-8ce7-b866f413aa29,survey_232,Lesotho,Brandystad,Male,24.0,Tertiary,Self-employed,completed,2026-05-14T10:43:36,field_tool,5,Good,5,Medium,1
+7d66fcf3-bd5d-4876-a32c-9920a8b3290c,82498b3e-9293-49a8-9e85-c4c3e7b96a25,survey_934,Lesotho,West Matthewland,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:44:23,field_tool,1,Neutral,4,Medium,5
+aeadaa2d-06ff-4f20-a3a2-cf7d3d41d4b4,b7dad6c1-5b77-4393-97cb-f0734fde4ef7,survey_819,Lesotho,Garychester,Male,55.0,Primary,Unemployed,completed,2026-05-14T10:41:52,field_tool,3,Very Good,2,Medium,4
+3e364132-b5ce-4767-9035-dc49661fd69b,23fbcd0d-5143-43fa-a07d-c6893f2f7d5a,survey_447,Lesotho,North Timothy,Male,66.0,Tertiary,Self-employed,completed,2026-05-14T10:40:46,field_tool,3,Bad,5,Low,3
+d8f66cca-88af-4257-bd4c-db40865431bb,43b58ade-243c-4bb0-8e34-4bcb8d3b9256,survey_352,Lesotho,Howeburgh,Male,54.0,Tertiary,Self-employed,completed,2026-05-14T10:44:31,field_tool,4,Very Good,4,Low,3
+3d15def2-7829-4318-8bc4-b856b8708a52,297fa0b9-a9c4-4f93-8f49-d71b88e4cbea,survey_802,Lesotho,East Christinamouth,Female,20.0,Secondary,Employed,completed,2026-05-14T10:41:09,field_tool,5,Very Good,1,High,1
+3e0035a1-3327-4be9-b9db-ee0f2cfffba3,1b3aec16-c662-40a1-9079-d01b624b1b88,survey_582,Lesotho,Lake Jose,Female,48.0,Primary,Employed,completed,2026-05-14T10:39:57,field_tool,1,Bad,2,Low,5
+995ada10-1ae5-4aa8-a335-2f9ba7bd57b3,d74c5bf5-55ea-4426-a007-dd3e4ff75f78,survey_236,Lesotho,Blackville,Female,28.0,Tertiary,Unemployed,completed,2026-05-14T10:41:46,field_tool,3,Bad,4,Low,3
+68f7223d-e481-4e70-8fdd-35ccf47e54bd,f57443d3-5ce6-4a95-8a7f-9e0a1b5001d7,survey_610,Lesotho,Taylorstad,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:41:37,field_tool,1,Bad,5,Low,2
+219b3950-4a5b-438b-ae9b-8a9e0d5dadb7,e23ade2b-0f7a-495b-b7fb-67420f80aa7a,survey_222,Lesotho,West Melissa,Male,33.0,Secondary,Employed,completed,2026-05-14T10:41:33,field_tool,2,Very Good,1,High,2
+4c6a1310-2141-4073-b680-7650c466bb2b,1cf58421-1d95-4be3-83e4-ac62040279f4,survey_442,Lesotho,North Juan,Male,66.0,Tertiary,Unemployed,completed,2026-05-14T10:42:15,field_tool,1,Very Good,3,Low,3
+8fbf45c4-df49-40c7-ab52-be32048312c2,156a0e9a-2f56-40e2-8eb3-c40cd534dffe,survey_129,Lesotho,Johnfort,Male,34.0,Secondary,Unemployed,completed,2026-05-14T10:43:58,field_tool,4,Neutral,4,Low,3
+df82d333-edc5-4f17-803a-f403f9d65e6c,071d06cd-ad4d-458f-9ffb-285fad8a19d7,survey_287,Lesotho,Matthewberg,Male,21.0,Secondary,Self-employed,completed,2026-05-14T10:40:49,field_tool,3,Very Good,2,Low,1
+a4dd86eb-57fd-4e5d-adaf-1090315b4ffc,7968e752-f73d-47de-ba79-e8e2e43d9011,survey_756,Lesotho,Lake Davidton,Female,71.0,Secondary,Employed,completed,2026-05-14T10:42:17,field_tool,5,Bad,2,Low,5
+eed57df6-73d2-499f-b099-59cfaaa58601,9f79a7a5-6645-47de-b764-a45490389363,survey_882,Lesotho,Salazarhaven,Male,54.0,Secondary,Employed,completed,2026-05-14T10:43:31,field_tool,4,Very Good,2,High,1
+27eccd14-01b3-4fda-bb89-ceaa39cd0e38,6720dc28-59fe-4236-af0f-95e1b2220039,survey_810,Lesotho,Wongport,Male,59.0,Secondary,Employed,completed,2026-05-14T10:40:20,field_tool,4,Good,2,High,5
+f8bb6b31-5c79-4342-986d-04a0710b2e38,03f2674b-5900-414e-b631-60cf104a9ad5,survey_907,Lesotho,Vazquezport,FEMALE,61.0,Tertiary,Employed,completed,2026-05-14T10:44:57,field_tool,5,Neutral,1,Medium,1
+fb6e8ff2-80aa-47a6-8ac5-873d4d2b56a1,2afb0283-73a2-4e29-a15c-22629f605569,survey_242,Lesotho,Mannborough,Male,56.0,Secondary,Employed,completed,2026-05-14T10:41:32,field_tool,4,Neutral,2,High,3
+5b2fa59c-81fc-4f3f-a98c-0c38771ed9da,06bae13a-818b-4792-a92f-45de90929918,survey_973,Lesotho,South Danielville,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:44:56,field_tool,4,Neutral,1,Medium,4
+c6b6c092-e4f6-414e-89ac-93b1d8439a71,506df86a-7fc5-40c7-885d-9f24dd139c4c,survey_993,Lesotho,Lake Stacystad,Female,18.0,Primary,Employed,completed,2026-05-14T10:45:06,field_tool,3,Bad,4,Low,4
+4f96c7f8-2cfc-4df3-8456-170950f375ba,185bc5f5-0ba4-45b9-a0cd-923b2f1b8c90,survey_187,Lesotho,East Nicolefort,Female,57.0,Tertiary,Employed,completed,2026-05-14T10:39:45,field_tool,1,Neutral,3,Medium,3
+86151af2-9556-4294-9017-e3c4366fe75c,20eb0ded-2473-4bc4-882e-2bb8bb72e5de,survey_714,Lesotho,Sarahbury,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:41:41,field_tool,4,Bad,4,Medium,2
+5c917544-78f9-4146-9946-d919be3b2bad,2367efd4-e8e7-453e-b7bd-8623a62157ac,survey_281,Lesotho,Port Andrea,Male,33.0,Primary,Self-employed,completed,2026-05-14T10:42:16,field_tool,2,Bad,1,High,1
+8e36e7f0-b64e-4c9b-b270-c2b8233d8649,680212d2-1c98-450a-b652-72fa3b77f68c,survey_945,Lesotho,South Tracifort,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:42:18,field_tool,1,Very Good,1,Low,2
+18509d28-8895-4dcd-9b88-cd1826b68c0f,e0ada076-e945-458c-8eb1-8194ad9f1325,survey_192,Lesotho,Perkinston,Male,28.0,Secondary,Unemployed,completed,2026-05-14T10:43:50,field_tool,5,Bad,5,Medium,1
+c64ed2b0-d660-4ca8-9203-c2e0f4be1fe3,fefaa8cf-9a87-4b6d-9cac-62981d4e3eb7,survey_812,Lesotho,Priscillaville,Female,56.0,Secondary,Employed,completed,2026-05-14T10:40:41,field_tool,2,Bad,2,Medium,1
+0a1295ac-8c0a-4826-8e8d-a632b5288cd8,e711ef1e-8b8f-4fda-be7c-8be75ebd142d,survey_692,Lesotho,Andersonshire,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:40:11,field_tool,4,Bad,2,Medium,5
+34105c9c-a94e-44dc-858a-a2f7a68151db,1e1012e2-7ea5-4a87-b27f-3e24e9db6b4d,survey_837,Lesotho,Deborahhaven,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:43:06,field_tool,4,Very Good,2,High,3
+8861daa8-988b-4b36-8c7c-6d3801ef4447,4d2a2ac5-66ff-4bf4-ae88-574c02adb4bc,survey_724,Lesotho,East Richard,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:41:12,field_tool,5,Neutral,2,High,2
+1723c2c2-90af-4cc2-99a5-8fc2a704e6b5,56c3587b-4d65-4bef-972c-be87b951a832,survey_136,Lesotho,Jennifershire,Female,67.0,Primary,Employed,completed,2026-05-14T10:41:26,field_tool,3,Bad,4,Medium,1
+b515619c-9df1-46ca-bce1-90846ccd6129,47f9af6c-cffc-4841-91b6-6125722bbeac,survey_493,Lesotho,Hollandfort,Female,60.0,Tertiary,Self-employed,completed,2026-05-14T10:42:38,field_tool,3,Very Good,5,Low,1
+5563311c-6464-4fd5-9505-f804b5fdde8c,ab88cf23-84e7-45d9-869b-469edd43bb63,survey_720,Lesotho,West Debbiemouth,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:45:02,field_tool,2,Good,5,Low,2
+0a5e6233-5bea-41cf-9d94-80df5cabf97d,f99363a7-e393-476d-9147-9bbb10c329a6,survey_604,Lesotho,Riceport,Male,41.0,Primary,Employed,completed,2026-05-14T10:42:03,field_tool,4,Very Good,2,High,3
+5317dbca-f58b-4600-a34d-3146161e847c,bbb965e8-27f9-4a82-8f79-70db0c90a57d,survey_553,Lesotho,Bryanhaven,Female,40.0,Primary,Employed,completed,2026-05-14T10:44:49,field_tool,2,Very Good,1,Low,1
+47d77414-51d2-4b04-8ea0-8e7d56365f90,4e8d0d4b-46b3-49a2-ab84-254a4167b8dd,survey_628,Lesotho,South Catherine,Female,60.0,Secondary,Unemployed,completed,2026-05-14T10:41:25,field_tool,5,Neutral,1,Low,4
+ffe2ffb3-b303-40a4-b3d7-cc28ae7996b3,f4f65f9b-6d82-455c-a3c5-5fea67f08581,survey_776,Lesotho,West Kylefurt,Male,42.0,Primary,Self-employed,completed,2026-05-14T10:43:35,field_tool,1,Neutral,2,High,4
+e45f0888-c801-423a-ad3b-f80be50e60ae,8626893f-89df-4720-9e99-722f1de1de9c,survey_709,Lesotho,South Carlosburgh,Female,43.0,Primary,Self-employed,completed,2026-05-14T10:43:51,field_tool,4,Good,1,Medium,3
+42ea0003-6b42-472a-bd94-18ea40ddeda4,3862f76c-a505-4584-b0c6-9cd0b7835134,survey_802,Lesotho,Madisonmouth,Male,63.0,Primary,Self-employed,completed,2026-05-14T10:42:08,field_tool,5,Neutral,3,Low,3
+fda88b87-5525-4875-b1c3-eac68662bd82,f8ee2581-702a-43c2-aae9-37cb968f1402,survey_738,Lesotho,Nicholasberg,Male,38.0,Tertiary,Self-employed,completed,2026-05-14T10:43:37,field_tool,5,Good,5,Low,2
+13e5a6d3-5d04-4916-a863-7e8c82e5ae8a,fcd81879-b10d-40c0-bc2c-afa2e55ed574,survey_648,Lesotho,Lake Cynthia,Female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:40:33,field_tool,4,Good,1,Medium,2
+132d70cf-b5f3-406b-b0c1-3dd10ea33309,cd9da9db-d45c-4f67-8438-6aafa3fd8f6f,survey_646,Lesotho,West Robertmouth,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:42:06,field_tool,3,Neutral,5,Medium,3
+1244c713-efd2-4949-b54a-230fe8fb4094,ca882764-36af-4c77-91c8-a66c1ef3d3ed,survey_637,Lesotho,Joshuastad,Male,28.0,Tertiary,Unemployed,completed,2026-05-14T10:42:36,field_tool,2,Bad,3,Medium,1
+c7268ee4-0e3c-4b68-8d2a-7c6bbc8f240a,74ef052c-98e0-493c-b02c-f240a970b27d,survey_838,Lesotho,Lake Steventon,Male,23.0,Secondary,Unemployed,completed,2026-05-14T10:43:44,field_tool,5,Very Good,5,Low,3
+a5441333-77a6-4a0c-8f0f-c876897daf42,0e26295d-a455-43f2-b124-a523e4b840ca,survey_382,Lesotho,Crystalstad,Male,65.0,Primary,Employed,completed,2026-05-14T10:42:33,field_tool,2,Good,2,Medium,2
+f735a961-183f-4300-8642-d88af4bee8cd,fdb302c8-06dc-48c4-b5e1-89d9f7fd6c80,survey_522,Lesotho,North Toddville,Male,25.0,Secondary,Self-employed,completed,2026-05-14T10:41:55,field_tool,3,Good,4,High,2
+eba441d8-7860-4784-8618-51170db48f8f,2c0dfcc5-7883-4acb-a6bf-08da1ab55a80,survey_297,Lesotho,Brianaville,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:45:07,field_tool,5,Very Good,3,High,4
+96269809-6968-4e1c-b0b6-24b6180e85e4,8de178ad-a058-4d2a-931f-84a82ef5ce34,survey_578,Lesotho,Patrickberg,Female,64.0,Primary,Unemployed,completed,2026-05-14T10:41:53,field_tool,4,Good,5,High,2
+69c60b27-5e5f-4780-b57d-05b0c795c524,5788b5fc-5db3-4775-9de1-ec2f0d61510d,survey_624,Lesotho,West Melissa,Male,26.0,Tertiary,Unemployed,completed,2026-05-14T10:40:34,field_tool,4,Neutral,4,High,2
+39568dff-2790-4c5f-90b4-fdef94a5e80f,a278b6b3-49e9-4739-b819-f8617f815a33,survey_587,Lesotho,Ryanberg,Male,54.0,Primary,Self-employed,completed,2026-05-14T10:45:13,field_tool,1,Neutral,4,Medium,4
+32ea6086-fa28-4b49-ad56-8f6643e5d0b5,27dbdc47-e99b-41d8-8edb-5282674f5777,survey_239,Lesotho,Jasonport,Male,48.0,Primary,Employed,completed,2026-05-14T10:41:00,field_tool,4,Very Good,1,High,1
+4547fd06-06ce-4152-8453-9070f9174eb0,c8383c8d-229f-421d-be91-b54c815a6c51,survey_462,Lesotho,North Jack,Male,48.0,Primary,Employed,completed,2026-05-14T10:40:07,field_tool,2,Neutral,4,Low,1
+864d8ead-5738-4b96-adaa-f05249190730,6b1b860f-00e7-48fd-92a5-eb0446738fc3,survey_530,Lesotho,Rebeccafurt,Male,58.0,Primary,Unemployed,completed,2026-05-14T10:40:02,field_tool,4,Neutral,4,Medium,2
+418bf416-ae40-4529-95c9-a32cf456d121,57281333-6040-46a1-a974-667c7525e3f2,survey_282,Lesotho,Lake Bryan,Male,43.0,Primary,Self-employed,completed,2026-05-14T10:45:32,field_tool,1,Neutral,3,High,4
+47e69d45-c20a-4a18-be1a-3b2a64c0e479,8377e0de-4751-4a5e-b963-de961b5ac5d7,survey_518,Lesotho,Barneschester,Female,59.0,Tertiary,Self-employed,completed,2026-05-14T10:43:32,field_tool,2,Good,5,Low,2
+9b5d717f-4615-4185-89b7-17c2c051a784,2b94e406-706a-4d20-bb5c-0147f35a490b,survey_743,Lesotho,Arthurshire,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:41:43,field_tool,3,Very Good,3,High,3
+cb577522-949a-44f5-a288-a77fbd765ec0,1e01d085-f967-4624-a929-dcd8fdc6ded8,survey_406,Lesotho,Peterborough,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:41:12,field_tool,3,Bad,4,High,4
+f9049382-4236-45af-a9e1-d8d0fccf7e23,00461c0c-bb83-414a-9fde-222d0f2851a9,survey_504,Lesotho,Chandlerton,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:43:04,field_tool,3,Very Good,1,Low,2
+6ad50403-3f63-4e23-85c9-d7af0f1cecf7,e91001f2-6365-440f-917d-d998e4c20e2a,survey_491,Lesotho,Lake Jennifermouth,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:44:17,field_tool,2,Good,3,High,4
+bedb5ba4-3fc5-4196-9b03-4e441a4d5159,ab608c64-45c4-4e25-80e0-083385140240,survey_477,Lesotho,Davidfurt,Female,69.0,Secondary,Unemployed,completed,2026-05-14T10:41:49,field_tool,1,Good,5,High,2
+a88d9541-8916-4f90-a13e-e47a1abca78a,127b0cc4-43ae-4f3d-a82f-0a3d94935d51,survey_427,Lesotho,Lake Anthonyton,Male,55.0,Primary,Unemployed,completed,2026-05-14T10:45:27,field_tool,5,Bad,2,Low,1
+0b642af6-7fdd-4d8d-a001-e1a2cd191b71,91d9a3cf-89ab-489c-887e-f7532baf024d,survey_933,Lesotho,Vasquezton,Female,32.0,Tertiary,Employed,completed,2026-05-14T10:42:13,field_tool,5,Neutral,5,Medium,1
+3d472f8d-0b17-40c9-ae70-128e648256b9,6973bf27-ca1b-4b71-b298-c3e60ef84c10,survey_436,Lesotho,East Sonya,Male,23.0,Tertiary,Employed,completed,2026-05-14T10:40:30,field_tool,4,Bad,4,Medium,1
+0fe4a0ad-7bd9-49d1-912e-3b684fa591dd,b24f9116-1eac-48b5-9cd1-db00d6255493,survey_912,Lesotho,Edwardsfurt,Female,28.0,Tertiary,Self-employed,completed,2026-05-14T10:43:43,field_tool,5,Very Good,2,High,4
+a95f5eea-7586-4fbc-bb0e-31203e809fc2,e3fca6b9-2dc7-4c9f-8aed-5a1a971a0342,survey_889,Lesotho,Johnsonhaven,Male,,Tertiary,Employed,completed,2026-05-14T10:43:21,field_tool,2,Neutral,5,Low,1
+481fb44d-e3a2-4b24-99db-4e6fd08a2d21,f306a0c2-14a3-404c-bbfe-bc955a888409,survey_647,Lesotho,Erikaborough,Male,71.0,Tertiary,Employed,completed,2026-05-14T10:41:59,field_tool,4,Good,1,Medium,5
+be432c74-ecb6-4f5c-93c0-bf1199fcfea4,0865fcaa-2df3-4601-ad9a-648fe6194e21,survey_716,Lesotho,Serranoport,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:41:32,field_tool,4,Good,5,Low,5
+be63b7ec-f3a6-4086-8d50-321937238bd8,0b9584bb-af50-4e71-8a3f-43571423b29c,survey_913,Lesotho,Ellisburgh,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:40:54,field_tool,3,Good,1,High,1
+1fde9ed7-40b4-4229-92e2-0bd1f3a630c2,9e2e9f42-40f8-473b-b77f-11dd8fb52871,survey_837,Lesotho,Ritashire,Female,70.0,Primary,Employed,completed,2026-05-14T10:41:19,field_tool,3,Good,4,Low,3
+eca497a4-4eb0-44e2-9959-d7fdf37f9d7a,eeb1b4ee-7c94-42f3-a674-6698bbdf0f51,survey_280,Lesotho,Frankfurt,Male,74.0,Tertiary,Unemployed,completed,2026-05-14T10:39:57,field_tool,2,Very Good,4,Low,5
+831d0b19-4979-463a-b767-4c34e2d243d7,6452495c-c614-4bc9-bc74-0dc11500aae1,survey_248,Lesotho,Contrerashaven,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:43:31,field_tool,1,Bad,3,High,1
+7fb2c22e-c68c-481c-abcc-d583351aaf3d,80ae7fa4-e7d2-4433-b6a3-005cf49657f8,survey_865,Lesotho,North Daleborough,Female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:39:57,field_tool,4,Neutral,2,Low,1
+68ccae98-0e09-4aa5-8457-cf6155bb488a,afe1d5bd-2c10-4598-999e-4336a72577aa,survey_741,Lesotho,East Alyssa,Male,48.0,Secondary,Unemployed,completed,2026-05-14T10:42:47,field_tool,3,Good,5,High,2
+5885d525-7180-432c-9477-36d4e1bb4194,25dfc81e-2a16-4b46-b70d-ab15ec800cbb,survey_133,Lesotho,South Troy,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:40:03,field_tool,3,Neutral,2,High,5
+fda83496-5a96-4f59-9850-c3e848c771e8,86372826-cbb0-4667-8959-9ae8450ef2a9,survey_687,Lesotho,South Deniseburgh,Male,62.0,Tertiary,Self-employed,completed,2026-05-14T10:41:56,field_tool,1,Very Good,5,Medium,3
+52d9bca1-e483-4da9-8513-11bf8a34d9b8,9c058fbd-ae67-42dd-8cdd-cdba4756115b,survey_241,Lesotho,Dunnchester,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:39:58,field_tool,2,Very Good,4,Low,1
+fba4b7ed-4de5-4bf0-8916-c366cba9610f,ed1fdb8f-1c11-48e7-981f-fc66475b8025,survey_285,Lesotho,South Daniel,Female,65.0,Secondary,Self-employed,completed,2026-05-14T10:42:48,field_tool,4,Neutral,5,High,3
+9045f742-62cb-44ec-a70e-8b4aa6b89329,213a5e32-4f9d-4fa4-a189-49ba532b7e7c,survey_720,Lesotho,Richardsborough,Female,24.0,Primary,Unemployed,completed,2026-05-14T10:45:18,field_tool,3,Good,3,High,2
+5557ce5f-4d1d-46fc-bf39-b94e3634c2ed,0e41cfed-7805-471d-9220-4bde968595d7,survey_169,Lesotho,North Pamela,Male,24.0,Primary,Self-employed,completed,2026-05-14T10:42:13,field_tool,2,Bad,1,High,1
+0151ae49-cac2-473a-bca5-c43b05741046,bdc374fc-13d0-40fa-a181-116bab9b4d7b,survey_858,Lesotho,Salazarton,Female,55.0,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,3,Good,2,Medium,2
+eb2b00e5-6020-4a97-937c-1b751d06d891,12a6fb2f-614b-4c69-ab5d-4ef7793c99d1,survey_445,Lesotho,East Tammychester,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:45:19,field_tool,1,Neutral,3,Medium,4
+c0e3ee48-083e-40b7-9607-06052650e857,fcd7d844-a631-4b8e-a603-8076c2020122,survey_933,Lesotho,Josephland,Female,19.0,Tertiary,Unemployed,completed,2026-05-14T10:44:41,field_tool,3,Very Good,3,Low,4
+9083b8c2-1b3c-4d82-b388-e991a8806b11,cbd3ff4e-c1f0-4bf7-8b64-46f2bf8c0f0d,survey_960,Lesotho,Jamesmouth,Male,73.0,Primary,Employed,completed,2026-05-14T10:39:57,field_tool,5,Good,5,High,3
+036bd4fc-5b94-4237-8a62-09fd22265895,6a1882ce-a905-466e-9e31-a4bd2abdb1ef,survey_985,Lesotho,Middletonton,Male,48.0,Secondary,Self-employed,completed,2026-05-14T10:42:30,field_tool,1,Very Good,3,High,2
+a6a7bc1d-94f5-4edf-b568-f907dc26f984,69dea439-5246-46a6-b4a1-347b02b75d04,survey_368,Lesotho,East Stacy,Female,53.0,Secondary,Unemployed,completed,2026-05-14T10:41:16,field_tool,5,Good,4,High,4
+2453ddf5-a59d-459a-8436-1189cd48bcb5,65a1311d-4633-4355-80c5-364afaf8fbd1,survey_666,Lesotho,Kelseyfurt,Female,46.0,Primary,Employed,completed,2026-05-14T10:39:45,field_tool,1,Very Good,4,High,2
+beb4d3cb-9b3d-49a7-b8ed-235e191fc632,e5af66b6-c291-4d42-898c-00f04b4a8a3a,survey_800,Lesotho,Monicaland,Female,38.0,Tertiary,Employed,completed,2026-05-14T10:44:40,field_tool,4,Neutral,1,High,3
+dd87f0b9-c397-474a-bb0d-d1769c914755,6793d952-e952-484b-8807-f02097d98964,survey_465,Lesotho,Karenbury,Female,43.0,Tertiary,Employed,completed,2026-05-14T10:41:11,field_tool,3,Bad,4,Low,5
+0161bad3-44f6-4a50-a5b5-7c0860af3b52,677d89a2-ac5c-465b-afa6-92d2dc896d32,survey_447,Lesotho,Jacobsville,Male,32.0,Primary,Employed,completed,2026-05-14T10:40:20,field_tool,1,Good,2,High,4
+33bde2de-d654-4f3f-9e54-9512f3aacc7a,56378f6a-8238-4d16-bdcb-6a69d0712f17,survey_712,Lesotho,East Michaelburgh,Male,56.0,Tertiary,Employed,completed,2026-05-14T10:45:29,field_tool,2,Very Good,2,High,3
+f31d5c0a-ae25-4917-9002-f36cbaad158e,f7b094ac-cbe8-4925-adb5-322b74403cd8,survey_363,Lesotho,South Candiceberg,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:40:55,field_tool,5,Bad,4,High,2
+8c3de695-6dc7-4119-bb8d-c537547a183b,9b5f9f09-d91c-41a0-a15d-d4ee217837be,survey_899,Lesotho,West John,Male,33.0,Secondary,Employed,completed,2026-05-14T10:41:52,field_tool,1,Bad,4,High,2
+9a0f38d6-73da-464c-a1f4-29b2c1442a2a,5491c0f7-716d-4197-8d4d-2f4d1218abe9,survey_380,Lesotho,Levyfurt,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:40:25,field_tool,3,Bad,3,High,2
+242ae65f-e3a6-439c-8d9f-9c299ac59d9a,adfca24b-5fd6-4015-a7bc-21bf7d6dfa03,survey_558,Lesotho,Martinview,Female,58.0,Primary,Unemployed,completed,2026-05-14T10:42:47,field_tool,3,Good,5,High,1
+9d4322c7-17cc-4c9f-8ad6-c84f8c33fb45,d179580c-e5ec-4e5b-8553-5feed734fda5,survey_883,Lesotho,South Ryan,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:43:56,field_tool,3,Good,5,High,1
+008cb017-477c-426c-9932-a605f663afbd,3c2265fb-375e-4ba3-8f43-a70295d6aa94,survey_912,Lesotho,Brandonborough,Male,30.0,Tertiary,Employed,completed,2026-05-14T10:41:20,field_tool,1,Good,2,Low,2
+20024ce9-16af-4c20-bbd4-952805c6a3ad,64720dcc-37d8-47e1-82e0-edf678ceb8cd,survey_900,Lesotho,West Marthashire,Male,31.0,Primary,Employed,completed,2026-05-14T10:41:14,field_tool,5,Very Good,1,Medium,2
+6514f32c-a323-4a5a-a60f-fd25574bb989,85bf2d22-6a26-4f8d-a399-86c3da1615fa,survey_155,Lesotho,Reyeshaven,Female,40.0,Tertiary,Self-employed,completed,2026-05-14T10:39:53,field_tool,1,Very Good,5,Medium,2
+5a11761d-bd72-4557-9e46-208e89d8219c,7b3869d2-05aa-425d-b1ce-b3828ac6b1b2,survey_894,Lesotho,Robertbury,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:40:07,field_tool,4,Bad,3,High,2
+8e17e652-ccd9-4415-be57-3cda6dfff4a9,cfc2d1ad-2fb8-40da-8ca9-82c70676676d,survey_109,Lesotho,South Yolanda,Male,74.0,Tertiary,Employed,completed,2026-05-14T10:39:47,field_tool,2,Neutral,5,Low,3
+7b65c0ae-1973-4923-a37d-ef34acf10153,68bf1290-b121-4759-b3a3-7ae69dac7a69,survey_455,Lesotho,West Thomastown,Female,59.0,Tertiary,Unemployed,completed,2026-05-14T10:44:57,field_tool,2,Very Good,1,High,5
+70fb96a8-b74b-4a94-b63e-9c8fa3c170c9,3c1ff1e7-0920-4977-8f70-c4f327c78900,survey_526,Lesotho,South Laurie,Female,26.0,Primary,Employed,completed,2026-05-14T10:41:56,field_tool,2,Neutral,4,High,4
+ba81a338-d5d0-4630-a76d-593629de54b8,374687fd-1c88-4791-aea5-a3bf245af1fa,survey_719,Lesotho,Robertsburgh,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:43:56,field_tool,4,Bad,2,High,1
+c89a23e1-9c8c-4525-8db0-1cc48b6d3845,942b3767-3a48-4c5e-9198-f5eed3ecdff3,survey_201,Lesotho,Lake Douglas,Female,20.0,Primary,Unemployed,completed,2026-05-14T10:43:09,field_tool,2,Good,2,High,4
+f7367a7c-a77a-4f79-ac49-36adad18bf41,80d87ed8-b410-421f-b94a-6812fd46c0d5,survey_235,Lesotho,Morganmouth,Male,54.0,Primary,Employed,completed,2026-05-14T10:41:54,field_tool,1,Very Good,3,Low,3
+cc229a04-c1fe-40c5-b5ce-557783b340a5,6aa57f33-d2bf-4099-bfad-d0bc2865c565,survey_631,Lesotho,New John,Female,32.0,Primary,Employed,completed,2026-05-14T10:41:47,field_tool,5,Bad,4,Low,4
+973d4df9-043b-4166-9391-8a06c2d0da8d,92f8bc43-bb20-4cd6-a52d-2813f09c8858,survey_319,Lesotho,East Karen,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:39:56,field_tool,1,Neutral,5,High,5
+5bc140ca-804c-4231-a3e2-54c4894e9e63,cc573227-2c82-4cdb-b8a9-0407add5fbf6,survey_488,Lesotho,Port Victoriastad,Female,51.0,Secondary,Unemployed,completed,2026-05-14T10:44:54,field_tool,4,Bad,1,High,5
+f42d3902-2c03-4895-b3e8-1624427e0c76,e8f45672-a170-40c6-9ad5-45b480997a23,survey_768,Lesotho,Morahaven,Male,33.0,Tertiary,Employed,completed,2026-05-14T10:39:54,field_tool,1,Very Good,4,High,3
+cec0ab22-4a9f-48de-9453-ad2ca8a22bbf,d1a0c29d-8194-4d55-8ca7-43fd96eb1756,survey_540,Lesotho,New Amandaton,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:41:55,field_tool,3,Bad,4,Low,1
+e22a333a-f199-4173-9680-5671bb57c822,3b2afaf6-3536-4a95-9ffe-17f604f83fca,survey_735,Lesotho,Cummingsmouth,Female,27.0,Primary,Employed,completed,2026-05-14T10:40:56,field_tool,1,Neutral,4,Medium,4
+7b4ab855-bd16-4b30-adc9-e11f542a7df6,4d5881c8-c717-4a7d-84c8-bfb4feca7fdb,survey_285,Lesotho,Mariaburgh,Female,20.0,Secondary,Employed,completed,2026-05-14T10:43:48,field_tool,2,Very Good,4,Low,5
+0796c099-227e-43b2-a735-2c05d44bf2e2,22d683b2-424d-47da-9a2f-ebff5c012cae,survey_890,Lesotho,Freemanberg,Female,58.0,Tertiary,Employed,completed,2026-05-14T10:45:34,field_tool,1,Good,5,Low,2
+1e86fccf-d8cc-4fd5-b8d5-6b57ddc0e142,7bfffc1b-b4c0-4d88-b5fb-e14cb42823dc,survey_444,Lesotho,East Paula,Female,36.0,Tertiary,Unemployed,completed,2026-05-14T10:40:33,field_tool,5,Good,5,Medium,2
+83cf5d69-9b6d-45f5-979e-ba2c288c03ac,592aa26c-ff25-49d2-90bc-569ccceb287e,survey_335,Lesotho,East Luke,Male,36.0,Primary,Self-employed,completed,2026-05-14T10:40:30,field_tool,4,Neutral,2,Medium,1
+30415e89-cc6b-4845-8eab-65c7c1c48036,94168bf7-dd76-4216-9e55-f97e6471262f,survey_690,Lesotho,Port Morgan,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:44:31,field_tool,1,Bad,5,Low,4
+229a7f2b-9364-4e97-bf5e-204524a2ce31,40ec1632-714d-401d-a858-76ffeeae1467,survey_343,Lesotho,Colinfurt,Female,25.0,Secondary,Unemployed,completed,2026-05-14T10:42:34,field_tool,5,Very Good,3,Low,5
+2b3e803a-a961-424f-9be4-059aa1fbe628,c7dba592-fd1a-46b5-b3ca-a376d09795e3,survey_721,Lesotho,South Adamfurt,Female,20.0,Secondary,Self-employed,completed,2026-05-14T10:41:09,field_tool,2,Neutral,5,Medium,2
+5b6fb517-52bc-44af-a420-1748e4efff24,d54f7520-4bd1-4c39-b589-071ec660c9d3,survey_703,Lesotho,Natashabury,Male,43.0,Tertiary,Unemployed,completed,2026-05-14T10:41:23,field_tool,3,Bad,1,High,1
+687ac092-5bc6-44a7-aae6-36a12d83bc6d,d0377baf-6d14-4625-acdc-069394c073a8,survey_197,Lesotho,Lake Stephaniemouth,female,75.0,Tertiary,Employed,completed,2026-05-14T10:42:26,field_tool,3,Good,4,Low,2
+e1c9a57a-3dac-4e6c-b0ed-f01ceef793e5,9330b631-a433-4450-a620-fcffd80582d9,survey_950,Lesotho,Fosterport,Male,54.0,Tertiary,Self-employed,completed,2026-05-14T10:43:46,field_tool,3,Neutral,4,Low,3
+06cc921d-bc51-409d-8a3f-4579d061bbe1,17efbc92-ae21-4ba1-b9e6-142a10d1884d,survey_262,Lesotho,East Ritaberg,Male,32.0,Primary,Employed,completed,2026-05-14T10:45:18,field_tool,2,Neutral,5,Low,1
+82438e0e-6966-4404-90a9-ba20a3a25d4b,317caae5-27b0-4cfb-b416-e77800fa44a4,survey_367,Lesotho,New Jenniferside,Female,68.0,Primary,Employed,completed,2026-05-14T10:41:55,field_tool,3,Bad,3,Medium,2
+e366b26b-26b1-4166-9c05-ed4d7736d855,ed2a42ff-5461-4b1c-a64d-2b78f92f34b4,survey_101,Lesotho,Michellechester,Male,70.0,Primary,Self-employed,completed,2026-05-14T10:41:32,field_tool,5,Good,5,High,1
+5f8a2a47-b38b-4890-8726-da56b167520d,aa17025d-b1ef-4818-948e-72706ec0e91d,survey_151,Lesotho,Wendyland,Male,67.0,Primary,Unemployed,completed,2026-05-14T10:42:54,field_tool,2,Neutral,5,Low,5
+c45c2834-96d3-4f70-9eb3-76f7a00a7a74,debfd7b5-bcc7-403f-a1da-a14e7547c87b,survey_864,Lesotho,Banksstad,Female,24.0,Primary,Unemployed,completed,2026-05-14T10:42:42,field_tool,2,Neutral,3,Medium,3
+844cd9fd-714a-4250-8135-06184a4b7947,c0927d0d-f064-4f67-9e60-aa159ebbbb67,survey_401,Lesotho,New Nicholaschester,Male,36.0,Secondary,Self-employed,completed,2026-05-14T10:44:40,field_tool,3,Good,3,Medium,5
+e23f5108-70ba-47bd-88a9-9331b4dc37f0,bd9a92c1-0fba-4aba-a7ed-d98f715c998b,survey_459,Lesotho,East James,Male,30.0,Secondary,Unemployed,completed,2026-05-14T10:42:01,field_tool,2,Bad,3,Medium,3
+922ca4a3-5858-4ecf-b27c-d23c42ea7568,b590ceea-9275-428c-8e6c-cf9afbc2d1ba,survey_529,Lesotho,Ginaport,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:41:41,field_tool,2,Neutral,4,High,2
+9c245026-43b8-4c52-b145-a4d65312e7f5,bcea71e5-0128-47a4-aaa8-35c17347ab8f,survey_488,Lesotho,Jamesview,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:41:00,field_tool,2,Neutral,1,Low,4
+40cbc703-e45b-40da-b5d3-255b382a754c,da000d27-1a84-4f59-9b6a-c3024bf85285,survey_901,Lesotho,Mooreborough,Male,27.0,Secondary,Self-employed,completed,2026-05-14T10:40:42,field_tool,1,Good,2,Medium,5
+ddcbfa41-8281-4a6d-b2a5-08ff54e183ce,c3923c7b-7828-4cc2-b7c9-79c17f58f942,survey_671,Lesotho,Jeanview,Female,19.0,Secondary,Employed,completed,2026-05-14T10:40:56,field_tool,2,Very Good,2,Medium,1
+642aa5db-b9b8-478d-9ab6-31cd60691048,db9bca04-1948-4c3e-a526-f41c2e5cfd07,survey_551,Lesotho,Lake Kevin,Female,20.0,Tertiary,Employed,completed,2026-05-14T10:45:11,field_tool,4,Very Good,5,Low,1
+7f827a11-cdad-4ec1-ad02-c6e85c1ea469,cb40ddeb-b774-471e-8f61-a3e61b933086,survey_394,Lesotho,Leehaven,Female,25.0,Primary,Employed,completed,2026-05-14T10:40:28,field_tool,4,Good,2,Medium,3
+7edb0d06-53cf-4155-b2cd-785b5ca50f9d,cd5e4d31-dfb6-4b0b-bb8a-6b03ab0c1272,survey_602,Lesotho,East Jonathanborough,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:40:34,field_tool,2,Good,1,High,5

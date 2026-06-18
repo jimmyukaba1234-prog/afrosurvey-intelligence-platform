@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+bd462f9f-8266-44f1-8656-89aef5534ae0,74d54610-ae4b-4031-9dd7-2830d3eb39bb,survey_459,Mauritania,Savannahview,Female,49.0,Tertiary,Unemployed,completed,2026-05-14T10:39:52,field_tool,1,Good,5,High,4
+28dfe2d5-2225-429a-86b8-264a671b9b59,c3d15dfd-f79f-4626-b9f4-09b1556bdbd2,survey_217,Mauritania,New Courtneychester,Female,57.0,Secondary,Unemployed,completed,2026-05-14T10:42:31,field_tool,1,Very Good,4,Medium,2
+f007efc0-1601-4fca-97dc-72f287f6aeeb,2fb72d0c-2eb7-46e1-9365-728c8bd36f9d,survey_853,Mauritania,Myersville,Male,44.0,Tertiary,Unemployed,completed,2026-05-14T10:43:30,field_tool,5,Bad,3,High,3
+a0fc06fb-fa9b-4ad2-9087-1642803be4f2,e2fa7fd1-45cc-433f-b64e-db9a2829d5c7,survey_608,Mauritania,Brownbury,Male,65.0,Tertiary,Self-employed,completed,2026-05-14T10:42:12,field_tool,4,Very Good,1,High,5
+4566d443-f48b-4706-b652-0a53a3225eb4,5fa9c5f1-c336-4784-8003-800717020b8e,survey_607,Mauritania,Port Allison,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:39:56,field_tool,1,Bad,4,Low,3
+01940eba-8310-4f06-af34-1f07a28d1d4f,16b7fe49-5f7e-4169-bc50-8814d724dce7,survey_291,Mauritania,Millershire,Female,23.0,Primary,Self-employed,completed,2026-05-14T10:41:59,field_tool,5,Bad,2,Low,1
+8ca81408-1ab6-4f4c-bcd9-bb88d05bed37,90d550d1-b14a-463d-bfcf-1f28abe921c8,survey_157,Mauritania,Scotttown,Female,24.0,Tertiary,Employed,completed,2026-05-14T10:39:52,field_tool,1,Very Good,3,Low,2
+9825bd81-7276-4bac-8f96-8159d669f8fb,6d5faa53-0cbb-4654-ba0b-b3049a943861,survey_223,Mauritania,Stacyview,Male,27.0,Primary,Employed,completed,2026-05-14T10:40:07,field_tool,4,Good,5,High,4
+8e1cf704-9513-400e-95f3-cc845ed7e420,7905b296-b131-4ca0-b71b-9869cd45ddae,survey_524,Mauritania,Lake Glennmouth,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:41:39,field_tool,4,Good,4,Medium,2
+18acbf1d-cc9d-430b-9fa3-8b14e71fee7a,6b031a0b-f7d8-4067-89b2-bcb4ccc0bc32,survey_520,Mauritania,North Markmouth,Female,38.0,Primary,Unemployed,completed,2026-05-14T10:45:02,field_tool,3,Bad,1,Medium,1
+e7b4a886-da27-4e5f-b86c-026ed24db202,e13d6324-d5a1-4058-aeb0-9c5c559a31a7,survey_806,Mauritania,Crystalberg,Male,56.0,Tertiary,Employed,completed,2026-05-14T10:43:26,field_tool,2,Good,1,Low,3
+77d4de83-625b-4990-b3a3-cfba5c919748,ba2c10d1-adf8-4230-8ec8-61c58f656148,survey_661,Mauritania,North Daniel,Female,31.0,Primary,Unemployed,completed,2026-05-14T10:44:24,field_tool,3,Good,1,Medium,5
+5b668ead-041f-4cde-a052-a4914ed05db4,ecb36230-3aa6-4805-9d51-48d41057e631,survey_336,Mauritania,New Terribury,Female,67.0,Primary,Unemployed,completed,2026-05-14T10:44:46,field_tool,5,Good,1,Medium,4
+6763988c-fbc1-4012-9faf-c15ba81b9809,1316aadc-1c7a-4b7f-b0c9-496c59cabae3,survey_496,Mauritania,Walshmouth,Female,28.0,Secondary,Unemployed,completed,2026-05-14T10:45:07,field_tool,1,Very Good,1,Medium,4
+55c5f27c-90d0-430a-97ef-f225f928be08,1f96431f-cf32-427b-96cf-6f1caff77e48,survey_297,Mauritania,Lindaberg,Male,58.0,Primary,Self-employed,completed,2026-05-14T10:41:27,field_tool,4,Neutral,4,High,2
+16bdb005-7bb4-4325-8cf5-2ee5bf8b0170,c527dbd9-cac9-45b7-93d1-96ae434d1335,survey_108,Mauritania,Port Lisashire,Male,26.0,Primary,Employed,completed,2026-05-14T10:43:18,field_tool,4,Bad,5,Low,2
+46beef18-8459-4591-9640-ffbd1aa18507,eef20a89-cc30-4dfa-aff4-6fc607769828,survey_944,Mauritania,Gloverborough,Female,73.0,Secondary,Self-employed,completed,2026-05-14T10:43:51,field_tool,1,Very Good,1,High,2
+59d57f4a-a577-4759-aece-f4b7b7127a44,6227b45e-c46c-4623-b3ce-33c4db9c83a1,survey_928,Mauritania,Mortontown,Male,23.0,Primary,Employed,completed,2026-05-14T10:45:18,field_tool,3,Good,4,Medium,4
+76284f6b-11e2-4739-a765-46caf676ab15,0fc0cad1-e006-40df-8f88-4a79dfd0551b,survey_245,Mauritania,Farmerchester,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:40:09,field_tool,3,Good,2,High,5
+b7207a7a-fc06-471e-b9db-7b250baff16e,e04b7968-b786-4e02-97ee-6a27edf7fe79,survey_826,Mauritania,Lake Roberttown,Male,42.0,Tertiary,Employed,completed,2026-05-14T10:42:43,field_tool,3,Bad,5,High,5
+8ee4ec44-3594-45d6-9ad4-145c49c50fdf,3aa71929-8a57-44a1-968e-53e5187215cf,survey_908,Mauritania,New Jessica,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:39:53,field_tool,5,Good,1,Low,3
+0e311aa1-3d55-4de6-a54b-295207bea2e4,18e5c027-becd-4b50-b29f-54d7d3e50064,survey_874,Mauritania,Jessicaton,Male,63.0,Secondary,Employed,completed,2026-05-14T10:43:34,field_tool,5,Bad,5,High,2
+5310a8e5-50aa-4336-80a2-17c762ddf62c,33bf86c8-45fe-4358-8531-13c59ecbef4e,survey_657,Mauritania,West Jeffrey,Female,31.0,Primary,Unemployed,completed,2026-05-14T10:43:34,field_tool,1,Bad,2,High,5
+68a11258-7e08-49c7-a022-35013204f28f,dd3c90cf-257c-487a-bd19-eacf30ada63e,survey_397,Mauritania,Ryanstad,Male,,Tertiary,Employed,completed,2026-05-14T10:45:24,field_tool,5,Good,4,High,3
+d51617e7-a86e-4833-82ce-a1025906e10c,4a5178c6-27b3-4866-a803-82c45bb9f184,survey_945,Mauritania,North Johnview,Female,37.0,Secondary,Employed,completed,2026-05-14T10:40:22,field_tool,1,Bad,3,Medium,5
+c226156e-d7bc-4596-a6a0-722e61b65eb1,d2da0a09-8d5d-494c-a0e4-54834b253311,survey_972,Mauritania,East Robertside,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:44:31,field_tool,3,Good,5,Medium,5
+49a53e71-ac4f-4a5c-a84f-5c83aa81c15e,6279ff51-d26a-4150-9f82-7b89221c522c,survey_751,Mauritania,Amberbury,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:42:29,field_tool,3,Bad,4,Low,4
+ace99ef0-0167-4f7e-b219-9aa0dab34a3c,78c2c0a5-2cab-420b-a2d3-ab38f238fd58,survey_174,Mauritania,New Jamie,Male,50.0,Primary,Unemployed,completed,2026-05-14T10:45:14,field_tool,3,Bad,4,Medium,1
+94770533-df57-43b6-8041-0e02dce86964,c9b11bcc-68f4-4844-9dcb-7141f350c217,survey_994,Mauritania,Rickychester,Female,27.0,Primary,Unemployed,completed,2026-05-14T10:44:54,field_tool,5,Bad,2,High,1
+468c64d1-40e6-4636-9992-4ebda61790ee,67d96f23-c162-446a-9336-065044b454fe,survey_577,Mauritania,Scottborough,Male,31.0,Secondary,Employed,completed,2026-05-14T10:40:23,field_tool,5,Good,3,Medium,5
+37da5558-96ff-4447-b4ef-26b191933885,914ef454-7ddc-4695-9ff3-2ca69e9827dd,survey_537,Mauritania,Riveraville,Male,32.0,Primary,Employed,completed,2026-05-14T10:41:14,field_tool,4,Bad,2,Medium,3
+974d0b96-c928-4dd2-b201-64d4bc6c9def,98291d71-3e7e-4016-a1d3-e422f7398264,survey_736,Mauritania,Monicaview,Male,65.0,Tertiary,Employed,completed,2026-05-14T10:44:57,field_tool,4,Good,5,Low,3
+091fcd7e-3a8c-4c21-8339-631e35c93859,a6f4f1ea-7680-49e1-8144-5bef37b8fbb0,survey_522,Mauritania,Markhaven,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:41:56,field_tool,3,Very Good,1,Medium,1
+e456f3c4-ed41-439a-9c6b-312db46c660c,b8314def-a6a9-4d7d-9899-375a401d516e,survey_243,Mauritania,Lake Lindabury,Male,22.0,Tertiary,Unemployed,completed,2026-05-14T10:40:11,field_tool,5,Very Good,5,High,1
+53964ec4-cd95-4c91-b021-0a6a61c70fed,796b584b-e015-4046-9109-6d1f7af5da53,survey_784,Mauritania,Port Kylefurt,Female,52.0,Secondary,Unemployed,completed,2026-05-14T10:42:30,field_tool,5,Bad,1,High,2
+2dce96ea-ea98-4ba5-b96c-317a7df437f4,a7525688-0818-482b-affb-aa8debb09d20,survey_426,Mauritania,New Robert,Female,23.0,Secondary,Unemployed,completed,2026-05-14T10:40:20,field_tool,5,Very Good,1,Low,5
+bd245afe-a68f-4fba-a89c-a3447e9755a8,3ffb48ef-81f5-4094-9385-878affa00f80,survey_516,Mauritania,Ortizland,Male,39.0,Secondary,Employed,completed,2026-05-14T10:39:58,field_tool,5,Neutral,3,Low,4
+9b728009-9db5-4c7d-9d9b-61fb2a6df5db,e66ae8f0-c8fb-4293-929c-f8d982bc25e8,survey_426,Mauritania,Lake Deborahbury,Female,32.0,Tertiary,Self-employed,completed,2026-05-14T10:43:44,field_tool,1,Very Good,1,Low,5
+aabdcb20-af8c-418a-a5ad-3bf209673439,1c5e230f-1ccf-447c-8e16-1b40872d5836,survey_181,Mauritania,West Stephenhaven,Female,75.0,Tertiary,Employed,completed,2026-05-14T10:45:17,field_tool,2,Good,2,Low,1
+ead833d7-a8e0-4fa9-aac5-c6456edec591,b2ae8b5a-46f3-449a-8487-40f4a4b65786,survey_549,Mauritania,Jonathanbury,Female,71.0,Secondary,Self-employed,completed,2026-05-14T10:45:26,field_tool,4,Bad,4,Medium,2
+7dfff52e-d92c-4165-a58e-18ca9f96a732,784ca10c-67eb-4302-995f-888322574ae3,survey_357,Mauritania,North Teresa,Female,45.0,Tertiary,Self-employed,completed,2026-05-14T10:45:37,field_tool,2,Neutral,1,High,5
+ed45ce56-c226-4955-a316-7e21b55c240b,c918da34-ae27-40bf-9016-83cd1075f720,survey_486,Mauritania,Charlesland,Male,21.0,Primary,Unemployed,completed,2026-05-14T10:39:45,field_tool,5,Bad,1,Medium,4
+e5b95e59-3475-4148-8e06-903faa2d7a26,b9f826c9-5cbd-4266-85c4-bf899179d425,survey_509,Mauritania,South Michael,Female,60.0,Tertiary,Employed,completed,2026-05-14T10:44:10,field_tool,1,Very Good,3,High,1
+634e32f9-185e-462f-a097-c27e74fa8d2e,12239911-21fc-4617-af94-7143a3c62bff,survey_403,Mauritania,Petersonland,Female,24.0,Secondary,Self-employed,completed,2026-05-14T10:42:15,field_tool,1,Very Good,5,Medium,5
+8e0eb77a-3a0b-4a86-9ab6-c362d09f8852,ae30ecb1-2c31-49ff-af03-35dcce373e1d,survey_381,Mauritania,Port Aaronside,Male,35.0,Primary,Unemployed,completed,2026-05-14T10:44:04,field_tool,1,Neutral,2,Low,1
+892a7fba-caf7-457c-956c-2e8a99135fe4,a71a4d9e-8565-415b-bfa9-63b28acb14c7,survey_973,Mauritania,Mayport,Female,34.0,Tertiary,Employed,completed,2026-05-14T10:40:36,field_tool,1,Neutral,5,Low,4
+e0335fb2-aa9a-4523-9298-e978a1ebd9ac,e584ad82-7535-42a2-bd6e-1cc54eecd004,survey_456,Mauritania,Martinburgh,Female,24.0,Primary,Employed,completed,2026-05-14T10:44:01,field_tool,4,Good,3,High,4
+37112982-c772-491c-87f2-5f4638619add,f38fa50b-f12d-4aab-9370-580e5e63b636,survey_453,Mauritania,Mccormickborough,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:40:22,field_tool,1,Bad,5,Medium,2
+4f6edc8d-ba9b-4300-93a1-b1059dd627bb,904e001a-4768-40b8-8161-e3cbd72e6e5a,survey_812,Mauritania,West Justin,Female,46.0,Secondary,Employed,completed,2026-05-14T10:44:27,field_tool,1,Very Good,3,Low,3
+75b57ab5-97a3-4e09-9629-37dd6ad37fdf,b89a1272-0b7e-4f3e-b8e4-48091264be5d,survey_694,Mauritania,Harrismouth,Male,57.0,Secondary,Employed,completed,2026-05-14T10:43:15,field_tool,5,Very Good,2,Medium,2
+d858de76-e87c-4d4f-b3c1-d53b3eb37ec2,b623e05b-f126-471a-aca7-4d46dc970cb8,survey_670,Mauritania,New Emmaton,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:41:43,field_tool,2,Good,2,Low,5
+e7e4438d-010a-4c5c-b6c0-5f5562efd71c,7388d944-78bc-4d3f-b51a-12927292116b,survey_928,Mauritania,North Connor,Male,53.0,Tertiary,Employed,completed,2026-05-14T10:41:09,field_tool,3,Good,1,Low,2
+e2add6ac-30e3-4eba-ab4e-087c4ffaf549,b0bacf85-51ab-411b-9557-4d27d16f6f57,survey_399,Mauritania,Port Shawn,Female,68.0,Primary,Employed,completed,2026-05-14T10:45:19,field_tool,3,Very Good,4,High,2
+4bc127b0-de39-447a-a24c-05242552c37b,949d9991-e9b4-4912-9ba8-bb555182dcba,survey_711,Mauritania,East Mark,Female,40.0,Tertiary,Unemployed,completed,2026-05-14T10:44:20,field_tool,5,Neutral,2,High,1
+bfc5e1f5-99cc-4450-beb7-973be9af7db8,fe1a76f8-b1d3-4d4d-9d43-a586504db123,survey_672,Mauritania,Elizabethport,female,41.0,Primary,Self-employed,completed,2026-05-14T10:44:36,field_tool,1,Good,2,Medium,1
+fe812c8e-3e9f-41bc-b43f-4be7e2ce040c,051ef159-aa10-4a7e-8a11-40a4462a3d44,survey_574,Mauritania,Bakerchester,Male,20.0,Secondary,Self-employed,completed,2026-05-14T10:43:44,field_tool,3,Neutral,4,Low,3
+da91f224-7d30-483d-826d-b90ac3d961e5,75465a86-966f-4451-ba31-2ec32264ad66,survey_223,Mauritania,North Aliciahaven,Male,75.0,Tertiary,Employed,completed,2026-05-14T10:40:55,field_tool,1,Bad,4,Low,5
+c41153d7-be39-4a5e-b5d8-345886fb753a,bf9ad280-ee8f-45f5-81ad-990418a45130,survey_686,Mauritania,South Nicholaston,Male,61.0,Primary,Employed,completed,2026-05-14T10:42:27,field_tool,4,Neutral,1,High,4
+8378514b-6cc7-4c93-8be0-de452e2a2b43,93f286a7-c44b-4d66-bac1-fc6aaa86ab4d,survey_566,Mauritania,Patriciaside,Male,51.0,Secondary,Unemployed,completed,2026-05-14T10:45:19,field_tool,3,Neutral,1,Low,4
+0fed24c5-43a2-4e7e-b918-b90ad637c127,769172e7-af15-4c28-afd8-4bdba23159b4,survey_813,Mauritania,West Douglasbury,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:45:36,field_tool,5,Good,5,High,2
+36fa55d1-07a3-40ce-8a40-8cf8f6c363d4,68028b98-77ee-474c-a8b0-0b9870202c67,survey_481,Mauritania,Mendozabury,female,47.0,Primary,Self-employed,completed,2026-05-14T10:40:49,field_tool,3,Very Good,1,Low,5
+6783a2b5-ad02-418e-9b00-de558c856b22,456ebbd0-e35b-4be0-9f8c-cebed70e3593,survey_319,Mauritania,Reyesfort,Female,26.0,Secondary,Self-employed,completed,2026-05-14T10:39:45,field_tool,5,Bad,3,Low,1
+ad53e1cb-fd32-4b0b-abfd-280ba9f47bc8,783471b7-a25d-451c-8c3e-ce4b2d0f5390,survey_453,Mauritania,Port Laura,Male,44.0,Primary,Employed,completed,2026-05-14T10:40:47,field_tool,5,Neutral,1,Medium,3
+2259d6b9-26f4-4fc5-956a-ee011ba43b21,5c5b7b8b-0748-424e-8cc2-2491359430af,survey_575,Mauritania,Wilsonberg,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:40:41,field_tool,2,Neutral,5,Low,1
+e4bafbd1-9499-4ff3-a52d-7f838b91cc9a,bd79edde-d778-41a6-9a35-85a3672e7c97,survey_542,Mauritania,Whitefurt,Male,64.0,Secondary,Self-employed,completed,2026-05-14T10:45:26,field_tool,5,Very Good,3,Medium,4
+9a8ea6ac-c7e9-4f79-b57e-af525aa6e64b,a1713120-85bf-471f-a2d5-da5de59cb2c0,survey_123,Mauritania,South Jeremy,Female,,Primary,Unemployed,completed,2026-05-14T10:41:08,field_tool,2,Very Good,4,Medium,2
+195e075c-dc6e-4ca9-b977-495da65dce87,0f0908da-de81-49cf-9053-acba860739ff,survey_413,Mauritania,Georgeside,Female,57.0,Primary,Employed,completed,2026-05-14T10:42:28,field_tool,1,Very Good,5,Low,3
+1eb58e53-2d11-4a40-bf39-93c5d5f11b7f,4a647ed3-4a8e-404a-afab-ce11bd0144a9,survey_973,Mauritania,Colonfurt,Female,51.0,Primary,Unemployed,completed,2026-05-14T10:44:01,field_tool,5,Very Good,4,High,4
+a4f25abc-0cfa-414a-bec4-5978668c984f,effac214-54f1-4244-9309-54c486efbac8,survey_218,Mauritania,East Chad,Female,39.0,Primary,Employed,completed,2026-05-14T10:40:21,field_tool,2,Bad,1,Low,1
+3ef7cb7f-a4bb-432d-8d5c-deba5115ec4f,bd991cd7-d00d-408d-93e9-b14aabd6a9c5,survey_761,Mauritania,East Jessica,Female,75.0,Tertiary,Unemployed,completed,2026-05-14T10:42:04,field_tool,3,Very Good,3,Low,5
+2fc3dfdb-e68b-4420-9ac7-c4b3dcb31acd,7a764894-184e-49e4-a060-be2e4c1e9a9c,survey_364,Mauritania,Wendyport,Male,20.0,Primary,Unemployed,completed,2026-05-14T10:45:35,field_tool,5,Very Good,3,Medium,4
+c3e064e4-106f-45f9-9e56-91326c451805,6a92954e-58a8-4e6f-8768-e2d688309d62,survey_584,Mauritania,Mollytown,Female,42.0,Primary,Self-employed,completed,2026-05-14T10:42:07,field_tool,1,Good,3,Medium,5
+e83cea84-05d9-4f0f-85ca-1bf57e49cd76,4219e247-2b19-462b-aa29-5f034febd75e,survey_280,Mauritania,Port Kimberlyport,Female,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:31,field_tool,4,Very Good,2,Low,4
+212daeca-d75c-4990-b2d3-2092010d39a0,177be9e6-3739-4cb7-ae86-998f679c111d,survey_873,Mauritania,Hardyfurt,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:42:09,field_tool,4,Good,1,Low,5
+8f4b6792-c213-42a4-b4ff-923c1a32eb35,0e1280e0-7ca6-4c80-9860-29edd7e44d12,survey_212,Mauritania,North Jeffreymouth,Male,42.0,Secondary,Unemployed,completed,2026-05-14T10:44:42,field_tool,4,Bad,1,Low,5
+f494abd3-2020-4faa-83ad-2bf2e605f3ac,d60b6a74-f9f9-4ddb-81db-94bb0410053f,survey_334,Mauritania,Bakerberg,Male,53.0,Primary,Unemployed,completed,2026-05-14T10:40:41,field_tool,2,Neutral,2,High,4
+d15ac35f-5693-4473-8439-690c308b0328,0a037f1b-e8e5-4096-bfa0-b56121f780f3,survey_215,Mauritania,Larafurt,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:39:52,field_tool,5,Neutral,4,Medium,4
+c1fbc6e1-8986-4b30-b96a-677ef0e9cfe3,c1d26c07-ac9a-4a0e-9f43-e7955ff9d296,survey_405,Mauritania,Lake Mariemouth,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:43:16,field_tool,1,Very Good,1,Low,4
+9474e492-85ca-4bef-849d-e81968bd47d6,c0ad720a-01a5-4bef-acc5-fd3b97ef1578,survey_108,Mauritania,Lake Angie,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:44:39,field_tool,2,Neutral,4,Medium,4
+0539798e-9099-4e67-9739-bdab2facdbf1,0d5870da-7f76-4d1d-a098-629c18c7a05e,survey_953,Mauritania,South Lisaview,Male,37.0,Secondary,Employed,completed,2026-05-14T10:40:58,field_tool,2,Very Good,3,Low,1
+6e935565-2199-403e-a6d9-fc4d744bc1e0,545a7785-7a35-4455-8fe0-b1f2f3714a30,survey_710,Mauritania,North Suzanne,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:44:29,field_tool,5,Very Good,5,Medium,1
+0fad18d4-4f8a-4416-bd8c-27b01ed0e575,df0a7176-71d6-4a17-b146-aed4f0c2e87a,survey_904,Mauritania,Thomasfurt,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:44:48,field_tool,3,Neutral,2,High,1
+328f89d0-8aa2-4cc5-800a-cea2f7339d57,eadc585b-fe43-4a6a-865c-e8866c7799e4,survey_511,Mauritania,Galvanbury,Male,59.0,Secondary,Self-employed,completed,2026-05-14T10:42:04,field_tool,1,Very Good,3,Low,5
+a5c2d193-4fae-4ebc-a2c1-e8341010e0f0,dc5dc02f-e3d0-49cf-90aa-b2c89e8948ab,survey_347,Mauritania,Beltranland,Female,,Tertiary,Self-employed,completed,2026-05-14T10:42:28,field_tool,2,Neutral,2,High,3
+336388cc-5667-4d7b-924e-ff593faa3466,877aec13-0b78-4f4e-892a-5310b6ebd95a,survey_684,Mauritania,Kristinamouth,Female,46.0,Primary,Self-employed,completed,2026-05-14T10:42:00,field_tool,2,Good,4,High,5
+68a7cd9c-25df-4c1b-941e-abafbd8ae213,4a8cc1c0-b63f-4a96-9141-9bef93485093,survey_725,Mauritania,Bellchester,Male,36.0,Tertiary,Unemployed,completed,2026-05-14T10:43:56,field_tool,1,Neutral,1,High,3
+72224090-1652-47bd-a137-42c361a59d08,2b24b576-95a5-4725-9801-8c43c9a7e20b,survey_316,Mauritania,East Scottmouth,Male,33.0,Primary,Unemployed,completed,2026-05-14T10:40:54,field_tool,4,Neutral,1,Low,1
+24c6891a-14f8-497d-b995-fba8c40230d6,1f61fb86-7bad-40f4-97bd-daf067e12777,survey_138,Mauritania,Ruizshire,Male,29.0,Primary,Self-employed,completed,2026-05-14T10:43:22,field_tool,5,Bad,5,Low,4
+bb108a72-b8cd-4e29-b443-4bf2418f7f78,b2dfaf5f-dbab-4f59-bd84-e6708150fc7a,survey_224,Mauritania,Taylortown,Male,45.0,Primary,Employed,completed,2026-05-14T10:40:16,field_tool,4,Good,1,Low,2
+15df54ea-d778-4887-a2df-c9f13290c126,8a910b94-4159-43dc-afe1-1970c5932f0b,survey_727,Mauritania,Shelleymouth,Male,28.0,Primary,Employed,completed,2026-05-14T10:40:22,field_tool,1,Neutral,4,High,2
+b8206b0e-c31d-466d-8435-47bbbf15f452,aa78dfb2-2252-46d0-b801-03033f1745a1,survey_815,Mauritania,Angelashire,Male,43.0,Secondary,Self-employed,completed,2026-05-14T10:45:42,field_tool,2,Very Good,2,Medium,5
+d94d293a-7290-48f5-ac50-af6c77731745,8debef75-40ef-42a7-b573-5bda687589da,survey_505,Mauritania,East Andrewton,Female,35.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,5,Very Good,3,Low,5
+cdc64241-8d24-4c80-bd81-d06e117b94ae,3de4e97d-f5f1-4da6-b7e4-b2afae251a0d,survey_546,Mauritania,Johnsstad,Male,43.0,Secondary,Employed,completed,2026-05-14T10:45:10,field_tool,3,Good,3,High,1
+bd9edc2b-fe11-45f1-bf4a-bef26a09370a,1d758032-912e-4c78-a415-beebeb8c4af5,survey_658,Mauritania,Johnbury,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:39:45,field_tool,2,Bad,3,Medium,1
+a963ba8c-aaba-495a-8840-498c66243536,f3fa3920-c9bf-4704-8e7d-ddb257f61ee1,survey_307,Mauritania,New Victorfurt,Male,54.0,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,2,Good,2,Low,2
+072fd2c7-ac4a-4bda-9d67-2e09a8fbaef4,47df405d-00d8-4c51-8839-8203eb0e11fa,survey_102,Mauritania,Graytown,Male,20.0,Tertiary,Unemployed,completed,2026-05-14T10:40:14,field_tool,2,Neutral,2,Low,1
+478de033-e15b-4a5c-88e4-eceb8176286a,afb9b175-f808-493a-af4c-460508f0d796,survey_577,Mauritania,New Michaelhaven,Male,37.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,3,Good,4,High,3
+28381946-db04-4e00-aecd-3871d61840fb,8779a557-1770-4cad-a030-c3cacaffb9c0,survey_223,Mauritania,Lake Eddie,Female,35.0,Tertiary,Unemployed,completed,2026-05-14T10:45:38,field_tool,1,Very Good,1,Medium,2
+cb46aa77-691a-4201-ae55-ed710736bfab,3166f4d0-5300-40f7-ae55-b2218abe1f2b,survey_982,Mauritania,Ritterville,Female,50.0,Primary,Unemployed,completed,2026-05-14T10:42:15,field_tool,3,Bad,5,High,3
+23799b57-07f3-4e2d-bcc8-42ed99a68397,13ac80ee-ab8b-4ad3-846f-d7a35b4be0ff,survey_745,Mauritania,New Timothystad,Female,65.0,Tertiary,Unemployed,completed,2026-05-14T10:40:11,field_tool,1,Very Good,3,Low,5
+91501102-a561-4809-894c-142c55bcd612,76c16764-d082-40c0-ba29-f767f5f09c71,survey_382,Mauritania,Karenborough,Female,35.0,Secondary,Self-employed,completed,2026-05-14T10:42:59,field_tool,5,Bad,4,High,3
+17c0554f-8964-4f6d-920d-b8281505386d,56e03e97-2d42-4f7f-9326-5657a56a0e3a,survey_934,Mauritania,West Gabrielfurt,Male,56.0,Primary,Self-employed,completed,2026-05-14T10:40:31,field_tool,1,Good,5,Low,2
+9fe664c6-38f8-49e7-9b65-726bb243a98f,868d5efb-eb87-4ab3-b170-b904f6d2212f,survey_604,Mauritania,East Larrymouth,Female,22.0,Primary,Employed,completed,2026-05-14T10:41:03,field_tool,5,Neutral,4,High,5
+aa38b291-6ae8-42ee-9f22-af34f56ffc77,cb55926d-14aa-4dc0-a7d2-de1e1117619e,survey_484,Mauritania,Port Linda,Female,30.0,Secondary,Unemployed,completed,2026-05-14T10:44:21,field_tool,3,Good,1,Low,2
+3cca3883-9c09-4dc6-b666-6fc7840545ec,0b8ca974-0466-4845-b4f2-22bd7464c839,survey_648,Mauritania,Williamsbury,Female,37.0,Primary,Self-employed,completed,2026-05-14T10:45:14,field_tool,4,Good,3,Low,1
+14bc2ac4-dc91-4592-996e-0435aeda9621,cc97d77d-ee52-4fc1-9117-329c28e363fa,survey_262,Mauritania,Guzmanstad,MALE,22.0,Primary,Unemployed,completed,2026-05-14T10:43:38,field_tool,4,Good,1,Medium,3
+14cb2d53-6f74-468a-a265-ff428e4e3eac,f8273761-be1c-4f05-b7d1-57003a289a44,survey_204,Mauritania,Richardsonport,Male,28.0,Tertiary,Employed,completed,2026-05-14T10:45:11,field_tool,5,Bad,1,High,5
+865ff5f1-55fa-4cdc-8404-77a7523d5faa,971db14c-8cd2-44f5-8589-ec511a553d81,survey_103,Mauritania,Mitchellton,Male,41.0,Primary,Self-employed,completed,2026-05-14T10:43:47,field_tool,1,Very Good,3,Medium,5
+1810f11e-f570-48fc-a4b9-137c15e0d267,5666d501-c5c9-433c-b7eb-55f1205b332a,survey_303,Mauritania,Julieborough,Female,42.0,Secondary,Unemployed,completed,2026-05-14T10:43:55,field_tool,4,Very Good,1,High,4
+d2cc6053-88bc-44eb-a228-53268a170a4d,4c855cfe-959b-4536-831e-d8b462a074ae,survey_166,Mauritania,East Tinatown,Female,47.0,Tertiary,Employed,completed,2026-05-14T10:44:45,field_tool,4,Very Good,5,Low,3
+1b74a18b-998e-4a42-b790-c26ea9d680ce,f98dd6a8-e2b9-4f55-9d4f-274c833568df,survey_509,Mauritania,Jessicastad,Male,52.0,Primary,Unemployed,completed,2026-05-14T10:41:01,field_tool,5,Good,4,High,2
+67d4b70b-aaf6-483f-b9d1-c13da5ab0804,d2a481cf-2298-4f21-aad9-ee61b6cef198,survey_837,Mauritania,Marioview,Male,44.0,Secondary,Unemployed,completed,2026-05-14T10:40:46,field_tool,3,Good,3,Low,2
+715c4d1f-6a6b-43ce-a486-b3afc744099b,ff829517-5753-4be1-826f-e5542b4820ca,survey_586,Mauritania,West Christopherbury,Male,73.0,Primary,Employed,completed,2026-05-14T10:43:02,field_tool,4,Good,5,Medium,5
+425cf7dd-8601-43c5-84bb-8a01f4b35472,59e31fc9-25dc-44e2-b3e0-b555bc858724,survey_707,Mauritania,Allisonchester,Female,52.0,Primary,Employed,completed,2026-05-14T10:40:37,field_tool,3,Bad,5,Low,2
+9f2d7023-3a83-4584-a37a-c01390392823,30950ae5-bc09-47c4-b609-66943c35b27d,survey_118,Mauritania,North Michael,Male,19.0,Primary,Employed,completed,2026-05-14T10:40:32,field_tool,1,Neutral,4,Low,1
+225a0b5e-579e-4dd7-b00f-5bb10633cb0a,e6a77db2-a0ee-452c-a563-538cce9fcfca,survey_629,Mauritania,North Christian,Male,46.0,Primary,Self-employed,completed,2026-05-14T10:45:25,field_tool,5,Good,1,High,4
+c7753f4b-d281-419e-a840-e1ed2652174d,7e1e1fb4-3e7f-4ec0-b314-cce2a7fec4b4,survey_797,Mauritania,East Heather,Female,18.0,Secondary,Employed,completed,2026-05-14T10:43:17,field_tool,5,Very Good,2,High,3
+1e63fbda-9507-44f2-a814-68d334463a72,9ed69269-b02c-48d1-b78b-f9dd7828de04,survey_469,Mauritania,New Henryville,Female,42.0,Tertiary,Employed,completed,2026-05-14T10:41:30,field_tool,5,Neutral,3,High,4
+f0a6873c-54f6-4fc1-a8a4-44deb3dc1fc6,b9e01792-5ed4-4f1c-9e6d-cc47bdc4087a,survey_512,Mauritania,Lake Sandra,Female,56.0,Secondary,Self-employed,completed,2026-05-14T10:40:21,field_tool,2,Very Good,5,High,2
+8ce02671-32d8-4924-8fcf-056ddb95109a,1a956662-139b-4f4f-9e00-5657d0485e32,survey_972,Mauritania,New Andreaton,Female,72.0,Primary,Unemployed,completed,2026-05-14T10:44:01,field_tool,3,Good,3,High,5
+c312297f-dc81-48dc-88ef-9e9e40327581,36981525-91ea-4904-95b2-3a8d7b68de4c,survey_195,Mauritania,East Brandon,Male,41.0,Secondary,Employed,completed,2026-05-14T10:45:16,field_tool,2,Very Good,3,High,3
+764e53d7-9d0e-40b8-a182-0fe558aa4905,842a7268-3030-476f-902f-4565d2b3e301,survey_519,Mauritania,Lake Deannaside,Female,24.0,Secondary,Unemployed,completed,2026-05-14T10:43:18,field_tool,5,Very Good,3,Low,4
+4dd621fc-b900-4c29-8aed-92f10b0dab7a,2966a4f8-0560-48c5-adbd-4e4fd26a42fe,survey_867,Mauritania,Port Katherinehaven,Female,27.0,Tertiary,Unemployed,completed,2026-05-14T10:41:00,field_tool,2,Good,4,Medium,5
+5105f5f9-86bc-47a5-a716-9f1b58c6c192,a83a3cd3-6832-4d72-9055-55788fd7fd91,survey_690,Mauritania,New Davidbury,Male,53.0,Secondary,Employed,completed,2026-05-14T10:41:26,field_tool,1,Bad,1,High,2
+309f78e4-8469-457e-a286-ccde05fa61c0,ff37999b-ec3f-42c2-915b-3539c3b1940e,survey_288,Mauritania,Whiteside,Female,41.0,Secondary,Self-employed,completed,2026-05-14T10:41:49,field_tool,3,Good,5,High,4
+28dd9988-67d6-401e-a4b5-424bf86188f9,8167b874-5e87-4695-b14f-0cb0e21358be,survey_354,Mauritania,West Tiffanyhaven,Female,34.0,Primary,Self-employed,completed,2026-05-14T10:43:33,field_tool,4,Bad,2,High,1
+a550c42a-5d23-4d27-8d7d-9c9a606316bc,d1f7f21c-f382-4aea-a8b3-a9b77c690851,survey_664,Mauritania,Masonmouth,Female,33.0,Primary,Unemployed,completed,2026-05-14T10:43:10,field_tool,4,Good,5,Low,1
+d195005c-1df4-408f-a4be-0e44a8d5acc4,0d2d8a6f-91a1-4d87-beb4-14f18e759ad8,survey_174,Mauritania,West Justin,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:41:55,field_tool,3,Good,3,Medium,1
+b8d19815-ac04-4dff-90a6-372bcf441e3d,331b32ce-ed96-4109-a893-e94e45fc0b77,survey_399,Mauritania,Savannahhaven,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:45:06,field_tool,4,Bad,5,High,5
+8082943f-6638-473d-8a6f-13ca3d1d95f5,83a77c99-4594-4b38-a1af-80f5b8bdb73d,survey_358,Mauritania,Anthonyshire,Female,59.0,Primary,Unemployed,completed,2026-05-14T10:41:17,field_tool,2,Very Good,4,High,2
+88310a79-628b-4e19-a717-f8f29b97a138,077ef8fe-78c7-4652-85c2-9f4cafb75410,survey_172,Mauritania,New Billy,Female,65.0,Primary,Self-employed,completed,2026-05-14T10:43:50,field_tool,4,Very Good,1,Low,5
+b18c506a-6afa-4b8b-89d2-89f276c85fbc,fbd39f0f-4172-4720-9f65-79e8e8402928,survey_753,Mauritania,Port Maria,Male,23.0,Secondary,Employed,completed,2026-05-14T10:41:00,field_tool,1,Good,2,High,5
+1c56875b-42ce-4abe-a6d0-c99d4466f53b,437c3a24-a3f5-4d11-a588-0a96ed30ec2f,survey_256,Mauritania,North Kevinfurt,Male,50.0,Secondary,Self-employed,completed,2026-05-14T10:44:18,field_tool,4,Very Good,1,Low,1
+696a8b01-79f7-48a8-83e6-811b7d4b279c,d996effa-c685-4254-8cd2-6500939a3d2b,survey_969,Mauritania,Port Richard,Male,20.0,Secondary,Self-employed,completed,2026-05-14T10:45:13,field_tool,2,Very Good,1,High,3
+19920588-ad8f-43db-b147-e10313a51229,1b9673a3-c11f-4962-9b57-37d1ac52398f,survey_998,Mauritania,Paulafurt,Male,58.0,Primary,Self-employed,completed,2026-05-14T10:42:44,field_tool,2,Good,1,Low,1
+39fd8c01-215e-4610-adec-1b31804184c1,6aa4fc98-600c-45f4-826e-58e2c3bed2c0,survey_977,Mauritania,West Brianbury,Male,23.0,Tertiary,Self-employed,completed,2026-05-14T10:42:00,field_tool,4,Neutral,3,High,1
+0abfd8c1-42d1-4c66-a20a-ed6fcc0a8c17,e33632e1-408c-49ea-99ad-a05489ed2eea,survey_795,Mauritania,Sylviamouth,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:41:45,field_tool,3,Very Good,2,High,4
+c1ab98e9-53a0-4e9a-aae7-c379a250f1b0,d11daabb-9112-4dfd-b465-b49f6bdfab27,survey_563,Mauritania,Lake Karla,Male,48.0,Primary,Unemployed,completed,2026-05-14T10:43:15,field_tool,3,Neutral,2,High,2
+7a1a1800-ad94-4899-85cc-b8c83a8f7402,583698d5-42b5-43d2-b7c4-06b930a7b7c9,survey_161,Mauritania,Brownland,Male,55.0,Tertiary,Self-employed,completed,2026-05-14T10:40:18,field_tool,1,Very Good,1,Low,1
+db081463-0517-4526-b8fb-8a32adae32fd,faff4977-5bff-4c8c-b954-c226ebe3d009,survey_428,Mauritania,Russellland,Male,40.0,Tertiary,Employed,completed,2026-05-14T10:45:42,field_tool,5,Good,5,Medium,1
+fbf8f288-952d-4a94-b305-cde826c74242,6c85d90c-a8f1-40e9-8e4f-f1484a97ee94,survey_838,Mauritania,Brooksview,Male,25.0,Secondary,Employed,completed,2026-05-14T10:44:41,field_tool,5,Neutral,5,Medium,5
+b9f0f33e-d51d-4a33-9a7a-f3270a9e7108,9b4a21c3-b192-4170-864d-5c410f03c060,survey_977,Mauritania,Thomaston,Female,18.0,Secondary,Employed,completed,2026-05-14T10:43:49,field_tool,5,Neutral,2,Medium,3
+5bd39ffe-b0fe-4db3-8fd3-75ae53ab6d71,188dbf50-1dc9-44f1-a257-75340b12b2c4,survey_930,Mauritania,Mistyburgh,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:41:07,field_tool,4,Very Good,1,High,4
+b21cf4de-d852-4df1-bf3d-6bb2d22609b1,a3f5581e-d385-4ea0-b6cd-3c09a8a0da2a,survey_378,Mauritania,Patriciashire,Female,70.0,Tertiary,Unemployed,completed,2026-05-14T10:43:15,field_tool,1,Neutral,3,High,2
+4f28b410-ff2d-4ccf-8d3e-0e8c8a4cb143,59cb54ce-ebf3-4015-a083-f85e02f1e5df,survey_963,Mauritania,Melissaburgh,Male,31.0,Tertiary,Self-employed,completed,2026-05-14T10:41:13,field_tool,2,Neutral,5,Low,4
+da26c5fc-d0b4-482f-a511-8c074bf8ee13,c8197cac-9656-4a76-82ad-4f7be36585bf,survey_371,Mauritania,Andrewport,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:42:09,field_tool,1,Good,3,Low,4
+9a2d5b71-20ab-4cd7-9836-1c8b58d20522,cd48d023-04c1-4f17-af56-215036e7cf32,survey_611,Mauritania,Amandaport,Male,21.0,Primary,Employed,completed,2026-05-14T10:44:15,field_tool,3,Neutral,5,High,3
+0740bd06-3048-4063-956a-1b45c88d047d,adcc5dc9-b692-4ae6-b3f1-9dc1a862f59c,survey_207,Mauritania,Cortezland,Male,54.0,Tertiary,Unemployed,completed,2026-05-14T10:44:14,field_tool,4,Good,4,High,2
+25935dec-09ee-467d-9036-d1e6eb35c1ee,52b8741a-48c2-43b3-bee9-0fa31bfe105c,survey_941,Mauritania,Adkinsmouth,female,39.0,Secondary,Employed,completed,2026-05-14T10:43:08,field_tool,5,Neutral,4,High,2
+834a6773-a71d-4329-9921-3a6acfcd6e2b,6ea93132-2146-461b-b3d5-a5a885f47bbc,survey_599,Mauritania,Port Ryan,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:45:39,field_tool,1,Bad,2,Low,1
+f8ecd29b-201c-4cd9-a37d-ec3ae99b06de,094b17e9-a2a4-4782-830a-ec1eade3c670,survey_259,Mauritania,Hahnbury,Female,47.0,Primary,Employed,completed,2026-05-14T10:45:13,field_tool,2,Very Good,4,Medium,2
+8cd289b5-1830-42de-b7c2-e4a8cec42bcd,6c89eaa5-3883-4b2d-8c1a-46b5c94e6220,survey_552,Mauritania,Tammyton,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:43:40,field_tool,5,Bad,3,High,2
+630568c1-8caf-43e2-990a-24aa04372306,7005ba8d-6c7c-4669-8664-606a77e8be33,survey_197,Mauritania,Jasonport,Male,62.0,Secondary,Unemployed,completed,2026-05-14T10:39:45,field_tool,4,Very Good,4,High,4
+5cbafb43-12ad-463d-9790-36d599c13441,74dc8e30-ae9b-4657-b4f5-2d44910e9484,survey_524,Mauritania,West Matthewtown,Male,39.0,Secondary,Employed,completed,2026-05-14T10:40:38,field_tool,3,Good,4,High,2
+3cae6e1c-e6c4-4ce4-b13c-bfb02c1ec923,d25ed5f7-ac10-4258-b97c-093ab1e824e8,survey_893,Mauritania,East James,Female,25.0,Primary,Employed,completed,2026-05-14T10:42:10,field_tool,5,Neutral,4,Medium,4
+8fecff64-4ed8-44b4-8887-81039cea96fd,3a3371b5-ffcb-4e2c-a34e-c581dd3f11c4,survey_937,Mauritania,Port Terryberg,Female,70.0,Tertiary,Unemployed,completed,2026-05-14T10:45:32,field_tool,5,Very Good,5,High,1
+0787878a-2e93-4fd7-b3c1-01c95a699075,9f55549c-49e9-410b-b31b-76f37ca08673,survey_510,Mauritania,Dominguezville,Male,40.0,Secondary,Self-employed,completed,2026-05-14T10:43:58,field_tool,4,Good,2,High,3
+de5ce098-13c9-4790-b6dc-fe0903e7dfcf,3c00fc6d-5b2e-4703-81ae-a06cfabfac20,survey_665,Mauritania,Andrewberg,Male,41.0,Secondary,Unemployed,completed,2026-05-14T10:43:02,field_tool,1,Good,2,Medium,5
+cee8b96b-ca7a-4a28-b19d-8413c4dc4bd9,adb32f98-d383-4043-9fcc-c483e4f43420,survey_586,Mauritania,North Martinhaven,Female,48.0,Secondary,Employed,completed,2026-05-14T10:42:25,field_tool,4,Very Good,5,High,3
+32ab5fcc-1b57-41f6-8ba9-3dd2ea627c8b,6190a494-26f4-44ef-9ec3-4eb3f79aff96,survey_848,Mauritania,East Jared,Female,60.0,Primary,Employed,completed,2026-05-14T10:40:24,field_tool,3,Bad,2,Low,1
+0f63fb6d-be72-49e3-b364-12e575c8807b,f4f3015e-b3e4-4145-b1e7-75820bc5aa9b,survey_214,Mauritania,Terryhaven,Male,39.0,Secondary,Employed,completed,2026-05-14T10:45:34,field_tool,3,Bad,3,Medium,3
+89a08ea8-1d5a-4805-ba0d-68c13c7c4354,241add89-6b36-4b20-8804-a5e48c4abec6,survey_924,Mauritania,West Maryberg,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:39:51,field_tool,4,Good,2,Low,5
+3cfe8e39-5dc1-48ff-ab51-48bb4d39c3aa,171d7629-1673-4079-b26e-6980bfec4a48,survey_941,Mauritania,Longhaven,Male,39.0,Secondary,Employed,completed,2026-05-14T10:41:10,field_tool,3,Bad,4,Medium,1
+fd46859a-3be0-4df3-a74c-2b4e31691ca9,3a134fd1-6637-42df-aa2a-47a3784bb709,survey_330,Mauritania,Brandonhaven,Female,,Tertiary,Self-employed,completed,2026-05-14T10:44:21,field_tool,5,Good,3,High,5
+7f5643b0-2ff5-4601-a479-ebd2ef461ff9,703b99e1-90b2-4dea-8866-27341784bcfc,survey_854,Mauritania,Sharpville,Female,50.0,Primary,Self-employed,completed,2026-05-14T10:44:23,field_tool,1,Good,2,Low,1
+111958d7-6b20-4234-b831-77ff89513145,80ca131f-d255-414a-9317-7e4fe9337154,survey_352,Mauritania,South Christopher,Female,63.0,Primary,Unemployed,completed,2026-05-14T10:42:44,field_tool,2,Bad,1,Medium,3

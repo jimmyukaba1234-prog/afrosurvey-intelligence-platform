@@ -1,0 +1,52 @@
+dataset: reliability_index_gold
+version: "1.0.0"
+description: "Overall pipeline reliability and data quality scoring metrics"
+
+fields:
+  pipeline_name:
+    type: string
+    required: true
+
+  execution_date:
+    type: timestamp
+    required: true
+
+  total_records_processed:
+    type: long
+    required: true
+
+  valid_records:
+    type: long
+    required: true
+
+  invalid_records:
+    type: long
+    required: true
+
+  duplicate_records:
+    type: long
+    required: true
+
+  completeness_score:
+    type: double
+    required: false
+
+  validity_score:
+    type: double
+    required: false
+
+  uniqueness_score:
+    type: double
+    required: false
+
+  overall_reliability_index:
+    type: double
+    required: false
+
+  reliability_status:
+    type: string
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true

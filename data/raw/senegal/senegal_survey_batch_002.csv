@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+daec019f-6f6d-4a9c-b439-dc6159b04b2c,a4c97e1c-8c75-4cf0-92d1-4c9102a472d2,survey_870,Senegal,West Michelle,Male,30.0,Secondary,Employed,completed,2026-05-14T10:44:04,field_tool,4,Bad,1,Low,4
+2658a3ac-709c-4830-b509-087346307c5a,21afea12-f085-458e-a45a-b58d0cc0d343,survey_356,Senegal,West Christopher,Female,65.0,Secondary,Employed,completed,2026-05-14T10:43:18,field_tool,1,Very Good,3,High,4
+d94f15f1-5161-4dbe-a71b-c829745857ea,f6bf62b0-debb-4f0c-bf1b-61a7f2d25d8d,survey_740,Senegal,New Christopher,Female,39.0,Tertiary,Employed,completed,2026-05-14T10:43:05,field_tool,5,Bad,1,High,3
+1e3c7ca1-6b5a-4620-aa63-215ccb0626a1,d6aaef20-a6ac-40e9-bb2d-3e37748bb36e,survey_141,Senegal,Lake Ellen,Female,72.0,Tertiary,Self-employed,completed,2026-05-14T10:45:01,field_tool,4,Good,4,High,3
+0dfc8ce8-3bfb-4b6f-a2af-832810086a15,661e40ee-c977-46c1-a040-89aaf19e147d,survey_180,Senegal,Chadtown,Male,68.0,Primary,Self-employed,completed,2026-05-14T10:40:09,field_tool,4,Bad,2,Medium,3
+9618b33b-d108-4d6b-9416-907ca50305a2,3bb6cb8e-81ba-476d-a24e-fb421278ce5b,survey_489,Senegal,Josephburgh,Male,49.0,Secondary,Unemployed,completed,2026-05-14T10:40:15,field_tool,5,Very Good,4,High,3
+135cd790-09d9-4e1c-a2b7-5ed62aa2ea2c,3bc4d631-a0fc-47db-bc88-a523a92380e8,survey_166,Senegal,North Williamfort,Female,37.0,Primary,Unemployed,completed,2026-05-14T10:39:54,field_tool,2,Neutral,3,Low,5
+d873a802-17ae-485b-b496-a9aa2638375d,9cf4d316-8879-4465-bcc2-6927f2fbe811,survey_313,Senegal,West Rachelfort,Female,28.0,Primary,Unemployed,completed,2026-05-14T10:43:56,field_tool,4,Neutral,3,Medium,1
+e3c535d4-b14a-4992-8a44-72b9ae1e7210,b413ff01-9388-4250-b4e5-1eb99f998d83,survey_871,Senegal,Sylviafurt,Male,44.0,Secondary,Self-employed,completed,2026-05-14T10:42:47,field_tool,3,Neutral,3,High,5
+042d9ecd-b66f-4e89-aa18-c72f14b802b7,4f628995-4b61-4da7-8a3b-f7562702e18b,survey_571,Senegal,Keithton,female,62.0,Primary,Unemployed,completed,2026-05-14T10:42:59,field_tool,4,Very Good,3,Medium,3
+4bbb8088-c743-47ee-806a-382185f9e9eb,d9479921-d574-43e6-b2bf-e3b5462869fe,survey_601,Senegal,Richchester,Male,19.0,Primary,Self-employed,completed,2026-05-14T10:44:21,field_tool,5,Neutral,3,Medium,2
+a696894c-6e4e-4031-ac29-9ac5aedea012,96e0af04-fada-458d-b850-41089bd23541,survey_100,Senegal,East Dylanbury,Female,62.0,Primary,Unemployed,completed,2026-05-14T10:45:43,field_tool,1,Very Good,3,Medium,4
+4d5fbea2-d4cd-433a-ba8f-109f0c067993,1d7035f2-8f21-482b-8c79-5ccc869b694c,survey_584,Senegal,Monicatown,Male,42.0,Primary,Employed,completed,2026-05-14T10:39:48,field_tool,4,Bad,4,High,1
+02528c96-02d7-403b-93c1-6628ad9b7847,b2a73b97-5de6-4b45-8542-03c719573a47,survey_612,Senegal,Carlsonborough,Male,47.0,Tertiary,Employed,completed,2026-05-14T10:45:30,field_tool,1,Good,2,Low,1
+8210c6de-1aba-4a9a-8746-9c07c62c8a1f,9637b296-1540-4872-848b-4c3e5a7049cb,survey_379,Senegal,East Samantha,Male,57.0,Primary,Unemployed,completed,2026-05-14T10:44:51,field_tool,2,Neutral,5,Low,1
+d7b2ed02-8921-45fa-a95d-41f32560a6b5,98421d6b-93c9-47f0-a8cd-49df8ebf247b,survey_447,Senegal,South Kathleen,Female,45.0,Secondary,Self-employed,completed,2026-05-14T10:44:46,field_tool,2,Very Good,4,High,3
+92859e0b-329e-45d4-8b9a-d24f1d74f150,3beed717-2b17-426b-90d8-7f2153d66948,survey_400,Senegal,Fisherchester,Female,56.0,Tertiary,Self-employed,completed,2026-05-14T10:41:56,field_tool,2,Neutral,2,Medium,5
+618eae80-8de1-43d5-8cd2-6bb5de44354a,dc1370fa-72ce-4087-b305-dfbaf289c02d,survey_631,Senegal,Bradfordland,Female,50.0,Secondary,Unemployed,completed,2026-05-14T10:42:26,field_tool,5,Good,2,Medium,1
+3ded9402-4e43-4bcd-8bd6-1b0e95d7044d,b1f91ceb-74b6-4436-b81c-27c9f3a41fe9,survey_533,Senegal,South Heather,Female,71.0,Primary,Unemployed,completed,2026-05-14T10:41:23,field_tool,1,Good,5,High,5
+f307a4fc-a2eb-4414-99e3-5e950d7cf2e9,23e8cd77-7a2b-4078-8766-27c1d8b09a78,survey_878,Senegal,Andersonville,Male,43.0,Secondary,Employed,completed,2026-05-14T10:43:42,field_tool,3,Neutral,2,Medium,1
+c3c25f66-7e42-499a-9fc9-ea5ade632aaa,2ad95f99-ee13-44d8-8531-2f2b811660f9,survey_241,Senegal,Lake Stacy,Male,59.0,Secondary,Unemployed,completed,2026-05-14T10:40:22,field_tool,2,Very Good,3,Medium,3
+b7809f4e-b457-4f20-bc23-5c4d4ecc559f,4efdaa69-44f5-4082-ae49-d81ecd3eb1f0,survey_442,Senegal,Brennanport,Female,19.0,Secondary,Unemployed,completed,2026-05-14T10:43:43,field_tool,1,Very Good,2,Medium,4
+9deaf862-d4ad-4206-9506-0ab82c0a5025,a8b6e620-999d-4e50-a3f5-bec2f6b05a45,survey_310,Senegal,Port Donald,Female,45.0,Tertiary,Self-employed,completed,2026-05-14T10:43:44,field_tool,5,Good,4,Low,4
+6103e87f-8314-43cf-87db-ffdd4a6a0010,4876d805-0c8f-4d3d-a0ec-8edf2ea7b400,survey_170,Senegal,Kimberlytown,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:45:03,field_tool,4,Neutral,3,Medium,2
+408a3c70-0e44-49bb-b5d6-2a57da707ded,264cc3e1-ac8e-4985-9a02-b94e22a864cf,survey_367,Senegal,New Billy,Male,20.0,Primary,Employed,completed,2026-05-14T10:44:43,field_tool,3,Bad,2,High,4
+f132718d-0421-4846-bcc8-8610bff4d927,9150bde3-08ee-4bf1-8b36-134bbde12a3d,survey_640,Senegal,East Matthewbury,Male,54.0,Primary,Employed,completed,2026-05-14T10:42:52,field_tool,2,Very Good,5,High,1
+ce3ef924-fd49-43ff-ac9c-3471454e684f,4ee35ae4-fc31-43d8-bfcf-2e8224d58db8,survey_177,Senegal,Scottville,Male,45.0,Primary,Unemployed,completed,2026-05-14T10:40:59,field_tool,2,Bad,5,High,5
+193b8ae2-b524-4e3c-b8a5-5dc60b0ac002,f83d9909-94c2-432c-8d41-f66b42bf6dd6,survey_802,Senegal,Webbfort,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:45:05,field_tool,2,Neutral,2,Medium,4
+3afd197c-5850-4bbd-b296-d09d78a4427e,6ec07011-2d30-464f-a9e9-08dfcbe2a140,survey_655,Senegal,Robertstad,Female,42.0,Primary,Unemployed,completed,2026-05-14T10:39:51,field_tool,4,Very Good,3,Low,1
+0b37bcda-0d0e-4009-84bf-6173f437e3ce,223062d4-b040-4f3a-9be6-27d8f210af6b,survey_935,Senegal,Joeltown,Female,45.0,Tertiary,Unemployed,completed,2026-05-14T10:42:17,field_tool,5,Good,4,High,3
+ce640310-f70c-47a1-b4c8-7f713cccc433,a709e845-3e77-42d8-8b89-d5d8e4f9975c,survey_783,Senegal,Edwardchester,Female,50.0,Tertiary,Self-employed,completed,2026-05-14T10:41:59,field_tool,2,Bad,5,Medium,3
+00667ab7-2320-4562-892b-4cb395a3afa4,2864e5a4-28af-4c54-9c1e-2275c09403f2,survey_181,Senegal,East Cherylside,female,51.0,Secondary,Self-employed,completed,2026-05-14T10:40:05,field_tool,5,Very Good,5,High,3
+5e0a9aff-d3ae-4aa8-b684-618b72c341cb,f8f7c535-e81b-48ec-9a60-ccb9f55fbc72,survey_698,Senegal,Port Jessica,Female,28.0,Tertiary,Employed,completed,2026-05-14T10:40:36,field_tool,2,Very Good,3,High,1
+5da03cfe-cdd8-4d29-9286-4f7b5d595f08,890b669e-ca14-4a2c-a447-695da6b2e696,survey_144,Senegal,Kellybury,Female,19.0,Secondary,Self-employed,completed,2026-05-14T10:43:55,field_tool,1,Bad,3,Low,1
+5af289cf-d9a1-4481-b0c1-23e6dfee77ef,d5af02f2-2f68-4f8a-9634-660389320c6c,survey_574,Senegal,Bowmanmouth,Male,29.0,Secondary,Employed,completed,2026-05-14T10:45:16,field_tool,2,Very Good,3,Low,3
+c913661d-62b8-4a40-8fed-c10ad798d4f9,57b1e40e-c8fc-49eb-8ce4-3f7a908581a0,survey_834,Senegal,New Kimberly,FEMALE,74.0,Primary,Unemployed,completed,2026-05-14T10:45:04,field_tool,4,Good,3,Low,2
+9203b291-6590-43bf-89f7-34d3edc2558c,de617846-5557-4a13-b15e-a643a5464a05,survey_427,Senegal,North Kenneth,Male,54.0,Primary,Self-employed,completed,2026-05-14T10:42:43,field_tool,4,Bad,1,High,4
+c7203048-8296-4c97-aaab-2cafdee490ec,c1055c63-ac24-4a9c-b231-f91b74eea222,survey_911,Senegal,Thomasfurt,Female,24.0,Primary,Employed,completed,2026-05-14T10:43:56,field_tool,5,Bad,1,Low,4
+36fec7e4-6e01-4177-bcce-0df9d4c50093,2c42b939-f2a7-476d-8639-6fa36628e0dc,survey_740,Senegal,Juanland,Male,63.0,Secondary,Unemployed,completed,2026-05-14T10:40:38,field_tool,3,Neutral,2,Low,2
+d425b0c0-7df8-4daa-9d3a-be8cd3a24f0a,31a91c65-49e5-492d-82da-509ae73f5979,survey_759,Senegal,Port Brandon,Female,54.0,Primary,Self-employed,completed,2026-05-14T10:42:02,field_tool,4,Bad,2,Low,5
+5a7565c5-ece0-4b46-935b-1aab92587c28,f1bec3c9-0133-470f-8386-ef4986a6c115,survey_952,Senegal,South Frank,Female,44.0,Tertiary,Self-employed,completed,2026-05-14T10:40:37,field_tool,4,Neutral,5,Low,4
+7f94351d-0f42-4c11-aca7-d19079b56702,856d0491-8e02-45a4-8ccf-2e4b7dfd507e,survey_249,Senegal,Hansenport,Male,31.0,Tertiary,Unemployed,completed,2026-05-14T10:40:23,field_tool,3,Very Good,2,High,4
+23b09b98-c67e-455d-9c33-38ef7fb2aba2,b892f16a-d1df-4b98-99d7-f79dbf52ce8f,survey_109,Senegal,West Richardberg,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:44:29,field_tool,5,Bad,1,Low,2
+23997943-19cb-4441-8f08-fd2c845e3999,f0f36fda-641b-4b6b-ab43-046ef60becfd,survey_503,Senegal,South Johnmouth,Male,65.0,Secondary,Self-employed,completed,2026-05-14T10:41:19,field_tool,1,Bad,4,Medium,1
+02859481-353a-40df-a060-a104218fffde,75e6e973-6028-487d-8287-7aa99119095e,survey_775,Senegal,Matthewberg,Male,70.0,Tertiary,Unemployed,completed,2026-05-14T10:41:05,field_tool,3,Neutral,5,Low,2
+e8d4e291-e6c0-4808-858e-8e40613599f7,d99923fa-3d97-4d90-8aa3-4ea6b09463ef,survey_967,Senegal,West Tony,Female,36.0,Primary,Employed,completed,2026-05-14T10:41:18,field_tool,2,Very Good,1,Low,3
+d0859a90-edd4-43e6-aa4d-5fcc1d7990a1,a1ca6cb4-a345-42be-94b8-0875f133c409,survey_299,Senegal,Lake Amandamouth,Female,46.0,Secondary,Unemployed,completed,2026-05-14T10:41:05,field_tool,3,Good,3,Medium,2
+c0db2b91-510a-4e4f-85f6-ebe50dfa24c1,aafc096b-5de1-4f34-994a-5cde7ef38ce5,survey_847,Senegal,Kathrynstad,Female,40.0,Secondary,Self-employed,completed,2026-05-14T10:44:03,field_tool,3,Neutral,5,Low,2
+ab36fcd7-47e6-4c59-a82d-3c0115c66d28,f8007801-9748-4334-b907-7a0890233c57,survey_994,Senegal,Geraldshire,Female,38.0,Secondary,Self-employed,completed,2026-05-14T10:43:01,field_tool,4,Bad,2,Low,3
+81e812f4-fbf6-4dbc-b22c-b3569c4eab31,f29aea0b-3ab3-4c45-84e9-6b492ecf705f,survey_326,Senegal,Carterland,Female,29.0,Tertiary,Employed,completed,2026-05-14T10:45:29,field_tool,2,Bad,4,High,1
+146cadf6-0893-46a1-be78-15241855d4c2,2e44fa03-e745-417c-94bc-c3c21aca366e,survey_110,Senegal,East Ashleyville,Male,56.0,Tertiary,Self-employed,completed,2026-05-14T10:40:39,field_tool,4,Neutral,4,Low,2
+9660c057-c08c-47d3-95ca-95360b2810e6,7127c20f-3399-4d4c-b950-9aa06685d271,survey_160,Senegal,Rhondafort,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:43:24,field_tool,5,Neutral,3,High,3
+aa93c5d4-3b5b-4819-b110-6fa97afdb847,d961b6d7-2d26-4346-b5e2-9730df99f81a,survey_523,Senegal,North Gregory,Female,54.0,Secondary,Self-employed,completed,2026-05-14T10:42:34,field_tool,3,Very Good,1,High,5
+e5ba898c-a337-427c-b8cc-2031b57cf97e,4e3e0420-ea04-4387-8743-e60344cd79ee,survey_943,Senegal,East Amanda,Male,54.0,Primary,Employed,completed,2026-05-14T10:44:55,field_tool,2,Bad,4,Low,2
+3764064b-1f0d-4efd-9f7b-0f1e362047a0,445b2572-a458-4054-bec2-0c823bf8d81c,survey_587,Senegal,Riveraview,Male,27.0,Primary,Employed,completed,2026-05-14T10:41:29,field_tool,5,Bad,2,Medium,4
+22f49f8e-1646-4d66-8f1f-f58a2046c49d,201ceef2-00da-4d97-8789-bc5077340ae2,survey_136,Senegal,Penaside,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,4,Bad,2,High,5
+67cf5e2b-b9e3-4dee-bd3b-98afb0ed85d2,be4c84dd-206b-44c6-a2e5-411c61343b8f,survey_258,Senegal,New Lauraburgh,Male,56.0,Tertiary,Self-employed,completed,2026-05-14T10:43:29,field_tool,5,Bad,4,Low,5
+0de8a4d8-51a9-46bb-8640-1eb8f8619910,8e768c9d-5cb3-43ed-99cb-bb7f5634614f,survey_863,Senegal,Jessicastad,Female,54.0,Secondary,Employed,completed,2026-05-14T10:41:00,field_tool,4,Good,5,Low,1
+7131243f-14a2-4b3a-b873-a76f5aa0c8cd,0dbfb7fc-37ee-46f1-9b95-cba8dc9c3b7b,survey_657,Senegal,Michaelville,Male,61.0,Secondary,Unemployed,completed,2026-05-14T10:45:40,field_tool,1,Very Good,1,Low,1
+fb0c2183-c8b5-433a-aefe-0647f76e3edd,67ad69e7-4cba-4f61-a94e-5758406a8b61,survey_608,Senegal,Clarkville,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:40:03,field_tool,4,Good,3,High,4
+cc28d087-60af-404f-bc2a-daea8861d2c8,e76f6bf2-95ce-4e04-9075-9f5494687579,survey_998,Senegal,Nelsonland,Female,34.0,Tertiary,Unemployed,completed,2026-05-14T10:41:09,field_tool,3,Very Good,5,High,3
+23bf3f65-1253-4ad5-88b1-ef9152594ecc,5d7ac053-f128-4139-962c-48ec41b69f44,survey_627,Senegal,Clarkeside,Female,65.0,Secondary,Employed,completed,2026-05-14T10:45:35,field_tool,1,Good,2,Medium,3
+ae4bf736-3e1b-41ce-bdcf-2eb65a8b7fd1,e3fd6fb5-988c-42cc-92ec-0fc4cdf46c41,survey_408,Senegal,North Danielberg,Male,19.0,Secondary,Self-employed,completed,2026-05-14T10:44:41,field_tool,4,Bad,3,High,4
+45407854-746b-4781-aa59-d436b760d379,d2be4c8f-7321-441a-974d-112013cdf9c9,survey_543,Senegal,Moniquechester,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:44:59,field_tool,2,Good,1,Medium,2
+51ec88f2-0d96-44dd-9946-8a9f778f9b73,121f6459-e155-40c5-9d7c-24ea453c12a0,survey_173,Senegal,South Graceborough,Female,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:53,field_tool,4,Bad,4,Medium,3
+d31de016-12c4-47f5-b1d6-6564d98df12b,0425d424-6419-4f26-ac60-74d4a7b174b0,survey_713,Senegal,New Adam,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:39:58,field_tool,3,Bad,3,Low,4
+0cb3fd97-ee55-49d4-a16b-5756295fd315,19ab097d-d93a-4a3d-bc14-0c6e1f51b8b1,survey_787,Senegal,Rodriguezfort,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:40:30,field_tool,4,Neutral,2,High,5
+3a2be3d7-4a04-4964-bbf9-28eca9b32f72,6a7dc5c5-3b24-4629-8e43-d1f587dc59d2,survey_708,Senegal,Port Charles,Female,20.0,Primary,Unemployed,completed,2026-05-14T10:41:59,field_tool,2,Very Good,2,Medium,2
+d1cba22f-7f7b-4661-989c-9e74c6f90223,1b3693b4-2720-42f8-9b4b-e78b72ffb3c9,survey_434,Senegal,East Janicehaven,Female,47.0,Tertiary,Self-employed,completed,2026-05-14T10:45:31,field_tool,3,Good,4,Medium,5
+ff075519-bf24-4196-a872-981ceaa214c3,1cf5991d-a1d1-4406-8796-b1fb7e2c7a73,survey_881,Senegal,Allisonland,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:44:06,field_tool,5,Good,1,High,4
+7942c6c8-d980-42ca-a628-43d925a643f7,61443d2a-0885-4ab5-a39d-6b97500b27fe,survey_954,Senegal,Wilsonside,Male,34.0,Tertiary,Self-employed,completed,2026-05-14T10:45:10,field_tool,4,Very Good,1,Medium,4
+0058ec24-3cde-4854-8af7-a169a5b0f335,b916e8fa-9fa5-42fd-b056-07a0dd090121,survey_774,Senegal,West Rebeccabury,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:41:18,field_tool,3,Very Good,3,High,5
+71cf8b7c-5811-471e-9ab4-b170df4f821a,078c4a96-1a1a-4cf2-b35f-5f46082526a1,survey_967,Senegal,Sheltonstad,Male,29.0,Secondary,Unemployed,completed,2026-05-14T10:42:46,field_tool,4,Neutral,4,Medium,1
+83d4a7f9-3788-4768-b5a6-93bb7cb69408,c2061c27-df85-48f4-b200-a73683a03b30,survey_378,Senegal,Port Andrewberg,Male,,Primary,Employed,completed,2026-05-14T10:40:27,field_tool,3,Very Good,3,High,5
+3cecaa2c-cddd-40a0-82b8-2c55b00f48a8,80671940-d10e-455c-834e-645329311ee9,survey_656,Senegal,South Karlaport,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:40:02,field_tool,3,Neutral,5,High,2
+aa78929a-56a4-4f85-a356-0f8a5646a9a7,6033f6de-f93e-438e-921d-8e564077c044,survey_930,Senegal,Lake Robert,Male,71.0,Tertiary,Unemployed,completed,2026-05-14T10:39:55,field_tool,5,Very Good,3,Medium,5
+176b8ddb-8c72-4a78-9396-d3d1331c6c78,f3bad09b-d7f3-4e26-b3f1-abe58a55504f,survey_772,Senegal,New Adam,Male,71.0,Primary,Unemployed,completed,2026-05-14T10:40:34,field_tool,4,Neutral,4,High,5
+46a8af7e-8320-4191-b5b3-55548adce1ea,6bf572c2-8d0c-4e75-9d8f-3ab6f9a7c204,survey_916,Senegal,Port Cassandrashire,Female,31.0,Primary,Employed,completed,2026-05-14T10:45:17,field_tool,4,Very Good,5,Low,1
+719acd35-bb2f-4de6-9495-6d6329a9b99d,eb8e7f1c-63d5-414f-a779-87621cc23d78,survey_138,Senegal,Hamiltonton,Male,41.0,Tertiary,Self-employed,completed,2026-05-14T10:44:29,field_tool,3,Bad,3,Low,4
+d4b54407-60e0-480a-ad2f-0447513e178a,24740699-e15e-475b-a789-8e735dbe193b,survey_546,Senegal,Markmouth,Male,52.0,Primary,Employed,completed,2026-05-14T10:42:36,field_tool,2,Very Good,2,Medium,5
+15356e60-2f45-446b-b330-b61f92fdb93b,cdb56f1b-e390-45e4-847f-6bc032566b96,survey_882,Senegal,Lake Brettton,Female,39.0,Secondary,Self-employed,completed,2026-05-14T10:42:00,field_tool,3,Bad,2,Medium,4
+4eb87423-33be-4aee-b68b-8639cc0f2cec,81d6c489-f8ee-4f0b-9189-a37827438fd4,survey_929,Senegal,Randyside,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:42:48,field_tool,1,Good,4,Low,4
+74dfb94a-4c1b-4852-bb31-2ecd980fb0af,e268031e-3e86-4249-a4a4-5c83182e8d66,survey_929,Senegal,Davilafort,Male,23.0,Primary,Employed,completed,2026-05-14T10:41:06,field_tool,1,Good,1,Medium,2
+ad427c3f-70f0-4c2b-9fe4-5dd7805a0954,40c94377-d65b-4856-92f8-17be7d582c64,survey_131,Senegal,Aliceland,Female,34.0,Primary,Employed,completed,2026-05-14T10:42:08,field_tool,5,Bad,1,Medium,3
+6783c133-d8c2-45d8-8447-299d445faba3,fbd53739-ebdd-429b-819c-e2b53ad7df5a,survey_506,Senegal,East Katie,Male,71.0,Tertiary,Self-employed,completed,2026-05-14T10:42:10,field_tool,1,Very Good,3,Low,5
+0cfb7d87-7629-4228-af12-232d244f23bb,97bea526-d674-472e-9bcb-74a2595aed0b,survey_867,Senegal,South Joseph,Male,47.0,Tertiary,Employed,completed,2026-05-14T10:43:09,field_tool,1,Bad,5,Low,2
+dba274d8-aa13-4a0b-8974-5d284df7da54,6c30966d-bc5a-48dd-9a82-082faa49a406,survey_717,Senegal,Lake Damon,Male,72.0,Secondary,Self-employed,completed,2026-05-14T10:45:40,field_tool,5,Bad,3,Low,3
+4b4ebac0-20ac-4c02-b1b6-335b3df19728,fe442ac4-512a-43f2-88a6-39d179c854fe,survey_535,Senegal,Markmouth,Female,72.0,Secondary,Self-employed,completed,2026-05-14T10:43:17,field_tool,2,Bad,5,Medium,4
+9823d22b-a3ae-425d-8a21-86bb686af797,792f444e-8126-4524-947b-7c17017a4e2d,survey_950,Senegal,South Paultown,Female,28.0,Primary,Unemployed,completed,2026-05-14T10:41:02,field_tool,4,Very Good,5,Medium,3
+37d1b6b2-1e65-445d-81f8-5e5f53fc3403,089cefbc-4672-4ee1-a3fc-e8e29aa658e3,survey_724,Senegal,North William,Female,72.0,Secondary,Unemployed,completed,2026-05-14T10:44:37,field_tool,5,Neutral,5,Low,4
+f085f274-09c6-4dde-b6d9-5915fa54ed6a,88d88b87-caab-4cb0-a73d-38375e998e52,survey_649,Senegal,South Josephmouth,Female,26.0,Primary,Self-employed,completed,2026-05-14T10:44:49,field_tool,1,Neutral,3,High,5
+1c317b7d-6579-4c0b-9c34-cacc51bc65ad,d5202113-d2dd-435a-8e7f-6f4ed2ca6de0,survey_717,Senegal,Hallside,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:44:12,field_tool,1,Good,4,High,4
+a4918a08-12b8-44f4-adee-151d4cf1e7ad,a0427a79-1d57-43e7-a388-1d727d43a755,survey_811,Senegal,Carlsonhaven,Male,30.0,Primary,Self-employed,completed,2026-05-14T10:44:05,field_tool,5,Very Good,3,Medium,1
+e786042c-bdfe-4013-9a9c-5df1638b788a,2d9a32f8-a590-4a6a-b0ae-cb36fcc269e6,survey_911,Senegal,West Daniel,MALE,,Secondary,Employed,completed,2026-05-14T10:43:27,field_tool,4,Very Good,4,High,1
+4642b254-8faa-4201-96aa-18e7b2c97f62,ca274253-0509-473e-b86c-0de4f7179045,survey_578,Senegal,Williamton,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:42:34,field_tool,4,Good,1,High,3
+7b48465d-7889-49ed-9eff-b1ccce21eae3,5573441e-0442-4cb9-acab-411ddecdaa6d,survey_885,Senegal,Williamport,Male,57.0,Secondary,Self-employed,completed,2026-05-14T10:45:23,field_tool,2,Neutral,1,High,4
+1ea7785f-08eb-46ea-a883-47a0f4f044e4,ae352933-a5e1-4bc9-9404-d01574ec84d6,survey_929,Senegal,East Ivanville,Male,38.0,Primary,Unemployed,completed,2026-05-14T10:42:35,field_tool,2,Bad,2,High,3
+3b1cfa2a-b565-4695-a799-9256b535318d,83003741-37a9-4cce-9734-e4e57a24dc83,survey_787,Senegal,New Darrellstad,Male,33.0,Secondary,Self-employed,completed,2026-05-14T10:44:20,field_tool,4,Neutral,3,Medium,4
+89e5b682-8e58-48fc-a0f8-7d6ca9b6678a,9190815d-4502-45df-83b7-9267b0eb31b7,survey_922,Senegal,Port Davidshire,Male,62.0,Tertiary,Unemployed,completed,2026-05-14T10:40:32,field_tool,1,Bad,4,Medium,3
+1c210c70-6a70-4e50-bbe5-15d4b11c8290,198649ee-41c0-4096-8f90-5349bf772a54,survey_448,Senegal,Port Melissamouth,Male,51.0,Secondary,Self-employed,completed,2026-05-14T10:44:55,field_tool,5,Bad,1,High,5
+266f616a-dc1f-48bd-9c39-f4f9d7016cbd,fc9a3101-aa90-412b-8aaf-0c9dab060933,survey_316,Senegal,New James,Female,27.0,Secondary,Employed,completed,2026-05-14T10:43:05,field_tool,3,Very Good,2,Medium,1
+4b250a21-a860-47e6-ae75-a7787ed264aa,8f4de8d1-51d8-4cb1-a8ba-d837ef371070,survey_732,Senegal,Patriciaton,Male,23.0,Primary,Self-employed,completed,2026-05-14T10:42:13,field_tool,3,Very Good,2,High,2
+1beb3766-5f55-40d4-93d5-553fe063d73d,9488f4b1-c5b3-4f95-bff2-0e85047fd6d0,survey_152,Senegal,Port John,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:43:29,field_tool,3,Very Good,1,Low,2
+946234e7-c822-43b6-9a10-034c448a61a6,d3d829f8-da2d-4ed2-b95e-8547348a3a8d,survey_965,Senegal,South Arthur,Female,19.0,Primary,Self-employed,completed,2026-05-14T10:39:49,field_tool,3,Very Good,2,Medium,1
+ab49c07a-8c52-4642-affc-6d8599e0f654,711bba50-891f-4b89-ad31-61798216d1b8,survey_591,Senegal,Port James,Female,62.0,Tertiary,Unemployed,completed,2026-05-14T10:44:28,field_tool,4,Neutral,2,High,1
+6a52557b-6456-4cb7-a4e4-72ad789c58de,ae5baccd-c5ee-4dd7-a701-df315e670668,survey_371,Senegal,Richardstad,Female,48.0,Primary,Unemployed,completed,2026-05-14T10:42:15,field_tool,4,Neutral,3,Medium,5
+e10a09ce-d7d2-4d9e-b3ce-7f2d5da7d33f,bfeadb05-6c96-47bf-87c8-7b2bacf116cc,survey_836,Senegal,North David,Female,,Secondary,Self-employed,completed,2026-05-14T10:45:20,field_tool,3,Good,3,High,4
+a30ba5ee-a45b-4a1a-9375-6ecfc75b0d05,c71cb2d7-e3e9-468d-b7a4-abb46137792b,survey_418,Senegal,Goodwinmouth,Male,61.0,Primary,Self-employed,completed,2026-05-14T10:44:09,field_tool,2,Good,3,High,5
+c40bc3e7-ab48-4932-9453-b8f60a3225e8,a4522037-0312-4226-8315-7d020a0a1936,survey_321,Senegal,Andrealand,Female,33.0,Tertiary,Employed,completed,2026-05-14T10:43:12,field_tool,5,Neutral,4,Low,3
+df2adb1c-85b0-4f0a-978c-22336edb576f,8d31bf4e-5b2b-45c0-9947-f2ef8ed26daa,survey_172,Senegal,Bryanchester,Female,47.0,Secondary,Unemployed,completed,2026-05-14T10:42:41,field_tool,5,Neutral,5,Low,5
+5db0366f-43a3-4e31-b388-193d1e806cce,e81b3bc3-a6cf-4794-a379-4dc8f9ba143f,survey_592,Senegal,North Ryanborough,Male,39.0,Tertiary,Employed,completed,2026-05-14T10:45:02,field_tool,1,Neutral,1,Low,5
+a46e07e8-622e-4a4c-b353-a2130b65a6b1,1a0292c6-3397-4bb2-9ee0-03eebfb1b4d7,survey_812,Senegal,Sanchezbury,Male,45.0,Primary,Self-employed,completed,2026-05-14T10:40:08,field_tool,5,Bad,3,Low,3
+d0914761-465a-44c2-b7e3-68901b90c2b1,a9a638b0-b621-461e-a893-721cdfbf85e6,survey_700,Senegal,Hicksbury,Female,31.0,Secondary,Unemployed,completed,2026-05-14T10:45:03,field_tool,4,Neutral,4,Medium,5
+8d52689e-7d81-4ae3-9c15-2ac9ddad5bc3,b14a1621-712a-4ce1-be3d-c0d17b9cea93,survey_336,Senegal,West Loristad,Female,43.0,Tertiary,Self-employed,completed,2026-05-14T10:45:18,field_tool,4,Good,4,Medium,5
+c265df00-d010-4623-a996-58bd457abed9,579b97cd-9688-4044-9171-a13a1f285ae6,survey_321,Senegal,New Brian,Male,54.0,Secondary,Unemployed,completed,2026-05-14T10:39:57,field_tool,3,Neutral,4,High,1
+006faad1-70dc-4472-a3b0-574c6f74aab5,e7e892dd-9b6c-485a-9c79-b0b86ace75c9,survey_184,Senegal,Robertport,Male,40.0,Primary,Employed,completed,2026-05-14T10:45:41,field_tool,1,Neutral,5,Medium,4
+ba03637c-8837-4dd1-a15a-83ef2606bfed,4e1b913c-7e4e-4f5f-999c-cd045e623f74,survey_954,Senegal,West Marioville,Male,59.0,Primary,Unemployed,completed,2026-05-14T10:44:15,field_tool,3,Bad,2,Low,4
+52a19b56-6ef4-4ee6-af49-0132b2c30009,5d30f472-652d-48d0-b7e7-2c1d7dd03af3,survey_323,Senegal,Port Nathanielhaven,Female,60.0,Tertiary,Unemployed,completed,2026-05-14T10:42:41,field_tool,2,Neutral,1,High,4
+8f4139bc-f01c-4cc2-823f-06c22e4f7485,3d0d24a0-e8f0-4dfc-88a8-51b7cce077cf,survey_299,Senegal,Matthewburgh,Female,44.0,Tertiary,Employed,completed,2026-05-14T10:39:50,field_tool,3,Bad,4,High,4
+2fc897a6-f67d-417b-968d-2eadf5864959,dde8a17a-b6f6-453b-a6f0-1b9f27688883,survey_335,Senegal,East Kellyside,Male,50.0,Tertiary,Self-employed,completed,2026-05-14T10:41:01,field_tool,3,Neutral,3,High,4
+1e4cbcb7-6c7f-4ee9-8312-d72c99b1b150,6bc43f8e-47c1-454e-ac41-86b70e18d114,survey_941,Senegal,East Vincent,Male,25.0,Primary,Unemployed,completed,2026-05-14T10:41:45,field_tool,5,Neutral,3,Medium,2
+aec86ed7-07be-48a8-a9be-f5dd5a8705f7,2ef27984-0ee4-41e2-837a-930c2e46859b,survey_865,Senegal,Flemingmouth,Female,44.0,Primary,Unemployed,completed,2026-05-14T10:41:42,field_tool,5,Neutral,5,High,5
+4108a4ea-d53a-41fc-b89a-0f78c9559b63,1f7a75ae-4188-43cb-99d2-e15da7f91a6d,survey_402,Senegal,South Joemouth,Female,38.0,Primary,Employed,completed,2026-05-14T10:40:21,field_tool,5,Very Good,3,Medium,3
+8304dc32-3153-417a-a015-ad701ed3bb66,5c754165-4e22-40c5-8b4e-251a7614d621,survey_322,Senegal,Foleyside,Male,24.0,Secondary,Unemployed,completed,2026-05-14T10:43:00,field_tool,2,Neutral,3,High,2
+56cf0335-77e1-4554-a532-d4a97591e2e7,f180986c-d8fa-409c-ad4d-ee71a65d5be2,survey_359,Senegal,Thomasview,Female,73.0,Tertiary,Unemployed,completed,2026-05-14T10:41:23,field_tool,3,Very Good,4,Low,4
+f0f3b340-a63a-4575-b6d1-cd1ad7e6a94e,1c46313c-c925-4dd3-9864-9df335fc6eeb,survey_433,Senegal,Ramirezside,Male,46.0,Primary,Unemployed,completed,2026-05-14T10:44:47,field_tool,1,Very Good,1,High,4
+ec9076ad-078f-4db0-96c1-1f006b26d21d,0e86df52-114c-401f-b369-57fe663fdaa6,survey_289,Senegal,Jacobchester,Female,28.0,Tertiary,Employed,completed,2026-05-14T10:39:54,field_tool,5,Neutral,2,Medium,2
+546e9f2e-7719-43cd-aa77-83ab5b945bc3,48b2a875-7d2a-4417-bd38-093fd4b3234f,survey_549,Senegal,East Becky,Male,55.0,Tertiary,Unemployed,completed,2026-05-14T10:44:43,field_tool,3,Neutral,3,High,4
+e3ded022-bf14-4b76-8f98-decfcbd39e52,88b7f90a-df7b-43f4-90bd-4453bcea575b,survey_216,Senegal,New Adamstad,Male,61.0,Primary,Unemployed,completed,2026-05-14T10:40:08,field_tool,4,Bad,1,Low,2
+0afdfba0-5656-4dc8-93f2-c2692b830395,ba51e8a3-3cd2-4581-8676-0d374c9a148b,survey_444,Senegal,North Michael,Female,,Primary,Unemployed,completed,2026-05-14T10:44:34,field_tool,5,Bad,4,High,2
+9bce78bb-1064-42db-81fb-32c32b58aa58,9f94308f-92df-441a-9a1b-a57ff3170737,survey_331,Senegal,Smithfurt,Male,69.0,Primary,Employed,completed,2026-05-14T10:40:49,field_tool,4,Very Good,2,Medium,1
+e4559da2-3126-4870-a586-1609df42bb6f,5468179c-1116-4554-88b7-0d49e50b4343,survey_166,Senegal,East Katie,Female,62.0,Tertiary,Employed,completed,2026-05-14T10:42:57,field_tool,1,Neutral,5,Medium,4
+cb8413a6-b118-4eef-89e1-b3decbd59e92,bda24bc7-bef5-4532-80eb-299081271556,survey_330,Senegal,North Danny,Male,74.0,Tertiary,Employed,completed,2026-05-14T10:40:39,field_tool,1,Very Good,3,High,3
+85750f64-8339-4f52-ac10-4dd028b7ee24,f1e98373-bb52-4364-b903-a53dfd4ba418,survey_669,Senegal,Harmonchester,Male,29.0,Secondary,Unemployed,completed,2026-05-14T10:42:07,field_tool,3,Good,4,High,3
+276e1429-f42f-4c14-9283-304e1edf01ca,630697c8-df47-4c99-a262-d60d155acae7,survey_869,Senegal,Lake Jennifermouth,female,37.0,Primary,Employed,completed,2026-05-14T10:43:54,field_tool,2,Neutral,2,Low,4
+ca825727-1948-49c2-9e67-94fe85e504d0,3d21570f-ef6e-42b5-ad9d-590eac8f615d,survey_869,Senegal,North Ashleymouth,Male,28.0,Tertiary,Self-employed,completed,2026-05-14T10:44:45,field_tool,5,Very Good,3,Low,2
+300a979a-1a93-43f5-9a05-0e154a06ac69,edd1fd96-f513-4584-b828-35822b8f1723,survey_280,Senegal,New Johnland,Male,38.0,Primary,Employed,completed,2026-05-14T10:45:40,field_tool,3,Bad,2,Medium,4
+04bd97b1-e1d8-4c11-9f5d-6e0ff2f8ae36,89660c71-820b-4ba1-899c-32fd683ab856,survey_917,Senegal,Evansbury,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:42:40,field_tool,4,Good,2,Low,2
+7e9e88bf-ec35-4f29-9ebb-9cb8ed8f5d9e,b9f74eca-fba8-445f-85dc-ae18154aabaa,survey_806,Senegal,Tranchester,Female,47.0,Secondary,Employed,completed,2026-05-14T10:41:33,field_tool,3,Bad,3,Medium,4
+f869fc09-d738-417d-8662-a1094dfeead5,8913714d-f0d7-4ff8-96ac-823284e32190,survey_369,Senegal,Kathleenmouth,Male,74.0,Tertiary,Employed,completed,2026-05-14T10:40:55,field_tool,1,Bad,1,Low,3
+81aef8ac-3023-4b75-ada3-6d5a51fff750,66f51f1d-add3-478c-a2c3-fd05c3f12d51,survey_308,Senegal,Carpenterton,Male,75.0,Tertiary,Self-employed,completed,2026-05-14T10:41:35,field_tool,4,Very Good,3,Low,3
+ef0e2cc2-34b7-4ba2-ae0c-fe3c3e657913,ec221dfb-5851-43ff-ae84-e48d5212226d,survey_952,Senegal,Lake Matthewborough,Female,39.0,Tertiary,Unemployed,completed,2026-05-14T10:41:07,field_tool,2,Good,5,High,1
+2f58ae1f-1430-4d1b-a821-633426c6e090,58f38324-7ee2-420c-956a-190b519bbbfc,survey_602,Senegal,Beckside,Male,64.0,Tertiary,Employed,completed,2026-05-14T10:45:25,field_tool,1,Neutral,4,Medium,3
+8199f5cb-df39-43ee-adff-5d26dca478eb,d0e2e2b2-7c48-4662-8b52-f660d3797b95,survey_787,Senegal,Burketon,Male,75.0,Primary,Employed,completed,2026-05-14T10:42:20,field_tool,3,Very Good,4,High,4
+99a70f47-28a2-4c9b-8377-907bf8f5b323,0a39e3a7-ce62-4c9b-adc9-b66d2efc9ea7,survey_639,Senegal,West Juan,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:42:35,field_tool,3,Good,4,High,4
+04b65ca2-1bf4-4bd5-af16-0cee25a878e1,0de1b514-9cc1-4f5b-85c1-8af0a9bc5dea,survey_572,Senegal,Lake Jeffrey,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:43:55,field_tool,4,Good,4,High,4
+9ed8a34c-0073-47bf-ab38-8c0eea560930,e68cf07a-b513-488f-88ac-60a8c601ff97,survey_481,Senegal,West Anthony,Male,46.0,Secondary,Unemployed,completed,2026-05-14T10:41:56,field_tool,5,Bad,5,Low,1
+24356a38-07a4-456a-9612-97622831a22b,1cc7ccfa-f9a4-4c8a-a5e3-8c06fa676218,survey_886,Senegal,Berryfort,Female,71.0,Primary,Self-employed,completed,2026-05-14T10:44:02,field_tool,5,Bad,2,Medium,1
+de78b789-df89-4267-9c7e-3eae8560b55c,d6062dd4-eddb-4075-96d4-f1f4533ce405,survey_582,Senegal,New Victoria,Female,55.0,Secondary,Self-employed,completed,2026-05-14T10:45:35,field_tool,3,Good,2,Low,2
+66c16e0c-1084-4dcd-a22d-e6d75c2c79dd,6f3e7679-e357-4a6b-8edc-441763e0d615,survey_493,Senegal,Wiseville,Female,58.0,Secondary,Employed,completed,2026-05-14T10:41:54,field_tool,2,Bad,3,High,2
+0655a99b-9f26-4a9c-9360-14ee99e19292,e258506e-1406-43be-9311-7dd1eeb22b06,survey_804,Senegal,Richardsside,Male,32.0,Primary,Employed,completed,2026-05-14T10:45:41,field_tool,4,Very Good,1,Low,3
+1b4a1fe7-b41e-45fe-9c0f-93286e2cefe8,5d3f02a4-16b2-4419-83ea-7005d9a73120,survey_593,Senegal,Craigland,Male,28.0,Secondary,Self-employed,completed,2026-05-14T10:45:09,field_tool,1,Very Good,4,Medium,3
+2a77b870-8df8-4c26-83ac-6e28c6fd5ce5,c00b67e5-fe50-40aa-88bd-8feb1a1f48ff,survey_313,Senegal,Veronicaberg,Male,24.0,Primary,Unemployed,completed,2026-05-14T10:42:48,field_tool,5,Good,1,Low,5
+dd2361c7-914a-408f-924b-0da1c85ea063,4738bad5-6c8d-4d54-af46-7c06a10adc1c,survey_576,Senegal,West Meganfort,MALE,74.0,Primary,Unemployed,completed,2026-05-14T10:44:58,field_tool,5,Very Good,4,Low,3
+86c9a35a-87d6-468f-abdf-18c251e95a03,22a75e8a-9039-41f4-84a2-b426552b8161,survey_635,Senegal,New Craigfort,Female,72.0,Secondary,Employed,completed,2026-05-14T10:42:51,field_tool,3,Bad,3,Medium,3
+5201db9f-9a12-408e-99ba-c482aea41c05,eb2a46e5-25fc-4f06-9bb1-a649942e24e8,survey_604,Senegal,West Robertaberg,Male,33.0,Secondary,Self-employed,completed,2026-05-14T10:40:10,field_tool,3,Neutral,1,Medium,3
+912f168c-d3d9-4e48-8430-610bb5c1ea0a,57d70f9b-d63f-43d3-bf70-2d809b9bfa7a,survey_427,Senegal,Port Stephaniefort,Male,38.0,Secondary,Employed,completed,2026-05-14T10:43:13,field_tool,1,Neutral,5,Low,5
+d483d2df-f09b-4249-b1ba-b92d62b01351,4f95ae67-6b8a-4946-a1a4-4ae8d5cc4e3f,survey_564,Senegal,North Seantown,Male,29.0,Secondary,Unemployed,completed,2026-05-14T10:41:31,field_tool,2,Neutral,3,High,2
+7c4b5137-e8f0-49ec-9bf6-64bd1ba1b0c2,c25fbd7a-b454-460a-aacc-5aa9f5aef342,survey_993,Senegal,West Kristen,Female,58.0,Tertiary,Self-employed,completed,2026-05-14T10:44:19,field_tool,1,Very Good,3,Medium,1
+1f888d61-dc91-47ae-8e17-fe7e0bc192d3,cd543a42-5ec8-4ebe-b5de-f37ddaa7d023,survey_273,Senegal,Woodardberg,Female,62.0,Primary,Employed,completed,2026-05-14T10:44:16,field_tool,1,Neutral,1,Low,1
+135d932c-123f-47e2-82cd-1c4e344ea689,a7500ec0-51eb-40e2-83a4-421f2822a9b3,survey_308,Senegal,Garciaville,Male,44.0,Tertiary,Self-employed,completed,2026-05-14T10:42:36,field_tool,2,Bad,4,Low,3
+aab22fbd-ef1d-44ab-a25b-2942c0edf4e9,5f24c17f-5a47-4455-87f4-71a9781f1339,survey_811,Senegal,Lake Kevinfurt,MALE,63.0,Secondary,Employed,completed,2026-05-14T10:44:25,field_tool,3,Bad,5,Medium,3
+fc366462-c1ca-4ce8-8549-94c339041c29,9dc7ea1d-c2c0-48c2-8a62-99fc0d7a8b16,survey_924,Senegal,Velasquezmouth,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:39:56,field_tool,1,Neutral,4,Medium,2
+cba39879-9bfb-4463-9891-00fbddf9b1df,21a371a4-4a6c-4769-8a6c-8d0e9baee960,survey_382,Senegal,South Heatherburgh,Female,31.0,Secondary,Self-employed,completed,2026-05-14T10:40:20,field_tool,5,Neutral,1,Low,4
+71d6d96e-4b54-480b-a745-584e2cedc323,62b51691-eebf-438f-b8ce-6a2e74ba0303,survey_374,Senegal,Underwoodmouth,Female,47.0,Secondary,Employed,completed,2026-05-14T10:43:55,field_tool,5,Neutral,5,High,3
+dd66dd0a-9726-4e6d-8997-c13c00f470bf,5434a89b-7bcf-4b70-ab55-2e46155d5d66,survey_198,Senegal,North Megan,FEMALE,18.0,Primary,Employed,completed,2026-05-14T10:39:58,field_tool,5,Bad,2,Low,5

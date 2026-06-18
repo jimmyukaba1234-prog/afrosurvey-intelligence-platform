@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+0215f90f-eaf1-41e9-a13b-cf7f5172a489,ac48ceaf-2b85-4fb7-b29e-21268840e78a,survey_397,Cabo Verde,Scottton,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:45:17,field_tool,5,Bad,2,Low,2
+5d5f6e54-430a-4959-a9e6-afaa8fcf3a46,141fb001-f7bc-4c14-9241-9671da2fc99b,survey_657,Cabo Verde,Hoffmanstad,female,47.0,Tertiary,Unemployed,completed,2026-05-14T10:40:21,field_tool,4,Very Good,1,Medium,2
+13da1f2e-924d-4334-b387-cf67098b4465,87935334-fc20-494e-bf7d-a45e35221344,survey_361,Cabo Verde,Kevinmouth,Female,23.0,Secondary,Employed,completed,2026-05-14T10:43:30,field_tool,4,Bad,1,High,5
+89abbb34-437d-4dd4-ad67-22004e363576,27e9184f-0791-4b35-b7a6-3918acac1f3b,survey_309,Cabo Verde,New Michael,Female,38.0,Secondary,Self-employed,completed,2026-05-14T10:43:19,field_tool,3,Very Good,3,High,3
+36eb29e7-49e3-43a9-b97e-f90698ffa93d,05fe16de-c3d3-4e5c-beee-71386a5731f7,survey_101,Cabo Verde,Angelafort,Male,60.0,Primary,Unemployed,completed,2026-05-14T10:41:39,field_tool,2,Bad,3,High,4
+450ab2b7-912d-4f96-bcc9-73e87c7bbd6b,21b6eb84-899f-4d03-abd2-35736012a24e,survey_621,Cabo Verde,Lawsonville,Female,26.0,Primary,Unemployed,completed,2026-05-14T10:40:28,field_tool,3,Good,4,High,5
+5942dcf0-8adc-40fe-a247-deae91499f3a,fdfc4a9d-3618-487c-b7e2-dc86654fda31,survey_122,Cabo Verde,New Keithburgh,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:43:04,field_tool,5,Bad,4,Medium,4
+2cdf5633-ba5b-4c69-b3e6-613893c91ff2,c053f253-5a1e-490d-a894-844f8cd1692d,survey_980,Cabo Verde,South Rachel,Female,73.0,Tertiary,Self-employed,completed,2026-05-14T10:42:01,field_tool,1,Neutral,2,Low,5
+301fee9b-62c5-4dda-8f24-4e923677d2e9,a159bef3-5cf9-4400-853f-777f51c46d6e,survey_376,Cabo Verde,Lake Nicolemouth,Female,50.0,Secondary,Unemployed,completed,2026-05-14T10:43:56,field_tool,1,Neutral,3,Low,4
+a02210d3-3bdc-4b52-bf3f-94197dd9767a,39a01a0b-6465-4945-8852-787c891edaa2,survey_301,Cabo Verde,Simpsonmouth,Male,25.0,Primary,Self-employed,completed,2026-05-14T10:42:05,field_tool,4,Bad,1,Medium,3
+ec04cac5-a0a2-4ea6-87ec-f48a5a9fa26e,282f0aa6-730f-4b28-acaf-549ed37dcef3,survey_878,Cabo Verde,South Keith,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:44:11,field_tool,5,Very Good,2,Low,4
+d96c69df-0ae5-4274-afe5-c625dcaa9ef4,76ca1cbe-c34f-43a9-9584-9e58d4721e33,survey_327,Cabo Verde,Lake Rebecca,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:42:55,field_tool,2,Very Good,3,Medium,4
+2db60ab7-fd53-46aa-898a-13e776a1f1c7,f96846e7-6b08-484b-a731-d6f394853923,survey_108,Cabo Verde,Jenkinstown,Male,24.0,Tertiary,Employed,completed,2026-05-14T10:44:55,field_tool,5,Bad,3,High,5
+6ebcaaab-709b-4cd1-ab95-fef8ace4b1ee,9eb318ad-9c15-425e-a379-750a3964afe6,survey_505,Cabo Verde,New Ashleychester,Female,29.0,Primary,Unemployed,completed,2026-05-14T10:39:50,field_tool,3,Neutral,1,Medium,1
+99ce3bc1-b6c4-4003-bbac-16b68c5232da,2a9d0c6a-3ffc-4e13-9c1c-ac23533487f7,survey_725,Cabo Verde,Cohenstad,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:39:50,field_tool,3,Very Good,4,High,1
+07dec2e8-c9ff-41d9-8bf8-f1ac48b5e814,ca359116-e22d-4fbb-99f1-9675be32fa85,survey_806,Cabo Verde,Arnoldborough,FEMALE,22.0,Tertiary,Self-employed,completed,2026-05-14T10:41:01,field_tool,3,Bad,5,High,2
+f5c81300-0637-4865-98b8-22f0ab71e1c1,dfe91357-b91a-4793-9e7a-ffce753057b9,survey_664,Cabo Verde,East Thomas,Female,67.0,Tertiary,Employed,completed,2026-05-14T10:41:21,field_tool,1,Very Good,5,Medium,1
+4afbef0f-80b6-455b-a869-689d60fd00df,109792a4-4b00-4cfc-a1f5-5aa5529e0da0,survey_576,Cabo Verde,East Beckymouth,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:41:44,field_tool,5,Very Good,2,Low,4
+38379623-6b3f-4989-ae44-1f7d5c8ea3f9,fd5dda42-7193-4177-9a6e-868daf051197,survey_287,Cabo Verde,Port Gregory,Female,54.0,Primary,Unemployed,completed,2026-05-14T10:43:35,field_tool,1,Very Good,3,High,2
+e6944c61-ade6-46e6-a688-7a7f1e2d86b9,cdbe6de6-1c74-4dfd-a431-6e6c800e1610,survey_810,Cabo Verde,Monicaburgh,Female,,Tertiary,Self-employed,completed,2026-05-14T10:41:44,field_tool,2,Neutral,4,High,1
+df4c5f69-53dd-4bb6-b47b-164ddd0aa25c,11e12ee9-f664-42b9-b8d8-061976538a69,survey_541,Cabo Verde,Lake Antoniochester,Male,37.0,Primary,Self-employed,completed,2026-05-14T10:44:05,field_tool,4,Neutral,1,Medium,1
+ce291976-2d0f-4775-9b63-bf71ab6c3a33,62a40afe-dcb7-4b1f-b85f-a1adfedb5a32,survey_273,Cabo Verde,Port Robertview,Male,46.0,Primary,Employed,completed,2026-05-14T10:44:14,field_tool,1,Bad,5,Medium,2
+d06ffac3-0a4e-4efe-bdef-ec8b4c7139eb,9b62d6d2-c6cf-47bf-b73e-54c31ef8aca7,survey_171,Cabo Verde,South Timothyton,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:42:08,field_tool,2,Very Good,5,Low,1
+6664c583-9d99-461a-9bd2-afcec29ea87d,d2834904-d40b-49dc-a5fd-5412cfc91b52,survey_130,Cabo Verde,West Reginaldhaven,Male,48.0,Primary,Employed,completed,2026-05-14T10:45:01,field_tool,4,Neutral,2,Medium,5
+b6d4ed3e-2f51-40ad-84cd-67d9b0932547,c99496ab-6db7-4a7e-b0a6-d78ba64e2384,survey_572,Cabo Verde,North Dustinview,Male,47.0,Primary,Employed,completed,2026-05-14T10:44:35,field_tool,1,Very Good,2,High,1
+45891066-a7cf-4153-a7ee-37bcfbcb2d40,b8d49cf2-1c9d-4bd3-8aa7-8357c0ea7a67,survey_142,Cabo Verde,West Robert,Male,70.0,Tertiary,Self-employed,completed,2026-05-14T10:42:32,field_tool,4,Bad,4,Medium,2
+f9532c33-c6c2-43d4-86ee-4e21bc14b2b5,cba95e23-3e39-4f9b-a9b8-b3ea2456d767,survey_423,Cabo Verde,Clarkville,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:42:27,field_tool,4,Bad,4,High,5
+45ad012d-af9d-4e5a-a6cb-fb50fa6393d0,754f595f-12f6-48e6-b197-603ca45c7178,survey_106,Cabo Verde,Goodwinview,Male,22.0,Secondary,Unemployed,completed,2026-05-14T10:42:34,field_tool,3,Neutral,4,High,2
+df11d1af-14de-439c-bae2-52cf9578edc9,54a6368b-71d6-4744-b06f-06814b9842c5,survey_234,Cabo Verde,Lyonsshire,Male,36.0,Primary,Unemployed,completed,2026-05-14T10:41:59,field_tool,2,Bad,4,High,2
+ed61e434-ed36-45e7-81c6-82faba80d68a,23d86a4f-c2e6-4c05-8926-8f85982c7129,survey_184,Cabo Verde,New Keith,Female,55.0,Primary,Self-employed,completed,2026-05-14T10:41:32,field_tool,1,Good,3,Low,4
+03e38269-bcd0-4388-a7cf-32c5f5c15ece,5cdb7eda-9044-4ec6-9ef0-195ee152dc3a,survey_313,Cabo Verde,Kristopherburgh,Female,42.0,Tertiary,Employed,completed,2026-05-14T10:44:29,field_tool,4,Good,3,High,2
+191a686a-d2be-4e04-b8f3-967036b4cc1e,b68c55b2-79ac-446d-8e03-87ada246ea52,survey_717,Cabo Verde,Nunezberg,Male,23.0,Secondary,Self-employed,completed,2026-05-14T10:45:34,field_tool,5,Bad,2,Medium,3
+b01e0983-475c-44ab-a03a-d52e70704afc,4ad653d0-9b81-4e24-a582-bca620e8dae1,survey_137,Cabo Verde,Scottbury,Female,40.0,Primary,Employed,completed,2026-05-14T10:39:53,field_tool,1,Bad,3,Low,5
+6271f6ff-89c5-4b40-bf75-5ad201cf0198,4d8e8fdb-954e-45fb-b62f-7bc2d9d5d66c,survey_514,Cabo Verde,New Alexander,Male,45.0,Tertiary,Unemployed,completed,2026-05-14T10:42:45,field_tool,5,Very Good,3,Medium,5
+6e2b8635-9933-429b-920d-ae719acb37b1,dec78f9e-bed6-4914-8233-0e6eb89c96e9,survey_229,Cabo Verde,Woodsburgh,Female,50.0,Primary,Unemployed,completed,2026-05-14T10:42:35,field_tool,4,Bad,1,Low,5
+cc5c0271-5ede-4d15-ab2a-6a4d8893c837,da44ae00-964e-41dd-a7e7-8bbaa4d37418,survey_548,Cabo Verde,Alexandrafurt,female,34.0,Tertiary,Self-employed,completed,2026-05-14T10:43:47,field_tool,1,Bad,5,High,4
+325b5929-7748-467e-bb64-6adfb4cd1510,8675ec71-deeb-4601-ab4b-8171a5fc00b5,survey_547,Cabo Verde,Thompsonfurt,Female,54.0,Secondary,Employed,completed,2026-05-14T10:39:46,field_tool,1,Very Good,5,Low,5
+abc5a6da-de51-4d8f-a8e9-07d93070a77d,57a55d1a-1093-405b-b26b-3379ab32dc3a,survey_953,Cabo Verde,West Jamie,Male,64.0,Primary,Unemployed,completed,2026-05-14T10:40:55,field_tool,2,Good,5,Medium,5
+2348dc9c-dd4f-4634-b6e5-20f55ac52883,ba902275-c72b-42e8-9bcf-e969473fb005,survey_220,Cabo Verde,Lake Jamesfort,Female,20.0,Primary,Self-employed,completed,2026-05-14T10:43:34,field_tool,5,Very Good,3,Medium,4
+342ea194-459f-41ad-bc8e-58c65257fffd,e80368e2-a37d-4fca-a9a6-df1391c4b8c6,survey_270,Cabo Verde,Port Juliehaven,MALE,72.0,Primary,Self-employed,completed,2026-05-14T10:41:35,field_tool,4,Neutral,1,Medium,3
+ba3ac6c0-10a7-490e-b5a0-ba2371d33602,aa0be687-5d12-4a22-b3d9-014fbdcaf089,survey_162,Cabo Verde,South Conniemouth,Male,66.0,Primary,Employed,completed,2026-05-14T10:43:58,field_tool,5,Very Good,2,Medium,4
+da459b1a-455c-4586-987e-6632dc8e1edc,f62f197d-8da4-4d27-857f-4a841133ded4,survey_103,Cabo Verde,Port Brianshire,Female,25.0,Tertiary,Self-employed,completed,2026-05-14T10:44:06,field_tool,5,Bad,1,Medium,1
+33b05703-d44c-45aa-96bd-50722be611b6,cc19e0ac-418d-4073-bea4-26b83f7b16ec,survey_976,Cabo Verde,Lake Sharon,Female,19.0,Primary,Unemployed,completed,2026-05-14T10:41:44,field_tool,5,Neutral,2,High,4
+0c4852b9-b344-456e-bfdd-b548284042ad,74c0bea3-b7a6-4ca5-b08c-147d3a747c44,survey_789,Cabo Verde,North Tiffany,Male,65.0,Tertiary,Self-employed,completed,2026-05-14T10:41:55,field_tool,4,Bad,4,High,5
+c75eb4cc-dfe4-4cbd-8820-c6ca8e4db73b,be3c7c84-1763-40f5-8708-b42e8d4e46c5,survey_975,Cabo Verde,Lake Mariah,Female,71.0,Tertiary,Unemployed,completed,2026-05-14T10:40:11,field_tool,4,Good,4,High,1
+49b6c13f-90ca-4006-805c-1468714627a5,85c65764-21ee-4a3d-a733-c344e7f8daa8,survey_703,Cabo Verde,Brucebury,Male,56.0,Tertiary,Unemployed,completed,2026-05-14T10:41:43,field_tool,2,Neutral,4,High,1
+d67f7221-d5c6-4f6a-911d-fd67389d0221,7a2f2c57-94ce-43b7-82fd-7e2d95eef403,survey_635,Cabo Verde,Garciaton,Male,23.0,Primary,Unemployed,completed,2026-05-14T10:42:22,field_tool,1,Good,3,Medium,5
+8ac90f72-3492-4612-b15c-fb5743b93be0,3248f699-12b3-43eb-a247-a4f5ca3e7f3a,survey_118,Cabo Verde,Wilsonland,Male,69.0,Primary,Self-employed,completed,2026-05-14T10:43:42,field_tool,3,Bad,1,Medium,2
+a7c0b8ff-04db-460e-bc16-65c8f9212485,96e15645-8ad8-4f05-9991-77b932888f78,survey_130,Cabo Verde,New Tony,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:44:30,field_tool,4,Good,3,Low,3
+4ee5f9ce-2cc7-42ef-a0db-28c703e8910a,dc739cbc-6e04-4758-94eb-2ddd02754eca,survey_197,Cabo Verde,Lake Oliviaborough,Female,27.0,Primary,Self-employed,completed,2026-05-14T10:44:40,field_tool,2,Good,1,High,5
+7229ba7b-6e27-48e0-b773-1a06d81a8c4b,c16b44e1-9d4a-405f-a28a-f08dce46abf3,survey_768,Cabo Verde,Gayview,Male,27.0,Primary,Self-employed,completed,2026-05-14T10:43:07,field_tool,4,Good,1,High,4
+0e09c323-aca7-485d-a1b8-2bb3a3ba2be0,a1919e12-7e1b-4edf-854f-6d2d99f2587c,survey_171,Cabo Verde,West William,Male,40.0,Secondary,Unemployed,completed,2026-05-14T10:44:02,field_tool,3,Neutral,4,High,3
+6120ab8b-a141-48a0-8594-da8e8b015ed6,4cb50736-a531-4be0-b391-4a3648a436ae,survey_327,Cabo Verde,Michellebury,Male,28.0,Secondary,Unemployed,completed,2026-05-14T10:42:33,field_tool,1,Bad,3,High,2
+02f36f65-cdbd-4501-a5c7-91a2b66c28a2,80c8b083-8faf-44ba-ad87-16e146794c1e,survey_664,Cabo Verde,Connieville,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:41:12,field_tool,1,Bad,4,High,2
+d62cd34e-c4de-443c-8768-8ee6106186fe,e4b3b66b-51b7-45ed-81ab-1df17cd21263,survey_987,Cabo Verde,Simpsonburgh,Female,19.0,Secondary,Employed,completed,2026-05-14T10:40:12,field_tool,1,Bad,4,Low,2
+5475b892-4cbd-4fc8-ad36-e1d945de82f8,4dfcf384-ac48-4af2-ae98-8798c2ac0d6d,survey_155,Cabo Verde,Port Scottside,Male,45.0,Primary,Employed,completed,2026-05-14T10:41:12,field_tool,5,Neutral,5,High,4
+f0d44816-1857-4a80-9efc-3bab61b70609,c34a4fa6-1bd4-47bb-875e-e63d318f7980,survey_279,Cabo Verde,East Kyle,Male,64.0,Primary,Employed,completed,2026-05-14T10:42:15,field_tool,5,Very Good,1,Medium,1
+329bffca-285e-4c62-91d3-23c10bbc56d9,78ccd788-87c8-4346-8434-228151ec8f30,survey_645,Cabo Verde,Lake Kevinborough,Male,75.0,Tertiary,Unemployed,completed,2026-05-14T10:44:31,field_tool,1,Very Good,4,Medium,3
+f18abd4f-d7e1-4c53-ac50-08f427c40fd9,280906a9-52e2-4a8e-a793-b627ac00cd5e,survey_872,Cabo Verde,Port Randy,Male,67.0,Secondary,Unemployed,completed,2026-05-14T10:41:06,field_tool,4,Bad,3,Low,2
+0a720424-9c5c-4015-a368-91532af2a5d8,a99f8c03-9c31-4930-a86e-f693da341653,survey_972,Cabo Verde,West Sue,Male,44.0,Tertiary,Unemployed,completed,2026-05-14T10:43:41,field_tool,4,Bad,1,Low,1
+ab726b21-5a49-445d-8509-246ba8faaaf4,6aba8f0c-c9eb-4e3c-9860-f848a74b2973,survey_861,Cabo Verde,Jeremyview,Female,41.0,Tertiary,Employed,completed,2026-05-14T10:43:40,field_tool,3,Very Good,2,Medium,2
+f7b00859-6bbe-4bad-b181-aa0a084885b8,4db9eacb-d59d-4bfa-9b32-6207ef303fd0,survey_519,Cabo Verde,Dustinmouth,Female,44.0,Tertiary,Employed,completed,2026-05-14T10:42:40,field_tool,2,Good,1,Low,2
+ff20c5f3-42be-48b1-93f2-0c68331ec0ac,73200e30-50ba-4edd-bec6-573bd4488069,survey_103,Cabo Verde,Ronaldfurt,Female,29.0,Tertiary,Unemployed,completed,2026-05-14T10:43:12,field_tool,4,Very Good,3,Low,4
+bbdbbd84-2186-4795-b5b4-9340e7446d69,6771dc17-f0a3-4219-8321-07880173c12e,survey_736,Cabo Verde,South Michaelberg,Male,35.0,Secondary,Unemployed,completed,2026-05-14T10:43:32,field_tool,5,Very Good,5,Medium,5
+ece05eb5-180f-469a-bd2f-bbb724e9b197,d18b621e-04fc-4dd0-8632-7360c45d4c03,survey_263,Cabo Verde,East Ebony,Female,71.0,Tertiary,Employed,completed,2026-05-14T10:41:50,field_tool,2,Good,1,High,4
+6d263abe-473b-4495-bbda-767e8d97262f,060fd3b6-5f9c-41f0-9522-1c404b77cf1c,survey_594,Cabo Verde,Ronaldfurt,Male,37.0,Secondary,Employed,completed,2026-05-14T10:42:25,field_tool,2,Neutral,3,Medium,2
+a4bf5590-eae7-45ba-a8b2-3895162482de,330f4bae-bd30-4739-8f5a-57878edd8e22,survey_856,Cabo Verde,New Wesley,Female,64.0,Secondary,Self-employed,completed,2026-05-14T10:41:59,field_tool,2,Bad,2,High,3
+21cf3b36-bde8-4203-a02a-c69622c194f6,2911268f-3e3e-47b3-930d-a4761b5982d2,survey_464,Cabo Verde,Jennifershire,Female,56.0,Primary,Unemployed,completed,2026-05-14T10:43:39,field_tool,3,Neutral,1,Medium,3
+b9671a1c-f900-45a9-9eff-ab50d5f8595b,0bc6a71b-f25b-46a6-b89c-2ef6f3b93ebe,survey_203,Cabo Verde,Wattsfort,Female,23.0,Tertiary,Self-employed,completed,2026-05-14T10:41:46,field_tool,5,Very Good,2,Low,5
+4e905a0b-4a04-4299-92d8-4327d524d1a5,960b9746-9b51-4232-bca7-644d47b76d17,survey_977,Cabo Verde,Brownton,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:45:06,field_tool,2,Good,2,Medium,5
+ff3a231b-0772-4e86-b9e6-a3642a6c46a1,5e9432d6-89b3-489d-86aa-f71457baa888,survey_283,Cabo Verde,Mcleanville,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:43:40,field_tool,5,Good,5,Medium,5
+247763f4-c8cf-44bc-8bda-ae49758d10fe,12f0ed7d-bff4-4c48-a17f-5e5322607be8,survey_892,Cabo Verde,Tiffanychester,Male,43.0,Primary,Unemployed,completed,2026-05-14T10:40:56,field_tool,1,Bad,1,High,1
+1985ff3e-4b9f-408b-a2ad-e9f2b5cd03f3,4c81cd72-96fd-4d96-a681-e5bbdfbb3a43,survey_772,Cabo Verde,New Christopher,Male,41.0,Tertiary,Unemployed,completed,2026-05-14T10:41:44,field_tool,1,Neutral,2,High,1
+417dcf04-a2eb-4eb7-bd4c-ded78130a8ea,c34604f9-8bed-4104-929e-a40553ed75f6,survey_640,Cabo Verde,Angelaport,Female,57.0,Secondary,Employed,completed,2026-05-14T10:45:32,field_tool,2,Very Good,2,High,5
+2978b7ab-c641-4d73-9dfd-241cf9f46ecd,c5188d4d-c5a8-446c-a3f5-aea605981489,survey_163,Cabo Verde,Port Kristimouth,Female,21.0,Tertiary,Employed,completed,2026-05-14T10:42:43,field_tool,1,Very Good,5,Low,5
+7b6838e7-377d-415e-9ea3-e5bd56e5e3c8,bf4d4bd8-7222-4838-85cf-dce6e7b4dcd3,survey_113,Cabo Verde,East Manuel,Male,69.0,Primary,Unemployed,completed,2026-05-14T10:41:35,field_tool,4,Bad,2,High,4
+e19e22c9-6589-4c38-ad42-0cec7a576705,32f0b15c-5540-47fe-9cb9-635c75f73b07,survey_668,Cabo Verde,Jonathantown,Male,47.0,Secondary,Employed,completed,2026-05-14T10:40:50,field_tool,1,Very Good,2,Medium,5
+e160da38-b68b-4e60-b1bb-42044dadf464,6d658f44-6928-4f38-a469-db2c1e8343bf,survey_763,Cabo Verde,Shafferton,Male,34.0,Secondary,Self-employed,completed,2026-05-14T10:44:09,field_tool,4,Good,3,High,1
+3e95de32-11cd-4c91-84d2-e0c824ce48e8,832394b5-fd59-4fa4-a9b9-339e0f6eed31,survey_445,Cabo Verde,Allenchester,Male,46.0,Tertiary,Employed,completed,2026-05-14T10:39:55,field_tool,1,Bad,4,High,5
+1c76e622-89b3-4e1f-8b94-490512b7ca3f,cc5bf684-df82-4a94-8114-0235f5b4aee1,survey_898,Cabo Verde,Kristyfort,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:42:03,field_tool,1,Neutral,4,High,4
+6bfd50a9-24bd-456b-80ac-6069b01e0d97,112e1621-a266-430e-9570-cefc93271b56,survey_213,Cabo Verde,New Christopherside,Male,53.0,Tertiary,Unemployed,completed,2026-05-14T10:40:36,field_tool,2,Neutral,2,Low,5
+0f2e9b8b-951a-462b-98e5-889132db520b,8374c273-cc70-4551-a881-5cd988219541,survey_648,Cabo Verde,New Sandraborough,Female,49.0,Primary,Unemployed,completed,2026-05-14T10:40:16,field_tool,3,Neutral,1,Medium,4
+6818b6af-8441-485a-a6b5-028c5ed855c2,d1587136-6e52-4655-af17-8dbbc461aac1,survey_393,Cabo Verde,Stevenberg,Male,18.0,Tertiary,Employed,completed,2026-05-14T10:45:12,field_tool,5,Good,3,Medium,5
+facb7e71-db21-4312-beca-c256c266beac,a5d8d541-2e82-4ce6-92b1-d17e5497062b,survey_785,Cabo Verde,Shawnchester,Male,,Secondary,Employed,completed,2026-05-14T10:39:49,field_tool,2,Neutral,4,High,2
+767d9f7f-5599-40f9-89ef-67a6de50e787,01a069a2-4b37-417d-9322-04fb66c67afa,survey_493,Cabo Verde,Smithbury,Male,20.0,Tertiary,Self-employed,completed,2026-05-14T10:42:24,field_tool,4,Good,4,Medium,4
+bcedfa96-8d41-484f-be01-d02368dde3c9,db06f072-4244-4fce-a686-d5c66d59ade7,survey_798,Cabo Verde,New Emily,Female,,Tertiary,Unemployed,completed,2026-05-14T10:42:26,field_tool,1,Very Good,5,Low,1
+c30fa0e7-cc58-48a9-b330-ee17e2f2d0e1,aa57c6e4-a753-497e-b52f-524f8849066e,survey_998,Cabo Verde,Port Lorraine,Male,41.0,Primary,Employed,completed,2026-05-14T10:42:40,field_tool,3,Bad,1,Medium,3
+68eb51f8-9229-4465-a14b-11217003eedb,de03a536-b703-4a9f-a15c-1c37e4ab9bae,survey_109,Cabo Verde,East Kendra,Male,18.0,Primary,Employed,completed,2026-05-14T10:41:24,field_tool,3,Bad,5,Medium,2
+bb80a24c-216c-45a8-a68a-30d349564f38,06b6a5f4-19d4-4a55-ae7c-77b04ef8a787,survey_215,Cabo Verde,Port Davidstad,Female,62.0,Tertiary,Self-employed,completed,2026-05-14T10:40:14,field_tool,2,Neutral,3,Low,3
+b196d2cf-5ce9-47ab-a891-a880aefc8aa0,edafea54-50b9-404a-9edc-c2ff53d47caf,survey_209,Cabo Verde,Lake Jason,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:42:14,field_tool,5,Bad,1,Medium,2
+2e60d088-6422-4afa-a804-e943b5eef365,45655d2d-fdb2-49e5-ac9d-da2629cd4d5c,survey_486,Cabo Verde,East Kelsey,Male,41.0,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,3,Very Good,3,Medium,2
+6b3eed69-a10b-4121-a08e-c89fec36f30c,f1c35294-e61c-49a3-a0ac-db752326e3d0,survey_338,Cabo Verde,Martinezfurt,Male,57.0,Secondary,Self-employed,completed,2026-05-14T10:39:52,field_tool,1,Bad,1,Medium,1
+107960d5-036f-4884-8370-648a395f3e16,daac1277-be73-41e9-9e16-a0ea71a6de48,survey_530,Cabo Verde,South Brandon,Male,35.0,Secondary,Employed,completed,2026-05-14T10:43:23,field_tool,4,Very Good,1,Medium,4
+94d1c8a7-96e8-4043-abac-dffa3c41b0db,c55f30a1-34a4-40e3-b2d9-ec3e66308af8,survey_984,Cabo Verde,Lawrenceville,Male,38.0,Primary,Employed,completed,2026-05-14T10:40:26,field_tool,5,Bad,4,Medium,3
+e5a5c771-062f-4898-9ee5-a6c52d76c84d,e9ccedab-81b7-4f35-acd3-248df8205c5f,survey_676,Cabo Verde,East Katherineville,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:43:49,field_tool,1,Good,3,Medium,2
+e991f651-0d58-48dd-99c8-05059e546b3c,bfeb32a4-5bbf-485b-9ad7-5864bd9ab6d9,survey_787,Cabo Verde,Robertborough,Female,58.0,Tertiary,Unemployed,completed,2026-05-14T10:40:25,field_tool,2,Neutral,4,High,2
+1bd14cef-7f3a-4db3-9f8b-f24a1df7674b,7a5cd426-5c1f-4f7b-81c4-dda8ccbf1dfe,survey_962,Cabo Verde,Williammouth,Female,45.0,Secondary,Unemployed,completed,2026-05-14T10:39:47,field_tool,4,Very Good,4,High,1
+3cbc4109-8cf4-47b7-979d-a29d33ccb9e5,6b8608d1-cdac-4327-a149-96d101db80b4,survey_162,Cabo Verde,Nixonville,female,24.0,Tertiary,Unemployed,completed,2026-05-14T10:42:40,field_tool,1,Good,4,Medium,4
+7ff156b0-0e21-4099-9478-8f0eae5f8834,d627224e-4f5a-464e-b21b-7a7f5c42adcf,survey_200,Cabo Verde,South Sonyaport,Male,64.0,Secondary,Unemployed,completed,2026-05-14T10:41:36,field_tool,3,Neutral,5,High,2
+1fdff5ac-fec1-477c-8b75-5baf24c9618e,a682c0fb-159e-4c9f-b382-c1aeffecc4eb,survey_615,Cabo Verde,Liutown,Female,22.0,Secondary,Self-employed,completed,2026-05-14T10:41:59,field_tool,4,Neutral,4,High,2
+83e7a5d9-8d73-4ae6-a504-c05162ecb621,52c1e256-e5b7-4f49-a5b9-5c1abac8f92f,survey_801,Cabo Verde,East Melanieburgh,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:44:28,field_tool,2,Very Good,2,Low,5
+72bb1c15-4d99-40f2-9c95-324bfe9ee357,27dfc6e0-84c4-49b1-a0c1-3845025fc70f,survey_356,Cabo Verde,Lake Terry,Female,46.0,Primary,Employed,completed,2026-05-14T10:39:58,field_tool,4,Very Good,2,High,4
+f02695f8-0237-4a66-9f93-f2db13edaf7c,35b7215e-cd68-4b39-98a0-db610fa99695,survey_446,Cabo Verde,Nathanchester,Male,63.0,Primary,Self-employed,completed,2026-05-14T10:40:59,field_tool,5,Very Good,4,Medium,2
+8aa44ed3-4644-4b5a-8641-06bf1895f132,efb0ce3b-2cb5-4ab9-ac23-b7796b5341c0,survey_541,Cabo Verde,Lake Lisa,Female,31.0,Tertiary,Self-employed,completed,2026-05-14T10:45:21,field_tool,4,Bad,4,Low,1
+2eac32fa-4e34-488f-91d8-e20b05e644bc,ecc9d15a-e10b-4781-9d75-18d42e7e4cef,survey_705,Cabo Verde,Port Franciscofort,Female,51.0,Tertiary,Employed,completed,2026-05-14T10:41:23,field_tool,2,Bad,3,Medium,2
+2b0179f6-3918-48ae-8a80-528e8fdea6fb,5f88fe99-a014-4ab9-a755-e34c4e5a4392,survey_803,Cabo Verde,Christytown,Female,,Tertiary,Self-employed,completed,2026-05-14T10:39:52,field_tool,2,Very Good,2,Low,4
+09151022-3194-4168-bcd7-544e0300e8a1,7872d73f-e389-4caf-874b-927e54e28fa6,survey_560,Cabo Verde,Lake Monicachester,Male,38.0,Secondary,Unemployed,completed,2026-05-14T10:40:02,field_tool,1,Good,2,Low,3
+b6c4cf28-1445-43a9-a6d7-b62db32b33c2,9937c931-c333-49b9-a085-7b5f8a1b0744,survey_709,Cabo Verde,East Craig,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:42:37,field_tool,3,Good,3,High,4
+06727a37-dfc8-4c35-8139-c65ce6dc7640,6b7d71bc-1795-4e87-b902-d8a7e5ae288f,survey_250,Cabo Verde,North Tanyamouth,Male,73.0,Primary,Unemployed,completed,2026-05-14T10:43:11,field_tool,2,Very Good,2,Medium,2
+4c543c80-b9ff-4d97-a1d3-d07cf8782bbf,70bf1783-8966-442b-a5ec-b9dcdb2c04c0,survey_758,Cabo Verde,Port Carrie,Male,29.0,Primary,Unemployed,completed,2026-05-14T10:45:05,field_tool,1,Bad,1,Medium,3
+3ecb7f66-67cc-470d-8a9f-a5d4230d5ce0,78304c6c-79eb-4797-8fb9-ef37002f4aee,survey_209,Cabo Verde,Davidside,Female,25.0,Secondary,Employed,completed,2026-05-14T10:42:46,field_tool,1,Good,2,Low,5
+a5ac256e-605d-42fa-96a8-969934024d28,b7607067-ab1e-4b37-9d15-844df4f7bfdc,survey_513,Cabo Verde,South Trevorshire,Female,35.0,Tertiary,Self-employed,completed,2026-05-14T10:41:19,field_tool,2,Bad,3,High,1
+8bc8c6e9-acf5-465d-beb9-cc0ae855d8d4,213b1241-83c5-4c14-b824-c62b2036971a,survey_977,Cabo Verde,East Donna,Female,18.0,Primary,Employed,completed,2026-05-14T10:40:27,field_tool,1,Neutral,4,Low,5
+af5c82ed-a1fd-4f97-8140-298e39272b5a,e30d0d83-4844-4c49-a761-f64eb79ee140,survey_794,Cabo Verde,East Jeremyburgh,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:45:16,field_tool,4,Bad,1,Medium,5
+59641bdc-cfd7-4c63-bb97-2c5f8ff251a6,f9553aad-b5e0-4cbf-9420-d1494d156c62,survey_877,Cabo Verde,Barnetthaven,Male,46.0,Primary,Employed,completed,2026-05-14T10:44:03,field_tool,1,Very Good,2,Medium,1
+902b23d9-b770-4231-8ae1-e7308e901d03,44482593-e232-4c25-bcd6-2aba93c1392f,survey_303,Cabo Verde,West Robert,Female,20.0,Primary,Employed,completed,2026-05-14T10:45:17,field_tool,4,Very Good,2,Medium,3
+b7ce1577-daa5-470f-9c9a-70f7f47f5fa4,ef438b80-bc85-430c-9451-7f78252d3404,survey_927,Cabo Verde,Lake Rebeccafurt,Female,72.0,Secondary,Employed,completed,2026-05-14T10:45:02,field_tool,5,Good,4,Medium,2
+3f1652c3-75dc-4929-9cf6-d93666d922cd,fac284dd-32a9-4261-8b50-5aa30c4aef81,survey_507,Cabo Verde,North Douglas,Male,54.0,Secondary,Unemployed,completed,2026-05-14T10:39:56,field_tool,1,Neutral,3,Low,5
+37967531-96cc-4633-bc90-473542bb7be8,29714f1f-3ce2-4218-8b76-3127d5db677f,survey_719,Cabo Verde,Morrisshire,Female,56.0,Primary,Employed,completed,2026-05-14T10:43:45,field_tool,4,Neutral,4,High,5
+3a9521e7-7250-444d-b901-d51d545ab9e6,30104525-5809-4249-9b90-f2327bdd41b3,survey_496,Cabo Verde,Hayesborough,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:43:31,field_tool,1,Good,5,Medium,1
+833f9188-f04b-4188-8dac-e23153cd5b08,709adc95-8bbe-4119-8347-2a289f0e570b,survey_504,Cabo Verde,Lake Joshuahaven,Male,63.0,Tertiary,Unemployed,completed,2026-05-14T10:42:31,field_tool,2,Very Good,2,Low,3
+d565a042-0c1f-44ef-8930-8c6277db053d,2fb2a0d7-e47c-43af-bf26-cb585656511d,survey_738,Cabo Verde,Matthewfort,Female,55.0,Tertiary,Self-employed,completed,2026-05-14T10:44:20,field_tool,5,Good,1,Medium,1
+53d31c63-90c7-4469-9f7a-8385725d8ed6,ab02e104-18b4-4298-a9ca-a03d74d12024,survey_607,Cabo Verde,Kathrynview,Female,18.0,Secondary,Unemployed,completed,2026-05-14T10:40:11,field_tool,1,Neutral,1,Low,1
+fa8df3d3-3c9c-420c-97d7-494584365ca4,a46d4b51-6d30-4e33-9d8c-4feac82e27a3,survey_709,Cabo Verde,New Davidbury,Male,71.0,Primary,Employed,completed,2026-05-14T10:43:33,field_tool,2,Bad,3,Medium,2
+069609c8-0640-4e69-83c2-75d6a1b3070a,8ceb424f-1eca-45b3-9c73-78e6d47ffd35,survey_135,Cabo Verde,Davidstad,Male,52.0,Tertiary,Employed,completed,2026-05-14T10:42:16,field_tool,2,Neutral,3,High,2
+234ba6ad-df3c-44c3-aa30-dc265d2ecd66,fbfbd9f9-8da4-4916-afa8-736973db49d0,survey_168,Cabo Verde,Port Teresaburgh,Male,28.0,Primary,Employed,completed,2026-05-14T10:43:02,field_tool,3,Good,3,High,1
+d670fdff-ab67-4654-95b2-c144ada217f7,ffa0a1af-e2b8-45b7-b0f5-bdc1d1ed43ba,survey_835,Cabo Verde,East Mary,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:41:32,field_tool,2,Very Good,5,Low,5
+18b5d435-0f4c-4bbe-b77f-ebc8bea765df,bbc0e8ed-32dc-40ee-8447-b659c6a22085,survey_873,Cabo Verde,Aliciaberg,Female,31.0,Primary,Employed,completed,2026-05-14T10:44:27,field_tool,2,Good,2,Medium,2
+419a250c-5d3b-47b7-ac70-a2c17f4625a9,0c07e0e3-8669-4d31-87d2-e18fdc241f84,survey_455,Cabo Verde,Amberhaven,Female,69.0,Tertiary,Self-employed,completed,2026-05-14T10:41:04,field_tool,5,Neutral,1,High,3
+694e88be-0233-4fcc-80d6-771e375d8e84,ae2e7dd2-19a2-4602-a8a3-d3a35fdd67bb,survey_554,Cabo Verde,Lake Cynthia,Female,74.0,Secondary,Self-employed,completed,2026-05-14T10:44:55,field_tool,4,Good,5,Low,5
+3920892f-9fce-460c-9992-277dbf863d6d,c0485d0b-ee3f-4127-97de-7f4d39ec02ca,survey_608,Cabo Verde,New Sheri,Male,25.0,Secondary,Employed,completed,2026-05-14T10:44:51,field_tool,1,Very Good,4,Medium,5
+b6d85c7f-45ed-4edb-9b79-153e21828eab,47469fb7-33c3-4015-9bb9-3bf66c8c4bac,survey_493,Cabo Verde,South Kennethhaven,Female,22.0,Primary,Self-employed,completed,2026-05-14T10:43:14,field_tool,3,Bad,5,High,4
+2fbb9272-4827-4667-8333-29f5b6920df0,52696eeb-77cf-4eb6-b9fe-e842e4cc7065,survey_235,Cabo Verde,Lake Sharon,Female,68.0,Primary,Unemployed,completed,2026-05-14T10:39:39,field_tool,4,Bad,2,High,4
+afd0496e-667c-40b9-8112-42ba374b4ed7,8e461d8b-b555-46ee-8057-1cf3132ab649,survey_533,Cabo Verde,Jasonland,Female,43.0,Secondary,Unemployed,completed,2026-05-14T10:40:09,field_tool,3,Neutral,5,Low,4
+43897d9b-ab3c-4e61-99a7-39e6e51d6349,24cf8629-23ea-4a4f-a90e-5ee8c152caf6,survey_818,Cabo Verde,Carsonbury,Female,75.0,Primary,Self-employed,completed,2026-05-14T10:42:59,field_tool,4,Bad,4,High,1
+c9a30070-c3e7-4bb2-8f2b-ad12fa88dd16,6b44312a-a565-4d41-a8d1-41dbc94bcc99,survey_645,Cabo Verde,Vargasbury,Male,28.0,Secondary,Unemployed,completed,2026-05-14T10:42:38,field_tool,2,Good,1,High,2
+c4dd2814-fafc-43a8-a7e3-a689a58da535,f2f4f240-f69e-463d-b9ef-20ea120e5c83,survey_439,Cabo Verde,Donaldfurt,Male,62.0,Secondary,Employed,completed,2026-05-14T10:40:42,field_tool,3,Bad,3,High,2
+5d26fc2c-8cbb-444b-ad9b-6da586f9b1af,f1c056ba-95ff-4d9d-bd5a-0760b9d9c1dc,survey_782,Cabo Verde,East Scott,Male,24.0,Primary,Self-employed,completed,2026-05-14T10:45:23,field_tool,4,Very Good,5,Medium,2
+65566fcb-2f78-4db0-8e2c-d96054331859,02c1c269-53d5-49af-82b5-ac1b468538bc,survey_859,Cabo Verde,New Larryville,Female,26.0,Secondary,Employed,completed,2026-05-14T10:45:00,field_tool,2,Bad,5,Low,2
+f3e5edbf-24a6-4e97-ba8b-8cb50c126959,a911610c-3b70-49b0-b89a-9f009933ca27,survey_652,Cabo Verde,Evansville,Female,61.0,Primary,Self-employed,completed,2026-05-14T10:44:16,field_tool,2,Bad,3,Low,4
+132574a7-36ed-4d86-a35a-37daf2f7535e,275759a0-7451-4c96-9c2b-4ca9be2f7685,survey_949,Cabo Verde,Port Reneemouth,Female,49.0,Tertiary,Employed,completed,2026-05-14T10:41:58,field_tool,2,Neutral,2,Low,5
+539b139c-3358-4fe8-a528-1d52f8d3f8e3,61aa189d-0a7d-4de0-bcea-e86bf311a3a1,survey_158,Cabo Verde,Danielmouth,Female,40.0,Primary,Unemployed,completed,2026-05-14T10:43:17,field_tool,4,Good,4,Medium,1
+c1462140-fd6c-401c-bb2c-d6e657bbc85f,b5b2e008-e051-4aaa-ab1f-eecd95c127e6,survey_852,Cabo Verde,Blakebury,Female,68.0,Tertiary,Self-employed,completed,2026-05-14T10:44:06,field_tool,2,Neutral,3,Low,4
+faf445b1-bac1-4861-826d-e87505219ab3,bb5493e6-ff63-4fac-96ac-b78e1a617efe,survey_857,Cabo Verde,Johnfort,Female,68.0,Tertiary,Unemployed,completed,2026-05-14T10:45:38,field_tool,4,Very Good,2,Low,5
+4d519620-6e38-40cd-b81a-e460a00cf19e,0e80c78a-6bf2-45d9-aeb6-d54bf6972fbb,survey_752,Cabo Verde,Port Kaylaview,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:41:47,field_tool,3,Bad,5,Medium,2
+81292aa6-b7d4-414f-8914-c10c9999b4c7,6b6de0da-542e-4e6a-8200-b972a3e86f41,survey_873,Cabo Verde,Tonyaland,Male,73.0,Primary,Self-employed,completed,2026-05-14T10:39:45,field_tool,2,Good,4,High,3
+49375a8b-e0e0-431c-b661-914682b64a7f,7c4cec7d-ce55-454e-b68d-6f3819e3b84f,survey_878,Cabo Verde,New Troy,Female,44.0,Secondary,Employed,completed,2026-05-14T10:44:41,field_tool,1,Bad,2,High,2
+f75c3b9e-bee5-468b-82ba-b40afdc6b03c,1a9d7acc-4408-4701-aa66-a0ed6f0b5b2b,survey_708,Cabo Verde,Castroshire,Female,54.0,Primary,Employed,completed,2026-05-14T10:42:51,field_tool,5,Very Good,4,High,4
+c87f00b9-1757-40b2-928e-4c25784c4902,ecdcbb27-ded2-4b15-84db-01dd9b4bf636,survey_947,Cabo Verde,Williamsville,Male,43.0,Primary,Self-employed,completed,2026-05-14T10:44:41,field_tool,3,Very Good,2,High,1
+b561ac44-23be-4133-85bb-91aed7e29666,f43e075b-a486-47d4-8b29-5e19d694a527,survey_834,Cabo Verde,New Codybury,Female,59.0,Primary,Self-employed,completed,2026-05-14T10:42:43,field_tool,1,Bad,1,Low,2
+a8ccd208-e5ff-4872-8ae8-a37cdbf80bc1,e75ec164-b595-4807-ac30-211d9482e11e,survey_281,Cabo Verde,Ochoaton,Male,30.0,Primary,Employed,completed,2026-05-14T10:42:36,field_tool,3,Very Good,1,High,5
+72aa4741-39f9-48b7-bd98-0284923a77d7,da2bf1b7-70b3-46df-89c3-4dd8a5a79705,survey_529,Cabo Verde,Berryhaven,Male,18.0,Primary,Self-employed,completed,2026-05-14T10:39:58,field_tool,2,Very Good,4,Low,1
+5faa2629-d438-4fb8-a306-a565c1bc25a5,ce22efcf-d02b-4c3a-a610-ba20f0b0c031,survey_801,Cabo Verde,Caldwelltown,Female,43.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,1,Very Good,4,High,4
+af054842-5d63-477a-b120-27f71d75513a,a169d799-062e-4424-ae44-d34991225311,survey_462,Cabo Verde,Coreychester,Female,51.0,Primary,Employed,completed,2026-05-14T10:39:53,field_tool,5,Good,2,Medium,2
+dd67927d-8c94-44fc-b294-0282d23c0115,e414f2c5-d974-4ff0-b4e5-418dbaa380fa,survey_535,Cabo Verde,Michaelstad,Male,23.0,Tertiary,Employed,completed,2026-05-14T10:42:39,field_tool,2,Bad,2,High,4
+388f73d5-6554-4a32-96fa-e70ee016ead1,46d162d6-3faa-4fd6-b730-d07ef93c8285,survey_732,Cabo Verde,Bowersmouth,Male,,Secondary,Unemployed,completed,2026-05-14T10:43:33,field_tool,1,Very Good,3,High,2
+30d9c617-332c-42fc-9221-e0ab409d0e45,435f59e6-a282-4bab-bdb0-9520b2f881eb,survey_394,Cabo Verde,East Angela,Male,35.0,Primary,Self-employed,completed,2026-05-14T10:44:19,field_tool,2,Very Good,2,Medium,4
+dec409ef-bb85-4a6c-90db-86cbc1cabd04,66bcf6f0-bd9e-43fc-9266-cd86a5f62181,survey_870,Cabo Verde,Kimberlyburgh,Female,48.0,Primary,Unemployed,completed,2026-05-14T10:43:54,field_tool,2,Good,5,Medium,2
+6fd1eb89-3ed3-4192-bf81-2703fa099d23,5a0fdf61-5571-4266-96c0-2601db4d2d18,survey_171,Cabo Verde,West Maria,Male,74.0,Secondary,Unemployed,completed,2026-05-14T10:40:30,field_tool,3,Bad,5,Low,4
+1d207909-dc1e-4ef3-993a-875a1953e899,a3b31be6-1726-4541-b8d1-1a8fea072198,survey_734,Cabo Verde,Edwardsfort,Male,71.0,Tertiary,Self-employed,completed,2026-05-14T10:45:06,field_tool,2,Neutral,3,Low,2
+47ef36b2-238e-4991-a2e3-f4f167bae3b0,33c00b7d-61f8-43f4-81ae-35bb2faa49dd,survey_555,Cabo Verde,Melissafort,Male,36.0,Secondary,Unemployed,completed,2026-05-14T10:42:38,field_tool,3,Bad,4,High,2
+e2bccae2-5807-45b8-a120-1b2e278d2af0,e551da7a-7011-42be-8e4f-4c665645b6bb,survey_301,Cabo Verde,Kariburgh,Female,67.0,Tertiary,Unemployed,completed,2026-05-14T10:42:24,field_tool,5,Good,4,Low,1
+af0e2f4d-79e6-4914-b151-4ba99db196ad,94f3ea1b-3096-4fbb-9c89-fe3c0413d049,survey_478,Cabo Verde,Reginaside,Male,36.0,Tertiary,Employed,completed,2026-05-14T10:42:10,field_tool,4,Neutral,4,Low,5
+6153b7f2-b498-4db0-a96e-7011548803e9,2d8b62b6-89cb-49aa-8f56-fffcc1bbb767,survey_628,Cabo Verde,Montgomeryland,Male,47.0,Secondary,Self-employed,completed,2026-05-14T10:41:20,field_tool,3,Bad,1,High,5
+0584f4fb-30f9-4d67-978b-1f1c9ae90105,9914857d-b62f-46ee-972d-c64717e6ae99,survey_420,Cabo Verde,Phelpsberg,Female,73.0,Secondary,Self-employed,completed,2026-05-14T10:42:33,field_tool,3,Neutral,1,Medium,3
+b50c7d15-3799-4ffe-8b2d-3328b84ecf1d,220e674e-6591-499b-9a92-9d2788676641,survey_955,Cabo Verde,Garciaport,Male,55.0,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,2,Very Good,5,High,3

@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+7050f6cc-5131-4fe3-8ea8-168c01981cea,f43ba052-4459-4d6e-80f6-3229725d4259,survey_945,Algeria,Kevinshire,Male,65.0,Secondary,Unemployed,completed,2026-05-14T10:39:44,field_tool,4,Bad,2,Medium,2
+03727a5b-fe3a-4d8d-a012-83b1ed52afde,b1594847-5c0b-4b10-a757-cb1042f525b9,survey_482,Algeria,North Elizabeth,Female,66.0,Primary,Self-employed,completed,2026-05-14T10:43:37,field_tool,2,Bad,3,Low,5
+0c6ae006-0b95-4d89-9402-728bbc6871d8,afa28559-67c9-4204-a8e3-33b64e8adc4b,survey_682,Algeria,Hannahport,Female,72.0,Primary,Employed,completed,2026-05-14T10:42:47,field_tool,2,Neutral,1,High,1
+73405969-a32e-417b-bc78-5e2dec190080,f5159494-3818-4fd3-b889-936a9d5817e8,survey_380,Algeria,South Eric,Female,41.0,Secondary,Unemployed,completed,2026-05-14T10:44:49,field_tool,5,Very Good,1,Low,1
+2361b1a3-a792-4528-8844-a7d06c82d0b8,8c9aa1e9-b3b2-4337-aa74-dbb75fa5e0aa,survey_991,Algeria,Toddborough,Male,56.0,Secondary,Self-employed,completed,2026-05-14T10:41:45,field_tool,5,Good,3,High,3
+44aafe7c-2d94-47de-ba39-3db7d0e74b52,df85c777-9887-4bfe-8136-9c65ae2ae341,survey_974,Algeria,New Seanstad,Male,42.0,Tertiary,Employed,completed,2026-05-14T10:40:18,field_tool,2,Neutral,2,Medium,4
+bb1d2c45-8ea1-4d21-aba8-60cedfca71f2,0fcf601f-1cb9-473a-906d-5c8cead08c89,survey_585,Algeria,New Amanda,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:41:03,field_tool,2,Bad,2,Medium,5
+695c6f2a-d098-4f2e-9d6f-f276eeeeecf2,711c7673-8535-4a69-9abf-984e53ff8461,survey_533,Algeria,Lake Jamieshire,Female,63.0,Secondary,Unemployed,completed,2026-05-14T10:43:49,field_tool,4,Good,2,Medium,3
+21f2cd62-d69b-42ce-bcdf-55666c2d3ac6,720b274b-82a7-4586-a61d-9cde1747f387,survey_778,Algeria,South Davidchester,Female,18.0,Secondary,Self-employed,completed,2026-05-14T10:43:32,field_tool,5,Good,3,Low,1
+9c374579-6925-4eef-84b5-c3a9a6455e85,765e6cb5-8f0d-4540-8ec7-d662905c7bdd,survey_982,Algeria,Jenniferfurt,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:41:49,field_tool,3,Neutral,2,Low,2
+18a31711-57e0-431f-98e3-0f1d6af8c3c9,37c86152-beed-4af9-80c5-9f30d1031424,survey_513,Algeria,North Rodneyland,Male,69.0,Tertiary,Unemployed,completed,2026-05-14T10:44:16,field_tool,2,Bad,4,Medium,3
+27ff558a-d78d-4998-a7b6-392111327ecc,e4eb8000-ef40-4162-8f6c-e9bffe7ee362,survey_825,Algeria,South Anthonychester,Female,65.0,Tertiary,Employed,completed,2026-05-14T10:41:11,field_tool,3,Neutral,5,Low,4
+9ad95738-735f-469d-ae04-21e146052322,a43afb7a-c40d-4874-a2ab-7752c4db5a62,survey_773,Algeria,Brooksfurt,Female,72.0,Tertiary,Employed,completed,2026-05-14T10:43:28,field_tool,3,Bad,4,High,3
+eba08b74-4558-47c3-8d03-9e1e115220a6,60a399d4-e821-4716-aac8-0da1de9f6f5b,survey_191,Algeria,Millerside,Male,75.0,Primary,Unemployed,completed,2026-05-14T10:40:47,field_tool,2,Good,4,Medium,3
+c9b547fa-c3b9-43d9-968f-ed67a1645d12,1e5ebe54-5907-4299-9c3b-bdd8a74e02a9,survey_581,Algeria,New Phillip,Female,47.0,Primary,Self-employed,completed,2026-05-14T10:40:44,field_tool,5,Bad,4,High,5
+ef2881bb-0d89-4ffd-ab85-1a95004321ff,d5b6de85-3902-49d9-ba8d-ae42ba54e920,survey_523,Algeria,Port Andrewport,Male,42.0,Primary,Employed,completed,2026-05-14T10:43:36,field_tool,2,Neutral,3,Medium,5
+9c34e8f5-cdd5-4500-8d5a-826effcd0941,6c93a791-8b60-4511-b816-8aebac6a7c85,survey_897,Algeria,Morrowbury,Female,73.0,Primary,Unemployed,completed,2026-05-14T10:43:34,field_tool,3,Neutral,3,Low,1
+96dceca5-46e5-420d-8d0b-24dbc91cf271,3040413c-4690-4b15-a7b6-08dc589decb0,survey_272,Algeria,North Lisachester,Male,31.0,Tertiary,Employed,completed,2026-05-14T10:44:53,field_tool,4,Bad,2,Low,4
+2524dcc0-f1d8-46e6-b29d-e82ad2c734fc,e39836bb-e23d-4faa-afad-49e9c41c147e,survey_138,Algeria,East Jamieville,Female,48.0,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,3,Bad,3,Low,2
+e516a901-ffbd-46ec-bd71-d62b70a371de,ac09bdb7-9908-4e47-b249-f62c08987462,survey_331,Algeria,East Joyfurt,Male,58.0,Tertiary,Unemployed,completed,2026-05-14T10:43:23,field_tool,3,Neutral,1,Medium,5
+a5d5142a-4430-40f1-84a2-0047fe904f04,c11f6bf5-379e-4467-8a2d-b2e63bfda8a6,survey_397,Algeria,East Williamport,Female,70.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,5,Good,4,Low,2
+a340536a-872e-46ea-90e8-796b56181c0d,937bf79b-bb44-4adc-aa98-fef8d0d75e37,survey_292,Algeria,Barbaramouth,Female,49.0,Primary,Unemployed,completed,2026-05-14T10:41:40,field_tool,1,Neutral,2,Low,2
+e97b64d9-ab0e-4d95-8894-97bc5ab55db4,fc568b53-24ac-4722-a052-77394d406f1b,survey_226,Algeria,South Kevin,Male,55.0,Secondary,Self-employed,completed,2026-05-14T10:40:10,field_tool,1,Very Good,3,Low,5
+26d85184-f58f-432f-8f7d-1f0d5eb3e3c8,e134edfc-9777-4f10-b2d2-393f8e85140d,survey_769,Algeria,Lake Erika,Male,21.0,Primary,Employed,completed,2026-05-14T10:44:23,field_tool,1,Very Good,4,Medium,1
+e86544e1-33c9-47b3-a126-bad14c040be8,582b91ee-f8e8-435b-8c00-988a7ee1011a,survey_802,Algeria,Floydmouth,Female,27.0,Tertiary,Employed,completed,2026-05-14T10:45:35,field_tool,3,Very Good,1,Low,5
+5bb80e3a-77e2-4cfb-8048-513381b213b4,4cc57e0d-2633-4018-a883-ac6e6a944054,survey_950,Algeria,Whiteside,Female,62.0,Primary,Self-employed,completed,2026-05-14T10:43:41,field_tool,5,Bad,3,High,1
+39e9ca68-6b20-4645-ae25-d040917345a3,4cfd0fc1-39b0-4e2a-996e-684f3db0174e,survey_951,Algeria,Port Steven,Female,30.0,Tertiary,Employed,completed,2026-05-14T10:40:08,field_tool,3,Very Good,3,High,1
+4ea3b8d8-8b7b-4053-bcef-05a22d64fa76,6aa0426d-f7c0-45f7-a9a5-3b4f8ff8869d,survey_438,Algeria,South John,Female,62.0,Primary,Employed,completed,2026-05-14T10:41:23,field_tool,1,Bad,1,Low,4
+a56ef77b-4839-41ee-92e9-bd2936b917ba,ec170298-143d-45b3-a58e-83dd548c1d84,survey_840,Algeria,Booneland,Male,67.0,Tertiary,Employed,completed,2026-05-14T10:44:13,field_tool,3,Neutral,4,Medium,3
+4f233091-566d-406c-8afe-fa99026f768c,0d31812e-30c3-4756-9453-f867b97e6224,survey_140,Algeria,Nicholaston,Female,70.0,Secondary,Unemployed,completed,2026-05-14T10:40:16,field_tool,3,Very Good,1,High,1
+b5623917-17e5-40b8-9d12-ee0566c24eed,966be275-c2fe-4954-8dfd-9531302b7831,survey_436,Algeria,South Jason,Male,60.0,Secondary,Unemployed,completed,2026-05-14T10:42:29,field_tool,5,Good,1,Medium,3
+c00246ac-f2af-49fe-8bd6-99b510bce045,03ece8ff-e8b3-4763-b4ff-3f3a4d9dbaeb,survey_378,Algeria,East Suzanne,Male,43.0,Secondary,Self-employed,completed,2026-05-14T10:40:39,field_tool,4,Very Good,2,High,2
+91a08463-7a7d-4ae5-ae78-3ed806ceb1a7,7a9a8ef5-c11b-41c4-bfe3-f366bf337a15,survey_526,Algeria,Lake Cassandra,Male,72.0,Tertiary,Unemployed,completed,2026-05-14T10:41:23,field_tool,5,Very Good,2,Low,4
+b9dd635a-1b64-42ee-9599-fab5ae33e760,8d55119e-3d44-4b2c-aa45-ba416589ada1,survey_958,Algeria,Kimberlyfurt,Female,73.0,Tertiary,Employed,completed,2026-05-14T10:43:37,field_tool,4,Very Good,1,Medium,4
+7c462e58-2909-471e-899b-b198cb1548dc,4ef4c34d-5bf8-4f3c-a612-9a1c889d4b76,survey_821,Algeria,Michaelfort,Male,59.0,Tertiary,Self-employed,completed,2026-05-14T10:43:37,field_tool,5,Neutral,3,Low,5
+4371a077-7881-4977-9afe-7446e0bb02f0,b8f0188e-fb37-4fae-8d85-63ca193e638d,survey_454,Algeria,Gillmouth,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:41:23,field_tool,4,Neutral,5,Low,1
+aad5534c-c5ea-4751-b8ae-4cacc158b3c0,0bb401e7-69f7-43f1-901b-a8515ee68495,survey_580,Algeria,Lake Dustin,Male,28.0,Secondary,Employed,completed,2026-05-14T10:41:52,field_tool,1,Very Good,3,High,3
+8245823f-7459-401d-bb45-75faf7bb984d,9442b5e6-9583-4d58-af4c-51198da5d39b,survey_487,Algeria,Phillipsborough,Female,32.0,Secondary,Employed,completed,2026-05-14T10:42:27,field_tool,1,Very Good,4,Low,4
+06352514-8284-4eac-8d57-8d926b827448,d5574241-91dd-49bf-a13d-2de93ae28023,survey_609,Algeria,South Andrea,Male,46.0,Tertiary,Self-employed,completed,2026-05-14T10:45:29,field_tool,1,Bad,4,Medium,1
+3c6c2990-cc44-4f6d-8ef6-58e96eb48dc9,d253d966-c36b-4a0a-81e0-2a89566a9ce7,survey_733,Algeria,Levyfort,Male,68.0,Tertiary,Unemployed,completed,2026-05-14T10:43:34,field_tool,5,Neutral,4,Medium,3
+2a75cf97-e71c-4fe8-8083-5c1a6c8ec93b,5a2837b2-cb83-43f2-bb96-f6022b115c36,survey_673,Algeria,East Jennifer,Male,72.0,Tertiary,Self-employed,completed,2026-05-14T10:43:49,field_tool,4,Good,4,High,1
+736dfe76-621a-412f-9b66-f70a9bd58fa3,8ac97b01-e3ad-44d4-aab9-eb022f1dc121,survey_748,Algeria,New Arthurland,Male,,Secondary,Self-employed,completed,2026-05-14T10:45:21,field_tool,5,Good,1,High,2
+9d06d06f-0fb6-4833-bac3-86d2e545ea30,6992896e-01a2-4ed1-83ab-b5f10c6b7074,survey_519,Algeria,Port Crystal,Female,63.0,Primary,Unemployed,completed,2026-05-14T10:40:13,field_tool,5,Neutral,2,High,4
+2256aff4-9009-4285-ace5-9141a2c92a25,37fe032c-0257-4851-a6a9-e100b509109b,survey_446,Algeria,Brooksfort,Male,68.0,Primary,Unemployed,completed,2026-05-14T10:45:16,field_tool,1,Bad,4,Medium,5
+43a803fd-c134-4273-99af-220e14250706,883f13c6-01b1-48e9-8406-ff447ce40679,survey_149,Algeria,Smithhaven,Male,18.0,Tertiary,Unemployed,completed,2026-05-14T10:41:59,field_tool,5,Very Good,5,High,5
+78be58c9-6f44-49c0-9d08-e172d8e575ba,0463750e-4964-4b96-ba3c-1628892621df,survey_773,Algeria,Drakeburgh,Male,26.0,Tertiary,Self-employed,completed,2026-05-14T10:40:33,field_tool,3,Very Good,4,Low,2
+029cad5c-634f-48f1-a5cb-4a32a0b13639,261e2555-863e-4f2a-98a8-06efeb053fc4,survey_563,Algeria,East Christine,Female,39.0,Primary,Employed,completed,2026-05-14T10:41:48,field_tool,4,Good,5,Medium,5
+d6081043-49eb-4a6d-97b6-9970ef2ef651,cb80f288-446f-44dd-9abc-a6e5d0b1e3eb,survey_803,Algeria,Millerfurt,Male,57.0,Secondary,Self-employed,completed,2026-05-14T10:43:34,field_tool,2,Neutral,5,Low,3
+58d889b0-8172-4120-b137-72dd907b3f8f,b27e1442-fd7f-4973-be42-df5b90a3fbbf,survey_684,Algeria,West Gabriella,Male,53.0,Tertiary,Self-employed,completed,2026-05-14T10:40:20,field_tool,4,Good,4,High,5
+7717b432-4d8e-4eda-b1d1-5c0f34f22824,a65f7b8a-dbb4-4021-bdde-64afa75b395a,survey_157,Algeria,North Richardfurt,Male,27.0,Primary,Unemployed,completed,2026-05-14T10:44:21,field_tool,2,Good,3,High,1
+fcaa5ee9-8de2-4022-a735-bebadaa548ba,026b5383-a301-4c03-8e5d-8c6a79db7862,survey_933,Algeria,North Vincent,Female,52.0,Secondary,Employed,completed,2026-05-14T10:43:21,field_tool,5,Neutral,5,Medium,2
+9206b4bd-938a-45b9-9b42-2096370a34f0,90dbfad6-54ce-46be-88cc-e2c2a518a418,survey_496,Algeria,New Samanthabury,Female,21.0,Secondary,Self-employed,completed,2026-05-14T10:41:27,field_tool,3,Bad,1,Low,3
+9f4fb873-a64a-4b74-9dd7-a54bccec0fe9,e336c243-b139-4476-9e3c-e88be6b9d31a,survey_553,Algeria,Nelsonland,Male,67.0,Primary,Self-employed,completed,2026-05-14T10:45:29,field_tool,3,Neutral,2,Medium,4
+59337546-8cdb-4e55-87d4-7f4bcf5e99b9,8b040f53-e639-49d4-87c6-8688ecf32053,survey_277,Algeria,East Sarahmouth,Male,22.0,Tertiary,Self-employed,completed,2026-05-14T10:39:47,field_tool,1,Very Good,1,Medium,3
+f1c3e7ec-9208-4b84-b834-a8a81be01a78,24e9bcfd-9647-4f9f-b508-507af622d842,survey_105,Algeria,Hickmanport,Female,55.0,Secondary,Unemployed,completed,2026-05-14T10:41:02,field_tool,2,Bad,2,Medium,5
+ff7d7173-34bf-4366-9ab3-8aace1a4e7fa,d5aba8ae-9112-4bc0-bd8f-95f4905f9096,survey_777,Algeria,Rhodesside,Male,58.0,Secondary,Unemployed,completed,2026-05-14T10:42:28,field_tool,5,Good,1,Low,3
+e70f0caf-4373-4b83-a3cb-d79ddf377b22,23d3cd4c-bd5f-4093-816f-9bcc6243bed7,survey_617,Algeria,New Juliestad,Male,51.0,Primary,Unemployed,completed,2026-05-14T10:40:06,field_tool,5,Very Good,1,Medium,2
+d6427be4-ca0c-4b52-9a69-5f829a91b95c,d6b361e4-3b6d-4a0d-afe5-040b1901ef87,survey_323,Algeria,West Cassiefurt,Male,39.0,Tertiary,Self-employed,completed,2026-05-14T10:42:26,field_tool,4,Bad,1,Low,3
+bb15edd8-6b93-410b-a9e9-f62ac65ecae3,c8969c5b-45f8-428d-a255-e1bb07958c1f,survey_736,Algeria,Henrystad,Female,59.0,Primary,Employed,completed,2026-05-14T10:44:22,field_tool,3,Very Good,1,Medium,3
+e26f02ac-5519-414c-bd6a-a4461f2bc038,2f8c83e5-6e8d-4644-a01b-fbcbf0eebcce,survey_483,Algeria,Millerport,Female,51.0,Tertiary,Self-employed,completed,2026-05-14T10:41:45,field_tool,4,Very Good,1,Medium,2
+134c853e-0598-46de-9439-ee0259ffaf29,4499d0a6-1500-4170-92d1-5585b68e47fa,survey_891,Algeria,South Jennifer,Female,24.0,Tertiary,Self-employed,completed,2026-05-14T10:45:03,field_tool,1,Bad,2,Low,2
+502a401a-fb98-4f28-9a8e-dce121e39e81,5111d31d-63be-441d-bd5a-0c9e277eb0aa,survey_819,Algeria,Danieltown,Female,31.0,Tertiary,Unemployed,completed,2026-05-14T10:42:16,field_tool,1,Neutral,1,Medium,3
+24182f00-cb44-4c8e-bec3-e3711af4deed,450f69ee-c2e7-4a98-9c23-8d8d71da35b9,survey_357,Algeria,East Christopherchester,Male,21.0,Tertiary,Employed,completed,2026-05-14T10:43:28,field_tool,5,Neutral,3,Medium,4
+28f80255-50e1-4f36-aecb-f8ce6efc2756,68759545-832f-42c4-8e03-70cf8e969227,survey_498,Algeria,North Christopherside,Female,45.0,Tertiary,Employed,completed,2026-05-14T10:40:26,field_tool,5,Bad,5,High,5
+992c6ee1-9ee8-4b86-b8ab-70b0c348a763,530ddda6-c8d0-49e5-9919-65ea98d00c2c,survey_614,Algeria,Smithchester,Male,22.0,Primary,Unemployed,completed,2026-05-14T10:42:57,field_tool,3,Bad,3,Medium,4
+f9f16564-a435-4679-943f-165df83964a4,e6b0da0a-b98f-4dbe-95ae-de0fc777a07f,survey_646,Algeria,New Adriana,Female,19.0,Primary,Employed,completed,2026-05-14T10:45:29,field_tool,4,Good,2,Medium,3
+280161bf-1343-436d-806a-9879a72c2861,44d7df9a-238b-45b7-ab64-777c6177a771,survey_142,Algeria,Josephberg,Male,53.0,Primary,Self-employed,completed,2026-05-14T10:40:11,field_tool,5,Very Good,5,Low,1
+20ca3f26-b020-4e30-9ef9-ca0533b11fea,6bcd5ce7-46a5-4fe8-af46-f1b12ace1aa9,survey_452,Algeria,Toddland,Female,65.0,Primary,Unemployed,completed,2026-05-14T10:42:43,field_tool,5,Neutral,2,High,2
+4d1ceffe-6b6e-413c-b819-020dec021565,b88cddde-3f20-46c2-b1b8-8d65406f64d6,survey_680,Algeria,Wheelerborough,Female,29.0,Primary,Self-employed,completed,2026-05-14T10:43:33,field_tool,4,Bad,3,Low,1
+6837053d-b4cf-4802-a0a6-368d727456dd,01bb819c-4dfe-4117-a2af-711f1b628a9d,survey_438,Algeria,Cookfurt,Female,64.0,Secondary,Employed,completed,2026-05-14T10:42:27,field_tool,2,Bad,3,Low,1
+7ce8943b-6f22-4e4d-b144-ac9dc836ddb4,d0c30018-6e3c-4d4f-95b1-45e470b27304,survey_775,Algeria,West Malik,Male,46.0,Secondary,Self-employed,completed,2026-05-14T10:45:34,field_tool,5,Neutral,5,Low,3
+7eb953f0-0899-407e-ada2-fbb8acb9e932,2d79a2d1-506e-40c7-baa0-61e9336b00cb,survey_904,Algeria,Novakport,female,28.0,Primary,Self-employed,completed,2026-05-14T10:45:34,field_tool,4,Good,3,High,3
+6ec7ca18-6a06-47a9-a348-d358c2b1d35e,936cd31c-f7bf-4244-bdb2-a7aaa205e54f,survey_598,Algeria,West Nicholas,Female,40.0,Tertiary,Employed,completed,2026-05-14T10:43:00,field_tool,2,Bad,3,High,5
+9199a0d4-1f64-4223-9c53-be84c3a3a6de,905881df-ee9b-43e1-9d27-c09a5d71a898,survey_844,Algeria,New Wendy,Male,74.0,Primary,Employed,completed,2026-05-14T10:41:11,field_tool,5,Bad,5,Low,4
+fa13828e-3fa6-4cbd-95e1-0b3f83f8e3ce,06e3f949-8cd3-4c62-8482-9b71ae84b81c,survey_652,Algeria,Hahnborough,Male,53.0,Secondary,Self-employed,completed,2026-05-14T10:43:23,field_tool,2,Good,4,High,5
+cc00a4bc-3086-4975-bcf0-e91a94b8ebd1,b15da72d-d4ce-427c-8a94-ae9fcc351e4f,survey_506,Algeria,Port Melaniechester,Female,50.0,Secondary,Self-employed,completed,2026-05-14T10:45:23,field_tool,1,Neutral,5,Low,2
+0ceab912-349d-4169-9a9e-c9968e10c00b,4d8670bd-a222-4f96-a3a1-3e207fd255ee,survey_679,Algeria,West Donna,Male,29.0,Tertiary,Employed,completed,2026-05-14T10:43:15,field_tool,4,Good,1,High,4
+692333a6-322b-4042-98a5-772304b3d850,72f60958-12ef-4101-a082-786fca00ef58,survey_784,Algeria,Aguilarside,Male,41.0,Primary,Self-employed,completed,2026-05-14T10:43:58,field_tool,3,Very Good,4,Medium,1
+627e6e7b-4f11-47b6-872a-4800fafe8504,b113d50b-dea0-40c6-ab9e-d274ec6a37ad,survey_633,Algeria,Stephensstad,Male,38.0,Tertiary,Unemployed,completed,2026-05-14T10:45:38,field_tool,3,Neutral,4,Low,4
+f6051955-d8c3-414b-ac86-c4e5e1ea9cae,98049562-8972-4bbd-8ff2-b1c4e53f9644,survey_629,Algeria,North Kaylastad,Female,75.0,Secondary,Unemployed,completed,2026-05-14T10:41:04,field_tool,2,Very Good,3,Medium,4
+2f532e0b-8256-466f-b0b0-c628e0b7eca4,902f3465-0b57-4720-9cd8-758ba5a1c825,survey_242,Algeria,Rasmussenmouth,Female,18.0,Secondary,Employed,completed,2026-05-14T10:43:19,field_tool,2,Bad,5,Low,3
+b9349e82-96f1-4317-9bd7-723d82f1575d,423cad9d-193e-4783-82b3-42541b1f2eb1,survey_834,Algeria,New Julie,Male,28.0,Primary,Self-employed,completed,2026-05-14T10:44:24,field_tool,2,Very Good,3,Low,1
+cb30a623-b403-4c5c-abdd-b25bbaacb7ad,38958939-9342-409f-b00a-c64c949cd8d4,survey_265,Algeria,Brooksmouth,Female,48.0,Tertiary,Unemployed,completed,2026-05-14T10:45:26,field_tool,1,Neutral,1,High,5
+31695f5c-2dd4-4fff-8c4e-7a25ba2458d5,2697384d-801e-4690-b0c0-7fcc96add4df,survey_686,Algeria,Whitneyfort,Male,50.0,Primary,Employed,completed,2026-05-14T10:40:32,field_tool,2,Good,2,Low,4
+711d9a1a-843c-452d-8f5a-16b3d41da196,f633cc2d-eba9-40e1-aa7d-5d964ba17233,survey_390,Algeria,North Marieberg,Male,64.0,Primary,Employed,completed,2026-05-14T10:42:37,field_tool,4,Very Good,4,High,2
+cc241e44-289c-4856-8884-9f7a6f7a6fab,c8c5eb2a-7490-4deb-97d3-37d34fd80bbb,survey_885,Algeria,New Timothy,Female,68.0,Primary,Self-employed,completed,2026-05-14T10:43:42,field_tool,5,Good,2,Low,3
+a46b23eb-d7e1-4c4c-9523-df2e0b429549,b25f13df-b8d4-4848-b02b-a49f18fdd2b9,survey_494,Algeria,Floresport,Female,22.0,Primary,Employed,completed,2026-05-14T10:40:01,field_tool,1,Neutral,5,Low,4
+90aaa07e-4a1b-4b92-b024-2c091a42e7ca,05c8234b-1d76-4a66-b5f5-9cb0cf685878,survey_729,Algeria,Deborahburgh,Male,29.0,Tertiary,Employed,completed,2026-05-14T10:41:43,field_tool,5,Bad,1,Medium,2
+09bd15af-c585-41cd-9476-a266c09b0276,28fea761-8d49-4e3f-aca8-f78384182d35,survey_541,Algeria,Anitamouth,Male,67.0,Tertiary,Unemployed,completed,2026-05-14T10:41:37,field_tool,3,Bad,5,Medium,2
+0de26b15-8ac0-4f87-a40e-e44b51709208,2f383b43-a137-48e4-a7b1-3040cc39b925,survey_923,Algeria,Lake Diane,Female,42.0,Tertiary,Self-employed,completed,2026-05-14T10:43:01,field_tool,5,Bad,4,High,3
+b0171306-ead1-4f04-844d-2ed51ed1d689,e212ab7c-9d36-4cb6-bcc5-7be00779250a,survey_712,Algeria,South Brittany,Female,72.0,Tertiary,Unemployed,completed,2026-05-14T10:42:58,field_tool,3,Neutral,1,Low,1
+e4947aed-b4ee-4fc5-b20d-7b39aad288fc,34ae4abd-36fc-40ac-b469-8db30123a348,survey_804,Algeria,Karenland,Male,42.0,Secondary,Unemployed,completed,2026-05-14T10:44:34,field_tool,3,Bad,2,Medium,5
+01482764-892d-4f27-8f96-47a3c20c4106,89718eea-df3a-498a-8cac-2fb51a0c6c04,survey_474,Algeria,West Mark,Female,52.0,Tertiary,Unemployed,completed,2026-05-14T10:43:33,field_tool,4,Neutral,4,Low,5
+4ffa059f-ded9-408c-a073-d7bcd088c2b2,dcd5bfae-abb3-46a7-8329-97801d2c2721,survey_359,Algeria,Rosemouth,Female,53.0,Secondary,Self-employed,completed,2026-05-14T10:44:44,field_tool,3,Very Good,2,Low,1
+5022e902-0902-4b26-bdff-13657c1d8ec4,9645f0e4-647d-4392-9c7e-b575637ddcd6,survey_202,Algeria,West Michaelmouth,Male,62.0,Primary,Self-employed,completed,2026-05-14T10:44:55,field_tool,4,Good,5,Low,1
+2dd468db-e62f-44f7-8310-55c1ee9f1f51,b4bba73f-ac70-41d1-9051-267f2c2ac34b,survey_943,Algeria,Samanthashire,MALE,58.0,Primary,Unemployed,completed,2026-05-14T10:40:22,field_tool,5,Very Good,1,High,3
+f2e03545-097a-450c-83ed-cc74d1ad0c9b,1e2c2e7d-502c-40ee-a24a-66a6ac0f6801,survey_493,Algeria,West Daryl,Male,56.0,Secondary,Self-employed,completed,2026-05-14T10:42:50,field_tool,5,Good,5,High,2
+abb69590-031b-4980-84b1-974005cdbc99,63725424-82c5-4b21-a430-12dab1850eb8,survey_923,Algeria,Carlsonshire,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:42:55,field_tool,2,Bad,5,Low,5
+2d77a5c3-9447-4039-9514-acfde161af2f,a2b03c4b-7c96-4b55-af8d-8ded6c4c450b,survey_344,Algeria,New Garrett,Male,61.0,Tertiary,Employed,completed,2026-05-14T10:42:06,field_tool,2,Bad,3,Medium,3
+3991d56c-7efd-4a24-becc-4a51f04fa1e6,d78c57d3-5088-40d3-afe5-b14023ea7956,survey_854,Algeria,Harveystad,Female,30.0,Tertiary,Employed,completed,2026-05-14T10:39:43,field_tool,1,Good,5,Low,3
+0d2f58ec-e5ca-4568-ae1c-f9926fd85716,d0b1fde0-31f3-40c0-a2f3-f0687c0f549d,survey_299,Algeria,Maynardhaven,Female,35.0,Secondary,Unemployed,completed,2026-05-14T10:45:13,field_tool,5,Bad,3,High,4
+cd73dd61-2f9f-42fc-ab94-f90aeef1477e,7de1bf5d-af48-47f0-a8bd-075b7eb6581e,survey_219,Algeria,Mckinneymouth,Male,50.0,Tertiary,Unemployed,completed,2026-05-14T10:43:49,field_tool,5,Good,4,Medium,5
+42179f97-2ada-489c-8e4c-4ca51c807c7b,07e67cb0-90bd-4900-9529-e6f52ad11fe8,survey_894,Algeria,West Antonio,Female,66.0,Secondary,Self-employed,completed,2026-05-14T10:41:34,field_tool,4,Bad,4,High,3
+f423e3e4-c75e-40eb-befb-85ed419fbd69,c7de96ea-2b0f-4e44-89e6-4c2289a0b7eb,survey_793,Algeria,Cunninghamfort,Male,68.0,Tertiary,Employed,completed,2026-05-14T10:44:20,field_tool,3,Very Good,3,Low,5
+9ba6f6c7-8e6d-408a-871f-5da4da5c14e1,1d3ca5a4-929d-4377-9cfb-655f82c42e48,survey_195,Algeria,Kimberlystad,Male,34.0,Secondary,Self-employed,completed,2026-05-14T10:44:16,field_tool,3,Bad,5,High,4
+aa800002-2f96-4341-b889-fc8c9f73f58e,c28fa16b-0aa6-4cb9-81bc-be59d296a12d,survey_287,Algeria,Paynechester,Female,75.0,Tertiary,Self-employed,completed,2026-05-14T10:40:31,field_tool,2,Very Good,2,High,2
+ca25513c-3660-4ab5-914a-65e5601b097c,c0582da5-a757-475b-947f-83b1bc69c155,survey_956,Algeria,West Nancy,Female,30.0,Tertiary,Unemployed,completed,2026-05-14T10:39:55,field_tool,2,Bad,1,High,4
+9c37e1cc-1aaf-4324-92e0-5fa9a32509c6,dcb91d5f-593c-472b-8347-dbca7321a8b2,survey_968,Algeria,South Michelleville,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:41:40,field_tool,5,Good,4,Low,3
+7e883ad5-2990-47d9-bee7-4b111f5c4a66,96822e22-bcd4-444f-8f8a-368e35ba9357,survey_386,Algeria,Michellechester,Female,66.0,Secondary,Employed,completed,2026-05-14T10:41:03,field_tool,5,Neutral,1,Low,4
+69a3ad1d-9f11-4a8e-b323-38d5b9e1be7a,34e50699-c8eb-427a-a3a4-e70e9dbc15c0,survey_503,Algeria,Port Brian,Female,20.0,Tertiary,Employed,completed,2026-05-14T10:42:38,field_tool,4,Bad,5,Medium,3
+2d9bd247-de7c-40a3-835f-ebfc573bcd4d,89ecbc51-98cb-4a52-87f5-301988438de2,survey_694,Algeria,West Tiffany,Male,,Primary,Unemployed,completed,2026-05-14T10:42:08,field_tool,3,Good,2,Low,3
+b064df24-eb0f-467f-bc12-a1394e0af9f0,f3d04ffb-4470-4848-929e-cc924a11be44,survey_288,Algeria,East Sydneychester,Male,57.0,Secondary,Unemployed,completed,2026-05-14T10:40:09,field_tool,2,Very Good,3,Medium,4
+ec791387-9d78-4a64-9df5-5edca04a0ce2,a7e8d18e-ddf6-44ac-86fe-acd4fe1393cd,survey_689,Algeria,Lake Michelle,Female,54.0,Tertiary,Employed,completed,2026-05-14T10:41:46,field_tool,1,Good,2,Low,4
+16f9fd3d-f1d3-41e7-825d-34992383d5fd,d4176230-5274-4e11-b61d-f906257035db,survey_253,Algeria,Port Megan,Female,69.0,Secondary,Employed,completed,2026-05-14T10:43:00,field_tool,2,Very Good,4,High,5
+35a71797-79ef-477f-a5b0-cc44fe4425f6,a1e518a2-93d2-48d4-a465-5c397d4d2add,survey_979,Algeria,Courtneyfurt,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:43:30,field_tool,4,Bad,2,High,2
+24433de3-c57c-4cf0-a7df-9534c03e5e1e,e14fe093-cb6a-40c7-a235-6dd4135508d0,survey_862,Algeria,South Zacharyview,Female,58.0,Secondary,Unemployed,completed,2026-05-14T10:45:34,field_tool,3,Good,5,Low,3
+6cbdc9ce-c595-4501-9038-47143e8a9817,7466ef02-5e7b-42c8-a097-dedbefb3b939,survey_988,Algeria,Murphytown,Female,,Tertiary,Self-employed,completed,2026-05-14T10:40:26,field_tool,2,Neutral,3,Medium,3
+4c278bf1-54ab-44a8-9798-9bb83c902d0c,a284e8fd-755c-4e2a-b8de-d777bb1e5ae8,survey_490,Algeria,Melissaside,Female,46.0,Tertiary,Unemployed,completed,2026-05-14T10:43:02,field_tool,4,Neutral,2,Low,3
+aa0660dd-295f-4405-a400-84174d9cf0cd,d3293724-6dfd-471a-b7d7-465d37c3b3c9,survey_173,Algeria,South Joseph,Female,54.0,Primary,Employed,completed,2026-05-14T10:42:04,field_tool,3,Neutral,3,Medium,3
+b02664cd-92c1-490b-b56b-36a4c7642826,216e9fe5-93f3-4596-8c1c-8b0556771f36,survey_555,Algeria,Kramerton,Female,43.0,Secondary,Self-employed,completed,2026-05-14T10:40:02,field_tool,5,Very Good,4,High,2
+72c56040-e3b7-4aec-9c7e-f01f7eeb88e9,d6321d31-c8ac-4fcf-a04d-4d14197dbae1,survey_861,Algeria,Smithburgh,Male,33.0,Tertiary,Self-employed,completed,2026-05-14T10:43:24,field_tool,1,Neutral,2,Medium,1
+1dcdaf17-0aad-4659-8818-42e0ebd9a36d,f54191ea-fde9-4c42-802c-4c2274de5f70,survey_155,Algeria,Harrisberg,Male,74.0,Primary,Unemployed,completed,2026-05-14T10:45:11,field_tool,5,Bad,1,Medium,5
+ba2e1e17-2e1a-4389-93ad-c61c537226e5,eec71a30-dfda-45b2-a8b2-bf214d470ed6,survey_334,Algeria,Clarencestad,Male,74.0,Primary,Self-employed,completed,2026-05-14T10:41:47,field_tool,3,Very Good,2,High,5
+5fabc695-4aa9-45db-8b22-97840e2b0565,e75f745a-aa1d-4fc6-9f31-273d1519830c,survey_433,Algeria,North Randy,Male,60.0,Secondary,Unemployed,completed,2026-05-14T10:42:15,field_tool,5,Good,5,Medium,2
+fa76fe80-83e2-4ff4-9414-26e093829e95,3bf0d9c1-c156-4501-b30e-96e8b9da5f8c,survey_751,Algeria,Riosville,Male,47.0,Tertiary,Unemployed,completed,2026-05-14T10:39:39,field_tool,5,Good,3,Medium,5
+c19d8a19-0c9a-46b9-9a5e-e9cac80500a7,21f89d06-13f3-4ade-ba10-013f36a2c52b,survey_522,Algeria,New Erin,Male,46.0,Secondary,Employed,completed,2026-05-14T10:39:43,field_tool,3,Bad,1,Low,2
+ce69bc85-ea58-400f-b28e-b046c69fe2e2,d12e0eb5-57f4-49b5-b212-a6ee02106371,survey_873,Algeria,Port Robertberg,FEMALE,52.0,Secondary,Unemployed,completed,2026-05-14T10:43:43,field_tool,1,Very Good,3,Low,2
+5f0f9c23-316e-49d1-8cd8-7b2a4697bdda,16de66c9-6210-4ef6-ba9c-43081221cddf,survey_674,Algeria,North Lawrenceport,Male,30.0,Secondary,Unemployed,completed,2026-05-14T10:40:49,field_tool,2,Neutral,4,Medium,2
+d76b1a83-d5bd-43d1-af53-d78b6059b08f,c0cef31b-d038-4153-8601-818b61fa01ba,survey_882,Algeria,Lake Victoria,Female,58.0,Tertiary,Self-employed,completed,2026-05-14T10:40:52,field_tool,3,Good,5,Medium,4
+dc3de2b2-92c2-4040-8ee4-d1f8c53be9a6,022b6683-9033-4a65-87cf-63fd11836c4f,survey_213,Algeria,South Michael,Male,29.0,Tertiary,Unemployed,completed,2026-05-14T10:41:28,field_tool,5,Very Good,3,Low,5
+25410a28-c3c4-4ab6-9b90-78d2c401624c,eb7e2e64-26c0-447e-bf8e-8bfaa0c9da72,survey_647,Algeria,Jensenmouth,Female,19.0,Primary,Employed,completed,2026-05-14T10:41:30,field_tool,1,Good,3,High,4
+ccfc83c1-318e-4fb2-b6e8-2193caa44d45,23d7e6a1-19b8-44fc-a587-1d8916312fc6,survey_450,Algeria,New Jessicastad,female,27.0,Secondary,Unemployed,completed,2026-05-14T10:43:18,field_tool,4,Good,4,Low,1
+6bff75bc-03b1-45b5-a38a-e8dcfbe08eb6,3f6eed9d-23cb-4943-8a84-000350834fef,survey_157,Algeria,Deannabury,Female,66.0,Secondary,Unemployed,completed,2026-05-14T10:44:22,field_tool,1,Very Good,2,High,3
+b3e264e6-8545-49b2-8029-39776fdf7b71,9b8b38ae-b89f-4a92-999a-1d8699db1302,survey_831,Algeria,Kimberlytown,Female,25.0,Primary,Unemployed,completed,2026-05-14T10:45:16,field_tool,4,Neutral,1,High,4
+cddb109e-18f4-4cbc-b1e0-b03da964dea8,848b34f0-3498-4735-8d38-e415e03635fc,survey_797,Algeria,Lake Peter,Male,31.0,Secondary,Unemployed,completed,2026-05-14T10:45:09,field_tool,2,Bad,5,Low,1
+65e08a2b-f5b7-4240-a2ee-f7f264a1c5bd,cb35097a-e5dd-48f1-88a7-38ab0df83e12,survey_153,Algeria,South Paul,Female,37.0,Tertiary,Employed,completed,2026-05-14T10:41:42,field_tool,1,Neutral,4,Medium,1
+647ec6f0-eb84-4fa5-808a-b8e07cd74d69,122dd7be-980b-481e-a359-5d1f7fe4a42e,survey_908,Algeria,West Sarahberg,Male,55.0,Primary,Employed,completed,2026-05-14T10:42:57,field_tool,1,Very Good,5,High,3
+0cb36df3-c406-4fec-a781-caf3b09a7967,6bbdb66f-9181-4091-96c6-f45cdc5e4e78,survey_733,Algeria,Amyburgh,Male,49.0,Secondary,Self-employed,completed,2026-05-14T10:43:40,field_tool,1,Bad,3,Low,2
+baf4b7db-0205-412c-beee-e19024645bdd,12af97e4-c536-466e-bcc4-091bf45707c6,survey_671,Algeria,New Carlosview,Male,32.0,Tertiary,Unemployed,completed,2026-05-14T10:41:29,field_tool,4,Neutral,1,Low,4
+c1434142-1367-483e-a65c-a8e7368e322c,f2dcb12b-0f7a-4302-ac2e-28150a3217d2,survey_596,Algeria,Hunterhaven,Female,34.0,Tertiary,Unemployed,completed,2026-05-14T10:43:11,field_tool,5,Good,5,Low,4
+0cad4775-846c-4e2d-be37-096222c04e37,1519fd38-66fb-471d-b3a9-dcaa6c6f6d2e,survey_849,Algeria,West Christopher,Male,52.0,Secondary,Unemployed,completed,2026-05-14T10:40:19,field_tool,5,Neutral,1,Low,2
+5eb8cf24-4ed5-4731-9a2a-f0e633df29d4,f96c9a0a-3404-402a-abc1-bb5282e4dd4a,survey_564,Algeria,New Mark,Female,34.0,Primary,Self-employed,completed,2026-05-14T10:44:39,field_tool,5,Very Good,2,High,5
+b324824a-9f3f-4535-8b3d-254e5560390a,a65be22b-d5a3-46d9-8362-a810a2611b8d,survey_164,Algeria,West Hollybury,Female,33.0,Tertiary,Self-employed,completed,2026-05-14T10:40:08,field_tool,4,Neutral,5,Low,4
+56dd0898-4654-4829-875c-0474d6f6b4bc,6f3a5115-ecb4-478c-9612-0aa63e9639ba,survey_429,Algeria,South Cherylton,Male,38.0,Primary,Employed,completed,2026-05-14T10:42:17,field_tool,5,Bad,1,High,2
+fe31133e-0399-48a6-928b-0f0413b718c0,bd9bc648-a876-4e85-bddf-a03aaa8430f8,survey_132,Algeria,North Alexander,Male,49.0,Tertiary,Self-employed,completed,2026-05-14T10:40:49,field_tool,4,Very Good,5,Low,5
+8da051bf-6543-4793-9094-455ef4b30501,7f14eafa-29f0-4f7c-82e7-df89b3957a98,survey_172,Algeria,Alexandraview,Female,32.0,Primary,Employed,completed,2026-05-14T10:41:04,field_tool,4,Bad,4,Low,1
+e2b95c51-19de-4580-bbd6-d6d7d834e184,c7f7bda1-bff1-4840-a07e-863f5f32d5d8,survey_477,Algeria,Jessicaville,Female,74.0,Tertiary,Employed,completed,2026-05-14T10:39:54,field_tool,5,Good,5,High,1
+1256ca36-2d5d-415f-9ed7-17ec661b1d13,45a08539-6de8-470a-8e9e-9ebd55c34853,survey_199,Algeria,West Jennifershire,Female,31.0,Primary,Self-employed,completed,2026-05-14T10:45:00,field_tool,2,Very Good,2,High,5
+c1f98e72-7acc-42e7-9230-3a1d28d7ae5d,82c299f0-7487-4772-bf03-86fa13badc91,survey_671,Algeria,Brianshire,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:04,field_tool,1,Good,4,Low,4
+1e2df420-df1c-4b5e-9bb3-591d213acb51,c5f8e2f8-414f-4994-a845-77805e20c957,survey_616,Algeria,New Emilyville,Male,29.0,Secondary,Self-employed,completed,2026-05-14T10:41:35,field_tool,2,Very Good,3,Medium,5
+7ecd27c2-bfca-4561-b529-912772bc8f7d,0b461173-00a8-4473-8242-5912bda3c162,survey_540,Algeria,East Brandonstad,Female,44.0,Tertiary,Unemployed,completed,2026-05-14T10:42:55,field_tool,5,Neutral,5,Low,2
+6732f0d8-4e2d-4bdd-849b-1f9c899d5480,ee6081ac-2dd0-422e-a66b-f2eaeb93f78c,survey_563,Algeria,New Lindachester,Female,65.0,Secondary,Unemployed,completed,2026-05-14T10:41:33,field_tool,1,Bad,3,Low,1
+27de6bb6-d1ec-4d91-808c-659a0987c8e5,ea75752d-6a8f-4acb-bf8e-2d0d52619dec,survey_319,Algeria,Josephland,female,37.0,Secondary,Employed,completed,2026-05-14T10:44:31,field_tool,3,Neutral,1,High,4
+14e8445f-15d7-4eac-964f-d8c7bf9aeea7,ac5f12ef-8085-4147-9e91-0f365f705b25,survey_696,Algeria,East Jeffreyhaven,Female,34.0,Primary,Employed,completed,2026-05-14T10:40:02,field_tool,3,Good,1,Low,4
+441b7673-6502-4aba-82be-75172034af36,e0827f76-11a5-49b4-a6a3-02d6f43e8c48,survey_594,Algeria,Clineport,Male,64.0,Primary,Unemployed,completed,2026-05-14T10:42:26,field_tool,5,Bad,5,Low,3
+ee6c41fd-6f01-4aa9-86e6-1a822bbba7e9,020a4497-74ed-4145-8d97-65c7161d5c87,survey_898,Algeria,Jamesshire,Male,54.0,Primary,Unemployed,completed,2026-05-14T10:42:14,field_tool,3,Very Good,4,High,2
+c96b74ea-88fa-41fe-9ebc-4d7dd874a7d8,76c3e642-3e19-4c1d-9f6a-6a65bd54da04,survey_412,Algeria,Brittanyfort,Male,58.0,Tertiary,Employed,completed,2026-05-14T10:41:19,field_tool,3,Neutral,3,Low,2
+21d85201-a896-47fb-83c4-c4bcb87c5afc,c2aef674-8beb-4e78-a683-73a3bb82b796,survey_556,Algeria,East Adam,Male,64.0,Tertiary,Self-employed,completed,2026-05-14T10:43:08,field_tool,5,Bad,2,Medium,3
+c55e3e03-1e01-42d7-b3b9-364a34be9ceb,58af393c-8aa2-44c9-bba5-bd76061efb95,survey_685,Algeria,West Aaronfurt,Female,39.0,Tertiary,Employed,completed,2026-05-14T10:42:16,field_tool,5,Very Good,3,High,4
+76e4ad8a-4fb2-4f7a-abd4-10f5667f92f0,fbad793f-87a1-4c02-b487-9e411a9c672a,survey_592,Algeria,South Travis,Female,26.0,Tertiary,Employed,completed,2026-05-14T10:40:09,field_tool,4,Very Good,5,High,5
+bfe67053-ddbf-4881-ac0e-b5d38ba57bf4,b62edb49-2472-46a4-bf38-b918f8f9a45d,survey_431,Algeria,Christopherbury,Male,35.0,Tertiary,Self-employed,completed,2026-05-14T10:44:05,field_tool,1,Bad,4,Medium,3
+dde5ccd1-1676-4d66-aa9d-ffbc82a140b8,5f5ba255-e544-4887-b36a-b3ed69be173a,survey_124,Algeria,Villegasland,Female,40.0,Secondary,Employed,completed,2026-05-14T10:44:36,field_tool,3,Very Good,5,High,4
+a8f77d03-a72d-477c-9a1d-8a4732357ba3,a3209116-222d-46a4-8163-b6ce1877bc06,survey_482,Algeria,Jonesshire,Male,32.0,Primary,Self-employed,completed,2026-05-14T10:40:10,field_tool,1,Bad,1,High,5
+072922d2-21c5-4c32-b51d-9ab2ffb3c3f5,21761930-f6d7-4248-a995-ecc36f5b09a6,survey_451,Algeria,West Jose,Male,70.0,Tertiary,Employed,completed,2026-05-14T10:42:20,field_tool,3,Very Good,4,High,3
+018a7304-5df5-4475-b864-2f2cb2f2e4c5,b362c0d2-6498-4bde-8d02-54dbed1115d7,survey_635,Algeria,Louisview,Male,31.0,Secondary,Self-employed,completed,2026-05-14T10:41:38,field_tool,4,Neutral,1,Medium,5
+675d6bca-c6bd-4626-866b-8374f44a5636,22d839d3-33e4-4986-b18c-ccdc131eb723,survey_908,Algeria,East Danielmouth,Male,21.0,Tertiary,Self-employed,completed,2026-05-14T10:43:37,field_tool,3,Bad,4,Low,1

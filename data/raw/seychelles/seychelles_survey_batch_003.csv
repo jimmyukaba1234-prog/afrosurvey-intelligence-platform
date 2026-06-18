@@ -1,0 +1,167 @@
+response_id,respondent_id,survey_id,country,region,gender,age,education_level,employment_status,completion_status,submission_timestamp,source_system,q1_democracy,q2_economy,q3_trust_govt,q4_corruption,q5_election_fairness
+bce8cc8a-a0ca-4ea0-a298-64f651320ef8,d85b7335-1984-44b9-b751-38831ff12143,survey_992,Seychelles,Laurenfurt,Female,59,Tertiary,Unemployed,completed,2026-05-14T10:44:29,field_tool,4,Good,5,High,5
+e970c2cf-3899-4111-af58-30857496b14e,e2a53840-990c-481c-94b2-a0a6521ac3a6,survey_256,Seychelles,South Raymondstad,Female,53,Primary,Self-employed,completed,2026-05-14T10:40:45,field_tool,3,Neutral,5,High,1
+14898014-b045-4129-8903-9b67e3841556,24506721-e52f-4763-b118-c22b5fd90501,survey_996,Seychelles,Port Kimberlymouth,Male,57,Secondary,Unemployed,completed,2026-05-14T10:40:00,field_tool,3,Very Good,2,High,2
+dcd78d55-abf8-425b-b3e3-e0579c5fac85,c18119c2-387b-4259-81f6-ad8dfedc1307,survey_864,Seychelles,Foxtown,Female,59,Primary,Employed,completed,2026-05-14T10:43:26,field_tool,2,Neutral,5,Low,2
+0f94ec6c-a6d4-4a8f-9967-2896d8db228d,86faa687-e082-477e-b0ed-d1aa790e3e1d,survey_379,Seychelles,Kylechester,Male,50,Primary,Self-employed,completed,2026-05-14T10:41:57,field_tool,5,Neutral,5,High,2
+565ef8f2-5f5a-4347-84da-6b0ae924a1ee,3cf35263-cf8d-492f-9f66-cc2e15ee43e4,survey_334,Seychelles,Donnahaven,Male,44,Tertiary,Unemployed,completed,2026-05-14T10:45:06,field_tool,2,Bad,1,Low,3
+d19c657c-3463-493a-b63f-1e5c926c4676,2ae8ff1b-9713-4aa0-8ce4-1376a29085f2,survey_244,Seychelles,Parkstown,Male,31,Tertiary,Unemployed,completed,2026-05-14T10:45:14,field_tool,4,Very Good,2,High,2
+a06f0661-b165-4edd-9f4d-5866700cdd47,c80040ea-8f21-456e-98b4-e2376151c5ae,survey_724,Seychelles,North Carol,Male,57,Tertiary,Unemployed,completed,2026-05-14T10:44:54,field_tool,5,Very Good,2,High,1
+61ace516-7f6a-44e6-bcab-742b8b97c322,f96303fe-f491-415c-a6e9-c5680ef63fbc,survey_578,Seychelles,Loganmouth,Female,41,Primary,Unemployed,completed,2026-05-14T10:42:59,field_tool,5,Bad,3,High,5
+36f07022-c0c0-43f0-afff-977eb58429ae,675d4ecc-8811-4aa3-8aac-260a2e16b0f1,survey_873,Seychelles,Joseshire,Male,22,Secondary,Employed,completed,2026-05-14T10:44:20,field_tool,3,Neutral,5,High,4
+f955eabf-a24d-40da-895f-1ddf547d4e23,96365eba-58df-409a-9a45-f7e71b193a40,survey_377,Seychelles,Coreymouth,Male,65,Tertiary,Employed,completed,2026-05-14T10:43:50,field_tool,4,Neutral,2,High,5
+0ddc1186-e086-4542-a9a5-7bbe1062925c,0d3cae7e-4910-47ee-bef0-40c34504284a,survey_971,Seychelles,North Christie,Female,56,Secondary,Unemployed,completed,2026-05-14T10:40:15,field_tool,2,Neutral,4,Low,1
+bba3c963-0b78-48a6-ad42-af963497ddab,6a36c062-0493-47e5-ab72-adffe1475efb,survey_720,Seychelles,West Zachary,Male,34,Primary,Employed,completed,2026-05-14T10:41:28,field_tool,3,Bad,2,Low,2
+52562b4d-fe4e-4411-b20f-d903fc63195f,dd033ae7-4e47-4086-b90f-6f872b413c37,survey_672,Seychelles,Leeland,Female,49,Tertiary,Employed,completed,2026-05-14T10:42:51,field_tool,3,Very Good,2,Medium,3
+bab21cb4-e450-4590-a157-42684aa21ef2,29ab5f68-e55c-477c-ad4d-a556c6986ade,survey_656,Seychelles,East Angelachester,Male,70,Tertiary,Self-employed,completed,2026-05-14T10:43:49,field_tool,2,Good,5,Medium,5
+84165254-5943-4861-b034-f97504b3c133,a472056a-1844-4ab0-8fe7-1604a328887a,survey_657,Seychelles,Hodgeview,Male,61,Primary,Unemployed,completed,2026-05-14T10:42:19,field_tool,3,Good,5,Low,5
+3da6d32a-5dbf-42c0-8568-01fe1b7b6860,9e476818-bebb-4e4b-9a22-3d7183ef48fe,survey_943,Seychelles,Port Stevenbury,female,30,Primary,Unemployed,completed,2026-05-14T10:44:31,field_tool,1,Neutral,1,Medium,1
+e5f6f57f-ae60-43af-9568-c913962be144,64b6522f-ccf7-4f95-955d-884140048562,survey_666,Seychelles,Michaelfurt,Female,60,Tertiary,Unemployed,completed,2026-05-14T10:40:29,field_tool,3,Neutral,2,Medium,4
+5dc1d0b2-c6cc-4d9d-a475-e037157bd7af,28ebffde-dd12-4fe1-9023-a4466e1a33ae,survey_119,Seychelles,Melindaview,Female,57,Tertiary,Self-employed,completed,2026-05-14T10:41:36,field_tool,3,Good,3,High,2
+8c610b24-0451-4c9f-aa55-a8055197677d,8d15d0e9-e3f7-4a46-8752-2cf1cb1343a5,survey_146,Seychelles,Lake Jesse,Female,61,Secondary,Unemployed,completed,2026-05-14T10:40:05,field_tool,2,Bad,1,High,3
+73b93ae6-b6d5-4a3b-acf1-790fc7ec21b0,cee379b9-da53-4d6c-b6c8-558fa6cccf8c,survey_235,Seychelles,Justinside,MALE,59,Tertiary,Employed,completed,2026-05-14T10:40:18,field_tool,4,Bad,1,High,4
+458d8480-8d3d-47c6-9804-bb1f7dda5dcc,b284df0c-85b8-4aaf-b910-7e29d26e802e,survey_605,Seychelles,Maryville,Female,27,Tertiary,Unemployed,completed,2026-05-14T10:40:56,field_tool,1,Bad,3,Low,3
+4411c16f-3072-4a5a-a0aa-72ac6450b24e,82b8e8af-a30d-411f-bf8a-04de36a6655a,survey_468,Seychelles,Gibsonshire,Male,28,Secondary,Unemployed,completed,2026-05-14T10:43:40,field_tool,5,Good,3,High,1
+e661407e-86c4-418d-b3a1-987b8efff5b5,06cb40bb-06e9-4def-a2b2-0e0b9971eb39,survey_731,Seychelles,Bowenfort,Male,66,Tertiary,Employed,completed,2026-05-14T10:44:12,field_tool,1,Neutral,1,High,5
+1961703b-c075-4aae-8c7e-108fc23a20b2,94fde7dc-92bb-475a-8a51-ce6e087466c0,survey_473,Seychelles,East Jaredfurt,Female,58,Primary,Self-employed,completed,2026-05-14T10:41:24,field_tool,5,Bad,4,Medium,2
+98958bc2-7289-4b9e-92f1-f71d596b4de6,e3a4ee2a-cbcd-4733-ada9-cc161a44bdc5,survey_696,Seychelles,Stephanieville,Female,68,Secondary,Unemployed,completed,2026-05-14T10:45:25,field_tool,4,Neutral,1,High,1
+b65b9c0a-e0b0-46bb-803f-f6f08845ac0f,6cc8017e-7014-4a84-b7df-1f77c2dcd6c7,survey_841,Seychelles,Lake Richard,Female,24,Tertiary,Unemployed,completed,2026-05-14T10:43:46,field_tool,2,Very Good,4,Medium,2
+77daae84-4ada-4c0e-adad-36b4c6aca91b,e3870d15-ed66-4eaa-9ec6-ce97aa080c87,survey_625,Seychelles,New Andrew,Female,54,Tertiary,Self-employed,completed,2026-05-14T10:44:27,field_tool,4,Neutral,4,High,2
+71e91be2-4984-4f5f-9128-cd5a46573834,aaaf12fc-db11-4ae3-9c43-1cea8e3af02f,survey_274,Seychelles,New Markberg,Male,57,Primary,Employed,completed,2026-05-14T10:42:05,field_tool,5,Neutral,5,Low,3
+21545a27-dc47-4bc4-bec5-35d39660696e,25ce7677-dd7b-4abe-9eb3-e57d0af4058f,survey_608,Seychelles,South James,Male,46,Secondary,Self-employed,completed,2026-05-14T10:42:52,field_tool,3,Very Good,3,High,1
+ef385362-6cba-46dc-a87a-0a3a70062294,d7f21d04-1664-4f3a-a632-b1a74af2fa3e,survey_872,Seychelles,West Zachary,Male,19,Tertiary,Unemployed,completed,2026-05-14T10:43:43,field_tool,3,Very Good,2,High,4
+20242fbc-e305-4302-af64-72c05b70ef7b,e46b723b-52cd-4718-a7cd-d8510d122667,survey_170,Seychelles,Frenchburgh,Male,75,Tertiary,Employed,completed,2026-05-14T10:45:28,field_tool,4,Good,4,Low,5
+9633518a-b10c-41cc-802f-393a28dcd806,444188b6-4283-46cf-ade5-c016ee794884,survey_920,Seychelles,Edwardshire,Female,55,Primary,Employed,completed,2026-05-14T10:44:14,field_tool,2,Bad,2,Medium,2
+53182aa9-d070-4ec9-89e3-9763458197c3,1df93121-841e-4ff5-8b8f-52e61fbab456,survey_671,Seychelles,Kennethton,Female,30,Tertiary,Self-employed,completed,2026-05-14T10:45:17,field_tool,2,Bad,1,High,2
+5589b2c6-688d-4caa-b6d5-81ec81e183f1,0c0974b8-02eb-4236-af9c-4a0f5da51166,survey_997,Seychelles,Christopherchester,Female,56,Tertiary,Self-employed,completed,2026-05-14T10:44:01,field_tool,5,Bad,4,Low,3
+88e56993-dca9-42d2-9d75-4a105a587614,23727264-5173-44b0-83e9-0f295f9bbfab,survey_461,Seychelles,West Victoria,Male,24,Primary,Employed,completed,2026-05-14T10:40:47,field_tool,5,Neutral,2,Medium,3
+3a190e10-6995-42d6-bcf0-01e6a661a050,dc80da86-e4e9-45a2-b403-60dc05b85866,survey_994,Seychelles,South Kristin,Female,58,Secondary,Self-employed,completed,2026-05-14T10:40:11,field_tool,1,Neutral,3,Low,1
+992a5db1-ae6a-4439-b272-9d816a1b8753,20938805-827c-4763-9494-6cfd8742f328,survey_502,Seychelles,West Sergio,Male,45,Tertiary,Unemployed,completed,2026-05-14T10:43:03,field_tool,4,Neutral,4,Medium,2
+91da76fe-3ac0-4955-ab27-e9cb96a64855,d1cc50eb-a414-426e-903a-dc05efc9e453,survey_529,Seychelles,Daniellehaven,Male,71,Primary,Employed,completed,2026-05-14T10:40:04,field_tool,2,Neutral,5,Medium,1
+1a58fbe7-5ec4-4048-a627-7295f323a602,a7b25e6e-de76-408d-b2b9-80656e447d5d,survey_316,Seychelles,Maryfurt,Female,55,Primary,Unemployed,completed,2026-05-14T10:44:06,field_tool,4,Neutral,1,High,5
+e2eb3992-8155-41d7-baf3-f3d1d48694b3,4a76232f-3cff-4648-a9bd-14280a4872e3,survey_574,Seychelles,South Andrewchester,Female,26,Secondary,Unemployed,completed,2026-05-14T10:45:15,field_tool,4,Neutral,5,High,1
+a4007b39-e277-4c97-9a90-ee8d8f24237c,f42a2e2d-b890-49de-b6e0-6e5f7025e3af,survey_213,Seychelles,Port Diane,Male,58,Secondary,Employed,completed,2026-05-14T10:40:05,field_tool,1,Bad,3,Low,1
+c85d00f3-2393-4f64-992d-24f9574eb733,f97f6305-dcc0-46a5-80c2-8d351bb74724,survey_238,Seychelles,Port Jimmyville,Female,65,Tertiary,Unemployed,completed,2026-05-14T10:42:12,field_tool,2,Bad,2,High,3
+2e33c0bc-cd69-417a-b0f1-dc6bb60e39dd,df67343d-0349-477c-9e9d-92d950ce8452,survey_902,Seychelles,Smithhaven,Female,22,Primary,Self-employed,completed,2026-05-14T10:40:57,field_tool,1,Neutral,1,Low,1
+1b1a5a59-e513-4bcd-973a-1625b999fea3,8d27880e-d44a-4172-bf31-5aff4ac53a89,survey_504,Seychelles,West Ashleyport,Male,64,Secondary,Employed,completed,2026-05-14T10:40:32,field_tool,3,Neutral,2,Medium,3
+826aaad4-515c-4625-aaac-e38fab3be9fd,c0639110-65c6-4714-9e3d-35a912a5ec0d,survey_614,Seychelles,Annettechester,Female,22,Tertiary,Self-employed,completed,2026-05-14T10:41:52,field_tool,5,Bad,4,High,5
+3a6877a1-dad1-4c09-9e4e-48bfc9b07018,de586023-9792-4849-9843-d8e0a010e2f0,survey_704,Seychelles,Desireeshire,Female,34,Tertiary,Employed,completed,2026-05-14T10:45:27,field_tool,2,Bad,5,Medium,3
+cab28ab8-459f-4d25-b38c-9c4243cca828,abae5473-f343-42d1-b80c-ed9bdae21942,survey_275,Seychelles,New Robertport,Female,45,Tertiary,Self-employed,completed,2026-05-14T10:44:38,field_tool,1,Bad,1,High,1
+5ec97da6-389d-4e31-8f39-ea893a7e75c9,5f96b100-4273-4dfb-9286-02df613891e3,survey_426,Seychelles,North Meganhaven,Female,57,Tertiary,Employed,completed,2026-05-14T10:39:56,field_tool,4,Bad,4,High,1
+e908d61d-b4f9-4458-aaad-3c6f85044032,0b8b5040-5e2e-4a96-be03-4b9d7d3c033f,survey_584,Seychelles,West Dianaborough,Female,66,Primary,Unemployed,completed,2026-05-14T10:42:05,field_tool,4,Neutral,3,High,1
+faa0f5cc-e6d6-4a00-804c-f87d55c7f419,9528b28b-23c4-411d-88b6-dfac873101b7,survey_209,Seychelles,West Annafort,Female,53,Primary,Employed,completed,2026-05-14T10:44:12,field_tool,5,Good,4,Medium,3
+7c6ef932-3083-4858-baf1-9fa05b058f7d,06921269-9670-45b1-9330-175b39dff284,survey_440,Seychelles,New Anthonyville,Male,65,Secondary,Self-employed,completed,2026-05-14T10:43:34,field_tool,4,Bad,2,Low,4
+c6c11f0b-b81b-4680-b1ed-ba526b0ef996,0664bc46-99e0-45a7-a05b-3c360898bdeb,survey_874,Seychelles,Lake Jessica,Female,28,Secondary,Employed,completed,2026-05-14T10:40:03,field_tool,3,Bad,4,Medium,5
+3d87c43d-51bf-475e-a956-e9ee9f33963a,39435643-1d5c-48a1-adbe-ed3ad2deb9cf,survey_207,Seychelles,Port Dennis,Female,40,Primary,Employed,completed,2026-05-14T10:44:10,field_tool,4,Good,3,Medium,1
+d3ed0f53-1e67-4bbf-bfa8-851b26f57ebc,165534dc-1d43-49ae-9bc8-343b03d095c7,survey_549,Seychelles,Port Kennethside,Male,64,Secondary,Self-employed,completed,2026-05-14T10:41:20,field_tool,2,Good,5,Medium,4
+47e2e909-ad20-42c1-bb18-8efe08e370dc,d07d4f22-d59c-4de1-bd01-c786769a9f4b,survey_847,Seychelles,Port Nancy,Female,65,Secondary,Self-employed,completed,2026-05-14T10:43:21,field_tool,2,Bad,1,High,4
+c73e4034-d848-4d2a-bc4a-bdb79a9ce657,b2d37c4b-eb45-4e76-b369-b250ea65314a,survey_863,Seychelles,Jonesport,Male,51,Primary,Self-employed,completed,2026-05-14T10:44:53,field_tool,5,Very Good,5,Medium,3
+d56fbe82-22ef-4686-ad02-c10a2ee62a39,ef4821a5-56e4-42f6-a66a-5272cc7d68d2,survey_224,Seychelles,Richardburgh,Female,71,Secondary,Self-employed,completed,2026-05-14T10:40:24,field_tool,3,Very Good,5,Low,1
+5dc77ad9-c452-49db-b031-6e6543a3adf3,697feaa3-003c-43fd-bee7-5902ba4c6c7e,survey_196,Seychelles,New Ambertown,Male,70,Secondary,Unemployed,completed,2026-05-14T10:41:25,field_tool,2,Bad,5,Low,2
+064898bd-5dae-46f5-9146-71b51da1c042,51b1ac6d-fd4b-4c2a-bea7-a2c58b4d1913,survey_686,Seychelles,Lake Michael,Female,45,Secondary,Employed,completed,2026-05-14T10:44:36,field_tool,2,Good,5,Low,2
+cdf69c88-8f2c-4e82-bb58-8732376dffcb,320a795c-2700-4c2a-a08f-3c6360e5528a,survey_838,Seychelles,Tiffanyfurt,Female,19,Tertiary,Unemployed,completed,2026-05-14T10:43:32,field_tool,3,Very Good,1,Medium,3
+d78d1710-a74a-4c95-9f0d-8847baed29a8,9cda4673-cae8-4c6b-9797-5fc0c036688c,survey_235,Seychelles,Leahside,Male,67,Primary,Self-employed,completed,2026-05-14T10:41:28,field_tool,3,Good,3,Low,4
+91d73529-e406-4821-b523-3eb6087c0590,21579cce-9805-4898-bf7d-fa9f70e3548a,survey_737,Seychelles,Thomaston,Male,56,Primary,Employed,completed,2026-05-14T10:42:31,field_tool,1,Bad,4,High,1
+a34c9091-10c9-4e92-a591-7d30a37300e1,ea48a559-30d7-461f-951a-b39872a71378,survey_373,Seychelles,Cruztown,Female,44,Secondary,Employed,completed,2026-05-14T10:40:59,field_tool,2,Very Good,3,Low,5
+59e5aa3e-a301-40f7-addc-4e4e7f02a3f8,5e1b00e8-5fae-4a16-8ad1-06c58f3390bb,survey_818,Seychelles,New Kathryn,Male,47,Secondary,Employed,completed,2026-05-14T10:44:05,field_tool,3,Very Good,3,High,4
+27632e46-f34d-4269-9768-0bcee07cbde7,e38213b2-2080-4223-8a48-7eca0530c9cb,survey_779,Seychelles,Lindsayland,Female,49,Secondary,Self-employed,completed,2026-05-14T10:42:12,field_tool,3,Neutral,5,Medium,5
+5c273aa8-351b-447d-be6d-f70f05955b6f,d3e1f0d5-20bb-46dd-a57a-a126135974a4,survey_829,Seychelles,Stephanietown,Male,34,Secondary,Employed,completed,2026-05-14T10:41:54,field_tool,3,Good,1,High,3
+b8575a7c-d047-49c5-b538-3739b2d6019a,e5798983-8209-41e6-aa88-bdf0dadae51a,survey_662,Seychelles,Marystad,Male,46,Secondary,Self-employed,completed,2026-05-14T10:40:42,field_tool,1,Bad,1,High,2
+6b5af805-78e4-4cdd-9da1-88e0746b8571,5d4ad631-5caa-46f8-80c1-5b601d4eeea0,survey_407,Seychelles,Drakeberg,Female,72,Primary,Self-employed,completed,2026-05-14T10:45:42,field_tool,4,Neutral,4,Medium,5
+3efd35f2-c6a5-4567-ac67-0bb1e98f517e,42303800-88f6-4d10-ba68-dba684de313c,survey_672,Seychelles,Port Alyssastad,Female,66,Secondary,Employed,completed,2026-05-14T10:43:03,field_tool,1,Good,2,High,3
+6d807fd4-6947-48b1-ad9c-94cfc48a2eda,c52a05a4-aec4-440d-889b-3400765a31d3,survey_719,Seychelles,Cummingsburgh,Male,56,Secondary,Self-employed,completed,2026-05-14T10:40:38,field_tool,4,Bad,1,Low,1
+9321572b-5d51-4241-842b-bbb3c6054f00,95de5b00-3698-4192-aaf4-7b2863245064,survey_707,Seychelles,South Michael,Male,31,Primary,Unemployed,completed,2026-05-14T10:43:55,field_tool,1,Very Good,5,High,4
+7e08e903-9a93-4e6b-b99f-be03150f01de,e0409f44-c2f2-4515-af4d-b2aec74e2aa4,survey_518,Seychelles,Susanview,Female,54,Tertiary,Unemployed,completed,2026-05-14T10:41:55,field_tool,2,Neutral,2,Low,5
+a3c7fbf6-ca42-43fc-b8d5-90921e8a0c24,0db27c49-822c-4d6b-b08e-03a6ae305cba,survey_107,Seychelles,Wallaceport,Male,24,Primary,Self-employed,completed,2026-05-14T10:41:57,field_tool,2,Neutral,4,Medium,4
+bba62643-65d7-40e1-a4f9-2e3f35f63b2f,98ee334b-4b4a-4775-9563-507b2e4b68e5,survey_214,Seychelles,Lisaton,Male,73,Tertiary,Employed,completed,2026-05-14T10:42:21,field_tool,1,Very Good,4,Low,5
+a6e8c247-40c7-49d3-8fbe-110b7d0f3531,42416446-9acb-4098-b365-bc8bac46ab9b,survey_419,Seychelles,Santiagochester,Female,25,Secondary,Self-employed,completed,2026-05-14T10:42:08,field_tool,5,Neutral,3,Low,1
+e2ed2606-0659-4c64-b54b-255841aea3ef,587e0835-192b-4581-a655-20044ede1c7e,survey_695,Seychelles,Lake Marymouth,Male,33,Tertiary,Unemployed,completed,2026-05-14T10:44:10,field_tool,1,Neutral,1,High,5
+c0c1c433-b309-4c64-8faa-ed89f39c1246,6f98dfd5-24fe-4c8e-b22d-453652f4cb79,survey_451,Seychelles,Holderstad,Male,32,Tertiary,Employed,completed,2026-05-14T10:41:12,field_tool,5,Good,4,High,3
+947d94c6-e124-437f-84fe-42862dc2041f,8e58768e-fc6a-4745-99b7-999acb56cb87,survey_268,Seychelles,Lovechester,Female,43,Primary,Self-employed,completed,2026-05-14T10:44:52,field_tool,3,Very Good,2,High,5
+b7de587f-40d3-4f6a-812f-b4621116f769,e746a5cb-4221-4548-8a1b-959fb0569ade,survey_168,Seychelles,Gabrielview,Male,43,Tertiary,Self-employed,completed,2026-05-14T10:44:50,field_tool,5,Very Good,4,Medium,1
+431f2973-08db-47a2-8724-33901370151c,fc6866d5-92ff-41fb-bbbf-946a8e6af040,survey_891,Seychelles,Cowanmouth,Male,26,Secondary,Self-employed,completed,2026-05-14T10:43:52,field_tool,3,Neutral,4,Low,4
+dae97fd5-b9f8-4c6d-9f4e-5b84ff5ca8da,105e3440-623a-4d91-893e-7da1845d196c,survey_971,Seychelles,Port Rachaelhaven,Male,52,Primary,Self-employed,completed,2026-05-14T10:41:57,field_tool,1,Good,3,Low,4
+196e6ee8-0e77-4549-929e-98be0d3fcf77,b5bcdabc-169f-4ef7-9f14-e7e0501e7a8a,survey_703,Seychelles,Port Susan,Male,20,Primary,Self-employed,completed,2026-05-14T10:39:46,field_tool,2,Very Good,4,High,4
+21b0bbe0-f925-4ddd-b0cd-115837c37c33,22168464-bf94-4336-a332-7247f68c5ddf,survey_967,Seychelles,East Andrewfort,Male,69,Tertiary,Employed,completed,2026-05-14T10:40:52,field_tool,1,Bad,5,Medium,3
+4ecf4eb6-862c-4741-befc-0f32936ccbc3,5d63c249-9bf8-4e15-b383-b76a06b5e33b,survey_740,Seychelles,Salasstad,Female,35,Secondary,Unemployed,completed,2026-05-14T10:39:59,field_tool,3,Good,3,High,4
+d07d4caa-cac9-41c3-a244-0fcced90e33f,ee434d1b-7f74-47ed-99fe-43afdb30cf76,survey_899,Seychelles,Cynthiaville,Male,66,Tertiary,Unemployed,completed,2026-05-14T10:41:57,field_tool,5,Bad,1,High,2
+7b6b9058-fedd-4fb3-b09b-2b705c0e2b35,42312994-fdfb-4c1c-ba99-c20b917dd5a5,survey_248,Seychelles,North Brandon,FEMALE,40,Secondary,Unemployed,completed,2026-05-14T10:45:23,field_tool,1,Neutral,5,Medium,5
+5121ce7b-4013-4b70-82ee-f4a74deeb82d,63ed2109-4770-4577-ad07-9963cc599b52,survey_370,Seychelles,Pattersonmouth,Male,34,Tertiary,Self-employed,completed,2026-05-14T10:43:06,field_tool,1,Good,5,Medium,4
+165f1bed-1ffb-4a24-bef9-dc5816697530,77f95f1a-f831-4f6b-ab1d-0a8908f778dd,survey_138,Seychelles,Carrillotown,Female,24,Tertiary,Employed,completed,2026-05-14T10:43:25,field_tool,1,Neutral,5,High,5
+34e7e0d5-5071-4799-959b-24da4b6fd7ac,223588d8-4af9-4910-9d77-99b9b3bc56bb,survey_828,Seychelles,Lake Deanburgh,Female,39,Secondary,Employed,completed,2026-05-14T10:45:17,field_tool,1,Neutral,1,High,2
+a5fbfbc8-8078-4f2e-9750-0d5d0d1be08d,89cbbf26-c906-41f5-9844-3922dd64336b,survey_485,Seychelles,Tamarabury,Male,65,Primary,Employed,completed,2026-05-14T10:44:28,field_tool,3,Neutral,1,Medium,2
+4b102525-be6e-4685-97b8-c6a4865237fd,b5e9bbc4-6056-4277-9fb0-7aae466eb327,survey_104,Seychelles,Annamouth,Male,38,Primary,Unemployed,completed,2026-05-14T10:44:38,field_tool,3,Good,1,Medium,2
+8dcffcea-94c5-4222-99be-06cc3f3360f1,7aee7201-4eab-4fce-a60f-d80d8d3aa887,survey_235,Seychelles,Anthonyside,Female,59,Tertiary,Self-employed,completed,2026-05-14T10:40:15,field_tool,4,Bad,2,Medium,2
+45bbbe3c-a114-4d80-b427-6a181f8407ae,f08955f9-8548-445e-a8a3-40d17bd52838,survey_359,Seychelles,East Andrewland,Female,51,Secondary,Employed,completed,2026-05-14T10:39:46,field_tool,2,Bad,5,High,5
+b0dbebaf-ce2d-4c27-91ec-1e7a378c3797,adab63fb-6381-4e61-939b-39953bc1fc31,survey_277,Seychelles,West Carolview,Female,50,Secondary,Employed,completed,2026-05-14T10:44:52,field_tool,4,Very Good,3,High,1
+7694aa3e-00d8-4eb1-bca3-8f6773ad3a68,660878b7-eebc-4c57-b0a1-fbb82ac86a47,survey_123,Seychelles,North Paulachester,Female,32,Tertiary,Unemployed,completed,2026-05-14T10:43:39,field_tool,3,Bad,4,Medium,5
+544efb5c-961c-49f9-9bb0-2e32d347ae11,72b69bf4-4281-4596-88ee-2ab77c4d4e38,survey_786,Seychelles,Clarkbury,Female,54,Tertiary,Unemployed,completed,2026-05-14T10:45:11,field_tool,3,Good,3,Low,5
+767fe113-ee17-46ba-a379-0026a1baaea7,eaf8b092-b78f-49d7-848c-64e036e1df94,survey_606,Seychelles,North Timothyton,Female,71,Secondary,Employed,completed,2026-05-14T10:40:58,field_tool,3,Bad,1,Medium,2
+49639053-c0b0-49ce-b128-5970066dc11e,90bfc9c6-2263-44c8-b796-8ea8d091d4e4,survey_137,Seychelles,West Jessica,Female,46,Secondary,Employed,completed,2026-05-14T10:44:36,field_tool,5,Neutral,5,Medium,1
+35a4035c-49fd-4114-9476-c0aae31b2f85,c6c9c0a8-279a-4574-be17-333479127753,survey_725,Seychelles,Dunnfort,Female,32,Tertiary,Self-employed,completed,2026-05-14T10:40:17,field_tool,4,Good,2,Medium,2
+cf5467f0-ce5f-4e65-b55e-c8fe34153723,50308e8c-7fad-43ad-a75b-546078f7b0fb,survey_307,Seychelles,East Lisaview,Male,69,Secondary,Unemployed,completed,2026-05-14T10:44:02,field_tool,1,Good,4,High,1
+1faecdbb-5b53-47e0-a9f2-4f0ff375bd41,1d81ce53-96c3-4be2-9995-b2773198d138,survey_742,Seychelles,North Maria,Female,28,Secondary,Employed,completed,2026-05-14T10:45:27,field_tool,5,Bad,5,High,1
+62a909d0-20d8-489f-ab19-31a7dce031cc,56e23e31-566d-4009-ad50-16211385ef00,survey_412,Seychelles,New Jason,Female,55,Secondary,Self-employed,completed,2026-05-14T10:43:42,field_tool,2,Very Good,4,High,1
+d124002b-affe-43a4-a3f9-f9bd79f997c4,2e54f7be-fccc-4cc7-9adf-15fadc58384d,survey_810,Seychelles,East Michelle,Female,28,Primary,Self-employed,completed,2026-05-14T10:42:42,field_tool,4,Very Good,5,Medium,3
+df72809d-2a73-4b0e-8a49-376507374ce8,e3a09ef1-e76b-49d4-9b7b-d9b960b50244,survey_728,Seychelles,Christophermouth,Female,75,Tertiary,Unemployed,completed,2026-05-14T10:40:46,field_tool,1,Bad,4,High,2
+7aeb8884-5121-4893-9028-9feb0978fda1,a4b7e08d-7edc-4351-a455-aee990b81c89,survey_601,Seychelles,Kimberlyview,Male,42,Secondary,Self-employed,completed,2026-05-14T10:40:32,field_tool,2,Good,4,Medium,4
+d6dbbfac-a993-4dc3-b236-9f1cb9cc0c94,7c0e62ee-6bed-41a0-808a-9280d0ce7396,survey_843,Seychelles,Williehaven,Male,34,Secondary,Self-employed,completed,2026-05-14T10:44:15,field_tool,1,Very Good,2,Medium,2
+969c3f7f-0924-4298-a650-c4adfc1bb5c2,615e27f3-464e-42f2-ba9c-97efc33bca29,survey_818,Seychelles,West Heather,Male,35,Secondary,Employed,completed,2026-05-14T10:40:10,field_tool,4,Bad,2,High,1
+3a0c9661-e25d-4eba-8585-608a8223bc1c,c4313570-9567-4ce8-9ce6-a3184add0ccb,survey_268,Seychelles,North Danielfurt,Female,24,Primary,Employed,completed,2026-05-14T10:44:02,field_tool,1,Good,3,Low,3
+5959cb9e-677a-4931-af5f-16dbce199dba,2eb0d338-0056-44d0-8ee0-320ce7723c0f,survey_446,Seychelles,East Markstad,Male,48,Tertiary,Employed,completed,2026-05-14T10:42:01,field_tool,4,Bad,4,Low,1
+13294011-0b4d-476c-a1d7-f3eb99694a05,45bbe790-0cc5-4bbc-9c1b-58d02bad643a,survey_771,Seychelles,West Kelly,Female,22,Secondary,Unemployed,completed,2026-05-14T10:43:21,field_tool,3,Bad,4,High,4
+b55d9cf6-bbe3-4ccf-9f25-bfaacd1550a7,45cfc798-05dd-49b6-a006-8367ab5b1006,survey_809,Seychelles,Davisport,Female,37,Primary,Unemployed,completed,2026-05-14T10:44:19,field_tool,5,Good,3,Medium,1
+a078729d-e703-4f28-bf4a-0db15dd90a8d,82089795-0864-4d76-aceb-e49290906abb,survey_841,Seychelles,West Melanieport,Female,29,Primary,Employed,completed,2026-05-14T10:43:37,field_tool,1,Neutral,1,High,5
+90f4f572-801e-4432-a4de-306578e65959,4c12909d-3374-4bd4-9d6f-94f596608e53,survey_220,Seychelles,Port Joel,Female,35,Tertiary,Employed,completed,2026-05-14T10:42:56,field_tool,2,Neutral,3,High,1
+f4c51707-71c1-4278-8859-4c6d187480cc,0a5ce404-6791-4ce7-ac28-76b864b7fffe,survey_917,Seychelles,Matthewberg,Female,24,Secondary,Employed,completed,2026-05-14T10:41:42,field_tool,1,Very Good,5,Medium,2
+ea24f58a-bfb8-48fa-9b8f-3f6fee8b1495,ba759cef-fe79-4c48-b820-a9d56b51f141,survey_596,Seychelles,East Rebecca,Male,28,Primary,Self-employed,completed,2026-05-14T10:41:06,field_tool,5,Bad,4,Medium,3
+4aa6c252-5da1-4a53-bac2-5043e92cd546,dbee73e7-0961-42e7-aa16-222fc3df28ae,survey_290,Seychelles,Alexanderstad,Male,59,Primary,Self-employed,completed,2026-05-14T10:44:18,field_tool,3,Very Good,3,High,2
+0d79dcb7-0a12-4f0d-865b-355cb45d9c7d,8ee5e16c-fbc6-476c-a680-9db90fba62e3,survey_913,Seychelles,Ronnieside,Male,21,Secondary,Self-employed,completed,2026-05-14T10:41:23,field_tool,3,Very Good,3,Low,4
+3a238e44-730f-4d84-b0ef-e473f63e15cf,e9a20dec-cb44-4e0a-87fb-54dbe5cac5ab,survey_942,Seychelles,Jerryside,Female,21,Primary,Self-employed,completed,2026-05-14T10:45:01,field_tool,1,Good,4,High,2
+8f5a3486-e7c6-4e49-b449-7b2321b8a842,96a335dd-048e-42de-95d2-d5c44f583627,survey_523,Seychelles,Hendersonville,Male,69,Tertiary,Unemployed,completed,2026-05-14T10:44:53,field_tool,5,Neutral,1,High,5
+8602e71e-98da-4ab3-9c2c-9a3ce24c5705,46f83d04-6357-43a5-b708-7a9588e09562,survey_548,Seychelles,Harringtonchester,Female,36,Tertiary,Unemployed,completed,2026-05-14T10:43:26,field_tool,4,Neutral,3,Medium,4
+5ea031d0-92c7-4d4f-ac73-146cc99f6dd0,3300a49d-c59a-42f9-9187-29d1500674e0,survey_906,Seychelles,Ethanbury,Male,74,Tertiary,Employed,completed,2026-05-14T10:44:11,field_tool,2,Neutral,2,Medium,1
+80b79bdc-01d3-4da0-bf13-887017a826e0,1988ab02-b6e4-4570-bb7b-1b5b5d441620,survey_605,Seychelles,North Deborah,Female,29,Secondary,Employed,completed,2026-05-14T10:41:06,field_tool,5,Bad,1,High,1
+b419b16a-847d-40e9-b297-dacfee8dfcbd,0170033b-e173-4241-bc3a-64e2aab88322,survey_311,Seychelles,North Ashleybury,Male,27,Secondary,Self-employed,completed,2026-05-14T10:42:37,field_tool,5,Bad,3,Medium,1
+fbbb09db-35a0-4066-8b0b-197f81243530,a8276f6a-7c3d-4297-bce7-e2da71ed69fd,survey_772,Seychelles,New Jesse,Female,22,Primary,Unemployed,completed,2026-05-14T10:41:19,field_tool,4,Bad,5,Medium,2
+581a3cda-dc69-44d3-851b-4bde0fcfe8f6,09fa7e20-ae2a-4eee-8366-1ca05efe3ae5,survey_650,Seychelles,Port Mariaburgh,Female,37,Tertiary,Employed,completed,2026-05-14T10:41:04,field_tool,5,Very Good,2,Medium,1
+3e6fc346-b3bb-4158-a633-aaf0906ce2a6,1840f890-f32d-414f-a8c8-20a379a39c21,survey_464,Seychelles,Huangfort,Male,58,Primary,Unemployed,completed,2026-05-14T10:45:14,field_tool,5,Neutral,4,Medium,5
+1835c46f-d5af-431b-84ec-d29e05305750,399150ce-0367-4da4-ab5a-69dcb91b2899,survey_598,Seychelles,North Markborough,Female,19,Secondary,Unemployed,completed,2026-05-14T10:43:57,field_tool,1,Bad,2,Low,2
+4d3e2838-eff0-4a68-afde-3b42317e690e,08e30491-8774-4291-84ef-abd91e29ded2,survey_146,Seychelles,North Nancy,Female,41,Secondary,Self-employed,completed,2026-05-14T10:41:50,field_tool,1,Very Good,1,High,5
+c1ba8f35-b14d-4e76-b0c4-90c3357ea648,7511d510-f0b7-4e04-b195-3b79a83bf521,survey_941,Seychelles,Rogersland,Female,46,Primary,Unemployed,completed,2026-05-14T10:41:03,field_tool,2,Bad,1,Low,4
+74bcf1f4-0c89-4106-98ee-0d5c3839b40a,7264878a-d4b5-46b2-8695-e29a87312c35,survey_918,Seychelles,Johnland,Male,22,Primary,Unemployed,completed,2026-05-14T10:42:50,field_tool,4,Good,4,High,4
+5b08c8cc-f705-499e-b521-620660751e19,149fb8b7-245b-43e5-a008-f03ebfc86e2a,survey_550,Seychelles,Hamiltonview,Male,74,Primary,Unemployed,completed,2026-05-14T10:42:10,field_tool,2,Bad,1,High,1
+7ff21349-aa1b-4ec9-8e4c-e05d436dc143,02e1f469-bc90-4ee5-9699-ff36d7289d1a,survey_326,Seychelles,Nunezburgh,Male,72,Tertiary,Unemployed,completed,2026-05-14T10:40:22,field_tool,4,Very Good,4,Medium,5
+f507fd45-ac4b-486c-b54d-1c1811d0867d,84ced408-7fa9-4ef5-844b-864b7a241d85,survey_975,Seychelles,North Brandon,Female,62,Secondary,Unemployed,completed,2026-05-14T10:43:45,field_tool,4,Good,5,High,1
+bfcb9eb3-b62e-4a22-971c-38aee16161d4,55cfe71a-cdfd-461d-abdd-896d5b07045f,survey_538,Seychelles,Richardsonhaven,Female,28,Tertiary,Unemployed,completed,2026-05-14T10:41:21,field_tool,3,Good,5,Medium,5
+808d27eb-0713-45a0-b9b8-5e0c5af0b3ea,9af4ddab-48a5-485b-af69-3c1361490d33,survey_496,Seychelles,New Jennifer,Female,42,Primary,Employed,completed,2026-05-14T10:43:07,field_tool,5,Bad,1,Low,1
+152dbb64-a8e8-44a3-b489-e3644679665e,c046a1d0-e075-46ca-a71c-095cd1afab6c,survey_859,Seychelles,North Melissabury,Male,30,Tertiary,Self-employed,completed,2026-05-14T10:39:48,field_tool,1,Bad,4,Medium,4
+64fb9178-d527-496e-9180-aa28d7d8443b,cde6931d-7b18-4d45-abf4-a80a0473688b,survey_968,Seychelles,North Angelica,Male,54,Tertiary,Self-employed,completed,2026-05-14T10:41:11,field_tool,1,Bad,3,High,5
+1f83e665-d3b2-4068-8503-2ec66eb05a49,58174a8d-b087-42da-a502-b5b7c267206e,survey_438,Seychelles,Lake Maria,Male,64,Secondary,Self-employed,completed,2026-05-14T10:41:40,field_tool,4,Very Good,4,Low,3
+e575dd93-70ca-4d9b-9ecc-9b60403d215c,eae2bc7c-1d88-4763-a948-b6418ae5e91d,survey_708,Seychelles,North Amyside,Male,42,Secondary,Employed,completed,2026-05-14T10:43:13,field_tool,1,Very Good,1,Medium,2
+a998503e-733f-4dc4-a447-6ae2d4d399f3,fb2ee0f1-4958-45c8-96a0-d65dc2519057,survey_975,Seychelles,New Paula,Female,62,Secondary,Self-employed,completed,2026-05-14T10:45:25,field_tool,2,Good,4,Medium,5
+d76ba3fb-fed4-4df2-a0f1-658db8cb90b6,143f5582-2ca4-437e-bba9-6d7fce587744,survey_335,Seychelles,Stevenshire,Male,25,Secondary,Self-employed,completed,2026-05-14T10:41:40,field_tool,3,Bad,5,Low,1
+5a5b8867-d558-4813-a52e-94e55208e7e6,411797ef-53c6-4781-b9c9-f671fa778b83,survey_614,Seychelles,Darrenfort,Female,56,Secondary,Unemployed,completed,2026-05-14T10:42:54,field_tool,1,Bad,5,Medium,2
+552b8bd3-c6bd-48ea-8d0b-ef34ec9feaa7,babe2dd2-781f-45f0-be18-4cd38427659a,survey_365,Seychelles,Ortegachester,Male,34,Tertiary,Self-employed,completed,2026-05-14T10:45:19,field_tool,2,Bad,4,Low,1
+a84ee416-76da-46b8-8078-ff16a173c4e4,7b3b9c04-fef4-4950-86ac-b8df971b12b3,survey_479,Seychelles,Stokesside,Female,50,Tertiary,Self-employed,completed,2026-05-14T10:43:32,field_tool,2,Bad,1,Low,3
+c2af1189-d66c-4986-be34-fd1abb61fc4c,96eaab86-9c46-460b-8f20-044fe4c2702c,survey_370,Seychelles,West Joseph,Female,60,Tertiary,Employed,completed,2026-05-14T10:41:06,field_tool,4,Good,2,Medium,5
+0ff9a86e-2635-46d4-9abe-d699d965508e,e5349e9a-6c9f-404d-a7b6-382673d6730b,survey_528,Seychelles,New Jason,Female,45,Secondary,Unemployed,completed,2026-05-14T10:43:41,field_tool,4,Very Good,1,High,3
+7d232386-fcab-456d-837d-6fc92e4e191e,780bb531-a23c-4ea3-a270-af49ebd31c21,survey_721,Seychelles,South Sergioberg,Female,49,Secondary,Employed,completed,2026-05-14T10:41:47,field_tool,1,Very Good,5,Low,2
+aff7d16c-253d-4efc-b462-13562ffdd6c0,ff0bcde0-ab2b-45ea-88e9-cc0ca913c5e7,survey_965,Seychelles,Jordanport,Male,62,Tertiary,Self-employed,completed,2026-05-14T10:40:38,field_tool,4,Good,3,Low,3
+3f71ed51-bc4f-4524-a7e5-ac9e3a68843b,0971b806-2f9b-4f17-b5f5-5bee6cd9a2b3,survey_154,Seychelles,North Michael,Male,37,Secondary,Employed,completed,2026-05-14T10:44:41,field_tool,4,Neutral,2,Medium,2
+f4e475ab-868d-4af6-bd3c-7641a806aa6a,774ab280-d8b2-4984-9443-335c1fb7e791,survey_877,Seychelles,North Larry,Male,33,Tertiary,Self-employed,completed,2026-05-14T10:41:20,field_tool,1,Good,2,Medium,1
+97e53220-bd57-4377-911d-5d4b728cc744,657f9fde-9b4f-4e39-9b05-0b5e07e3b147,survey_857,Seychelles,South Andrewstad,Male,75,Primary,Self-employed,completed,2026-05-14T10:39:57,field_tool,5,Very Good,1,Medium,3
+6bc00f47-7ada-4f10-bd60-247e87ae2eb4,3f3c0274-06e5-495f-ae91-b3485c824072,survey_483,Seychelles,Christopherhaven,Male,51,Primary,Employed,completed,2026-05-14T10:41:28,field_tool,4,Bad,3,Medium,4
+c7b4b823-b6a2-4dbc-a6d9-aba631d13822,66903a8e-b4da-41c6-82ad-dbd9fa3c59b6,survey_147,Seychelles,West Elizabethtown,Male,35,Tertiary,Self-employed,completed,2026-05-14T10:39:53,field_tool,3,Good,3,Low,1
+55d4f702-52d5-4e67-9d59-f374015becff,c1159f0f-91cb-404a-9bbe-8d0a8f49d38d,survey_368,Seychelles,East Diana,Female,45,Tertiary,Employed,completed,2026-05-14T10:44:23,field_tool,3,Good,1,High,3
+60e056c4-cecc-4469-9e7a-1ddd92ff9f38,d2ecd422-2528-4c7e-be27-d8c2c112c43f,survey_460,Seychelles,North Richardstad,Female,52,Primary,Self-employed,completed,2026-05-14T10:43:01,field_tool,1,Neutral,4,Low,2
+41848e97-5636-4f36-b974-91450c4ae84e,518a13df-460b-4fc4-aacb-b9654cf76aac,survey_847,Seychelles,New Shawnbury,Male,50,Tertiary,Unemployed,completed,2026-05-14T10:44:32,field_tool,5,Bad,5,Medium,4
+452e58e2-efc2-4a46-af69-5ee478f9656d,254d5aa1-c2c6-44cd-9a1b-8f316606ce7d,survey_497,Seychelles,Garrettberg,Female,50,Primary,Self-employed,completed,2026-05-14T10:45:14,field_tool,4,Good,5,Medium,5
+a5a446c3-c152-45f4-986b-a4186d757614,19e8970f-6ffc-453b-acca-345db816a369,survey_623,Seychelles,Kimbury,Male,35,Tertiary,Self-employed,completed,2026-05-14T10:43:07,field_tool,1,Neutral,2,Medium,5
+41461a00-cdd9-4ef7-bad7-e87bdd325677,5e027604-0b2f-4ae5-a936-23f2c45628bf,survey_339,Seychelles,New Katrina,Female,55,Tertiary,Employed,completed,2026-05-14T10:44:43,field_tool,3,Very Good,4,Medium,5
+285ffad8-bda7-4e45-93ef-3e65e35f7806,2a90d49b-511d-4d36-8128-d57a47c523c4,survey_781,Seychelles,Christinatown,Male,49,Tertiary,Unemployed,completed,2026-05-14T10:45:11,field_tool,4,Good,4,Medium,3
+1b209bbb-8e7d-4c7d-b08e-5f122c85bd9b,b83ab9ea-4ad7-4979-9c67-56f852b99c08,survey_642,Seychelles,East Eugenemouth,Male,45,Tertiary,Employed,completed,2026-05-14T10:40:30,field_tool,1,Good,3,Medium,3
+931b79eb-297c-4084-8782-3c0737fb17c3,f499524e-5e2b-4a58-bdf1-97d95b4befbe,survey_699,Seychelles,Larsonbury,Male,50,Primary,Employed,completed,2026-05-14T10:44:55,field_tool,3,Good,4,Low,1
+155848c0-f7c9-4120-9062-88789ab4d98f,f79ff916-bb15-46cf-8c71-c192b23f2795,survey_203,Seychelles,Denisestad,Female,27,Primary,Employed,completed,2026-05-14T10:44:53,field_tool,4,Good,4,Low,3
+72c699fe-9a0d-4867-8234-f84a2dc4c215,a0077e61-8c02-432a-a055-7672cd0b1d91,survey_323,Seychelles,Lake Marcville,Male,31,Primary,Self-employed,completed,2026-05-14T10:42:27,field_tool,3,Good,1,High,1
+1c83f36d-9d45-4a28-8335-01979427c8df,cfc17e1b-78d1-41e5-8f98-629ff8d96e97,survey_916,Seychelles,South Patricia,Female,65,Primary,Unemployed,completed,2026-05-14T10:41:21,field_tool,1,Bad,3,Medium,1

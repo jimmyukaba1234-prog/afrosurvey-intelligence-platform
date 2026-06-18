@@ -1,0 +1,32 @@
+dataset: pipeline_runtime_gold
+version: "1.0.0"
+description: "Pipeline runtime monitoring metrics"
+
+fields:
+  pipeline_name:
+    type: string
+    required: true
+
+  execution_date:
+    type: timestamp
+    required: true
+
+  runtime_seconds:
+    type: double
+    required: true
+
+  runtime_minutes:
+    type: double
+    required: true
+
+  status:
+    type: string
+    required: true
+
+  records_processed:
+    type: long
+    required: false
+
+  gold_processed_at:
+    type: timestamp
+    required: true

@@ -82,3 +82,22 @@ Data flows through the following stages:
 5. **Gold Layer** — Aggregated analytics tables are created for reporting and dashboards.
 6. **Serving Layer** — Streamlit dashboards and automated reports consume Gold datasets.
 7. **Monitoring Layer** — Airflow, pipeline logs, and platform metrics track performance and reliability.
+
+## Technology Stack
+
+| Layer | Technology |
+|---|---|
+| Programming Language | Python |
+| Data Processing | PySpark, Pandas |
+| Workflow Orchestration | Apache Airflow |
+| Object Storage | MinIO |
+| Database | PostgreSQL |
+| Dashboard & Visualization | Streamlit, Plotly |
+| Reporting | PDF generation, Email reporting |
+| Containerization | Docker, Docker Compose |
+| Data Contracts | YAML |
+| Version Control | Git, GitHub |
+| Development Environment | VS Code, DBeaver |
+
+
+

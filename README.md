@@ -295,7 +295,7 @@ The dashboard enables users to monitor survey participation, coverage, governanc
 
 ### Dashboard Overview
 
-<img src="images/MAP.png" width="1000">
+<img src="images/D1.png" width="1000">
 
 ### Key Performance Indicators
 

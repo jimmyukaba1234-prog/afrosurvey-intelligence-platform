@@ -69,7 +69,9 @@ AfroSurvey Intelligence Platform addresses these challenges by implementing a sc
 
 ## Architecture
 
-<img src="images/ARCHE.png" width="1000">
+<img src="images/ACTR.png" width="1000">
+
+
 
 The platform follows a layered lakehouse architecture that separates raw ingestion, cleaned datasets, business-ready analytics, and reporting outputs.
 

@@ -1,13 +1,30 @@
-# afrosurvey-intelligence-platform
+# AfroSurvey Intelligence Platform
 
-## Overview
+### Production-Style Data Lakehouse & Analytics Platform for Multi-Country African Survey Data
 
-The AfroSurvey Data Platform is a modern data engineering system designed to process multi-country survey data across Africa. The platform automates the ingestion, cleaning, validation, transformation, and delivery of survey data so that analysts and stakeholders can access reliable insights faster.
+<img src="images/MAP.png" width="1000">
 
-The platform follows a **Medallion Architecture** approach using a **Data Lake** design pattern:
+AfroSurvey Intelligence Platform is an end-to-end Data Engineering solution designed to ingest, validate, transform, monitor, and analyze survey data collected across multiple African countries.
 
-- **Bronze Layer** → Raw Data
-- **Silver Layer** → Cleaned & Standardized Data
-- **Gold Layer** → Analytics-Ready Data
+Built using modern data engineering principles, the platform implements a Bronze → Silver → Gold lakehouse architecture with automated orchestration, data quality monitoring, business analytics dashboards, and automated reporting capabilities.
 
-The system combines scalable storage, distributed data processing, orchestration, operational monitoring, and analytics delivery into a unified data platform.
+### Key Features
+
+* Multi-source data ingestion (CSV, APIs, Database Sources)
+* Bronze → Silver → Gold Data Lakehouse Architecture
+* Data Validation & Quality Monitoring Framework
+* Automated Workflow Orchestration with Apache Airflow
+* S3-Compatible Object Storage with MinIO
+* PySpark-Based Data Transformation Pipelines
+* Business Analytics Dashboard
+* Platform Monitoring Dashboard
+* Automated PDF & Executive Reporting
+* Containerized Deployment with Docker
+
+### Project Highlights
+
+* 39 African Countries Analyzed
+* Automated End-to-End Data Pipeline
+* Data Quality & Reliability Monitoring
+* Business Intelligence & Civic Perception Analytics
+* Production-Style Data Engineering Architecture

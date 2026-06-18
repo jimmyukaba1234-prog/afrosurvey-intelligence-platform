@@ -106,7 +106,6 @@ Data flows through the following stages:
 
 The repository is organized into clear layers that reflect the platform’s data engineering workflow, from ingestion and transformation to analytics, monitoring, and reporting.
 
-```text
 afrosurvey-intelligence-platform/
 │
 ├── airflow/                 # Airflow DAGs for orchestration
@@ -131,7 +130,6 @@ afrosurvey-intelligence-platform/
 
 This is where you add **Docker, MinIO, and Airflow screenshots**.
 
-```markdown
 ## Infrastructure
 
 The platform runs on a containerized local data engineering environment using Docker Compose. The infrastructure includes object storage, metadata storage, orchestration, processing, and dashboard components.
@@ -140,16 +138,16 @@ The platform runs on a containerized local data engineering environment using Do
 
 Docker Compose is used to run the core platform services required for local development and testing.
 
-<img src="images/docker-containers.png" width="1000">
+<img src="images/DOCKER.png" width="1000">
 
 ### MinIO Object Storage
 
 MinIO acts as an S3-compatible object storage layer for the data lakehouse. It stores raw, cleaned, and business-ready datasets across Bronze, Silver, and Gold zones.
 
-<img src="images/minio-buckets.png" width="1000">
+<img src="images/MINIO(s3).png" width="1000">
 
 ### Apache Airflow Orchestration
 
 Apache Airflow orchestrates the pipeline workflows, including ingestion checks, transformation jobs, and pipeline monitoring tasks.
 
-<img src="images/airflow-dag.png" width="1000">
+<img src="images/AIRFLOW.png" width="1000">
